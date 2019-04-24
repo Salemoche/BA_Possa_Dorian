@@ -1,0 +1,85 @@
+var data = 
+[
+    {
+      "Profil_": "SP",
+      "Position_": "1",
+      "Datum_": "3/18/2019",
+      "Uhrzeit_": "13:45",
+      "Thema_": "Kantonsrat",
+      "Gesinnung_": "Links",
+      "Verl�sslichkeit_": "Reisserisch",
+      "Art_": "Partei",
+      "Aufbau_": "Post-Artikel",
+      "Medium_": "Text-Bild",
+      "Bodytext_": "*pn*Gr�ne Z�rich*/pn*\n\n*pd*18.03.19*/pd*\n\n*pb*�Vor ihm haben unsere Eltern uns immer gewarnt�, schreibt der�Tages-Anzeiger��ber unseren Kantonsrat R�bi Brunner!�Rafa Ella Roth�vom startet ihren neuen Tagi-Videotalk �Hobbyruum�.�#Klimawahl2019*/pb*\n\n*ab*Tagesanzeiger*/ab*\n\n*ad*15.03.19*/ad*\n\n*aa*Rafaela Roth*/aa*\n\n*at*Vor ihm haben unsere Eltern uns immer gewarnt*/at*\n\n*al*Rafaela Roth trifft auf den Charmebolzen der Gr�nen: Robert �R�bi� Brunner. Start des Tagi-Videotalks �Hobbyruum�.*/al*\n\n*ab*Am 24. M�rz w�hlt der Kanton Z�rich eine neue Regierung. Bis dahin schnappt sich die Z�ri-Redaktorin Rafaela Roth ein paar potenzielle Kandidierende f�r eine kleine Bastel-Challenge. Dies ist der neue �Hobbyruum�, ein Videotalk, in welchem wir nicht nur �ber Politik sprechen, aber auch. Sehen Sie jetzt Folge 1 - heute mit dem Kantonsrat der Gr�nen: Robert �R�bi� Brunner.*/ab*",
+      "LinkText_": "https://www.tagesanzeiger.ch/zuerich/region/vor-ihm-haben-unsere-eltern-uns-immer-gewarnt/story/29250246?fbclid=%20a-W0xm7rwdCcTAy96QSjQgLH5-QDSB0",
+      "LinkBild_": "DS_A_26-03-19",
+      "Bildunterschriften_": "Robert Brunners Lieblingsdroge?: �Rotwein! Drogen machen eine weiche Birne.�.Video: Lea Blum, Sarah Fluck"
+    },
+    {
+      "Profil_": "DD",
+      "Position_": "2",
+      "Datum_": "3/18/2019",
+      "Uhrzeit_": "16:04",
+      "Thema_": "Demonstration",
+      "Gesinnung_": "Rechts",
+      "Verl�sslichkeit_": "Reisserisch",
+      "Art_": "Privat Person",
+      "Aufbau_": "Re-Post-Artikel",
+      "Medium_": "Text-Bild",
+      "Bodytext_": "*pn*Erich Hess*/pn*\n\n*pd*18.03.2019*/pd*\n\n*pt*Das ist typisch f�r den rot - gr�nen Filz in der Stadt Bern!*/pt*\n\n*rn*TeleB�rn*/rn*\n\n*rd*18.03.2019*/rd*\n\n*rt*Klima-Aktivisten d�rfen trotz Kundgebungs-Verbot demonstrieren:*/rt*\n\n*an*TeleB�rn News*/an*\n\n*ad*17.03.2019*/ad*\n\n*at*�Eine absolute Sauerei!� Erich Hess �rgert sich �ber Kundgebungs-Erlaubnis der Klima-Aktivisten*/at*\n\n*ab* Grunds�tzlich gilt zwei Wochen vor den eidgen�ssischen Wahlen ein Kundgebungs-Verbot. Klimaschutz-Aktivisten planen jedoch kurz vorher erneut eine Demo � und das sogar mit Erlaubnis. */ab*",
+      "LinkText_": "https://www.telebaern.tv/telebaern-news/eine-absolute-sauerei-erich-hess-aergert-sich-ueber-kundgebungs-erlaubnis-der-klima-aktivisten-134221166?utm_source=shared-twitter&fbclid=IwAR2DMQycuNK_OiDkvaLpp2KcAg2gwONaauP0IR5cthGdnTE8k8lSELatxvU",
+      "LinkBild_": "Bildschirmfoto 2019-03-18 um 15.05.09",
+      "Bildunterschriften_": ""
+    },
+    {
+        "Profil_": "SP",
+        "Position_": "3",
+        "Datum_": "3/18/2019",
+        "Uhrzeit_": "13:45",
+        "Thema_": "Kantonsrat",
+        "Gesinnung_": "Links",
+        "Verl�sslichkeit_": "Reisserisch",
+        "Art_": "Partei",
+        "Aufbau_": "Post-Artikel",
+        "Medium_": "Text-Bild",
+        "Bodytext_": "*pn*Gr�ne Z�rich*/pn*\n\n*pd*18.03.19*/pd*\n\n*pb*�Vor ihm haben unsere Eltern uns immer gewarnt�, schreibt der�Tages-Anzeiger��ber unseren Kantonsrat R�bi Brunner!�Rafa Ella Roth�vom startet ihren neuen Tagi-Videotalk �Hobbyruum�.�#Klimawahl2019*/pb*\n\n*ab*Tagesanzeiger*/ab*\n\n*ad*15.03.19*/ad*\n\n*aa*Rafaela Roth*/aa*\n\n*at*Vor ihm haben unsere Eltern uns immer gewarnt*/at*\n\n*al*Rafaela Roth trifft auf den Charmebolzen der Gr�nen: Robert �R�bi� Brunner. Start des Tagi-Videotalks �Hobbyruum�.*/al*\n\n*ab*Am 24. M�rz w�hlt der Kanton Z�rich eine neue Regierung. Bis dahin schnappt sich die Z�ri-Redaktorin Rafaela Roth ein paar potenzielle Kandidierende f�r eine kleine Bastel-Challenge. Dies ist der neue �Hobbyruum�, ein Videotalk, in welchem wir nicht nur �ber Politik sprechen, aber auch. Sehen Sie jetzt Folge 1 - heute mit dem Kantonsrat der Gr�nen: Robert �R�bi� Brunner.*/ab*",
+        "LinkText_": "https://www.tagesanzeiger.ch/zuerich/region/vor-ihm-haben-unsere-eltern-uns-immer-gewarnt/story/29250246?fbclid=%20a-W0xm7rwdCcTAy96QSjQgLH5-QDSB0",
+        "LinkBild_": "Bildschirmfoto 2019-03-18 um 14.04.07",
+        "Bildunterschriften_": "Robert Brunners Lieblingsdroge?: �Rotwein! Drogen machen eine weiche Birne.�.Video: Lea Blum, Sarah Fluck"
+    },
+    {
+      "Profil_": "DD",
+      "Position_": "4",
+      "Datum_": "3/18/2019",
+      "Uhrzeit_": "16:04",
+      "Thema_": "Demonstration",
+      "Gesinnung_": "Rechts",
+      "Verl�sslichkeit_": "Reisserisch",
+      "Art_": "Privat Person",
+      "Aufbau_": "Re-Post-Artikel",
+      "Medium_": "Text-Bild",
+      "Bodytext_": "*pn*Erich Hess*/pn*\n\n*pd*18.03.2019*/pd*\n\n*pt*Das ist typisch f�r den rot - gr�nen Filz in der Stadt Bern!*/pt*\n\n*rn*TeleB�rn*/rn*\n\n*rd*18.03.2019*/rd*\n\n*rt*Klima-Aktivisten d�rfen trotz Kundgebungs-Verbot demonstrieren:*/rt*\n\n*an*TeleB�rn News*/an*\n\n*ad*17.03.2019*/ad*\n\n*at*�Eine absolute Sauerei!� Erich Hess �rgert sich �ber Kundgebungs-Erlaubnis der Klima-Aktivisten*/at*\n\n*ab* Grunds�tzlich gilt zwei Wochen vor den eidgen�ssischen Wahlen ein Kundgebungs-Verbot. Klimaschutz-Aktivisten planen jedoch kurz vorher erneut eine Demo � und das sogar mit Erlaubnis. */ab*",
+      "LinkText_": "https://www.telebaern.tv/telebaern-news/eine-absolute-sauerei-erich-hess-aergert-sich-ueber-kundgebungs-erlaubnis-der-klima-aktivisten-134221166?utm_source=shared-twitter&fbclid=IwAR2DMQycuNK_OiDkvaLpp2KcAg2gwONaauP0IR5cthGdnTE8k8lSELatxvU",
+      "LinkBild_": "Bildschirmfoto 2019-03-18 um 15.05.09",
+      "Bildunterschriften_": ""
+    },
+    {
+      "Profil_": "DD",
+      "Position_": "5",
+      "Datum_": "3/18/2019",
+      "Uhrzeit_": "16:04",
+      "Thema_": "Demonstration",
+      "Gesinnung_": "Rechts",
+      "Verl�sslichkeit_": "Reisserisch",
+      "Art_": "Privat Person",
+      "Aufbau_": "Re-Post-Artikel",
+      "Medium_": "Text-Bild",
+      "Bodytext_": "*pn*Erich Hess*/pn*\n\n*pd*18.03.2019*/pd*\n\n*pt*Das ist typisch f�r den rot - gr�nen Filz in der Stadt Bern!*/pt*\n\n*rn*TeleB�rn*/rn*\n\n*rd*18.03.2019*/rd*\n\n*rt*Klima-Aktivisten d�rfen trotz Kundgebungs-Verbot demonstrieren:*/rt*\n\n*an*TeleB�rn News*/an*\n\n*ad*17.03.2019*/ad*\n\n*at*�Eine absolute Sauerei!� Erich Hess �rgert sich �ber Kundgebungs-Erlaubnis der Klima-Aktivisten*/at*\n\n*ab* Grunds�tzlich gilt zwei Wochen vor den eidgen�ssischen Wahlen ein Kundgebungs-Verbot. Klimaschutz-Aktivisten planen jedoch kurz vorher erneut eine Demo � und das sogar mit Erlaubnis. */ab*",
+      "LinkText_": "https://www.telebaern.tv/telebaern-news/eine-absolute-sauerei-erich-hess-aergert-sich-ueber-kundgebungs-erlaubnis-der-klima-aktivisten-134221166?utm_source=shared-twitter&fbclid=IwAR2DMQycuNK_OiDkvaLpp2KcAg2gwONaauP0IR5cthGdnTE8k8lSELatxvU",
+      "LinkBild_": "Bildschirmfoto 2019-03-18 um 15.05.09",
+      "Bildunterschriften_": ""
+    }
+]
+
+module.exports = {data};
