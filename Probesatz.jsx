@@ -15,6 +15,29 @@ var data =
         "Art_": "Zeitung",
         "Aufbau_": "Post-Artikel",
         "Medium_": "Text-Bild",
+        "Bodytext_": "*pn*NZZ Neue Zürcher Zeitung*/pn*\n\n*pd*26-03-19*/pd*\n\n*pb*Manche Nazi-Kollaborateure bekommen monatlich eine Zusatzrente im dreistelligen Bereich aus Deutschland überwiesen. Insgesamt haben rund 2000 im Ausland lebende Menschen Anspruch auf diese Leistungen.\nDer Zentralrat der Juden will das nicht hinnehmen.*/pb*\n\n*an*Neue Zürcher Zeitung*/an*\n\n*ad*26-03-19*/ad*\n\n*aa*Jonas Hermann*/aa*\n\n*at*Rente für ehemalige SS-Soldaten: Zentralrat der Juden spricht von «unerträglichem Zustand»*/at*\n\n*al*Der deutsche Staat unterstützt im Ausland lebende Nazi-Kollaborateure mit monatlichen Zahlungen, falls sie im Krieg verwundet wurden. Zentralratspräsident Schuster fordert nun, die Rentenansprüche zu prüfen.*/al*\n\n*ab*Manche Nazi-Kollaborateure bekommen monatlich eine Zusatzrente im dreistelligen Bereich aus Deutschland überwiesen. Insgesamt haben rund 2000 im Ausland lebende Menschen Anspruch auf Leistungen nach dem sogenannten Bundesversorgungsgesetz. Es wurde im Jahr 1950 verabschiedet, um Kriegsgeschädigte zu unterstützen. Dabei kann es sich um Zivilisten handeln, aber auch um ehemalige Wehrmachtssoldaten und Angehörige der Waffen-SS. Deren Verbände waren im Zweiten Weltkrieg als eine Art Elitetruppe der Wehrmacht im Einsatz. Die Waffen-SS ist für viele Greueltaten verantwortlich, ausserdem war sie am Holocaust beteiligt. Kurz nach Kriegsende wurde sie in Deutschland verboten.*/ab*\n*ab*Während des Krieges schlossen sich auch Ausländer der SS an. In von Deutschland besetzten Ländern, wie Belgien oder Lettland, kämpften sie als Freiwillige in der Waffen-SS. Der Historiker Martin Göllnitz sagte der Deutschen Welle, auch den ausländischen SS-Mitgliedern hätten die Nazis eine Rentenversicherung garantiert. Mehrere deutsche Medien berichteten, die bis heute gezahlte Rente gehe auf einen «Führererlass» von Adolf Hitler zurück. Das für die Renten zuständige Arbeitsministerium dementiert dies. Der NZZ sagte eine Sprecherin: «‹Führererlasse› haben für das Bundesversorgungsgesetz überhaupt keine Bedeutung.» Laut der Sprecherin werden die Renten nicht für den Dienst in der Wehrmacht oder der Waffen-SS an sich gezahlt. Anspruch darauf hätten nur Menschen, die während dieses Dienstes verwundet wurden. Im März habe das Arbeitsministerium an 2000 im Ausland lebende Berechtigte rund 778 000 Euro überwiesen.*/ab*\n\n*au*49 Empfänger in der Schweiz*/au*\n*ab*In der Schweiz beziehen offenbar 49 Menschen diese Rente, in Belgien soll es sich um 18 Personen handeln. Keiner der belgischen Empfänger ist laut dem Arbeitsministerium bei der Waffen-SS gewesen. Der Historiker Alvin De Coninck bezweifelt dies und wird von drei Abgeordneten des belgischen Parlaments unterstützt. Bereits vor drei Jahren forderten sie die deutschen Behörden auf, die Namen der Rentenempfänger herauszugeben. Auch deshalb, weil diese die Beträge wohl steuerfrei beziehen.*/ab*",
+        "LinkText_": "https://www.nzz.ch/international/deutschland/warum-zahlt-deutschland-ss-soldaten-rente-ld.1470083?fbclid=IwAR0gyxhVDNNUmHvcQyZBO-VPHAAfh3_kcB7WY8LTlQycb2LAWsBfKXE_AyE",
+        "LinkBild_": "RH_A_26-03-19",
+        "Bildname_": "P2-001",
+        "Bildunterschriften_": "Junge Angehörige der Waffen-SS werden im Norden Frankreichs von den Amerikanern gefangen genommen (Anfang September 1944). (Bild: Imago)",
+        "VorschlägeNamen_": "MySports – Home of Sports\nAdieu Heimat\nWillisauer Bote\nClaudio Spescha\nVBZ Züri-Linie\nFußballstadion JA\nOja Schwamendingen",
+        "VorschlägeGefälltMir_": "13.287 \n4.679 \n4.066 \n193 \n15.838 \n4.921 \n990 ",
+        "VerzeichnisNamen_": "NZZ\nLuzerner Zeitung\nTagesspiegel\nDie Presse",
+        "VerzeichnisGfälltMir_": "13.287 \n4.679 \n4.066 \n193 ",
+        "Woche_": "1"
+      },{
+        "Profil_": "RH",
+        "Position_": "A",
+        "Datum_": "26_03_2019",
+        "Phase_": "Phase 01",
+        "Uhrzeit_": "16:18",
+        "Thema_": "Faschismus\nRente\nSS-Soldaten\nZentralrat\nJuden\nDeutschland",
+        "GesinnungX_": "Mitte",
+        "GesinnungY_": "Mitte",
+        "Verlässlichkeit_": "Komplex",
+        "Art_": "Zeitung",
+        "Aufbau_": "Post-Artikel",
+        "Medium_": "Text-Bild",
         "Bodytext_": "*pn*NZZ Neue Zürcher Zeitung*/pn*\n\n*pd*26-03-19*/pd*\n\n*pb*Manche Nazi-Kollaborateure bekommen monatlich eine Zusatzrente im dreistelligen Bereich aus Deutschland überwiesen. Insgesamt haben rund 2000 im Ausland lebende Menschen Anspruch auf diese Leistungen.\nDer Zentralrat der Juden will das nicht hinnehmen.*/pb*\n\n*an*Neue Zürcher Zeitung*/an*\n\n*ad*26-03-19*/ad*\n\n*aa*Jonas Hermann*/aa*\n\n*at*Rente für ehemalige SS-Soldaten: Zentralrat der Juden spricht von «unerträglichem Zustand»*/at*\n\n*al*Der deutsche Staat unterstützt im Ausland lebende Nazi-Kollaborateure mit monatlichen Zahlungen, falls sie im Krieg verwundet wurden. Zentralratspräsident Schuster fordert nun, die Rentenansprüche zu prüfen.*/al*\n\n*ab*Manche Nazi-Kollaborateure bekommen monatlich eine Zusatzrente im dreistelligen Bereich aus Deutschland überwiesen. Insgesamt haben rund 2000 im Ausland lebende Menschen Anspruch auf Leistungen nach dem sogenannten Bundesversorgungsgesetz. Es wurde im Jahr 1950 verabschiedet, um Kriegsgeschädigte zu unterstützen. Dabei kann es sich um Zivilisten handeln, aber auch um ehemalige Wehrmachtssoldaten und Angehörige der Waffen-SS. Deren Verbände waren im Zweiten Weltkrieg als eine Art Elitetruppe der Wehrmacht im Einsatz. Die Waffen-SS ist für viele Greueltaten verantwortlich, ausserdem war sie am Holocaust beteiligt. Kurz nach Kriegsende wurde sie in Deutschland verboten.*/ab*\n*ab*Während des Krieges schlossen sich auch Ausländer der SS an. In von Deutschland besetzten Ländern, wie Belgien oder Lettland, kämpften sie als Freiwillige in der Waffen-SS. Der Historiker Martin Göllnitz sagte der Deutschen Welle, auch den ausländischen SS-Mitgliedern hätten die Nazis eine Rentenversicherung garantiert. Mehrere deutsche Medien berichteten, die bis heute gezahlte Rente gehe auf einen «Führererlass» von Adolf Hitler zurück. Das für die Renten zuständige Arbeitsministerium dementiert dies. Der NZZ sagte eine Sprecherin: «‹Führererlasse› haben für das Bundesversorgungsgesetz überhaupt keine Bedeutung.» Laut der Sprecherin werden die Renten nicht für den Dienst in der Wehrmacht oder der Waffen-SS an sich gezahlt. Anspruch darauf hätten nur Menschen, die während dieses Dienstes verwundet wurden. Im März habe das Arbeitsministerium an 2000 im Ausland lebende Berechtigte rund 778 000 Euro überwiesen.*/ab*\n\n*au*49 Empfänger in der Schweiz*/au*\n*ab*In der Schweiz beziehen offenbar 49 Menschen diese Rente, in Belgien soll es sich um 18 Personen handeln. Keiner der belgischen Empfänger ist laut dem Arbeitsministerium bei der Waffen-SS gewesen. Der Historiker Alvin De Coninck bezweifelt dies und wird von drei Abgeordneten des belgischen Parlaments unterstützt. Bereits vor drei Jahren forderten sie die deutschen Behörden auf, die Namen der Rentenempfänger herauszugeben. Auch deshalb, weil diese die Beträge wohl steuerfrei beziehen.*/ab*\n*ab*Die Namen sind der deutschen Botschaft in Belgien angeblich bekannt, sie gibt diese aber nicht weiter und kann sich dabei auf ein Gutachten der Wissenschaftlichen Dienste des Bundestags stützen. Darin heisst es, man dürfe allein schon aus Datenschutzgründen keine Informationen über Rentenempfänger herausgeben. Ohnehin existiere keine vollständige Übersicht aller Mitglieder der Waffen-SS, weil die Nazis kurz vor Kriegsende zahlreiche Dokumente über SS-Angehörige vernichtet hätten.*/ab*\n\n*au*«Unerträglicher Zustand»*/au*\n*ab*Der Zentralrat der Juden will das nicht hinnehmen. Dessen Präsident Josef Schuster sprach von einem «unerträglichen Zustand». Die Behörden müssten die Rentenempfänger überprüfen und Konsequenzen ziehen, sagte er der «Neuen Osnabrücker Zeitung». Laut der Zeitung bekommen die Rentenempfänger im Schnitt 330 Euro pro Monat ausbezahlt. Auch Kurkosten würden übernommen. Im Jahr 1997 regte sich im Bundestag Widerstand gegen diese Praxis. Die Parlamentarier beschlossen, keine Rente an Menschen zu überweisen, die gegen «die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit» verstossen haben.*/ab*\n*ab*Die Auswirkungen waren überschaubar, denn die reine Mitgliedschaft in der SS gilt nicht als Ausschlusskriterium. Laut dem Arbeitsministerium wurden dennoch in 99 Fällen die Renten gestrichen. Angestossen hatte die Gesetzesänderung der ehemalige Grünen-Bundestagsabgeordnete Volker Beck. Heute kritisiert er, das Arbeitsministerium kümmere sich zu wenig darum, das Gesetz umzusetzen. Somit werden Menschen, die an den Verbrechen der Nazis beteiligt waren, auch weiterhin Geld aus Deutschland bekommen. Allerdings schrumpft das Problem von Monat zu Monat. Die Rentner sind hochbetagt. Allein von Februar auf März starben 33 von ihnen.*/ab*\n\n\n\n\n",
         "LinkText_": "https://www.nzz.ch/international/deutschland/warum-zahlt-deutschland-ss-soldaten-rente-ld.1470083?fbclid=IwAR0gyxhVDNNUmHvcQyZBO-VPHAAfh3_kcB7WY8LTlQycb2LAWsBfKXE_AyE",
         "LinkBild_": "RH_A_26-03-19",
@@ -51,7 +74,7 @@ var data =
         "Woche_": "1"
       },
       {
-        "Profil_": "RH",
+        "Profil_": "DD",
         "Position_": "C",
         "Datum_": "26_03_2019",
         "Phase_": "Phase 01",
@@ -102,7 +125,7 @@ var data =
 
 // var numberOfIterations = data.length;
 var start = 1;
-var numberOfIterations = 2 + start;
+var numberOfIterations = 3 + start;
 
 
 var lastPage = 0;
@@ -157,7 +180,7 @@ for (var i = start; i < numberOfIterations; i++) {
     // lastPage ++;
     // newGroup.move(doc.pages[lastPage])
 
-    // positionElement(newGroup, borderLeft, getElement(allGroups[i-1]).y2 + groupMarginTop + borderTopBottom, 0, 0);
+    // positionElement( left, newGroup, borderLeft, getElement(allGroups[i-1]).y2 + groupMarginTop + borderTopBottom, 0, 0);
     
 
 
@@ -167,36 +190,35 @@ for (var i = start; i < numberOfIterations; i++) {
     if (data[i].Profil_ == "RH") {
 
         currentPage = currentLeftPage;
-        // alert(currentPage);
-        var newGroup = addGroup(i);
-        // positionElement(newGroup, - borderLeft / 2, borderTopBottom, 0, 0);
-        lowestLeft = getElement(newGroup).y2;
+        addGroup(i, true);
 
-        if (newPageLeft) {
-            positionElement(newGroup, - borderLeft / 2, 0, 0, 0);
-        } else {
-            positionElement(newGroup, - borderLeft / 2, lowestLeft, 0, 0);
-        }
+        // lowestLeft = getElement(newGroup).y2;
+
+        // if (newPageLeft) {
+        //     // positionElement( left, newGroup, - borderLeft / 2, 0, 0, 0);
+        //     newPageLeft = false;
+        // } else {
+        //     // positionElement( left, newGroup, - borderLeft / 2, lowestLeft, 0, 0);
+        // }
 
         newPageLeft = false;
 
     } else {
         
         currentPage = currentRightPage;
-        // alert(currentPage);
-        leftPage = false;
-        var newGroup = addGroup(i);
-        // newGroup.move(doc.pages[currentPage])
-        // positionElement(newGroup, borderLeft + borderRight + pageWidth , lowestRight, 0, 0);
-        lowestRight = getElement(newGroup).y2;
+        addGroup(i, false);
 
-        if (newPageRight) {
-            positionElement(newGroup, borderLeft + borderRight + pageWidth , borderTopBottom, 0, 0);
-            // alert('on new page right')
-            newPageRight = false;
-        } else {
-            positionElement(newGroup, borderLeft + borderRight + pageWidth , lowestRight, 0, 0);
-        }
+        // newGroup.move(doc.pages[currentPage])
+        // positionElement( left, newGroup, borderLeft + borderRight + pageWidth , lowestRight, 0, 0);
+        // lowestRight = getElement(newGroup).y2;
+
+        // if (newPageRight) {
+        //     // positionElement( left, newGroup, borderLeft + borderRight + pageWidth , borderTopBottom, 0, 0);
+        //     // // alert('on new page right')
+        //     newPageRight = false;
+        // } else {
+        //     // positionElement( left, newGroup, borderLeft + borderRight + pageWidth , lowestRight, 0, 0);
+        // }
     }
 
 
@@ -204,7 +226,7 @@ for (var i = start; i < numberOfIterations; i++) {
 
 
 
-function addGroup(index) {
+function addGroup(index, left) {
 
     var itemsToGroup = new Array();  
     var id = '#' + index;
@@ -228,25 +250,25 @@ function addGroup(index) {
         tb_likeVorschlageTitel.strokeColor = app.activeDocument.colors.item("Black");  
         tb_likeVorschlageTitel.strokeWeight = 0.75; 
         tb_likeVorschlageTitel.paragraphs[0].leading = headerHeight * 3;
-        positionElement(tb_likeVorschlageTitel, 0, 18, 0, 0);
+        positionElement( left, tb_likeVorschlageTitel, 0, lowestLeft, 0, 0);
         setDimensions(tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
 
         checkHeight(tb_likeVorschlageTitel);
 
         var tb_likeVorschlage = createTextbox('tb_likeVorschlage', id, data[index].VorschlägeNamen_, itemsToGroup, 6.5);
         tb_likeVorschlage.paragraphs[0].leading = 7.5;
-        positionElement(tb_likeVorschlage, 0, getElement(tb_likeVorschlageTitel).y2, 0, 0);
+        positionElement( left, tb_likeVorschlage, 0, getElement(tb_likeVorschlageTitel).y2, 0, 0);
         setDimensions(tb_likeVorschlage, pageWidth/2 - 10, headerHeight, 0, 0);
 
         var tb_likeVorschlageLikes = createTextbox('tb_likeVorschlageLikes', id, data[index].VorschlägeGefälltMir_, itemsToGroup, 6.5);
         tb_likeVorschlageLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
         tb_likeVorschlageLikes.paragraphs[0].leading = 7.5;
-        positionElement(tb_likeVorschlageLikes, pageWidth/2 - 10, getElement(tb_likeVorschlageTitel).y2, 0, 0);
+        positionElement( left, tb_likeVorschlageLikes, pageWidth/2 - 10, getElement(tb_likeVorschlageTitel).y2, 0, 0);
         setDimensions(tb_likeVorschlageLikes, 10, headerHeight, 0, 0);
 
         checkHeight(tb_likeVorschlageLikes);
 
-        createHeader(tb_likeVorschlageLikes, leftPage ? '1' : '2', data[index].Datum_, itemsToGroup);
+        createHeader(tb_likeVorschlageLikes, leftPage ? '1' : '2', data[index].Datum_, itemsToGroup, left);
 
         // ===============
         // Likes
@@ -261,7 +283,7 @@ function addGroup(index) {
         tb_verzeichnisTitel.strokeColor = app.activeDocument.colors.item("Black");  
         tb_verzeichnisTitel.strokeWeight = 0.75; 
         tb_verzeichnisTitel.paragraphs[0].leading = headerHeight * 3;
-        positionElement(tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes).y2 + 20, 0, 0);
+        positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes).y2 + 20, 0, 0);
         setDimensions(tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
 
         checkHeight(tb_verzeichnisTitel);
@@ -269,19 +291,19 @@ function addGroup(index) {
         var tb_verzeichnisNamen = createTextbox('tb_verzeichnisNamen', id, data[index].VorschlägeNamen_, itemsToGroup, 20);
         tb_verzeichnisNamen.paragraphs[0].leading = 20;
         tb_verzeichnisNamen.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
-        positionElement(tb_verzeichnisNamen, 0, getElement(tb_verzeichnisTitel).y2, 0, 0);
+        positionElement( left, tb_verzeichnisNamen, 0, getElement(tb_verzeichnisTitel).y2, 0, 0);
         setDimensions(tb_verzeichnisNamen, pageWidth - 30, headerHeight, 0, 0);
 
         var tb_verzeichnisLikes = createTextbox('tb_verzeichnisLikes', id, data[index].VorschlägeGefälltMir_, itemsToGroup, 20);
         tb_verzeichnisLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
         tb_verzeichnisLikes.paragraphs[0].leading = 20;
         tb_verzeichnisLikes.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
-        positionElement(tb_verzeichnisLikes, pageWidth - 30, getElement(tb_verzeichnisTitel).y2, 0, 0);
+        positionElement( left, tb_verzeichnisLikes, pageWidth - 30, getElement(tb_verzeichnisTitel).y2, 0, 0);
         setDimensions(tb_verzeichnisLikes, 30, headerHeight, 0, 0);
 
         checkHeight(tb_verzeichnisLikes);
 
-        createHeader(tb_verzeichnisLikes, leftPage ? '1' : '2', data[index].Datum_, itemsToGroup);
+        createHeader(tb_verzeichnisLikes, leftPage ? '1' : '2', data[index].Datum_, itemsToGroup, left);
     }
 
 
@@ -296,11 +318,17 @@ function addGroup(index) {
     tb_profil.strokeWeight = 0.75; 
     tb_profil.paragraphs[0].leading = headerHeight * 3;
     if (data[index].VorschlägeNamen_) {
-        positionElement(tb_profil, 0,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
+        positionElement( left, tb_profil, 0,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
     } else {
-        positionElement(tb_profil, 0, borderTopBottom, 0, 0);
+        positionElement( left, tb_profil, 0, lowestLeft, 0, 0);
     }
-    // positionElement(tb_profil, 0,  10, 0, 0);
+
+    if(left) {
+        lowestLeft = getElement(tb_verzeichnisNamen).y2;
+    } else {
+        lowestRight = getElement(tb_verzeichnisNamen).y2;
+    }
+    // positionElement( left, tb_profil, 0,  10, 0, 0);
     setDimensions(tb_profil, pageWidth/3 - 3, headerHeight, 0, 0);
 
     checkHeight(tb_profil);
@@ -318,11 +346,18 @@ function addGroup(index) {
     tb_position.strokeWeight = 0.75; 
     tb_position.paragraphs[0].leading = headerHeight * 3;
     if (data[index].VorschlägeNamen_) {
-        positionElement(tb_position, pageWidth / 3 + 3,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
+        positionElement( left, tb_position, pageWidth / 3 + 3,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
     } else {
-        positionElement(tb_position, pageWidth / 3 + 3, borderTopBottom, 0, 0);
+        positionElement( left, tb_position, pageWidth / 3 + 3, lowestLeft, 0, 0);
     }
-        // positionElement(tb_profil, 0,  10, 0, 0);
+    
+    if(left) {
+        lowestLeft = getElement(tb_verzeichnisNamen).y2;
+    } else {
+        lowestRight = getElement(tb_verzeichnisNamen).y2;
+    }
+
+        // positionElement( left, tb_profil, 0,  10, 0, 0);
     setDimensions(tb_position, pageWidth/3 - 3, headerHeight, 0, 0);
 
     // tb_position.select(SelectionOptions.ADD_TO);
@@ -337,11 +372,17 @@ function addGroup(index) {
     tb_uhrzeit.strokeWeight = 0.75; 
     tb_uhrzeit.paragraphs[0].leading = headerHeight * 3;
     if (data[index].VorschlägeNamen_) {
-        positionElement(tb_uhrzeit, pageWidth/3 * 2 + 6,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
+        positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
     } else {
-        positionElement(tb_uhrzeit, pageWidth/3 * 2 + 6, borderTopBottom, 0, 0);
+        positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6, lowestLeft, 0, 0);
     }
-        // positionElement(tb_profil, 0,  10, 0, 0);
+
+    if(left) {
+        lowestLeft = getElement(tb_verzeichnisNamen).y2;
+    } else {
+        lowestRight = getElement(tb_verzeichnisNamen).y2;
+    }
+        // positionElement( left, tb_profil, 0,  10, 0, 0);
     setDimensions(tb_uhrzeit, pageWidth/3 - 3, headerHeight, 0, 0);
 
     // tb_uhrzeit.select(SelectionOptions.ADD_TO);
@@ -351,7 +392,7 @@ function addGroup(index) {
     // ===============
 
     var tb_art = createTextbox('tb_art', id, 'ART\n' + data[index].Art_.toUpperCase(), itemsToGroup, 8);
-    positionElement(tb_art, pageWidth/6 * 0, getElement(tb_profil).y2 + 2);
+    positionElement( left, tb_art, pageWidth/6 * 0, getElement(tb_profil).y2 + 2);
     setDimensions(tb_art, pageWidth/6, null, 0, 0);
 
     checkHeight(tb_art);
@@ -361,7 +402,7 @@ function addGroup(index) {
     // ===============
 
     var tb_aufbau = createTextbox('tb_aufbau', id, 'AUFBAU\n' + data[index].Aufbau_.toUpperCase(), itemsToGroup, 8);
-    positionElement(tb_aufbau, pageWidth/6 * 1, getElement(tb_profil).y2 + 2);
+    positionElement( left, tb_aufbau, pageWidth/6 * 1, getElement(tb_profil).y2 + 2);
     setDimensions(tb_aufbau, pageWidth/6, null, 0, 0);
 
     // ===============
@@ -369,7 +410,7 @@ function addGroup(index) {
     // ===============
 
     var tb_medium = createTextbox('tb_medium', id, 'MEDIUM\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
-    positionElement(tb_medium, pageWidth/6 * 2, getElement(tb_profil).y2 + 2);
+    positionElement( left, tb_medium, pageWidth/6 * 2, getElement(tb_profil).y2 + 2);
     setDimensions(tb_medium, pageWidth/6, null, 0, 0);
 
     // ===============
@@ -377,7 +418,7 @@ function addGroup(index) {
     // ===============
 
     var tb_gesinnungX = createTextbox('tb_gesinnungX', id, 'GESINNUNG X\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
-    positionElement(tb_gesinnungX, pageWidth/6 * 3, getElement(tb_profil).y2 + 2);
+    positionElement( left, tb_gesinnungX, pageWidth/6 * 3, getElement(tb_profil).y2 + 2);
     setDimensions(tb_gesinnungX, pageWidth/6, null, 0, 0);
 
     // ===============
@@ -385,7 +426,7 @@ function addGroup(index) {
     // ===============
 
     var tb_gesinnungY = createTextbox('tb_gesinnungY', id, 'GESINNUNG Y\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
-    positionElement(tb_gesinnungY, pageWidth/6 * 4, getElement(tb_profil).y2 + 2);
+    positionElement( left, tb_gesinnungY, pageWidth/6 * 4, getElement(tb_profil).y2 + 2);
     setDimensions(tb_gesinnungY, pageWidth/6, null, 0, 0);
 
     // ===============
@@ -393,11 +434,11 @@ function addGroup(index) {
     // ===============
 
     var tb_verlasslichkeit = createTextbox('tb_verlasslichkeit', id, 'VERLÄSSLICHKEIT\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
-    positionElement(tb_verlasslichkeit, pageWidth/6 * 5, getElement(tb_profil).y2 + 2);
+    positionElement( left, tb_verlasslichkeit, pageWidth/6 * 5, getElement(tb_profil).y2 + 2);
     setDimensions(tb_verlasslichkeit, pageWidth/6, null, 0, 0);
 
 
-    addLine(0, getElement(tb_verlasslichkeit).y2 + 2 , pageWidth, itemsToGroup);
+    addLine(left, 0, getElement(tb_verlasslichkeit).y2 + 2 , pageWidth, itemsToGroup);
 
     // ===============
     // Body Text
@@ -424,7 +465,7 @@ function addGroup(index) {
     // Post Typ
 
     var tb_text_postTyp = createTextbox('tb_text_postTyp', id, 'POST', itemsToGroup, 14);
-    positionElement(tb_text_postTyp, pageWidth/3 * 0, getElement(tb_art).y2 + 5);
+    positionElement( left, tb_text_postTyp, pageWidth/3 * 0, getElement(tb_art).y2 + 5);
     setDimensions(tb_text_postTyp, pageWidth/ 3, null, 0, 0);
 
     checkHeight(tb_text_postTyp);
@@ -433,14 +474,14 @@ function addGroup(index) {
 
     var tb_text_postName = createTextbox('tb_text_postName', id, postName.toUpperCase(), itemsToGroup, 14);
     tb_text_postName.paragraphs[0].justification = Justification.CENTER_ALIGN;
-    positionElement(tb_text_postName, pageWidth/3 * 1, getElement(tb_art).y2 + 5);
+    positionElement( left, tb_text_postName, pageWidth/3 * 1, getElement(tb_art).y2 + 5);
     setDimensions(tb_text_postName, pageWidth/3, null, 0, 0);
 
     // Post Datum
 
     var tb_text_postDatum = createTextbox('tb_text_postDatum', id, postDatum, itemsToGroup, 14);
     tb_text_postDatum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
-    positionElement(tb_text_postDatum, pageWidth/3 * 2, getElement(tb_art).y2 + 5);
+    positionElement( left, tb_text_postDatum, pageWidth/3 * 2, getElement(tb_art).y2 + 5);
     setDimensions(tb_text_postDatum, pageWidth/3, null, 0, 0);
 
     // Post Body Text
@@ -451,17 +492,17 @@ function addGroup(index) {
     tb_text_postBodyText.paragraphs[0].leading = "20pt";
     // tb_text_postBodyText.paragraphs[0].kerning = "-5";
     // tb_text_postBodyText.paragraphs[0].tracking = "-10";
-    positionElement(tb_text_postBodyText, 0, getElement(tb_text_postTyp).y2 + 4);
+    positionElement( left, tb_text_postBodyText, 0, getElement(tb_text_postTyp).y2 + 4);
     setDimensions(tb_text_postBodyText, pageWidth, null, 0, 2);
 
-    addLine(0, getElement(tb_text_postBodyText).y2 + 2 , pageWidth, itemsToGroup);
+    addLine(left, 0, getElement(tb_text_postBodyText).y2 + 2 , pageWidth, itemsToGroup);
 
     checkHeight(tb_text_postBodyText);
 
     if (artikelName) {
 
         var tb_text_artikelTyp = createTextbox('tb_text_artikelTyp', id, 'ARTIKEL', itemsToGroup, 14);
-        positionElement(tb_text_artikelTyp, colGutter * 2, getElement(tb_text_postBodyText).y2 + 7);
+        positionElement( left, tb_text_artikelTyp, colGutter * 2, getElement(tb_text_postBodyText).y2 + 7);
         setDimensions(tb_text_artikelTyp, colGutter * 3, null, 0, 0);
 
 
@@ -470,7 +511,7 @@ function addGroup(index) {
 
             var tb_text_artikelName = createTextbox('tb_text_artikelName', id, artikelName.toUpperCase(), itemsToGroup, 14);
             tb_text_artikelName.paragraphs[0].justification = Justification.CENTER_ALIGN;
-            positionElement(tb_text_artikelName, colGutter * 5, getElement(tb_text_postBodyText).y2 + 7);
+            positionElement( left, tb_text_artikelName, colGutter * 5, getElement(tb_text_postBodyText).y2 + 7);
             setDimensions(tb_text_artikelName, colGutter * 8, null, 0, 0);
 
         }
@@ -481,7 +522,7 @@ function addGroup(index) {
 
             var tb_text_artikelDatum = createTextbox('tb_text_artikelDatum', id, artikelDatum, itemsToGroup, 14);
             tb_text_artikelDatum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
-            positionElement(tb_text_artikelDatum, colGutter * 13, getElement(tb_text_postBodyText).y2 + 7);
+            positionElement( left, tb_text_artikelDatum, colGutter * 13, getElement(tb_text_postBodyText).y2 + 7);
             setDimensions(tb_text_artikelDatum, colGutter * 3 - gutter, null, 0, 0);
         }
         
@@ -495,10 +536,10 @@ function addGroup(index) {
             tb_text_artikelTitel.paragraphs[0].leading = "20pt";
             // tb_text_artikelTitel.paragraphs[0].kerning = "-5";
             // tb_text_artikelTitel.paragraphs[0].tracking = "-10";
-            positionElement(tb_text_artikelTitel, colGutter * 2, getElement(tb_text_artikelTyp).y2 + 4);
+            positionElement( left, tb_text_artikelTitel, colGutter * 2, getElement(tb_text_artikelTyp).y2 + 4);
             setDimensions(tb_text_artikelTitel, colGutter * 14 - gutter, null, 0, 0);
 
-            addLine(colGutter * 2, getElement(tb_text_artikelTitel).y2 + 2 , colGutter * 14, itemsToGroup);
+            addLine(left, colGutter * 2, getElement(tb_text_artikelTitel).y2 + 2 , colGutter * 14, itemsToGroup);
 
             checkHeight(tb_text_artikelTitel);
         }
@@ -509,7 +550,7 @@ function addGroup(index) {
 
             var tb_text_artikelAuthor = createTextbox('tb_text_artikelAuthor', id, artikelAuthor.toUpperCase(), itemsToGroup, 14);
             tb_text_artikelAuthor.paragraphs[0].justification = Justification.RIGHT_ALIGN;
-            positionElement(tb_text_artikelAuthor, colGutter * 2, getElement(tb_text_artikelTitel).y2 + 4);
+            positionElement( left, tb_text_artikelAuthor, colGutter * 2, getElement(tb_text_artikelTitel).y2 + 4);
             setDimensions(tb_text_artikelAuthor, colGutter * 14 - gutter, null, 0, 0);
         }
 
@@ -520,7 +561,7 @@ function addGroup(index) {
             var tb_text_artikelLead = createTextbox('tb_text_artikelLead', id, artikelLead.toUpperCase(), itemsToGroup, 8);
             tb_text_artikelLead.paragraphs[0].leading = "9pt";
             tb_text_artikelLead.paragraphs[0].justification = Justification.CENTER_ALIGN;
-            positionElement(tb_text_artikelLead, colGutter * 4, getElement(tb_text_artikelAuthor).y2 + 7);
+            positionElement( left, tb_text_artikelLead, colGutter * 4, getElement(tb_text_artikelAuthor).y2 + 7);
             setDimensions(tb_text_artikelLead, colGutter * 10 - gutter, null, 0, 0);
 
             checkHeight(tb_text_artikelLead);
@@ -537,11 +578,11 @@ function addGroup(index) {
                 var tb_text_artikelBodyText = createTextbox('tb_text_artikelBodyText', id, artikelBodyTexts[i], itemsToGroup, 8);
                 tb_text_artikelBodyText.paragraphs[0].leading = "9pt";
                 tb_text_artikelBodyText.paragraphs[0].justification = Justification.CENTER_ALIGN;
-                positionElement(tb_text_artikelBodyText, colGutter * 4, lowestParagraphPoint + 7);
+                positionElement( left, tb_text_artikelBodyText, colGutter * 4, lowestParagraphPoint + 7);
                 setDimensions(tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
 
+                checkHeight(tb_text_artikelBodyText);
                 lowestParagraphPoint = getElement(tb_text_artikelBodyText).y2;
-                // checkHeight(tb_text_artikelBodyText);
             }
 
             // for (var i = 0; i < artikelBodyTexts; i ++) {
@@ -549,14 +590,14 @@ function addGroup(index) {
             //     var tb_text_artikelBodyText = createTextbox('tb_text_artikelBodyText', id, artikelBodyTexts[i], itemsToGroup, 8);
             //     tb_text_artikelBodyText.paragraphs[0].leading = "9pt";
             //     tb_text_artikelBodyText.paragraphs[0].justification = Justification.CENTER_ALIGN;
-            //     positionElement(tb_text_artikelBodyText, colGutter * 4, getElement(tb_text_artikelLead).y2 + 7);
+            //     positionElement( left, tb_text_artikelBodyText, colGutter * 4, getElement(tb_text_artikelLead).y2 + 7);
             //     setDimensions(tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
             // }
 
             // var tb_text_artikelBodyText = createTextbox('tb_text_artikelBodyText', id, artikelBodyTexts, itemsToGroup, 8);
             // tb_text_artikelBodyText.paragraphs[0].leading = "9pt";
             // tb_text_artikelBodyText.paragraphs[0].justification = Justification.CENTER_ALIGN;
-            // positionElement(tb_text_artikelBodyText, colGutter * 4, getElement(tb_text_artikelLead).y2 + 7);
+            // positionElement( left, tb_text_artikelBodyText, colGutter * 4, getElement(tb_text_artikelLead).y2 + 7);
             // setDimensions(tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
 
 
@@ -564,11 +605,11 @@ function addGroup(index) {
     }
 
     // var tb_text_artikelDatum = createTextbox('tb_text_artikelDatum', id, artikelDatum, itemsToGroup, 12);
-    // positionElement(tb_text_artikelDatum, pageWidth/6, getElement(tb_text_postBodyText).y2);
+    // positionElement( left, tb_text_artikelDatum, pageWidth/6, getElement(tb_text_postBodyText).y2);
     // setDimensions(tb_text_artikelDatum, pageWidth/6, null, 0, 0);
 
     // var tb_text_artikelBodytext = createTextbox('tb_text_artikelBodytext', id, artikelBodytext, itemsToGroup, 12);
-    // positionElement(tb_text_artikelBodytext, pageWidth/6 * 2, getElement(tb_text_postBodyText).y2);
+    // positionElement( left, tb_text_artikelBodytext, pageWidth/6 * 2, getElement(tb_text_postBodyText).y2);
     // setDimensions(tb_text_artikelBodytext, pageWidth/6*3, null, 0, 0);
 
 
@@ -579,43 +620,43 @@ function addGroup(index) {
     // tb_bildUnterschriften.contents = data[index].Bildunterschriften_;
 
 
-    var myGroup = app.documents[0].groups.add(itemsToGroup);  
-    myGroup.name = 'element_' + id;
+    // var myGroup = app.documents[0].groups.add(itemsToGroup);  
+    // myGroup.name = 'element_' + id;
     // myGroup.move(doc.pages[currentPage])
     
 
-    return myGroup;
+    // return myGroup;
 }
 
-function addImage(index) {
+// function addImage(index) {
         
-    // ===============
-    // Image
-    // ===============
+//     // ===============
+//     // Image
+//     // ===============
 
-    var image = doc.pages.item(currentPage).textFrames.add();
-    // image.contents = data[index].LinkBild_ || 'unknown';
-    // image.name = 'element_' + id + '_textbox_' * element;
+//     var image = doc.pages.item(currentPage).textFrames.add();
+//     // image.contents = data[index].LinkBild_ || 'unknown';
+//     // image.name = 'element_' + id + '_textbox_' * element;
     
 
-    image.place (File(app.activeDocument.filePath + '/img/' + data[index].LinkBild_ + '.jpg'), false);
-    // image.recompose();
-    image.fit(FitOptions.frameToContent);
-    // image.fit (FitOptions.CONTENT_TO_FRAME);
-    // image.fit (FitOptions.PROPORTIONALLY);
-    // image.fit (FitOptions.CENTER_CONTENT);
-    // image.recompose();
-    // image.fit(FitOptions.frameToContent);
+//     image.place (File(app.activeDocument.filePath + '/img/' + data[index].LinkBild_ + '.jpg'), false);
+//     // image.recompose();
+//     image.fit(FitOptions.frameToContent);
+//     // image.fit (FitOptions.CONTENT_TO_FRAME);
+//     // image.fit (FitOptions.PROPORTIONALLY);
+//     // image.fit (FitOptions.CENTER_CONTENT);
+//     // image.recompose();
+//     // image.fit(FitOptions.frameToContent);
 
-    positionElement(image, 2, 2, 0, 0);
-    setDimensions(image, null, 10, 0, 0);
+//     positionElement( left, image, 2, 2, 0, 0);
+//     setDimensions(image, null, 10, 0, 0);
 
-    var text = doc.pages.item(currentPage).textFrames.add();
-    text.contents = data[index].Bildunterschriften_ || 'unknown';
-    text.recompose();
-    text.fit(FitOptions.frameToContent);
-    positionElement(image, 2, getElement(image).y2);
-}
+//     var text = doc.pages.item(currentPage).textFrames.add();
+//     text.contents = data[index].Bildunterschriften_ || 'unknown';
+//     text.recompose();
+//     text.fit(FitOptions.frameToContent);
+//     positionElement( left, image, 2, getElement(image).y2);
+// }
 
 function createTextbox(element, id, content, array, fontSize) {
     var item = doc.pages.item(currentPage).textFrames.add();
@@ -634,17 +675,23 @@ function createTextbox(element, id, content, array, fontSize) {
 }
 
 
-function positionElement(element, x, y) {
+function positionElement( left, element, x, y) {
     // element.recompose();
     element.fit(FitOptions.frameToContent);
 
-    x = x + borderLeft;
+    x = left ? x + 8 : x + 18;
     
     var elementWidth = element.geometricBounds[3] -  element.geometricBounds[1];
     var elementHeight = element.geometricBounds[2] -  element.geometricBounds[0];
 
     element.geometricBounds = [y, x, y + elementHeight, x + elementWidth];
 
+    if(left) {
+        lowestLeft = getElement(element).y2;
+    }
+    else {
+        lowestRight = getElement(element).y2;
+    }
 }
 
 function getElement(element) {
@@ -721,9 +768,9 @@ function getMultipleTexts(fullText, type) {
 }
 
 
-function addLine(x, y, length, array) {
+function addLine(left, x, y, length, array) {
 
-    x = x + borderLeft;
+    x = left ? x + 8 : x + 18;
        
     var myLine = doc.pages.item(currentPage).graphicLines.add();  
     
@@ -747,9 +794,9 @@ function plotStraightLine(obj, x1, y1, x2, y2) {
 function checkHeight(item) {
 
     var itemHeight = getElement(item).y2 - borderTopBottom;
+    var itemData = getElement(item);
 
     if(itemHeight > pageHeight) {
-        
         if(leftPage && currentPage >= lastPage - 1) {
             doc.pages.add();
             doc.pages.add();
@@ -758,6 +805,8 @@ function checkHeight(item) {
             lastPage += 2;
             lowestLeft = borderTopBottom;
             newPageLeft = true;
+            item.move(doc.pages[currentPage])
+            positionElement(true, item, itemData.x, borderTopBottom, 0, 0)
         }
 
         else if(!leftPage && currentPage >= lastPage) {
@@ -768,27 +817,29 @@ function checkHeight(item) {
             lastPage += 2;
             lowestRight = borderTopBottom;
             newPageRight = true;
+            item.move(doc.pages[currentPage])
+            positionElement(false, item, itemData.x, borderTopBottom, 0, 0)
         }
     }
 }
 
-function createHeader(positioningElement, persona, date, groupArray) {
+function createHeader(positioningElement, persona, date, groupArray, left) {
 
     var header_woche = createTextbox('header_woche', 'header', 'WOCHE ' + week, groupArray, 8);
     header_woche.paragraphs[0].leading = 9;
-    positionElement(header_woche, 0, getElement(positioningElement).y2 + 10, 0, 0);
+    positionElement( left, header_woche, 0, getElement(positioningElement).y2 + 10, 0, 0);
     setDimensions(header_woche, pageWidth/3 - 3, headerHeight, 0, 0);
 
     var header_persona = createTextbox('header_persona', 'header', 'PERSONA ' + persona, groupArray, 8);
     header_persona.paragraphs[0].justification = Justification.CENTER_ALIGN;
     header_persona.paragraphs[0].leading = 9;
-    positionElement(header_persona, pageWidth / 3 + 3, getElement(positioningElement).y2 + 10, 0, 0);
+    positionElement( left, header_persona, pageWidth / 3 + 3, getElement(positioningElement).y2 + 10, 0, 0);
     setDimensions(header_persona, pageWidth/3 - 3, headerHeight, 0, 0);
 
     var header_datum = createTextbox('header_datum', 'header', date, groupArray, 8);
     header_datum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
     header_datum.paragraphs[0].leading = 9;
-    positionElement(header_datum, pageWidth/3 * 2 + 6, getElement(positioningElement).y2 + 10, 0, 0);
+    positionElement( left, header_datum, pageWidth/3 * 2 + 6, getElement(positioningElement).y2 + 10, 0, 0);
     setDimensions(header_datum, pageWidth/3 - 3, headerHeight, 0, 0);
 
     checkHeight(header_woche);
