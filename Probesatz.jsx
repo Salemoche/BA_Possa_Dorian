@@ -123,9 +123,9 @@ var data =
       }
 ]
 
-// var numberOfIterations = data.length;
-var start = 1;
-var numberOfIterations = 3 + start;
+var numberOfIterations = data.length;
+var start = 0;
+// var numberOfIterations = start + 4;
 
 
 var lastPage = 0;
@@ -154,6 +154,7 @@ var day = 0;
 
 doc.pages.add();
 doc.pages.add();
+lastPage ++;
 var currentPage = 1;
 var leftPage = true;
 var currentLeftPage = currentPage;
@@ -219,6 +220,8 @@ for (var i = start; i < numberOfIterations; i++) {
         // } else {
         //     // positionElement( left, newGroup, borderLeft + borderRight + pageWidth , lowestRight, 0, 0);
         // }
+
+        newPageRight = false;
     }
 
 
@@ -242,7 +245,7 @@ function addGroup(index, left) {
     // Like Vorschläge
     // ===============
 
-    if (data[index].VorschlägeNamen_) {
+    if (data[index].VorschlägeNamen_ != "") {
         day += 1;
 
         var tb_likeVorschlageTitel = createTextbox('tb_likeVorschlageTitel', id, '\nLike Vorschläge', itemsToGroup, 14);
@@ -251,22 +254,22 @@ function addGroup(index, left) {
         tb_likeVorschlageTitel.strokeWeight = 0.75; 
         tb_likeVorschlageTitel.paragraphs[0].leading = headerHeight * 3;
         positionElement( left, tb_likeVorschlageTitel, 0, lowestLeft, 0, 0);
-        setDimensions(tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
+        setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
 
-        checkHeight(tb_likeVorschlageTitel);
+        checkHeight(left, tb_likeVorschlageTitel);
 
         var tb_likeVorschlage = createTextbox('tb_likeVorschlage', id, data[index].VorschlägeNamen_, itemsToGroup, 6.5);
         tb_likeVorschlage.paragraphs[0].leading = 7.5;
         positionElement( left, tb_likeVorschlage, 0, getElement(tb_likeVorschlageTitel).y2, 0, 0);
-        setDimensions(tb_likeVorschlage, pageWidth/2 - 10, headerHeight, 0, 0);
+        setDimensions(left, tb_likeVorschlage, pageWidth/2 - 10, headerHeight, 0, 0);
 
         var tb_likeVorschlageLikes = createTextbox('tb_likeVorschlageLikes', id, data[index].VorschlägeGefälltMir_, itemsToGroup, 6.5);
         tb_likeVorschlageLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
         tb_likeVorschlageLikes.paragraphs[0].leading = 7.5;
         positionElement( left, tb_likeVorschlageLikes, pageWidth/2 - 10, getElement(tb_likeVorschlageTitel).y2, 0, 0);
-        setDimensions(tb_likeVorschlageLikes, 10, headerHeight, 0, 0);
+        setDimensions(left, tb_likeVorschlageLikes, 10, headerHeight, 0, 0);
 
-        checkHeight(tb_likeVorschlageLikes);
+        checkHeight(left, tb_likeVorschlageLikes);
 
         createHeader(tb_likeVorschlageLikes, leftPage ? '1' : '2', data[index].Datum_, itemsToGroup, left);
 
@@ -274,9 +277,6 @@ function addGroup(index, left) {
         // Likes
         // ===============
 
-        if (data[index].VorschlägeNamen_) {
-            day += 1;
-        }
 
         var tb_verzeichnisTitel = createTextbox('tb_verzeichnisTitel', id, '\nLike Verzeichnis', itemsToGroup, 14);
         tb_verzeichnisTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
@@ -284,24 +284,24 @@ function addGroup(index, left) {
         tb_verzeichnisTitel.strokeWeight = 0.75; 
         tb_verzeichnisTitel.paragraphs[0].leading = headerHeight * 3;
         positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes).y2 + 20, 0, 0);
-        setDimensions(tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
+        setDimensions(left, tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
 
-        checkHeight(tb_verzeichnisTitel);
+        checkHeight(left, tb_verzeichnisTitel);
 
         var tb_verzeichnisNamen = createTextbox('tb_verzeichnisNamen', id, data[index].VorschlägeNamen_, itemsToGroup, 20);
         tb_verzeichnisNamen.paragraphs[0].leading = 20;
         tb_verzeichnisNamen.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
         positionElement( left, tb_verzeichnisNamen, 0, getElement(tb_verzeichnisTitel).y2, 0, 0);
-        setDimensions(tb_verzeichnisNamen, pageWidth - 30, headerHeight, 0, 0);
+        setDimensions(left, tb_verzeichnisNamen, pageWidth - 30, headerHeight, 0, 0);
 
         var tb_verzeichnisLikes = createTextbox('tb_verzeichnisLikes', id, data[index].VorschlägeGefälltMir_, itemsToGroup, 20);
         tb_verzeichnisLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
         tb_verzeichnisLikes.paragraphs[0].leading = 20;
         tb_verzeichnisLikes.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
         positionElement( left, tb_verzeichnisLikes, pageWidth - 30, getElement(tb_verzeichnisTitel).y2, 0, 0);
-        setDimensions(tb_verzeichnisLikes, 30, headerHeight, 0, 0);
+        setDimensions(left, tb_verzeichnisLikes, 30, headerHeight, 0, 0);
 
-        checkHeight(tb_verzeichnisLikes);
+        checkHeight(left, tb_verzeichnisLikes);
 
         createHeader(tb_verzeichnisLikes, leftPage ? '1' : '2', data[index].Datum_, itemsToGroup, left);
     }
@@ -319,19 +319,21 @@ function addGroup(index, left) {
     tb_profil.paragraphs[0].leading = headerHeight * 3;
     if (data[index].VorschlägeNamen_) {
         positionElement( left, tb_profil, 0,  getElement(tb_verzeichnisNamen).y2 + 20, 0, 0);
+
     } else {
         positionElement( left, tb_profil, 0, lowestLeft, 0, 0);
     }
 
-    if(left) {
-        lowestLeft = getElement(tb_verzeichnisNamen).y2;
-    } else {
-        lowestRight = getElement(tb_verzeichnisNamen).y2;
-    }
     // positionElement( left, tb_profil, 0,  10, 0, 0);
-    setDimensions(tb_profil, pageWidth/3 - 3, headerHeight, 0, 0);
+    setDimensions(left, tb_profil, pageWidth/3 - 3, headerHeight, 0, 0);
 
-    checkHeight(tb_profil);
+    if(left) {
+        lowestLeft = getElement(tb_profil).y;
+    } else {
+        lowestRight = getElement(tb_profil).y;
+    }
+
+    checkHeight(left, tb_profil);
 
     // tb_profil.select(SelectionOptions.ADD_TO);
 
@@ -350,15 +352,13 @@ function addGroup(index, left) {
     } else {
         positionElement( left, tb_position, pageWidth / 3 + 3, lowestLeft, 0, 0);
     }
-    
-    if(left) {
-        lowestLeft = getElement(tb_verzeichnisNamen).y2;
-    } else {
-        lowestRight = getElement(tb_verzeichnisNamen).y2;
-    }
+    setDimensions(left, tb_position, pageWidth/3 - 3, headerHeight, 0, 0);
 
-        // positionElement( left, tb_profil, 0,  10, 0, 0);
-    setDimensions(tb_position, pageWidth/3 - 3, headerHeight, 0, 0);
+    if(left) {
+        lowestLeft = getElement(tb_profil).y;
+    } else {
+        lowestRight = getElement(tb_profil).y;
+    }
 
     // tb_position.select(SelectionOptions.ADD_TO);
 
@@ -377,13 +377,8 @@ function addGroup(index, left) {
         positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6, lowestLeft, 0, 0);
     }
 
-    if(left) {
-        lowestLeft = getElement(tb_verzeichnisNamen).y2;
-    } else {
-        lowestRight = getElement(tb_verzeichnisNamen).y2;
-    }
         // positionElement( left, tb_profil, 0,  10, 0, 0);
-    setDimensions(tb_uhrzeit, pageWidth/3 - 3, headerHeight, 0, 0);
+    setDimensions(left, tb_uhrzeit, pageWidth/3 - 3, headerHeight, 0, 0);
 
     // tb_uhrzeit.select(SelectionOptions.ADD_TO);
 
@@ -393,9 +388,9 @@ function addGroup(index, left) {
 
     var tb_art = createTextbox('tb_art', id, 'ART\n' + data[index].Art_.toUpperCase(), itemsToGroup, 8);
     positionElement( left, tb_art, pageWidth/6 * 0, getElement(tb_profil).y2 + 2);
-    setDimensions(tb_art, pageWidth/6, null, 0, 0);
+    setDimensions(left, tb_art, pageWidth/6, null, 0, 0);
 
-    checkHeight(tb_art);
+    checkHeight(left, tb_art);
 
     // ===============
     // Aufbau
@@ -403,7 +398,7 @@ function addGroup(index, left) {
 
     var tb_aufbau = createTextbox('tb_aufbau', id, 'AUFBAU\n' + data[index].Aufbau_.toUpperCase(), itemsToGroup, 8);
     positionElement( left, tb_aufbau, pageWidth/6 * 1, getElement(tb_profil).y2 + 2);
-    setDimensions(tb_aufbau, pageWidth/6, null, 0, 0);
+    setDimensions(left, tb_aufbau, pageWidth/6, null, 0, 0);
 
     // ===============
     // Medium
@@ -411,7 +406,7 @@ function addGroup(index, left) {
 
     var tb_medium = createTextbox('tb_medium', id, 'MEDIUM\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
     positionElement( left, tb_medium, pageWidth/6 * 2, getElement(tb_profil).y2 + 2);
-    setDimensions(tb_medium, pageWidth/6, null, 0, 0);
+    setDimensions(left, tb_medium, pageWidth/6, null, 0, 0);
 
     // ===============
     // Gesinnung X
@@ -419,7 +414,7 @@ function addGroup(index, left) {
 
     var tb_gesinnungX = createTextbox('tb_gesinnungX', id, 'GESINNUNG X\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
     positionElement( left, tb_gesinnungX, pageWidth/6 * 3, getElement(tb_profil).y2 + 2);
-    setDimensions(tb_gesinnungX, pageWidth/6, null, 0, 0);
+    setDimensions(left, tb_gesinnungX, pageWidth/6, null, 0, 0);
 
     // ===============
     // Gesinnung Y
@@ -427,7 +422,7 @@ function addGroup(index, left) {
 
     var tb_gesinnungY = createTextbox('tb_gesinnungY', id, 'GESINNUNG Y\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
     positionElement( left, tb_gesinnungY, pageWidth/6 * 4, getElement(tb_profil).y2 + 2);
-    setDimensions(tb_gesinnungY, pageWidth/6, null, 0, 0);
+    setDimensions(left, tb_gesinnungY, pageWidth/6, null, 0, 0);
 
     // ===============
     // Verlässlichkeit
@@ -435,7 +430,7 @@ function addGroup(index, left) {
 
     var tb_verlasslichkeit = createTextbox('tb_verlasslichkeit', id, 'VERLÄSSLICHKEIT\n' + data[index].Medium_.toUpperCase(), itemsToGroup, 8);
     positionElement( left, tb_verlasslichkeit, pageWidth/6 * 5, getElement(tb_profil).y2 + 2);
-    setDimensions(tb_verlasslichkeit, pageWidth/6, null, 0, 0);
+    setDimensions(left, tb_verlasslichkeit, pageWidth/6, null, 0, 0);
 
 
     addLine(left, 0, getElement(tb_verlasslichkeit).y2 + 2 , pageWidth, itemsToGroup);
@@ -466,23 +461,23 @@ function addGroup(index, left) {
 
     var tb_text_postTyp = createTextbox('tb_text_postTyp', id, 'POST', itemsToGroup, 14);
     positionElement( left, tb_text_postTyp, pageWidth/3 * 0, getElement(tb_art).y2 + 5);
-    setDimensions(tb_text_postTyp, pageWidth/ 3, null, 0, 0);
+    setDimensions(left, tb_text_postTyp, pageWidth/ 3, null, 0, 0);
 
-    checkHeight(tb_text_postTyp);
+    checkHeight(left, tb_text_postTyp);
 
     // Post Name
 
     var tb_text_postName = createTextbox('tb_text_postName', id, postName.toUpperCase(), itemsToGroup, 14);
     tb_text_postName.paragraphs[0].justification = Justification.CENTER_ALIGN;
     positionElement( left, tb_text_postName, pageWidth/3 * 1, getElement(tb_art).y2 + 5);
-    setDimensions(tb_text_postName, pageWidth/3, null, 0, 0);
+    setDimensions(left, tb_text_postName, pageWidth/3, null, 0, 0);
 
     // Post Datum
 
     var tb_text_postDatum = createTextbox('tb_text_postDatum', id, postDatum, itemsToGroup, 14);
     tb_text_postDatum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
     positionElement( left, tb_text_postDatum, pageWidth/3 * 2, getElement(tb_art).y2 + 5);
-    setDimensions(tb_text_postDatum, pageWidth/3, null, 0, 0);
+    setDimensions(left, tb_text_postDatum, pageWidth/3, null, 0, 0);
 
     // Post Body Text
 
@@ -493,17 +488,17 @@ function addGroup(index, left) {
     // tb_text_postBodyText.paragraphs[0].kerning = "-5";
     // tb_text_postBodyText.paragraphs[0].tracking = "-10";
     positionElement( left, tb_text_postBodyText, 0, getElement(tb_text_postTyp).y2 + 4);
-    setDimensions(tb_text_postBodyText, pageWidth, null, 0, 2);
+    setDimensions(left, tb_text_postBodyText, pageWidth, null, 0, 2);
 
     addLine(left, 0, getElement(tb_text_postBodyText).y2 + 2 , pageWidth, itemsToGroup);
 
-    checkHeight(tb_text_postBodyText);
+    checkHeight(left, tb_text_postBodyText);
 
     if (artikelName) {
 
         var tb_text_artikelTyp = createTextbox('tb_text_artikelTyp', id, 'ARTIKEL', itemsToGroup, 14);
         positionElement( left, tb_text_artikelTyp, colGutter * 2, getElement(tb_text_postBodyText).y2 + 7);
-        setDimensions(tb_text_artikelTyp, colGutter * 3, null, 0, 0);
+        setDimensions(left, tb_text_artikelTyp, colGutter * 3, null, 0, 0);
 
 
         if (artikelName) {
@@ -512,7 +507,7 @@ function addGroup(index, left) {
             var tb_text_artikelName = createTextbox('tb_text_artikelName', id, artikelName.toUpperCase(), itemsToGroup, 14);
             tb_text_artikelName.paragraphs[0].justification = Justification.CENTER_ALIGN;
             positionElement( left, tb_text_artikelName, colGutter * 5, getElement(tb_text_postBodyText).y2 + 7);
-            setDimensions(tb_text_artikelName, colGutter * 8, null, 0, 0);
+            setDimensions(left, tb_text_artikelName, colGutter * 8, null, 0, 0);
 
         }
         
@@ -523,7 +518,7 @@ function addGroup(index, left) {
             var tb_text_artikelDatum = createTextbox('tb_text_artikelDatum', id, artikelDatum, itemsToGroup, 14);
             tb_text_artikelDatum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
             positionElement( left, tb_text_artikelDatum, colGutter * 13, getElement(tb_text_postBodyText).y2 + 7);
-            setDimensions(tb_text_artikelDatum, colGutter * 3 - gutter, null, 0, 0);
+            setDimensions(left, tb_text_artikelDatum, colGutter * 3 - gutter, null, 0, 0);
         }
         
         if (artikelTitel) {
@@ -537,11 +532,11 @@ function addGroup(index, left) {
             // tb_text_artikelTitel.paragraphs[0].kerning = "-5";
             // tb_text_artikelTitel.paragraphs[0].tracking = "-10";
             positionElement( left, tb_text_artikelTitel, colGutter * 2, getElement(tb_text_artikelTyp).y2 + 4);
-            setDimensions(tb_text_artikelTitel, colGutter * 14 - gutter, null, 0, 0);
+            setDimensions(left, tb_text_artikelTitel, colGutter * 14 - gutter, null, 0, 0);
 
             addLine(left, colGutter * 2, getElement(tb_text_artikelTitel).y2 + 2 , colGutter * 14, itemsToGroup);
 
-            checkHeight(tb_text_artikelTitel);
+            checkHeight(left, tb_text_artikelTitel);
         }
 
         if (artikelAuthor) {
@@ -551,7 +546,7 @@ function addGroup(index, left) {
             var tb_text_artikelAuthor = createTextbox('tb_text_artikelAuthor', id, artikelAuthor.toUpperCase(), itemsToGroup, 14);
             tb_text_artikelAuthor.paragraphs[0].justification = Justification.RIGHT_ALIGN;
             positionElement( left, tb_text_artikelAuthor, colGutter * 2, getElement(tb_text_artikelTitel).y2 + 4);
-            setDimensions(tb_text_artikelAuthor, colGutter * 14 - gutter, null, 0, 0);
+            setDimensions(left, tb_text_artikelAuthor, colGutter * 14 - gutter, null, 0, 0);
         }
 
         if (artikelLead) {
@@ -562,9 +557,9 @@ function addGroup(index, left) {
             tb_text_artikelLead.paragraphs[0].leading = "9pt";
             tb_text_artikelLead.paragraphs[0].justification = Justification.CENTER_ALIGN;
             positionElement( left, tb_text_artikelLead, colGutter * 4, getElement(tb_text_artikelAuthor).y2 + 7);
-            setDimensions(tb_text_artikelLead, colGutter * 10 - gutter, null, 0, 0);
+            setDimensions(left, tb_text_artikelLead, colGutter * 10 - gutter, null, 0, 0);
 
-            checkHeight(tb_text_artikelLead);
+            checkHeight(left, tb_text_artikelLead);
         }
 
         if (artikelBodyTexts) {
@@ -579,9 +574,9 @@ function addGroup(index, left) {
                 tb_text_artikelBodyText.paragraphs[0].leading = "9pt";
                 tb_text_artikelBodyText.paragraphs[0].justification = Justification.CENTER_ALIGN;
                 positionElement( left, tb_text_artikelBodyText, colGutter * 4, lowestParagraphPoint + 7);
-                setDimensions(tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
+                setDimensions(left, tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
 
-                checkHeight(tb_text_artikelBodyText);
+                checkHeight(left, tb_text_artikelBodyText);
                 lowestParagraphPoint = getElement(tb_text_artikelBodyText).y2;
             }
 
@@ -591,14 +586,14 @@ function addGroup(index, left) {
             //     tb_text_artikelBodyText.paragraphs[0].leading = "9pt";
             //     tb_text_artikelBodyText.paragraphs[0].justification = Justification.CENTER_ALIGN;
             //     positionElement( left, tb_text_artikelBodyText, colGutter * 4, getElement(tb_text_artikelLead).y2 + 7);
-            //     setDimensions(tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
+            //     setDimensions(left, tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
             // }
 
             // var tb_text_artikelBodyText = createTextbox('tb_text_artikelBodyText', id, artikelBodyTexts, itemsToGroup, 8);
             // tb_text_artikelBodyText.paragraphs[0].leading = "9pt";
             // tb_text_artikelBodyText.paragraphs[0].justification = Justification.CENTER_ALIGN;
             // positionElement( left, tb_text_artikelBodyText, colGutter * 4, getElement(tb_text_artikelLead).y2 + 7);
-            // setDimensions(tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
+            // setDimensions(left, tb_text_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
 
 
         }
@@ -606,11 +601,11 @@ function addGroup(index, left) {
 
     // var tb_text_artikelDatum = createTextbox('tb_text_artikelDatum', id, artikelDatum, itemsToGroup, 12);
     // positionElement( left, tb_text_artikelDatum, pageWidth/6, getElement(tb_text_postBodyText).y2);
-    // setDimensions(tb_text_artikelDatum, pageWidth/6, null, 0, 0);
+    // setDimensions(left, tb_text_artikelDatum, pageWidth/6, null, 0, 0);
 
     // var tb_text_artikelBodytext = createTextbox('tb_text_artikelBodytext', id, artikelBodytext, itemsToGroup, 12);
     // positionElement( left, tb_text_artikelBodytext, pageWidth/6 * 2, getElement(tb_text_postBodyText).y2);
-    // setDimensions(tb_text_artikelBodytext, pageWidth/6*3, null, 0, 0);
+    // setDimensions(left, tb_text_artikelBodytext, pageWidth/6*3, null, 0, 0);
 
 
     // var tb_linkBild = page.textFrames.add();
@@ -649,7 +644,7 @@ function addGroup(index, left) {
 //     // image.fit(FitOptions.frameToContent);
 
 //     positionElement( left, image, 2, 2, 0, 0);
-//     setDimensions(image, null, 10, 0, 0);
+//     setDimensions(left, image, null, 10, 0, 0);
 
 //     var text = doc.pages.item(currentPage).textFrames.add();
 //     text.contents = data[index].Bildunterschriften_ || 'unknown';
@@ -679,7 +674,7 @@ function positionElement( left, element, x, y) {
     // element.recompose();
     element.fit(FitOptions.frameToContent);
 
-    x = left ? x + 8 : x + 18;
+    x = left ? x + 8 : x + page.bounds[3] -  page.bounds[1] + 18;
     
     var elementWidth = element.geometricBounds[3] -  element.geometricBounds[1];
     var elementHeight = element.geometricBounds[2] -  element.geometricBounds[0];
@@ -708,7 +703,7 @@ function getElement(element) {
     return item;
 }
 
-function setDimensions(element, width, height, spacingRight, spacingBottom) {
+function setDimensions(left, element, width, height, spacingRight, spacingBottom) {
 
     var dimensions = element.geometricBounds;
 
@@ -734,6 +729,13 @@ function setDimensions(element, width, height, spacingRight, spacingBottom) {
 
     if (spacingBottom) {
         element.geometricBounds = [dimensions[0], dimensions[1], dimensions[2] + spacingBottom, dimensions[3] ];
+    }
+
+    if(left) {
+        lowestLeft = getElement(element).y2;
+    }
+    else {
+        lowestRight = getElement(element).y2;
     }
 
 }
@@ -770,7 +772,7 @@ function getMultipleTexts(fullText, type) {
 
 function addLine(left, x, y, length, array) {
 
-    x = left ? x + 8 : x + 18;
+    x = left ? x + 8 : x + page.bounds[3] -  page.bounds[1] + 18;    
        
     var myLine = doc.pages.item(currentPage).graphicLines.add();  
     
@@ -791,34 +793,39 @@ function plotStraightLine(obj, x1, y1, x2, y2) {
     obj.paths.item(0).pathPoints.item(1).anchor = [x2, y2];  
 }  
 
-function checkHeight(item) {
+function checkHeight(left, item) {
 
     var itemHeight = getElement(item).y2 - borderTopBottom;
     var itemData = getElement(item);
 
     if(itemHeight > pageHeight) {
-        if(leftPage && currentPage >= lastPage - 1) {
-            doc.pages.add();
-            doc.pages.add();
+        if(left) {
+            if (currentLeftPage >= lastPage - 1) {
+                doc.pages.add();
+                doc.pages.add();
+                lastPage += 2;
+            }
+
             currentLeftPage += 2;
             currentPage = currentLeftPage;
-            lastPage += 2;
             lowestLeft = borderTopBottom;
             newPageLeft = true;
-            item.move(doc.pages[currentPage])
-            positionElement(true, item, itemData.x, borderTopBottom, 0, 0)
-        }
+            item.move(doc.pages[currentLeftPage])
+            positionElement(true, item, itemData.x - 8, borderTopBottom, 0, 0)
 
-        else if(!leftPage && currentPage >= lastPage) {
-            doc.pages.add();
-            doc.pages.add();
+        } else if(!left) {
+            if (currentRightPage >= lastPage) {
+                doc.pages.add();
+                doc.pages.add();
+                lastPage += 2;
+            }
+
             currentRightPage += 2;
-            currentPage = currentLeftPage;
-            lastPage += 2;
+            currentPage = currentRightPage;
             lowestRight = borderTopBottom;
             newPageRight = true;
-            item.move(doc.pages[currentPage])
-            positionElement(false, item, itemData.x, borderTopBottom, 0, 0)
+            item.move(doc.pages[currentRightPage])
+            positionElement(false, item, itemData.x - (page.bounds[3] - page.bounds[1] + 18), borderTopBottom, 0, 0)
         }
     }
 }
@@ -828,19 +835,19 @@ function createHeader(positioningElement, persona, date, groupArray, left) {
     var header_woche = createTextbox('header_woche', 'header', 'WOCHE ' + week, groupArray, 8);
     header_woche.paragraphs[0].leading = 9;
     positionElement( left, header_woche, 0, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(header_woche, pageWidth/3 - 3, headerHeight, 0, 0);
+    setDimensions(left, header_woche, pageWidth/3 - 3, headerHeight, 0, 0);
 
     var header_persona = createTextbox('header_persona', 'header', 'PERSONA ' + persona, groupArray, 8);
     header_persona.paragraphs[0].justification = Justification.CENTER_ALIGN;
     header_persona.paragraphs[0].leading = 9;
     positionElement( left, header_persona, pageWidth / 3 + 3, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(header_persona, pageWidth/3 - 3, headerHeight, 0, 0);
+    setDimensions(left, header_persona, pageWidth/3 - 3, headerHeight, 0, 0);
 
     var header_datum = createTextbox('header_datum', 'header', date, groupArray, 8);
     header_datum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
     header_datum.paragraphs[0].leading = 9;
     positionElement( left, header_datum, pageWidth/3 * 2 + 6, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(header_datum, pageWidth/3 - 3, headerHeight, 0, 0);
+    setDimensions(left, header_datum, pageWidth/3 - 3, headerHeight, 0, 0);
 
-    checkHeight(header_woche);
+    checkHeight(left, header_woche);
 }
