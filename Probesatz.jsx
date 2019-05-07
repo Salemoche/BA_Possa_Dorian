@@ -4,7 +4,7 @@ var data =
 [
     [
         {
-            "Profil_": "RH",
+            "Profil_": "DD",
             "Position_": "A",
             "Datum_": "26_03_2019",
             "Phase_": "Phase 01",
@@ -264,7 +264,10 @@ var currentLeftPage = currentPage;
 var currentRightPage = currentPage + 1;
 var lowestLeft = borderTopBottom;
 var lowestRight = borderTopBottom;
-var lowestTotal;
+var dayPosition = {
+    y: 18,
+    page: currentPage
+};
 var siteTopLeft = borderTopBottom;
 var siteTopRight = borderTopBottom;
 var newPageLeft = true;
@@ -472,10 +475,38 @@ function addDay(profile, index, left) {
 
     } else {
         if(left) {
-            positionElement( left, tb_profil, 0, lowestLeft, 0, 0);
+            positionElement( left, tb_profil, 0, dayPosition.y, 0, 0);
         } else {
-            positionElement( left, tb_profil, 0, lowestRight, 0, 0);
+            positionElement( left, tb_profil, 0, dayPosition.y, 0, 0);
         }
+    }
+
+    if (left && currentLeftPage >= currentRightPage - 1) {
+        dayPosition.page = currentLeftPage;
+        currentRightPage = currentLeftPage + 1;
+        dayPosition.y = getElement(tb_profil).y;
+        alert('because the left page is higher, the position is: ' + dayPosition.y)
+    } 
+
+    if (left && getElement(tb_profil).y > dayPosition.y && currentLeftPage >= currentRightPage - 1) {
+        dayPosition.y = getElement(tb_profil).y;
+        currentRightPage = currentLeftPage + 1;
+        dayPosition.page = currentLeftPage;
+        alert('because the left page is higher and the position is lower, the position is: ' + dayPosition.y)
+    }
+
+    if (!left && currentRightPage >= currentLeftPage + 1) {
+        dayPosition.page = currentRightPage;
+        currentLeftPage = currentRightPage - 1;
+        dayPosition.y = getElement(tb_profil).y;
+        alert('because the right page is higher, the position is: ' + dayPosition.y)
+    }
+
+    if (!left && getElement(tb_profil).y > dayPosition.y) {
+        dayPosition.y = getElement(tb_profil).y;
+        currentLeftPage = currentRightPage - 1;
+        dayPosition.page = currentRight;
+        alert('because the right page is higher and the position is lower, the position is: ' + dayPosition.y)
     }
 
     // positionElement( left, tb_profil, 0,  10, 0, 0);
@@ -502,7 +533,7 @@ function addDay(profile, index, left) {
     tb_position.strokeWeight = 0.75; 
     tb_position.paragraphs[0].leading = headerHeight * 3;
     if (data[profile][index].VorschlägeNamen_) {
-        positionElement( left, tb_position, pageWidth / 3 + 3,  getElement(tb_likeVorschlageTitel).y2 + 20, 0, 0);
+        positionElement( left, tb_position, pageWidth / 3 + 3,  getElement(tb_likeVorschlageTitel).y2, 0, 0);
     } else {
         if(left) {
             positionElement( left, tb_position, pageWidth / 3 + 3, lowestLeft, lowestLeft, 0, 0);
@@ -530,7 +561,7 @@ function addDay(profile, index, left) {
     tb_uhrzeit.strokeWeight = 0.75; 
     tb_uhrzeit.paragraphs[0].leading = headerHeight * 3;
     if (data[profile][index].VorschlägeNamen_) {
-        positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6,  getElement(tb_likeVorschlageTitel).y2 + 20, 0, 0);
+        positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6,  getElement(tb_likeVorschlageTitel).y2, 0, 0);
     } else {
         if(left) {
             positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6, lowestLeft, lowestLeft, 0, 0);
