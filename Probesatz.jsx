@@ -6941,7 +6941,7 @@ var data =
           "Art_": "Zeitung",
           "Aufbau_": "Post-Artikel",
           "Medium_": "Text-Bild",
-          "Bodytext_": "*pn*NZZ Neue Zürcher Zeitung*/pn*\n\n*pd*25-03-19*/pd*\n\n*pb*Mit der bürgerlichen Mehrheit im Zürcher Kantonsrat ist es vorbei. GLP und Grüne jubilieren.\n\nDas ist eine spannende Ausgangslage auch für die nationalen Wahlen:*/pb*\n\n*an*Neue Zürcher Zeitung*/an*\n\n*ad*25-03-19*/ad*\n\n*aa*Jan Hudec*/aa*\n\n*at*Die Bürgerlichen erleben bei den Zürcher Wahlen ihr grünes Wunder*/at*\n\n*al*Mit der bürgerlichen Mehrheit im Zürcher Kantonsrat ist es vorbei. GLP und Grüne jubilieren. Eine spannende Ausgangslage auch für die nationalen Wahlen.*/al*\n\n*ab*Es war fast wie auf einer Safari – und das mitten in der Stadt Zürich. Als die Fotografen und Journalisten am Sonntagnachmittag in der Ferne Martin Neukom erblicken, bricht helle Aufregung aus. Sekunden später ist der Zürcher Neo-Regierungsrat umringt von Kameras und Mikrofonen. Noch vor einigen Monaten kannten den unscheinbaren 32-jährigen Kantonsrat der Grünen nur Polit-Insider. Am Sonntag wurde er zum Star. Er verkörpert wie kein anderer die Sensation, die sich bei den Zürcher Wahlen ereignet hat. Beflügelt von den Klimademonstrationen der letzten Monate konnten die Grünen und die Grünliberalen ihre Wähleranteile im Kantonsrat um je rund 5 Prozentpunkte steigern und je 9 Sitze dazugewinnen. Wohl noch überraschender ist, wie es Neukom schaffte, auf Kosten der FDP in den Zürcher Regierungsrat einzuziehen.\nDas ist die zweite Geschichte, welche die Zürcher Wahlen geschrieben haben. Es ist die Geschichte einer brutalen Niederlage für die Bürgerlichen. Da wäre einmal die FDP. Zum ersten Mal überhaupt wird sie nicht mehr mit mindestens zwei Sitzen im Zürcher Regierungsrat vertreten sein. Ihr Kandidat Thomas Vogel verpasste es, den Sitz des scheidenden Gesundheitsdirektors Thomas Heiniger zu verteidigen. FDP-Präsident Hans-Jakob Boesch sprach von einer dramatischen Niederlage. Vogel nahm er jedoch in Schutz. Er sei ein starker Kandidat gewesen, der sich im Wahlkampf voll engagiert habe. Die Ursache für den Sitzverlust ortete er vor allem in der politischen Grosswetterlage. «Den Effekt der grünen Welle darf man nicht unterschätzen», meinte Boesch.\nDieser Welle hatte das bürgerliche Bündnis aus SVP, FDP und CVP wenig entgegenzustellen. Der Tenor der doch etwas schlichten Kampagne lautete: Dem Kanton geht es gut, und das liegt daran, dass er bürgerlich regiert ist. Boesch räumte ein, dass man in Sachen Klimapolitik ein Defizit habe, die FDP sei aber daran, hier aufzuholen. Ohnehin waren es auch nicht die Liberalen, die am Wahlsonntag am härtesten getroffen wurden. Die BDP schaffte es nicht über die 5-Prozent-Hürde und ist damit nicht mehr im Kantonsrat vertreten. Deren sichtlich enttäuschter Fraktionspräsident Marcel Lenggenhager meinte: «Ich bin überzeugt, die BDP wird dem Kanton Zürich fehlen.» Doch er gab sich kämpferisch. «In vier Jahren stehen wir hoffentlich wieder da.» Und die Nationalratswahlen seien die nächste Gelegenheit für die BDP, sich zu zeigen.*/ab*\n\n*al*Herber Verlust für die SVP*/al*\n*ab*Die ganz grosse Wahlverliererin ist die SVP, die zum ersten Mal seit Jahrzehnten einen derart drastischen Rückschlag einstecken musste: Sie hat über 5 Prozentpunkte Wähleranteil eingebüsst – sie liegt nun noch bei 24,5 Prozent – und hat 9 ihrer 54 Sitze verloren. Der Parteipräsident der SVP Konrad Langhart meinte, er habe zwar mit Verlusten gerechnet, aber nicht in diesem Ausmass. «Das grüne Lager hat besser mobilisieren können», sagte er. «Das müssen wir akzeptieren.» Momentan gebe es aber einen gesamtschweizerischen Trend, der nicht für die SVP spreche. Er sei nach wie vor davon überzeugt, dass die Kernthemen der SVP wie das Verhältnis zur EU oder die Migration und das damit zusammenhängende Bevölkerungswachstum wichtig bleiben würden.\nDie SVP konnte sich immerhin damit trösten, dass sie mit Nationalrätin Natalie Rickli den zweiten Sitz der Partei im Regierungsrat verteidigen konnte. Allerdings reichte es der national bekannten Politikerin nur auf den letzten Platz der sieben gewählten Regierungsräte. Neukom klassierte sich einen Rang vor ihr.\nRickli gab sich mit dem Resultat dennoch zufrieden. Sie selbst sei immer davon ausgegangen, dass es knapp werde. Möglicherweise habe es sie Stimmen gekostet, dass sie sich nicht verbogen habe im Wahlkampf. Aber: «Mir war es wichtig, mir selber treu zu bleiben.» Es sei jedoch schade, dass Thomas Vogel nicht gewählt worden sei. «Ich hätte gerne mit ihm zusammengearbeitet», sagte Rickli. Wichtig sei, dass der Regierungsrat weiterhin bürgerlich dominiert bleibe. Dies sei mit einer 4-zu-3-Mehrheit gewährleistet. Die bisherigen Regierungsräte Ernst Stocker (svp.), Carmen Walker Späh (fdp.), Silvia Steiner (cvp.), Mario Fehr und Jacqueline Fehr (beide SP) wurden im Amt bestätigt.*ab*\n\n*al*Neue Mehrheiten im Parlament*/al*\n*ab*Im Kantonsrat ist die bürgerliche Mehrheit dagegen passé. Die letzten vier Jahre konnten SVP, FDP und CVP gemeinsam die Politik im Zürcher Kantonsrat bestimmen. Im neu zusammengesetzten Parlament verfügt das rot-grüne Lager zusammen mit der EVP und der GLP über eine Mehrheit. Das dürfte sich zwar in der Sozial- und Finanzpolitik nicht allzu stark auswirken, da in diesen Fragen die GLP in der Regel mit den Bürgerlichen stimmt. In Umwelt-, Energie- und Verkehrsfragen dürfte künftig hingegen ein anderer Wind wehen.\nFDP-Präsident Boesch ist denn auch gespannt, wie sich die GLP positionieren wird: «Steht das L in ihrem Namen für links oder für liberal?» Corina Gredig, Co-Präsidentin der Grünliberalen, meinte dazu, dass ihre Partei in Zukunft vermehrt die Rolle der Brückenbauerin wahrnehmen werde. In ökologischen Fragen will die GLP freilich Akzente setzen. «Es ist sicher so, dass in den vergangenen vier Jahren im Zürcher Kantonsrat in umweltpolitischer Hinsicht sehr wenig geschehen ist», sagte Gredig. Das Wahlergebnis sei auch eine Konsequenz daraus. «Es wäre nicht so deutlich zu unseren Gunsten ausgefallen, wenn es bei diesen Themen im Kanton Zürich mehr vorwärtsgegangen wäre.»*/ab*\n\n*al*Vorbote für nationale Wahlen*/al*\n*ab*Mit dem Fokus auf den grünen Parteien blieb die SP für einmal im Schatten. Ihre Sitze in der Regierung waren ungefährdet, im Kantonsrat haben die Sozialdemokraten jedoch einen Sitz verloren. Am Wähleranteil änderte sich allerdings nicht viel, dieser bewegt sich seit einiger Zeit knapp unter 20 Prozent. Enttäuscht sei er nicht, sagte Co-Präsident Andreas Daurù zum Wahlergebnis. Insgesamt sei es ein guter Sonntag. Zwar setze sich die SP für den Klimaschutz ein, die derzeitige Situation sei aber schon den Parteien zugutegekommen, die das Grün im Namen trügen.\nUnd den Exponenten dieser Parteien war zum Feiern zumute, allen voran Martin Neukom: «Das ist ein extrem guter Tag für mich, für die Grünen und für alle, denen ökologische Themen am Herzen liegen», sagte er. Das Wahlergebnis sei eine klare Botschaft der Bevölkerung, dass sie eine Politik wolle, die sich stärker an der Ökologie orientiere. «Die parteipolitische Landschaft hat sich grundlegend verändert, nicht nur in den Städten, auch auf dem Land.»\nDie Zürcher Wahlen sind jeweils auch ein guter Stimmungstest für die nationalen Wahlen, die im Herbst anstehen. Die bürgerlichen Parteien werden sich ein paar Gedanken machen müssen.*/ab*",
+          "Bodytext_": "*pn*NZZ Neue Zürcher Zeitung*/pn*\n\n*pd*25-03-19*/pd*\n\n*pb*Mit der bürgerlichen Mehrheit im Zürcher Kantonsrat ist es vorbei. GLP und Grüne jubilieren.\n\nDas ist eine spannende Ausgangslage auch für die nationalen Wahlen:*/pb*\n\n*an*Neue Zürcher Zeitung*/an*\n\n*ad*25-03-19*/ad*\n\n*aa*Jan Hudec*/aa*\n\n*at*Die Bürgerlichen erleben bei den Zürcher Wahlen ihr grünes Wunder*/at*\n\n*al*Mit der bürgerlichen Mehrheit im Zürcher Kantonsrat ist es vorbei. GLP und Grüne jubilieren. Eine spannende Ausgangslage auch für die nationalen Wahlen.*/al*\n\n*ab*Es war fast wie auf einer Safari – und das mitten in der Stadt Zürich. Als die Fotografen und Journalisten am Sonntagnachmittag in der Ferne Martin Neukom erblicken, bricht helle Aufregung aus. Sekunden später ist der Zürcher Neo-Regierungsrat umringt von Kameras und Mikrofonen. Noch vor einigen Monaten kannten den unscheinbaren 32-jährigen Kantonsrat der Grünen nur Polit-Insider. Am Sonntag wurde er zum Star. Er verkörpert wie kein anderer die Sensation, die sich bei den Zürcher Wahlen ereignet hat. Beflügelt von den Klimademonstrationen der letzten Monate konnten die Grünen und die Grünliberalen ihre Wähleranteile im Kantonsrat um je rund 5 Prozentpunkte steigern und je 9 Sitze dazugewinnen. Wohl noch überraschender ist, wie es Neukom schaffte, auf Kosten der FDP in den Zürcher Regierungsrat einzuziehen.\nDas ist die zweite Geschichte, welche die Zürcher Wahlen geschrieben haben. Es ist die Geschichte einer brutalen Niederlage für die Bürgerlichen. Da wäre einmal die FDP. Zum ersten Mal überhaupt wird sie nicht mehr mit mindestens zwei Sitzen im Zürcher Regierungsrat vertreten sein. Ihr Kandidat Thomas Vogel verpasste es, den Sitz des scheidenden Gesundheitsdirektors Thomas Heiniger zu verteidigen. FDP-Präsident Hans-Jakob Boesch sprach von einer dramatischen Niederlage. Vogel nahm er jedoch in Schutz. Er sei ein starker Kandidat gewesen, der sich im Wahlkampf voll engagiert habe. Die Ursache für den Sitzverlust ortete er vor allem in der politischen Grosswetterlage. «Den Effekt der grünen Welle darf man nicht unterschätzen», meinte Boesch.\nDieser Welle hatte das bürgerliche Bündnis aus SVP, FDP und CVP wenig entgegenzustellen. Der Tenor der doch etwas schlichten Kampagne lautete: Dem Kanton geht es gut, und das liegt daran, dass er bürgerlich regiert ist. Boesch räumte ein, dass man in Sachen Klimapolitik ein Defizit habe, die FDP sei aber daran, hier aufzuholen. Ohnehin waren es auch nicht die Liberalen, die am Wahlsonntag am härtesten getroffen wurden. Die BDP schaffte es nicht über die 5-Prozent-Hürde und ist damit nicht mehr im Kantonsrat vertreten. Deren sichtlich enttäuschter Fraktionspräsident Marcel Lenggenhager meinte: «Ich bin überzeugt, die BDP wird dem Kanton Zürich fehlen.» Doch er gab sich kämpferisch. «In vier Jahren stehen wir hoffentlich wieder da.» Und die Nationalratswahlen seien die nächste Gelegenheit für die BDP, sich zu zeigen.*/ab*\n\n*al*Herber Verlust für die SVP*/al*\n*ab*Die ganz grosse Wahlverliererin ist die SVP, die zum ersten Mal seit Jahrzehnten einen derart drastischen Rückschlag einstecken musste: Sie hat über 5 Prozentpunkte Wähleranteil eingebüsst – sie liegt nun noch bei 24,5 Prozent – und hat 9 ihrer 54 Sitze verloren. Der Parteipräsident der SVP Konrad Langhart meinte, er habe zwar mit Verlusten gerechnet, aber nicht in diesem Ausmass. «Das grüne Lager hat besser mobilisieren können», sagte er. «Das müssen wir akzeptieren.» Momentan gebe es aber einen gesamtschweizerischen Trend, der nicht für die SVP spreche. Er sei nach wie vor davon überzeugt, dass die Kernthemen der SVP wie das Verhältnis zur EU oder die Migration und das damit zusammenhängende Bevölkerungswachstum wichtig bleiben würden.\nDie SVP konnte sich immerhin damit trösten, dass sie mit Nationalrätin Natalie Rickli den zweiten Sitz der Partei im Regierungsrat verteidigen konnte. Allerdings reichte es der national bekannten Politikerin nur auf den letzten Platz der sieben gewählten Regierungsräte. Neukom klassierte sich einen Rang vor ihr.\nRickli gab sich mit dem Resultat dennoch zufrieden. Sie selbst sei immer davon ausgegangen, dass es knapp werde. Möglicherweise habe es sie Stimmen gekostet, dass sie sich nicht verbogen habe im Wahlkampf. Aber: «Mir war es wichtig, mir selber treu zu bleiben.» Es sei jedoch schade, dass Thomas Vogel nicht gewählt worden sei. «Ich hätte gerne mit ihm zusammengearbeitet», sagte Rickli. Wichtig sei, dass der Regierungsrat weiterhin bürgerlich dominiert bleibe. Dies sei mit einer 4-zu-3-Mehrheit gewährleistet. Die bisherigen Regierungsräte Ernst Stocker (svp.), Carmen Walker Späh (fdp.), Silvia Steiner (cvp.), Mario Fehr und Jacqueline Fehr (beide SP) wurden im Amt bestätigt.*/ab*\n\n*al*Neue Mehrheiten im Parlament*/al*\n*ab*Im Kantonsrat ist die bürgerliche Mehrheit dagegen passé. Die letzten vier Jahre konnten SVP, FDP und CVP gemeinsam die Politik im Zürcher Kantonsrat bestimmen. Im neu zusammengesetzten Parlament verfügt das rot-grüne Lager zusammen mit der EVP und der GLP über eine Mehrheit. Das dürfte sich zwar in der Sozial- und Finanzpolitik nicht allzu stark auswirken, da in diesen Fragen die GLP in der Regel mit den Bürgerlichen stimmt. In Umwelt-, Energie- und Verkehrsfragen dürfte künftig hingegen ein anderer Wind wehen.\nFDP-Präsident Boesch ist denn auch gespannt, wie sich die GLP positionieren wird: «Steht das L in ihrem Namen für links oder für liberal?» Corina Gredig, Co-Präsidentin der Grünliberalen, meinte dazu, dass ihre Partei in Zukunft vermehrt die Rolle der Brückenbauerin wahrnehmen werde. In ökologischen Fragen will die GLP freilich Akzente setzen. «Es ist sicher so, dass in den vergangenen vier Jahren im Zürcher Kantonsrat in umweltpolitischer Hinsicht sehr wenig geschehen ist», sagte Gredig. Das Wahlergebnis sei auch eine Konsequenz daraus. «Es wäre nicht so deutlich zu unseren Gunsten ausgefallen, wenn es bei diesen Themen im Kanton Zürich mehr vorwärtsgegangen wäre.»*/ab*\n\n*al*Vorbote für nationale Wahlen*/al*\n*ab*Mit dem Fokus auf den grünen Parteien blieb die SP für einmal im Schatten. Ihre Sitze in der Regierung waren ungefährdet, im Kantonsrat haben die Sozialdemokraten jedoch einen Sitz verloren. Am Wähleranteil änderte sich allerdings nicht viel, dieser bewegt sich seit einiger Zeit knapp unter 20 Prozent. Enttäuscht sei er nicht, sagte Co-Präsident Andreas Daurù zum Wahlergebnis. Insgesamt sei es ein guter Sonntag. Zwar setze sich die SP für den Klimaschutz ein, die derzeitige Situation sei aber schon den Parteien zugutegekommen, die das Grün im Namen trügen.\nUnd den Exponenten dieser Parteien war zum Feiern zumute, allen voran Martin Neukom: «Das ist ein extrem guter Tag für mich, für die Grünen und für alle, denen ökologische Themen am Herzen liegen», sagte er. Das Wahlergebnis sei eine klare Botschaft der Bevölkerung, dass sie eine Politik wolle, die sich stärker an der Ökologie orientiere. «Die parteipolitische Landschaft hat sich grundlegend verändert, nicht nur in den Städten, auch auf dem Land.»\nDie Zürcher Wahlen sind jeweils auch ein guter Stimmungstest für die nationalen Wahlen, die im Herbst anstehen. Die bürgerlichen Parteien werden sich ein paar Gedanken machen müssen.*/ab*",
           "LinkText_": "https://www.nzz.ch/zuerich/zuercher-wahlen-buergerliche-erleben-ihr-gruenes-wunder-ld.1469739?fbclid=IwAR1aTK12I5zxOslg0kOv3qvJ-4tsvf8c1UqYBSxvEnZRL1HSnp_tXlvipMg",
           "LinkBild_": "RH_B_26-03-19",
           "Bildname": "ABB-P2-002",
@@ -13854,7 +13854,7 @@ var newPageLeft = true;
 var newPageRight = true;
 
 var parStyle1 = doc.paragraphStyles.item ('Test 1');
-var parStyle2 = doc.paragraphStyles.item ('Test 2+');
+var parStyle2 = doc.paragraphStyles.item ('Test 2');
 
 var imagesRH = [
     [
@@ -14301,22 +14301,27 @@ function addDay(profile, index, left) {
         }
 
         // var artikelBodyTextArray = "";
-        var tb_artikelBodyText = createTextbox('tb_text_artikelBodyText', id, "", itemsToGroup, 8);
-        positionElement( left, tb_artikelBodyText, colGutter * 4, getElement(tb_text_artikelAuthor).y2 + 7);
+
+        var tb_artikelBodyTexts = [];
+
+        tb_artikelBodyTexts[0] = createTextbox('tb_text_artikelBodyText', id, "", itemsToGroup, 8);
+        positionElement( left, tb_artikelBodyTexts[0], colGutter * 4, getElement(tb_text_artikelAuthor).y2 + 7);
 
         for(var i = getArticleBodyText(fullText).length - 1; i >= 0; i--) {
 
-          tb_artikelBodyText.contents += '\r';  
-          tb_artikelBodyText.contents += getArticleBodyText(fullText)[i].content;
+          tb_artikelBodyTexts[0].contents += getArticleBodyText(fullText)[i].content + '\r' + '\n';
+          // alert(tb_artikelBodyTexts[0].paragraphs[0].contents)
           
           if(getArticleBodyText(fullText)[i].type == 'lead') {
-            // tb_artikelBodyText.paragraphs[i].appliedParagraphStyle = parStyle1;
-            // alert(tb_artikelBodyText.paragraphs[i]);
+            tb_artikelBodyTexts[0].paragraphs[0].appliedParagraphStyle = parStyle1;
+          // alert(tb_artikelBodyTexts[0].paragraphs[i]);
           } else {
-            // tb_artikelBodyText.paragraphs[getArticleBodyText(fullText).length - i].appliedParagraphStyle = parStyle2;            
+            // tb_artikelBodyTexts[0].contents += '\n';
+            tb_artikelBodyTexts[0].paragraphs[0].appliedParagraphStyle = parStyle2;
+              // tb_artikelBodyTexts[0].paragraphs[getArticleBodyText(fullText).length - i].appliedParagraphStyle = parStyle2;            
           }
 
-          // alert(tb_artikelBodyText.paragraphs[i]);
+          // alert(tb_artikelBodyTexts[0].paragraphs[i]);
           
           if(i == getArticleBodyText(fullText).length -1) {
 
@@ -14327,9 +14332,35 @@ function addDay(profile, index, left) {
                     
         }
 
+        // alert(pageHeight - getElement(tb_text_artikelAuthor).y2 + 7);
+        setDimensions(left, tb_artikelBodyTexts[0], colGutter * 10 - gutter, null, 0, 0);       
+        var abt = getElement(tb_artikelBodyTexts[0]);
+        tb_artikelBodyTexts[0].geometricBounds = [abt.y, abt.x, abt.y + pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, abt.x2]
 
-        setDimensions(left, tb_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);
-        setDimensions(left, tb_artikelBodyText, null, pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, 0, 0);
+        if (tb_artikelBodyTexts[0].overflows) {
+          
+          if(currentPage <= lastPage - 1) {
+            doc.pages.add();
+            doc.pages.add();
+          }
+
+          if(left) {
+            currentLeftPage += 2;
+            currentPage = currentLeftPage;
+          } else {
+            currentRightPage += 2;
+            currentPage = currentRightPage;
+          }
+        } 
+
+        tb_artikelBodyTexts[1] = createTextbox('tb_text_artikelBodyTextExtended', id, "", itemsToGroup, 8);
+        tb_artikelBodyTexts[1].previousTextFrame = tb_artikelBodyTexts[0];
+        positionElement( left, tb_artikelBodyTexts[1], colGutter * 4, borderTopBottom);
+        // setDimensions(left, tb_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);       
+        setDimensions(left, tb_artikelBodyTexts[1], abt.width, null, 0, 0);       
+
+
+        // setDimensions(left, tb_artikelBodyText, null, pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, 0, 0);
 
       //   if (artikelLead) {
 
@@ -14777,10 +14808,10 @@ function checkHeight(left, item) {
 
 function createHeader(positioningElement, persona, date, groupArray, left) {
 
-    var header_woche = createTextbox('header_woche', 'header', 'WOCHE ' + phase, groupArray, 8);
-    header_woche.paragraphs[0].leading = 9;
-    positionElement( left, header_woche, 0, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_woche, pageWidth/3 - 3, headerHeight, 0, 0);
+    var header_phase = createTextbox('header_phase', 'header', 'Phase ' + phase, groupArray, 8);
+    header_phase.paragraphs[0].leading = 9;
+    positionElement( left, header_phase, 0, getElement(positioningElement).y2 + 10, 0, 0);
+    setDimensions(left, header_phase, pageWidth/3 - 3, headerHeight, 0, 0);
 
     var header_persona = createTextbox('header_persona', 'header', 'PERSONA ' + persona, groupArray, 8);
     header_persona.paragraphs[0].justification = Justification.CENTER_ALIGN;
@@ -14794,7 +14825,7 @@ function createHeader(positioningElement, persona, date, groupArray, left) {
     positionElement( left, header_datum, pageWidth/3 * 2 + 6, getElement(positioningElement).y2 + 10, 0, 0);
     setDimensions(left, header_datum, pageWidth/3 - 3, headerHeight, 0, 0);
 
-    checkHeight(left, header_woche);
+    checkHeight(left, header_phase);
 }
 
 function createImageGrid(left) {
