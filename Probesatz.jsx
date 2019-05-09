@@ -14337,27 +14337,31 @@ function addDay(profile, index, left) {
         var abt = getElement(tb_artikelBodyTexts[0]);
         tb_artikelBodyTexts[0].geometricBounds = [abt.y, abt.x, abt.y + pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, abt.x2]
 
-        if (tb_artikelBodyTexts[0].overflows) {
+        for (var i = 0; i < tb_artikelBodyTexts.length; i++) {
+          if (tb_artikelBodyTexts[i].overflows) {
           
-          if(currentPage <= lastPage - 1) {
-            doc.pages.add();
-            doc.pages.add();
-          }
+            if(currentPage <= lastPage - 1) {
+              doc.pages.add();
+              doc.pages.add();
+            }
+  
+            if(left) {
+              currentLeftPage += 2;
+              currentPage = currentLeftPage;
+            } else {
+              currentRightPage += 2;
+              currentPage = currentRightPage;
+            }
+          } 
+  
+          tb_artikelBodyTexts[i + 1] = createTextbox('tb_text_artikelBodyTextExtended', id, "", itemsToGroup, 8);
+          tb_artikelBodyTexts[i + 1].previousTextFrame = tb_artikelBodyTexts[i];
+          positionElement( left, tb_artikelBodyTexts[i + 1], colGutter * 4, borderTopBottom);
+          // setDimensions(left, tb_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);       
+          setDimensions(left, tb_artikelBodyTexts[i + 1], abt.width, null, 0, 0); 
+        }
 
-          if(left) {
-            currentLeftPage += 2;
-            currentPage = currentLeftPage;
-          } else {
-            currentRightPage += 2;
-            currentPage = currentRightPage;
-          }
-        } 
-
-        tb_artikelBodyTexts[1] = createTextbox('tb_text_artikelBodyTextExtended', id, "", itemsToGroup, 8);
-        tb_artikelBodyTexts[1].previousTextFrame = tb_artikelBodyTexts[0];
-        positionElement( left, tb_artikelBodyTexts[1], colGutter * 4, borderTopBottom);
-        // setDimensions(left, tb_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);       
-        setDimensions(left, tb_artikelBodyTexts[1], abt.width, null, 0, 0);       
+              
 
 
         // setDimensions(left, tb_artikelBodyText, null, pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, 0, 0);
