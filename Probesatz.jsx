@@ -21,10 +21,10 @@ var data =
           "LinkBild_": "DS_A_26-03-19",
           "Bildname_": "ABB-P1-001",
           "Bildunterschriften_": "Junge Angehörige der Waffen-SS werden im Norden Frankreichs von den Amerikanern gefangen genommen (Anfang September 1944). (Bild: Imago)",
-          "Like-VorschlägeNamen_": "MySports - Home of Sports\nAdieu Heimat\nWillisauer Bote\nClaudio Spescha\nVBZ Zürich-Linie\nFussballstadion JA\nOja Schwamendingen",
-          "Like-VorschlägeGefälltMir_": "13.287\n4.679\n4.066\n193\n15.838\n4.921\n990",
-          "Like-VerzeichnisNamen_": "NZZ\nLuzerner Zeitung\nTagesspiegel\nDie Presse",
-          "Like-VerzeichnisGefälltMir_": "210.496\n27.390\n149.904\n189.311"
+          "VorschlageNamen_": "MySports - Home of Sports\nAdieu Heimat\nWillisauer Bote\nClaudio Spescha\nVBZ Zürich-Linie\nFussballstadion JA\nOja Schwamendingen",
+          "VorschlageGefalltMir_": "13.287\n4.679\n4.066\n193\n15.838\n4.921\n990",
+          "VerzeichnisNamen_": "NZZ\nLuzerner Zeitung\nTagesspiegel\nDie Presse",
+          "VerzeichnisGefalltMir_": "210.496\n27.390\n149.904\n189.311"
         },
         {
           "Profil_": "P1",
@@ -44,10 +44,10 @@ var data =
           "LinkBild_": "DS_B_26-03-19",
           "Bildname_": "ABB-P1-002",
           "Bildunterschriften_": "Bisher sind Impfungen nicht verpflichtend, Behörden und Ärzte raten aber dringend dazu.FOTO: KAY NIETFELD/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -67,10 +67,10 @@ var data =
           "LinkBild_": "DS_C_26-03-19",
           "Bildname_": "ABB-P1-003",
           "Bildunterschriften_": "Der neue Zürcher Regierungsrat mit (v.l.n.r.) Jacqueline Fehr (sp.), Martin Neukom (gp.), Natalie Rickli (svp.), Mario Fehr (sp.), Silvia Steiner (cvp.), Ernst Stocker (svp.) und Carmen Walker Späh (fdp.). (Bild: Christoph Ruckstuhl / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -90,10 +90,10 @@ var data =
           "LinkBild_": "DS_D_26-03-19",
           "Bildname_": "ABB-P1-004",
           "Bildunterschriften_": "Am kommenden Wochenende wird übrigens wieder die Sommerzeit eingestellt. Die Uhren werden um 2 Uhr auf 3 Uhr gestellt. – APA/HELMUT FOHRINGER",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -113,10 +113,10 @@ var data =
           "LinkBild_": "DS_E_26-03-19",
           "Bildname_": "ABB-P1-005",
           "Bildunterschriften_": "Axel Voss, CDU-Europapolitiker, der das Vorhaben federführend mit den EU-Staaten verhandelt hat, appellierte an die Abgeordneten,...FOTO: JEAN-FRANCOIS BADIAS/AP/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -136,10 +136,10 @@ var data =
           "LinkBild_": "DS_F_26-03-19",
           "Bildname_": "ABB-P1-006",
           "Bildunterschriften_": "Der Identitären-Anführer Martin Sellner.FOTO: IMAGO/IPON",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -159,10 +159,10 @@ var data =
           "LinkBild_": "DS_G_26-03-19",
           "Bildname_": "ABB-P1-007",
           "Bildunterschriften_": "Bahnhofsuhren als Teil einer Kunst-Installation.FOTO: DPA/FEDERICO GAMBARINI",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -182,10 +182,10 @@ var data =
           "LinkBild_": "DS_H_26-03-19",
           "Bildname_": "ABB-P1-008",
           "Bildunterschriften_": "Versicherungskarten verschiedener Krankenkassen. (Symbolbild: Gaetan Bally / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -205,10 +205,10 @@ var data =
           "LinkBild_": "DS_I_26-03-19",
           "Bildname_": "ABB-P1-009",
           "Bildunterschriften_": "Die Entscheide des Luzerner Kantonsrats vom 25. März in Kürze",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -228,10 +228,10 @@ var data =
           "LinkBild_": "DS_J_26-03-19",
           "Bildname_": "ABB-P1-010",
           "Bildunterschriften_": "Das britische Parlament hat Premierministerin Theresa May weitgehend das Heft aus der Hand genommen und will über Alternativen beim Brexit abstimmen. (Bild: Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -251,10 +251,10 @@ var data =
           "LinkBild_": "DS_A_27-03-19",
           "Bildname_": "ABB-P1-011",
           "Bildunterschriften_": "Die EU-Abgeordneten haben für eine Richtlinie zur Erneuerung des Urheberrechts gestimmt. Innerhalb von zwei Jahren müssen EU-Länder nun entsprechende Gesetze formulieren. © Foto: Jean-Francois Badias",
-          "Like-VorschlägeNamen_": "Benjamin Fischer\nMichelle Singer\nSP Kanton Aargau\nFabian Molina\nSamira Marti\nCamille Lothe\nAxel McFoley\nGSoA Gruppe für eine Schweiz ohne Armee\nSchwyzer Kantonalbank\nBasellandschaftliche Kantonalbank\nAndri Silberschmidt\nuniboeard.ch\nManillio\nSVP Kanton Schwyz\nVBZ Züri-Linie\nHerzlich willkommen in der Arschlochgesellschaft\nSt.Jakob-Park Shopping Center\nJeanloup\nmicrospot.ch\nSRG Insider\ngaeubschwarz.be\nWillisauer Bote\nNationalrat Corrado Pardini\nBrandhärd\nAlternative Linke BernFDP\nJUSO Schweiz\nFussballstadion JA \nProtell\nMichael Elsener\nJunge SVP Schweiz\nPatrizia Kummer\nLukas Reimann\nJUSO-Die wohl unnötigste Partei der Schweiz\nRainer Maria Salzgeber\nIsostar Schweiz\nAudi FIS Ski World Cup\nRevolutionäre Jugend Zürich\nJungfreisinnige\nSP Thurgau\nFunnelCheck\nTension Festival\nFabian Unteregger\nSwiss Music Awards\nJUSO Baselland\nKritisch gedacht 2.0\nAxpo\nKritische JuristInnen Fribourg\nSRF Deville\nJunge BDP Schweiz\nClaudio Spescha\neishockeyticker.ch\nRegiofussball.ch",
-          "Like-VorschlägeGefälltMir_": "1.069\n577\n1.048\n4.730\n1.183\n637\n11\n8.351\n6.977\n7.070\n4.656\n4.312\n11.666\n747\n15.839\n12.188\n99\n10.084\n7.125\n10.397\n14.671\n844\n4.068\n1.685\n10.135\n808\n8.297\n4.917\n3.934\n14.688\n10.855\n8.908\n13.979\n216\n8.187\n6.898\n8.715\n6.861\n2.900\n502\n9\n9.973\n8.791\n9.844\n1.321\n11.255\n2.500\n255\n13.943\n496\n194\n4.889\n5.165",
-          "Like-VerzeichnisNamen_": "Süddeutsche Zeitung\nDie Zeit\nTagesanzeiger\nSpiegel",
-          "Like-VerzeichnisGefälltMir_": "747.975\n473.255\n459.123\n61.071"
+          "VorschlageNamen_": "Benjamin Fischer\nMichelle Singer\nSP Kanton Aargau\nFabian Molina\nSamira Marti\nCamille Lothe\nAxel McFoley\nGSoA Gruppe für eine Schweiz ohne Armee\nSchwyzer Kantonalbank\nBasellandschaftliche Kantonalbank\nAndri Silberschmidt\nuniboeard.ch\nManillio\nSVP Kanton Schwyz\nVBZ Züri-Linie\nHerzlich willkommen in der Arschlochgesellschaft\nSt.Jakob-Park Shopping Center\nJeanloup\nmicrospot.ch\nSRG Insider\ngaeubschwarz.be\nWillisauer Bote\nNationalrat Corrado Pardini\nBrandhärd\nAlternative Linke BernFDP\nJUSO Schweiz\nFussballstadion JA \nProtell\nMichael Elsener\nJunge SVP Schweiz\nPatrizia Kummer\nLukas Reimann\nJUSO-Die wohl unnötigste Partei der Schweiz\nRainer Maria Salzgeber\nIsostar Schweiz\nAudi FIS Ski World Cup\nRevolutionäre Jugend Zürich\nJungfreisinnige\nSP Thurgau\nFunnelCheck\nTension Festival\nFabian Unteregger\nSwiss Music Awards\nJUSO Baselland\nKritisch gedacht 2.0\nAxpo\nKritische JuristInnen Fribourg\nSRF Deville\nJunge BDP Schweiz\nClaudio Spescha\neishockeyticker.ch\nRegiofussball.ch",
+          "VorschlageGefalltMir_": "1.069\n577\n1.048\n4.730\n1.183\n637\n11\n8.351\n6.977\n7.070\n4.656\n4.312\n11.666\n747\n15.839\n12.188\n99\n10.084\n7.125\n10.397\n14.671\n844\n4.068\n1.685\n10.135\n808\n8.297\n4.917\n3.934\n14.688\n10.855\n8.908\n13.979\n216\n8.187\n6.898\n8.715\n6.861\n2.900\n502\n9\n9.973\n8.791\n9.844\n1.321\n11.255\n2.500\n255\n13.943\n496\n194\n4.889\n5.165",
+          "VerzeichnisNamen_": "Süddeutsche Zeitung\nDie Zeit\nTagesanzeiger\nSpiegel",
+          "VerzeichnisGefalltMir_": "747.975\n473.255\n459.123\n61.071"
         },
         {
           "Profil_": "P1",
@@ -274,10 +274,10 @@ var data =
           "LinkBild_": "DS_B_27-03-19",
           "Bildname_": "ABB-P1-012",
           "Bildunterschriften_": "Ja zur Urheberrechtsreform Voss: \"Mit dieser Reform wird es keine Zensur geben\" Zum Video Artikel\n(Video: SZ/Reuters , Foto:dpa )",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -297,10 +297,10 @@ var data =
           "LinkBild_": "DS_C_27-03-19",
           "Bildname_": "ABB-P1-013",
           "Bildunterschriften_": "Theresa May blieb am Montag bei ihrem Kurs, das Parlament will am Mittwoch selbst die Richtung vorgeben. ",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -320,10 +320,10 @@ var data =
           "LinkBild_": "DS_D_27-03-19",
           "Bildname_": "ABB-P1-014",
           "Bildunterschriften_": "SVP-Präsident Albert Rösti: «Es scheint, als brauche es jetzt eine Initiative zur Halbierung der Rundfunkgebühren.» Foto: Adrian Moser",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -343,10 +343,10 @@ var data =
           "LinkBild_": "DS_E_27-03-19",
           "Bildname_": "ABB-P1-015",
           "Bildunterschriften_": "Ein Blick auf Bursa: Obwohl in der viertgrössten Stadt der Türkei die Arbeitslosigkeit vergleichsweise niedrig ist, sind auch hier Menschen auf subventionierte Lebensmittel angewiesen. Foto: Altan Gocher (Imago)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -366,10 +366,10 @@ var data =
           "LinkBild_": "DS_F_27-03-19",
           "Bildname_": "ABB-P1-016",
           "Bildunterschriften_": "Die Hilfsoperation \"Sophia\" wird nahezu eingestellt. (Foto: REUTERS)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -389,10 +389,10 @@ var data =
           "LinkBild_": "DS_G_27-03-19",
           "Bildname_": "ABB-P1-017",
           "Bildunterschriften_": "Eine Explosion in Gaza-Stadt nach einem israelischen Luftangriff. (Foto: AFP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -412,10 +412,10 @@ var data =
           "LinkBild_": "DS_H_27-03-19",
           "Bildname_": "ABB-P1-018",
           "Bildunterschriften_": "Thomas Haldenwang, der neue Präsident des Bundesamts für Verfassungsschutz (links) neben Bundesinnenminister Horst Seehofer (CSU). (Foto: Michael Kappeler/dpa)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -435,10 +435,10 @@ var data =
           "LinkBild_": "DS_I_27-03-19",
           "Bildname_": "ABB-P1-019",
           "Bildunterschriften_": "Eines der zerstörten Wahlplakate in Grosswangen. (Bild: Angela Pfäffli)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -458,10 +458,10 @@ var data =
           "LinkBild_": "DS_J_27-03-19",
           "Bildname_": "ABB-P1-020",
           "Bildunterschriften_": "Nicht jeder Progressive ist auch liberal. (Bild: Christoph Ruckstuhl / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -481,10 +481,10 @@ var data =
           "LinkBild_": "DS_A_28-03-19",
           "Bildname_": "ABB-P1-021",
           "Bildunterschriften_": "KonzernpatriotInnen im Einsatz: Jürg Grossen, Isabelle Chevalley und Martin Bäumle (alle GLP) werben für die Unternehmenssteuerreform III, September 2016.\nFOTO: PETER SCHNEIDER, KEYSTONE",
-          "Like-VorschlägeNamen_": "Fabian Molina\nSamira Marti\nCamille Lothe\nAxel McFoley\nGSoA Gruppe für eine Schweiz ohne Armee\nBenjamin Fischer\nMichelle Singer\nSP Kanton Aargau\nSchwyzer Kantonalbank\nBasellandschaftliche Kantonalbank\nAndri Silberschmidt\nuniboeard.ch\nManillio\nSVP Kanton Schwyz\nVBZ Züri-Linie\nFDP\nJUSO Schweiz\nFussballstadion JA \nProtell\nMichael Elsener\nJunge SVP Schweiz\nPatrizia Kummer\nLukas Reimann\nJUSO-Die wohl unnötigste Partei der Schweiz\nRainer Maria Salzgeber\nIsostar Schweiz\nAudi FIS Ski World Cup\nRevolutionäre Jugend Zürich\nJungfreisinnige\nSP Thurgau\nFunnelCheck\nTension Festival\nFabian Unteregger\nSwiss Music Awards\nJUSO Baselland\nKritisch gedacht 2.0\nAxpo\nKritische JuristInnen Fribourg\nHerzlich willkommen in der Arschlochgesellschaft\nSt.Jakob-Park Shopping Center\nJeanloup\nmicrospot.ch\nSRG Insider\ngaeubschwarz.be\nWillisauer Bote\nNationalrat Corrado Pardini\nBrandhärd\nAlternative Linke Bern\nSRF Deville\nJunge BDP Schweiz\nClaudio Spescha\neishockeyticker.ch\nRegiofussball.ch\n",
-          "Like-VorschlägeGefälltMir_": "4.730\n1.183\n637\n11\n8.351\n1.069\n577\n1.048\n6.977\n7.070\n4.656\n4.312\n11.666\n747\n15.839\n12.188\n8.297\n4.917\n3.934\n14.688\n10.855\n8.908\n13.979\n216\n8.187\n6.898\n8.715\n6.861\n2.900\n502\n9\n9.973\n8.791\n9.844\n1.321\n11.255\n2.500\n255\n99\n10.084\n7.125\n10.397\n14.671\n844\n4.068\n1.685\n10.135\n808\n13.943\n496\n194\n4.889\n5.165",
-          "Like-VerzeichnisNamen_": "Jaqueline Fehr \nWOZ\nSonntags Zeitung\nStern\nDer Bund\nSP\n",
-          "Like-VerzeichnisGefälltMir_": "7.160\n19.679\n10.759\n748.513\n6.216\n24.894"
+          "VorschlageNamen_": "Fabian Molina\nSamira Marti\nCamille Lothe\nAxel McFoley\nGSoA Gruppe für eine Schweiz ohne Armee\nBenjamin Fischer\nMichelle Singer\nSP Kanton Aargau\nSchwyzer Kantonalbank\nBasellandschaftliche Kantonalbank\nAndri Silberschmidt\nuniboeard.ch\nManillio\nSVP Kanton Schwyz\nVBZ Züri-Linie\nFDP\nJUSO Schweiz\nFussballstadion JA \nProtell\nMichael Elsener\nJunge SVP Schweiz\nPatrizia Kummer\nLukas Reimann\nJUSO-Die wohl unnötigste Partei der Schweiz\nRainer Maria Salzgeber\nIsostar Schweiz\nAudi FIS Ski World Cup\nRevolutionäre Jugend Zürich\nJungfreisinnige\nSP Thurgau\nFunnelCheck\nTension Festival\nFabian Unteregger\nSwiss Music Awards\nJUSO Baselland\nKritisch gedacht 2.0\nAxpo\nKritische JuristInnen Fribourg\nHerzlich willkommen in der Arschlochgesellschaft\nSt.Jakob-Park Shopping Center\nJeanloup\nmicrospot.ch\nSRG Insider\ngaeubschwarz.be\nWillisauer Bote\nNationalrat Corrado Pardini\nBrandhärd\nAlternative Linke Bern\nSRF Deville\nJunge BDP Schweiz\nClaudio Spescha\neishockeyticker.ch\nRegiofussball.ch\n",
+          "VorschlageGefalltMir_": "4.730\n1.183\n637\n11\n8.351\n1.069\n577\n1.048\n6.977\n7.070\n4.656\n4.312\n11.666\n747\n15.839\n12.188\n8.297\n4.917\n3.934\n14.688\n10.855\n8.908\n13.979\n216\n8.187\n6.898\n8.715\n6.861\n2.900\n502\n9\n9.973\n8.791\n9.844\n1.321\n11.255\n2.500\n255\n99\n10.084\n7.125\n10.397\n14.671\n844\n4.068\n1.685\n10.135\n808\n13.943\n496\n194\n4.889\n5.165",
+          "VerzeichnisNamen_": "Jaqueline Fehr \nWOZ\nSonntags Zeitung\nStern\nDer Bund\nSP\n",
+          "VerzeichnisGefalltMir_": "7.160\n19.679\n10.759\n748.513\n6.216\n24.894"
         },
         {
           "Profil_": "P1",
@@ -504,10 +504,10 @@ var data =
           "LinkBild_": "DS_B_28-03-19",
           "Bildname_": "ABB-P1-022",
           "Bildunterschriften_": "Die Autobahn A13 in der Nähe von Baruth © Florian Gaertner/Photothek/Getty Images",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -527,10 +527,10 @@ var data =
           "LinkBild_": "DS_C_28-03-19",
           "Bildname_": "ABB-P1-023",
           "Bildunterschriften_": "Bis 2022 soll in Wileroltigen ein Transitplatz für ausländische Fahrende entstehen.\n(Bild: Raphael Moser (Archiv))",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -550,10 +550,10 @@ var data =
           "LinkBild_": "DS_D_28-03-19",
           "Bildname_": "ABB-P1-024",
           "Bildunterschriften_": "Schiffe auf dem Mittelmeer (Symbolbild) ©Elio Desiderio / ANSA / APDPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -573,10 +573,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-025",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -596,10 +596,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-026",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -619,10 +619,10 @@ var data =
           "LinkBild_": "DS_G_28-03-19",
           "Bildname_": "ABB-P1-027",
           "Bildunterschriften_": "«Im Erwachsenenschutzrecht erleben wir fast nur Erfolgsstorys»: Karin Fischer. Foto: Samuel Schalch",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -642,10 +642,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-028",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -665,10 +665,10 @@ var data =
           "LinkBild_": "DS_I_28-03-19",
           "Bildname_": "ABB-P1-029",
           "Bildunterschriften_": "Mehr als 100 000 Menschen gingen gegen Artikel 13 der Urheberrechtsreform auf der Straße. Die Demonstranten - wie hier in Hamburg - fühlen sich von der Politik nicht ernst genommen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -688,10 +688,10 @@ var data =
           "LinkBild_": "DS_J_28-03-19",
           "Bildname_": "ABB-P1-030",
           "Bildunterschriften_": "Die neue Verteidigungsministerin Viola Amherd: Sie legt nun einen Zacken, um im VBS einen Kulturwandel herbeizuführen. (KEYSTONE/Peter Schneider)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -711,10 +711,10 @@ var data =
           "LinkBild_": "DS_A_29-03-19",
           "Bildname_": "ABB-P1-031",
           "Bildunterschriften_": "Martin Sellner muss auf seine Hochzeit in den USA warten: Seit Donnerstag ist bekannt, dass er nicht in die Staaten einreisen darf ©Roland SchlagerDPA",
-          "Like-VorschlägeNamen_": "VBZ Zürich-Linie\nFabian Molina\nSamira Marti\nFussballstadion JA\nFDP\nJUSO Schweiz\nCamille Lothe\nGSoA-Gruppe für eine Schweiz ohne Armee\nAxel McFoley\nProtell\nMichelle Singer\nBenjamin Fischer\nSP Kanton Aargau\nJunge SVP Schweiz\nSchwyzer Kantonalbank\nBasellandschaftliche Kantonalbank\nSVP Kanton Schwyz\nAndrea Silberschmidt\nPatrizia Kummer\nuniboard.ch\nLunkas Reimann\nSwiss Music Awards\nRainer Maria Salzgeber\nFunnelCheck\nSt.Jakobs-Park Shopping Center\nJeanloup\nmicrospot.ch\nIsostar Schweiz\nJungfreisinnige\nKdo Kata Hi Ber Bat\nAudi FIS Ski World Cup\nSRF Deville\nBrandhärd\nExpo\nFabian Unterlegter\nClaudio Specht\nSP Thurgau\nSörenberg\neishockeyticker.ch\nWillisauer Bote\nRevolutionäre Jugend Zürich\nJUSO Baselland\nRegiofussball.ch\nKritisch gedacht 2.0\nSkiregion Adelboden\nSRG Insider\nAlternative Linke Bern\nJunge BDP Schweiz\nNationalrat Corrado Pardini\ngaeubschwarz.be\nfrontaler.ch\nJunge Evangelische Volkspartei",
-          "Like-VorschlägeGefälltMir_": "15.839\n4.730\n1.183\n4.916\n12.190\n8.297\n649\n8.350\n11\n3.934\n576\n1.069\n1.048\n10.855\n6.978\n7.070\n748\n4.656\n8.909\n4.313\n13.978\n9.844\n8.187\n9\n10.090\n7.125\n10.397\n6.899\n2.901\n4.520\n8.715\n13.942\n10.133\n2.503\n8.791\n194\n503\n2.255\n4.888\n4.068\n6.862\n1.321\n5.165\n11.259\n5.705\n14.671\n808\n496\n1.685\n844\n3.832\n602",
-          "Like-VerzeichnisNamen_": "Fabian Molina\nSamira Marti\nJUSO Schweiz\nGSoA – Gruppe für eine Schweiz ohne Armee\nJunge Grüne Kanton Luzern\nAllianz gegen Waffenexporte in Bürgerkriegsländer\n\n\n\n",
-          "Like-VerzeichnisGefälltMir_": "4.800\n1.252\n8.326\n8.411\n889\n1.922"
+          "VorschlageNamen_": "VBZ Zürich-Linie\nFabian Molina\nSamira Marti\nFussballstadion JA\nFDP\nJUSO Schweiz\nCamille Lothe\nGSoA-Gruppe für eine Schweiz ohne Armee\nAxel McFoley\nProtell\nMichelle Singer\nBenjamin Fischer\nSP Kanton Aargau\nJunge SVP Schweiz\nSchwyzer Kantonalbank\nBasellandschaftliche Kantonalbank\nSVP Kanton Schwyz\nAndrea Silberschmidt\nPatrizia Kummer\nuniboard.ch\nLunkas Reimann\nSwiss Music Awards\nRainer Maria Salzgeber\nFunnelCheck\nSt.Jakobs-Park Shopping Center\nJeanloup\nmicrospot.ch\nIsostar Schweiz\nJungfreisinnige\nKdo Kata Hi Ber Bat\nAudi FIS Ski World Cup\nSRF Deville\nBrandhärd\nExpo\nFabian Unterlegter\nClaudio Specht\nSP Thurgau\nSörenberg\neishockeyticker.ch\nWillisauer Bote\nRevolutionäre Jugend Zürich\nJUSO Baselland\nRegiofussball.ch\nKritisch gedacht 2.0\nSkiregion Adelboden\nSRG Insider\nAlternative Linke Bern\nJunge BDP Schweiz\nNationalrat Corrado Pardini\ngaeubschwarz.be\nfrontaler.ch\nJunge Evangelische Volkspartei",
+          "VorschlageGefalltMir_": "15.839\n4.730\n1.183\n4.916\n12.190\n8.297\n649\n8.350\n11\n3.934\n576\n1.069\n1.048\n10.855\n6.978\n7.070\n748\n4.656\n8.909\n4.313\n13.978\n9.844\n8.187\n9\n10.090\n7.125\n10.397\n6.899\n2.901\n4.520\n8.715\n13.942\n10.133\n2.503\n8.791\n194\n503\n2.255\n4.888\n4.068\n6.862\n1.321\n5.165\n11.259\n5.705\n14.671\n808\n496\n1.685\n844\n3.832\n602",
+          "VerzeichnisNamen_": "Fabian Molina\nSamira Marti\nJUSO Schweiz\nGSoA – Gruppe für eine Schweiz ohne Armee\nJunge Grüne Kanton Luzern\nAllianz gegen Waffenexporte in Bürgerkriegsländer\n\n\n\n",
+          "VerzeichnisGefalltMir_": "4.800\n1.252\n8.326\n8.411\n889\n1.922"
         },
         {
           "Profil_": "P1",
@@ -734,10 +734,10 @@ var data =
           "LinkBild_": "DS_B_29-03-19",
           "Bildname_": "ABB-P1-032",
           "Bildunterschriften_": "Tamara Funiciello: Juso-Präsidentin und Zielscheibe des Hasses im Netz. bild: watson",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -757,10 +757,10 @@ var data =
           "LinkBild_": "DS_C_29-03-19",
           "Bildname_": "ABB-P1-033",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -780,10 +780,10 @@ var data =
           "LinkBild_": "DS_D_29-03-19",
           "Bildname_": "ABB-P1-034",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -803,10 +803,10 @@ var data =
           "LinkBild_": "DS_E_29-03-19",
           "Bildname_": "ABB-P1-035",
           "Bildunterschriften_": "Im Juli 2013 trafen sich der damalige Bundespräsident Ueli Maurer und Chinas Präsident Xi Jinping in Peking. (Bild: Alexander F. Yuan / AP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -826,10 +826,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-036",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -849,10 +849,10 @@ var data =
           "LinkBild_": "DS_G_29-03-19",
           "Bildname_": "ABB-P1-037",
           "Bildunterschriften_": "Der Sultan von Brunei, Hassanal Bolkia (Mitte), im Jahr 2015 bei der Hochzeit seines Sohnes Prinz Abdul Malik. (Foto: Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -872,10 +872,10 @@ var data =
           "LinkBild_": "DS_H_29-03-19",
           "Bildname_": "ABB-P1-038",
           "Bildunterschriften_": "Die Klimaaktivisten Luisa Marie Neubauer (l.) und Greta Thunberg (m.) führen den Demozug in Berlin.TOBIAS SCHWARZ",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -895,10 +895,10 @@ var data =
           "LinkBild_": "DS_I_29-03-19",
           "Bildname_": "ABB-P1-039",
           "Bildunterschriften_": "Dinge zu erdulden, die einem nicht passen, muss manch leicht entflammbarer Geist noch lernen. © Alexandra Polina für DIE ZEIT",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -918,10 +918,10 @@ var data =
           "LinkBild_": "DS_J_29-03-19",
           "Bildname_": "ABB-P1-040",
           "Bildunterschriften_": "Archivbild: Ermittlungsarbeit nach einem der versuchten Anschläge – APA/dpa/Daniel Karmann",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -941,10 +941,10 @@ var data =
           "LinkBild_": "DS_A_30-03-19",
           "Bildname_": "ABB-P1-041",
           "Bildunterschriften_": "Frauke Petry 2018 im Sächsischen Landtag © Steffen Roth/Agentur FOCUS",
-          "Like-VorschlägeNamen_": "Luzian Franzini\nKorintha Bärtsch\nJunge Grünliberale Zürich\nJUSO Kanton Luzern\nJunge Grüne Thurgau\nJunge Grünliberale Luzern\nJuso Stadt Luzern\nDominic Täubert\nGrüne Sursee\nJSVP Entlebuch\nJungfreisinnige Stadt Zürich\nJunge Grüne Kanton Bern\nJunge Grüne Aargau\nSVP Wahlkreis Entlebuch\nJungfreisinnige Kanton Luzern\nOja Schwammendingen\nNein zur Zersiedelungsinitiative\nVBZ Züri-Linie\nSVP Kanton St.Gallen\nMusical Fever\nKreislauf-Initiative\nJunge Grüne Solothurn\nFDP\nJolanda Spiess-Hegglin\nJunge Grüne Region Thun\nAktion Einlass für alle\nFussballstadion JA\n99%-Initiative\nCamille lothe\nAxel McFoley\nBüro Zwoi\nJUSO Kanton Zürich\nJunge SVP Schweiz\nJunge Grünliberale\nSP Kanton Aargau\nJunge Grüne Zürich\nJUSO-Die wohl unnötigste Partei der Schweiz\nAnna Gallati in den Kantonsrat\nMichelle Singer\nJUSO Kanton Bern\nBenjamin Fischer\nLukas Reimann\nAlternative Linke Bern\nJunge Grünliberale Bern\nSwissSkills\nSchwyzer Kantonalbank\nSVP Kanton Schwyz\nBasellandschaftliche Kantonalbank\nDimitri Rougy\nBBZ Olten\nAdil Koller\nJunge Evangelische Volkspartei\nPNOS\nKommunistische Jugend Schweiz\nJungfreisinnige\nPatrizia Kummer\nAndri Silberschmidt\nRainer Maria Salzgeber\nJUSO Baselland\nJUSO Stadt Zürich\nHannah Pfalzgraf\nJUSO Basel-Stadt\nAUNS\nNationalrat Corrado Pardini\nMichael Eisener\nJunge BDP schweiz\nuniboard.ch\nJCVP Schweiz\nEnergy for Humanity\nJa zur Zersiedlungsinitiative\nNHWR-Nachhaltigkeitswoche\nJungfreisinnige Basel-Stadt\nAxpo\nregiofussball.ch\nManillio\nIsostar Schweiz\nup schweiz\nSP Thurgau\nKanton Aargau\nClaudio Spescha\nWillisauer Bote\nElia Leiser\nNein zum Polizeigesetz\nSRG Insider\nFlorian Vock\nWelcome to Hell\nFabian Unteregger\nKriegsgeschäfte-Initiative",
-          "Like-VorschlägeGefälltMir_": "308\n275\n503\n654\n183\n504\n789\n164\n137\n314\n877\n725\n497\n112\n508\n991\n149\n15.839\n908\n818\n109\n651\n12.191\n7.170\n305\n508\n4.913\n1.091\n650\n11\n515\n1.430\n10.865\n1.871\n1.048\n2.175\n216\n275\n576\n875\n1.069\n13.977\n808\n518\n4.021\n6.977\n748\n7.070\n2.169\n752\n477\n602\n16.132\n233\n2.902\n8.909\n4.655\n8.187\n1.323\n922\n255\n1.587\n7.718\n1.685\n14.703\n496\n4.313\n1.398\n907\n2.333\n82\n758\n2.502\n5.166\n11.665\n6.899\n1.969\n503\n10.844\n194\n4.069\n311\n684\n14.672\n673\n725\n8.793\n1.657",
-          "Like-VerzeichnisNamen_": "Luzian Franzini\nKorintha Bärtsch\nKreislauf-Initiative\nJUSO Kanton Zürich\nFalter\n99%-Initiative\n\n\n\n",
-          "Like-VerzeichnisGefälltMir_": "357\n381\n112\n1.444\n58.152\n1.105"
+          "VorschlageNamen_": "Luzian Franzini\nKorintha Bärtsch\nJunge Grünliberale Zürich\nJUSO Kanton Luzern\nJunge Grüne Thurgau\nJunge Grünliberale Luzern\nJuso Stadt Luzern\nDominic Täubert\nGrüne Sursee\nJSVP Entlebuch\nJungfreisinnige Stadt Zürich\nJunge Grüne Kanton Bern\nJunge Grüne Aargau\nSVP Wahlkreis Entlebuch\nJungfreisinnige Kanton Luzern\nOja Schwammendingen\nNein zur Zersiedelungsinitiative\nVBZ Züri-Linie\nSVP Kanton St.Gallen\nMusical Fever\nKreislauf-Initiative\nJunge Grüne Solothurn\nFDP\nJolanda Spiess-Hegglin\nJunge Grüne Region Thun\nAktion Einlass für alle\nFussballstadion JA\n99%-Initiative\nCamille lothe\nAxel McFoley\nBüro Zwoi\nJUSO Kanton Zürich\nJunge SVP Schweiz\nJunge Grünliberale\nSP Kanton Aargau\nJunge Grüne Zürich\nJUSO-Die wohl unnötigste Partei der Schweiz\nAnna Gallati in den Kantonsrat\nMichelle Singer\nJUSO Kanton Bern\nBenjamin Fischer\nLukas Reimann\nAlternative Linke Bern\nJunge Grünliberale Bern\nSwissSkills\nSchwyzer Kantonalbank\nSVP Kanton Schwyz\nBasellandschaftliche Kantonalbank\nDimitri Rougy\nBBZ Olten\nAdil Koller\nJunge Evangelische Volkspartei\nPNOS\nKommunistische Jugend Schweiz\nJungfreisinnige\nPatrizia Kummer\nAndri Silberschmidt\nRainer Maria Salzgeber\nJUSO Baselland\nJUSO Stadt Zürich\nHannah Pfalzgraf\nJUSO Basel-Stadt\nAUNS\nNationalrat Corrado Pardini\nMichael Eisener\nJunge BDP schweiz\nuniboard.ch\nJCVP Schweiz\nEnergy for Humanity\nJa zur Zersiedlungsinitiative\nNHWR-Nachhaltigkeitswoche\nJungfreisinnige Basel-Stadt\nAxpo\nregiofussball.ch\nManillio\nIsostar Schweiz\nup schweiz\nSP Thurgau\nKanton Aargau\nClaudio Spescha\nWillisauer Bote\nElia Leiser\nNein zum Polizeigesetz\nSRG Insider\nFlorian Vock\nWelcome to Hell\nFabian Unteregger\nKriegsgeschäfte-Initiative",
+          "VorschlageGefalltMir_": "308\n275\n503\n654\n183\n504\n789\n164\n137\n314\n877\n725\n497\n112\n508\n991\n149\n15.839\n908\n818\n109\n651\n12.191\n7.170\n305\n508\n4.913\n1.091\n650\n11\n515\n1.430\n10.865\n1.871\n1.048\n2.175\n216\n275\n576\n875\n1.069\n13.977\n808\n518\n4.021\n6.977\n748\n7.070\n2.169\n752\n477\n602\n16.132\n233\n2.902\n8.909\n4.655\n8.187\n1.323\n922\n255\n1.587\n7.718\n1.685\n14.703\n496\n4.313\n1.398\n907\n2.333\n82\n758\n2.502\n5.166\n11.665\n6.899\n1.969\n503\n10.844\n194\n4.069\n311\n684\n14.672\n673\n725\n8.793\n1.657",
+          "VerzeichnisNamen_": "Luzian Franzini\nKorintha Bärtsch\nKreislauf-Initiative\nJUSO Kanton Zürich\nFalter\n99%-Initiative\n\n\n\n",
+          "VerzeichnisGefalltMir_": "357\n381\n112\n1.444\n58.152\n1.105"
         },
         {
           "Profil_": "P1",
@@ -964,10 +964,10 @@ var data =
           "LinkBild_": "DS_B_30-03-19",
           "Bildname_": "ABB-P1-042",
           "Bildunterschriften_": "Nur zwei Stühle für alle: Abdullah und Hasra Sheikh Mohamad leben mit vier Kindern in einem Zimmer. (Foto: Alessandra Schellnegger)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -987,10 +987,10 @@ var data =
           "LinkBild_": "DS_C_30-03-19",
           "Bildname_": "ABB-P1-043",
           "Bildunterschriften_": "George Clooney mit seiner Ehefrau. – REUTERS",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1010,10 +1010,10 @@ var data =
           "LinkBild_": "DS_D_30-03-19",
           "Bildname_": "ABB-P1-044",
           "Bildunterschriften_": "Bei ihm laufen die Fäden zusammen: SVP-Urgestein Christoph Blocher, links neben ihm Ständeratskandidat Roger Köppel. Das Bild zeigt eine Delegiertenversammlung der Partei im Oktober 2018. (Bild: Goran Basic/NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1033,10 +1033,10 @@ var data =
           "LinkBild_": "DS_E_30-03-19",
           "Bildname_": "ABB-P1-045",
           "Bildunterschriften_": "Der Personalbedarf der Armee ist gross, doch der Anteil der Diensttauglichen unterscheidet sich von Kanton zu Kanton stark. (Bild: Sigi Tischler / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1056,10 +1056,10 @@ var data =
           "LinkBild_": "DS_F_30-03-19",
           "Bildname_": "ABB-P1-046",
           "Bildunterschriften_": "Rechtsextreme treffen sich im August 2017 unter dem Motto «Vereinigt die Rechte» in Charlottesville (USA). (Bild: Alejandro Alvarez / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1079,10 +1079,10 @@ var data =
           "LinkBild_": "DS_G_30-03-19",
           "Bildname_": "ABB-P1-047",
           "Bildunterschriften_": "Konrad Langhart, Kantonsrat und seit 2016 Präsident der SVP Kanton Zürich, gibt sein Amt nach der Wahlschlappe vom vergangenen Sonntag ab.\nBild: Dominique Meienberg",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1102,10 +1102,10 @@ var data =
           "LinkBild_": "DS_H_30-03-19",
           "Bildname_": "ABB-P1-048",
           "Bildunterschriften_": "\"Fridays for Future\" Greta Thunberg demonstriert in Berlin Zum Video Artikel (Video: Reuters , Foto:Tobias Schwarz/AFP )",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1125,10 +1125,10 @@ var data =
           "LinkBild_": "DS_I_30-03-19",
           "Bildname_": "ABB-P1-049",
           "Bildunterschriften_": "Auftrittsverbot für Sellner – (c) APA/DOMINIK MANDL (DOMINIK MANDL)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1148,10 +1148,10 @@ var data =
           "LinkBild_": "DS_J_30-03-19",
           "Bildname_": "ABB-P1-050",
           "Bildunterschriften_": "Die komplexen Fälle nehmen zu: Jürg Wobmann, Chef der Kriminalpolizei, vor dem Gebäude der Luzerner Polizei. (Bild: Roger Grütter, Luzern, 6. März 2019)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1171,10 +1171,10 @@ var data =
           "LinkBild_": "DS_A_31-03-19",
           "Bildname_": "ABB-P1-051",
           "Bildunterschriften_": "Das Recht auf Privatsphäre ist ein Menschenrecht. Big Data bedroht dieses Recht massiv. (Bild: Brian Snyder / Reuters)+Q53",
-          "Like-VorschlägeNamen_": "JUSO Kanton Luzern\nJUSO Stadt Zürich\nGrüne Surfe\nJUSO Stadt Luzern\nTeleclub Sport\nJunge Grüne Kanton Bern\nJunge Grünliberale Luzern\nOja Schwammendingen\nJunge Grüne Zürich\nJunge Grüne Thurgau\nAllianz gegen Sozis und Grüne\nTreibhaus Luzern\nDominic Täubert\nJUSO Kanton Bern\nJUSO Zürich Oberland\nJunge Grüne Aargau\nAnna Gallati in den Kantonsrat\nFussballstadion Ja\nSVP Kanton St.Gallen\nJunge Grüne Solothurn\nFDP\nJolanda Spiess-Hegglin\nCamille Lotte\nJUSO Aargau\nAxel McFoley\nM’Ghadi\nBenjamin Walder\nPdA Zürich\nJUSO-Die wohl unnötigste Partei der Schweiz\nJunge Grüne Region Thun\nJUSO Baselland\nAlternative \nBenjamin Fischer\nJunge Grünliberale\nJUSO Stadt Bern\nJungfreisinnige Stadt Zürich\nJa zu einem lebendigen Inseli\nNico Zobrist\nPablo Infernal\nMichelle Singer\nJunge Grünliberale Bern\nJunge SVP Schweiz\nOstschweizer Komitee\nSP Kanton Aargau\nKameradschaft Heimattreu\nJUSO JS Bielingue\nAdil Koller\nKriegsgeschäfte-Initiative\nCorinne Merk\nJungallianz für das Klima\nJunge Grüne Winterthur\nKune\nJUSO Graubünden\nJunge SVP Kanton Zürich\nKlimastreik Thurgau\nBasellandschaftliche Kantonalbank\nKritische Politik Uzh Eth\nNationalrat Corrado Pardini\nNein zu den Kampfjet-Milliarden\nFCZ-Museum\nJUSO Winterthur\nDimitri Rougy\nDie Guten\nAlain Schwald\nEHC Kloten\nSchwyzer Kantonalbank\nJungfreisinnige\nTransparenz-Initiative\nJUSO Basel-Stadt\nJunge SVP Aargau\njungfreisinnige fricktal\nSchlorian\nSP Muttenz\nJunge BDP Schweiz\nBFS Jugend Zürich\nJUSO Kanton Schwyz\nAxpo\nZüri autofrei\nLibertärer Anarchist\nJUSO Zürich Oberland\nVera Diener\nAlternative Linke Bern\nSVP Kanton Schwyz\nJungfreisinnige Basel-Stadt\nKommunistische Jugend Schweiz\nNein zum Polizeigesetz\nE-Voting-Moratorium\nJa zur Zersiedelungsinitiative\nPhillip Alex Gehrig\nInteressengemeinschaft Irchel\nRaphael Perroulaz\nelena Marti\nJUSO Stadt St.Gallen\nGrünliberale Knonaueramt\nJungfreisinnige Kanton Schwyz\nJunge Evangelische Volkspartei\nKritische JuristInnen Fribourg\nJunge Grüne Graubünden\nAdieu Heimat\nAktion Vielfalt\nMothership Caldonia\nJutz.ch\nSandro Lienhart\nJunge SVP Basel-Stadt\nMarcel Adolf\nMike Egger\nJunge Grünliberale Aargau\nPNOS Die Partei der Eidgenossen\nKdo Kata Hi Ber Bat\nPascal Pajic\nWelcome to Hell\nAbschaffung der WAB Kurse\nFetter Vetter & Oma Hommage\nFlorence Fischer\nKreis 6/10 mit glp in die Zukunft\nSocial Urban Zone\nElia Leiser\nup schweiz\nSörenberg\nJunge BDP Kanton Bern\nSolinetz Luzern\nNaturMystik Fotografie\nGrünliberale Partei Kriens\nTeleboy\nKantonsschule Alpenquai Luzern\nPhilippe Tschopp-Politiker\nrontaler.ch",
-          "Like-VorschlägeGefälltMir_": "657\n922\n137\n790\n14.302\n724\n504\n992\n2.175\n184\n1.892\n3.888\n164\n874\n401\n497\n278\n4.913\n908\n651\n12.200\n7.710\n654\n648\n11\n814\n75\n559\n217\n305\n1.323\n496\n1.069\n1.871\n976\n876\n1.153\n90\n3.106\n576\n518\n10.863\n56\n1.048\n222\n643\n478\n1.657\n522\n873\n222\n683\n555\n2.305\n105\n7.070\n1.865\n1.684\n11.539\n1.812\n637\n2.170\n153\n225\n14.794\n6.975\n2.902\n1.725\n1.587\n880\n77\n746\n323\n496\n1.314\n399\n2.503\n451\n2.269\n251\n123\n808\n749\n758\n234\n684\n226\n2.332\n187\n315\n179\n898\n335\n270\n172\n469\n141\n548\n226\n16.128\n4.523\n765\n725\n2.182\n347\n1.042\n121\n1.294\n312\n1.968\n2.256\n273\n251\n481\n149\n17.231\n596\n268\n3.829",
-          "Like-VerzeichnisNamen_": "JUSO Stadt Zürich\nJunge Grüne Zürich\nAnna Gallati\nPda Zürich\nBFS Jugend Zürich\nAjour Magazin\nJolanda Spiess-Hegglin\nKommunistische Jugend Schweiz",
-          "Like-VerzeichnisGefälltMir_": "932\n2.182\n282\n560\n1.318\n1.293\n7.181\n250"
+          "VorschlageNamen_": "JUSO Kanton Luzern\nJUSO Stadt Zürich\nGrüne Surfe\nJUSO Stadt Luzern\nTeleclub Sport\nJunge Grüne Kanton Bern\nJunge Grünliberale Luzern\nOja Schwammendingen\nJunge Grüne Zürich\nJunge Grüne Thurgau\nAllianz gegen Sozis und Grüne\nTreibhaus Luzern\nDominic Täubert\nJUSO Kanton Bern\nJUSO Zürich Oberland\nJunge Grüne Aargau\nAnna Gallati in den Kantonsrat\nFussballstadion Ja\nSVP Kanton St.Gallen\nJunge Grüne Solothurn\nFDP\nJolanda Spiess-Hegglin\nCamille Lotte\nJUSO Aargau\nAxel McFoley\nM’Ghadi\nBenjamin Walder\nPdA Zürich\nJUSO-Die wohl unnötigste Partei der Schweiz\nJunge Grüne Region Thun\nJUSO Baselland\nAlternative \nBenjamin Fischer\nJunge Grünliberale\nJUSO Stadt Bern\nJungfreisinnige Stadt Zürich\nJa zu einem lebendigen Inseli\nNico Zobrist\nPablo Infernal\nMichelle Singer\nJunge Grünliberale Bern\nJunge SVP Schweiz\nOstschweizer Komitee\nSP Kanton Aargau\nKameradschaft Heimattreu\nJUSO JS Bielingue\nAdil Koller\nKriegsgeschäfte-Initiative\nCorinne Merk\nJungallianz für das Klima\nJunge Grüne Winterthur\nKune\nJUSO Graubünden\nJunge SVP Kanton Zürich\nKlimastreik Thurgau\nBasellandschaftliche Kantonalbank\nKritische Politik Uzh Eth\nNationalrat Corrado Pardini\nNein zu den Kampfjet-Milliarden\nFCZ-Museum\nJUSO Winterthur\nDimitri Rougy\nDie Guten\nAlain Schwald\nEHC Kloten\nSchwyzer Kantonalbank\nJungfreisinnige\nTransparenz-Initiative\nJUSO Basel-Stadt\nJunge SVP Aargau\njungfreisinnige fricktal\nSchlorian\nSP Muttenz\nJunge BDP Schweiz\nBFS Jugend Zürich\nJUSO Kanton Schwyz\nAxpo\nZüri autofrei\nLibertärer Anarchist\nJUSO Zürich Oberland\nVera Diener\nAlternative Linke Bern\nSVP Kanton Schwyz\nJungfreisinnige Basel-Stadt\nKommunistische Jugend Schweiz\nNein zum Polizeigesetz\nE-Voting-Moratorium\nJa zur Zersiedelungsinitiative\nPhillip Alex Gehrig\nInteressengemeinschaft Irchel\nRaphael Perroulaz\nelena Marti\nJUSO Stadt St.Gallen\nGrünliberale Knonaueramt\nJungfreisinnige Kanton Schwyz\nJunge Evangelische Volkspartei\nKritische JuristInnen Fribourg\nJunge Grüne Graubünden\nAdieu Heimat\nAktion Vielfalt\nMothership Caldonia\nJutz.ch\nSandro Lienhart\nJunge SVP Basel-Stadt\nMarcel Adolf\nMike Egger\nJunge Grünliberale Aargau\nPNOS Die Partei der Eidgenossen\nKdo Kata Hi Ber Bat\nPascal Pajic\nWelcome to Hell\nAbschaffung der WAB Kurse\nFetter Vetter & Oma Hommage\nFlorence Fischer\nKreis 6/10 mit glp in die Zukunft\nSocial Urban Zone\nElia Leiser\nup schweiz\nSörenberg\nJunge BDP Kanton Bern\nSolinetz Luzern\nNaturMystik Fotografie\nGrünliberale Partei Kriens\nTeleboy\nKantonsschule Alpenquai Luzern\nPhilippe Tschopp-Politiker\nrontaler.ch",
+          "VorschlageGefalltMir_": "657\n922\n137\n790\n14.302\n724\n504\n992\n2.175\n184\n1.892\n3.888\n164\n874\n401\n497\n278\n4.913\n908\n651\n12.200\n7.710\n654\n648\n11\n814\n75\n559\n217\n305\n1.323\n496\n1.069\n1.871\n976\n876\n1.153\n90\n3.106\n576\n518\n10.863\n56\n1.048\n222\n643\n478\n1.657\n522\n873\n222\n683\n555\n2.305\n105\n7.070\n1.865\n1.684\n11.539\n1.812\n637\n2.170\n153\n225\n14.794\n6.975\n2.902\n1.725\n1.587\n880\n77\n746\n323\n496\n1.314\n399\n2.503\n451\n2.269\n251\n123\n808\n749\n758\n234\n684\n226\n2.332\n187\n315\n179\n898\n335\n270\n172\n469\n141\n548\n226\n16.128\n4.523\n765\n725\n2.182\n347\n1.042\n121\n1.294\n312\n1.968\n2.256\n273\n251\n481\n149\n17.231\n596\n268\n3.829",
+          "VerzeichnisNamen_": "JUSO Stadt Zürich\nJunge Grüne Zürich\nAnna Gallati\nPda Zürich\nBFS Jugend Zürich\nAjour Magazin\nJolanda Spiess-Hegglin\nKommunistische Jugend Schweiz",
+          "VerzeichnisGefalltMir_": "932\n2.182\n282\n560\n1.318\n1.293\n7.181\n250"
         },
         {
           "Profil_": "P1",
@@ -1194,10 +1194,10 @@ var data =
           "LinkBild_": "DS_B_31-03-19",
           "Bildname_": "ABB-P1-052",
           "Bildunterschriften_": "JESSICA TAYLOR/ UK Parliament/ AFP",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1217,10 +1217,10 @@ var data =
           "LinkBild_": "DS_C_31-03-19",
           "Bildname_": "ABB-P1-053",
           "Bildunterschriften_": "Terror von Rechts: In der Masjid Al Noor Moschee in Christchurch, Neuseeland, wurden 50 Menschen von einem Rechtsradikalen ermordet (17. März). (Bild: Vincent Yu / AP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1240,10 +1240,10 @@ var data =
           "LinkBild_": "DS_D_31-03-19",
           "Bildname_": "ABB-P1-054",
           "Bildunterschriften_": "Von Montag düfen nur noch jene das Schulgebäude betreten, die einen Masernschutz im Impfpass vorweisen können. (Foto: dpa)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1263,10 +1263,10 @@ var data =
           "LinkBild_": "DS_E_31-03-19",
           "Bildname_": "ABB-P1-055",
           "Bildunterschriften_": "Eltere wachet uf!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1286,10 +1286,10 @@ var data =
           "LinkBild_": "DS_F_31-03-19",
           "Bildname_": "ABB-P1-056",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1309,10 +1309,10 @@ var data =
           "LinkBild_": "DS_G_31-03-19",
           "Bildname_": "ABB-P1-057",
           "Bildunterschriften_": "Mit Jonas Heeb (21, Zweiter von rechts) schaffen die Jungen Grünen erstmals den Einzug in den Kantonsrat. (Bild: Philipp Schmidli, Luzern, 31. März 2019)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1332,10 +1332,10 @@ var data =
           "LinkBild_": "DS_H_31-03-19",
           "Bildname_": "ABB-P1-058",
           "Bildunterschriften_": "Mitglieder des Aktionsbündnisses gegen Wohnungsnot protestieren in Hamburg. (Foto: dpa)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1355,10 +1355,10 @@ var data =
           "LinkBild_": "DS_I_31-03-19",
           "Bildname_": "ABB-P1-059",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1378,10 +1378,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-060",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1401,10 +1401,10 @@ var data =
           "LinkBild_": "DS_A_01-04-19",
           "Bildname_": "ABB-P1-061",
           "Bildunterschriften_": "Die extremen Positionen des Weltfamilienkongresses rufen Widerstand hervor: In Verona demonstrieren 30 000 Menschen gegen den Anlass. (Bild: Yara Nardi / Reuters)",
-          "Like-VorschlägeNamen_": "JUSO Kanton Luzern \nJUSO Stadt Luzern \nJUSO Zürich Oberland \nPdA Bern \nJunge Grüne Thurgau \nJunge Grüne Kanton Bern\nRevolutionärer Aufbau Wintertur\nGrüne Sursee\nJUSO Baselland\nAnarchistische Gruppe Bern\nJUSO Winterthur\nOja Schwamendingen\nJunge Grünliberale Luzern\nJUSO Kanton Bern\nJungfreisinnige Kanton Luzern\nKUNE \nFussballstadion Ja\nJUSO Aargau\nJunge SVP Kanton Bern\nJUSO Graubünden\nMarxistische Studierende Zürich\nDominic Täubert\nJUSO Stadt Bern\nBenjamin Walder\nengage.ch\nJunge Grüne Region Thun\nJungfreisinnige Stadt Zürich\nMona Gamie\nSolinetz Luzern\nKritische Politik Uzh Eth\nJunge Grünliberale\nWaffenrecht-Sehengen Ja\nMichael Elsener\nSofortmassnahmen jetzt\nJunge SVP Basel-Stadt\nCamille Lothe\nNico Zobrist\nRevolutionäre Jugend Thurgau\nPdA Biel\njungfreisinnige stadt bern\nDimitri Rougy\nPerspektiven bauen - Solidarität mit Rojava\nJunge SVP Kanton Zürich\nJunge Grüne Aargau\nIrie Noise\nFCZ-Museum\nJungthaeter\nAxel McFoley\nJungfreisinnige Kanton Zürich\nFDP\nJunge SVP Aargau\nPablo I nfernal\nKlimastreik Thurgau\nJunge Grüne Solothurn\nKriegsgeschäfte-Initiative\nvorwärts/ sozialistische Zeitung\nJUSO JS Bielingue\nSchlorian\nJungallianz für das Klima\nSRG Insider\nKameradschaft Heimattreu\nKritische Juristinnen Fribourg\nJunge SVP Schweiz\nJunge Grünliberale Bern\nRevolutionärer Aufbau Basel\nSoybomb\nJUSO Zürich Unterland\nZüri gäge WEF\nGundula\nAdil Koller\nOstschweizer Komitee\nPhilipp Alex Gehrig\nTransparenz-Initiative\nAdrian Spahr\nMichelle Singer\nAlternative\nJunge Grünliberale Aargau\nAlain Sehwald\nSP Muttenz\nNils Fiechter\nJunge SVP Luzern\nJUSO Uri\nJunge SVP Solothurn\nJUSO Kanton Schwyz\nNein zu den Kampfjet-Milliarden\nBenjamin Fischer\nSP Kanton Aargau\nNationalrat Corrado Pardin\nJungfreisinnige\nClaudio Spescha\nNein zum Polizeigesetz\nAlternative Linke Bern\nZüri autofrei\nvera Diener\nJunge BOP Schweiz\nCorinne Merk\nE-Voting-Moratorium\nSystembruch Zug\nNein zur STAF\nJunge Grüne Winterthur\nJungfreisinnige Thurgau\nAktion Vielfalt\nJa zur Zersiedelungsinitiative\nJunge Grüne Graubünden\nInteressengemeinschaft lrchel\nJunge CVP Aargau \nJungfreisinnige Basel-Stadt \nMatthias Erni \nJUSO Stadt St.Gallen \nDiscuss it\nJCVP Schweiz\nMothership Caldonia\nGrünliberale Knonaueramt\nInfinite Hills\nJutz.ch\nJungbürgerliche Konferenz\nKomitee für Menschenwürde\nMarcel Adolf\nRafael Mörgeli\nSVP Nidwalden\nAbschaffung der WAB Kurse \nJUSO Basel-Stadt\nMike Egger\nVollgeldinitiative Nein\nPiratenpartei Schweiz\nKreis 6/10 mit glp in die Zukunf\nWelcome to Hell\nSP Thurgau\nFlorence Fischer\nConrad Schweiz\nSVP Steinen\nNazmije lsmaili FDP TG\nSocial Urban Zone\nElia Leiser\nJunge BOP Kanton Bern\nRaphael Perroulaz",
-          "Like-VorschlägeGefälltMir_": "657 \n790 \n401 \n529\n184\n724\n770\n137\n1.323\n2.260\n636\n992\n504\n874\n508\n683\n4.913\n648\n1.888\n555\n458\n164\n976\n75\n738\n305\t\n876\n612\n251\n1.865\n1.871\n516\n14.709\n79\n469\n654\n90\n364\n208\n643\n2.170\n893\n2.306\n497\n262\n1.812\n735\n11\n851\n12.201\n880\n3.106\n105\n651\n1.657\n271\n643\n746\n873\n14.674\n222\n255\n10.862\n518\n876\n1.308\n251\n39\n2.039\n478\n56\n188\n1.725\n1.635\n576\n496\n226\n225\n323\n4.707\n673\n372\n1.645\n399\n11.539\n1.069\n1.048\n1.684\n2.902\n194\n685\n808\n451\n123\n496\n522\n226\n430\n87\n222\n583\n169\n2.332\n80\n315\n625\n760\n104\n325\n256\n1.400\n1.236\n92\n1.180\n270\n99\n208\n141\n335\n500\n2.182\n1.587\n548\n387\n3.518\n121\n725\n503\n1.042\n12.000\n129\n2.309\n1.294\n312\n273\n179",
-          "Like-VerzeichnisNamen_": "Revolutionärer Aufbau Winterthur\nAnarchistische Gruppe Bern - Infoportal\nTAZ\nBeobachter\nVorwärts\n\n\n\n",
-          "Like-VerzeichnisGefälltMir_": "781\n2.294\n287.360\n46.658\n279"
+          "VorschlageNamen_": "JUSO Kanton Luzern \nJUSO Stadt Luzern \nJUSO Zürich Oberland \nPdA Bern \nJunge Grüne Thurgau \nJunge Grüne Kanton Bern\nRevolutionärer Aufbau Wintertur\nGrüne Sursee\nJUSO Baselland\nAnarchistische Gruppe Bern\nJUSO Winterthur\nOja Schwamendingen\nJunge Grünliberale Luzern\nJUSO Kanton Bern\nJungfreisinnige Kanton Luzern\nKUNE \nFussballstadion Ja\nJUSO Aargau\nJunge SVP Kanton Bern\nJUSO Graubünden\nMarxistische Studierende Zürich\nDominic Täubert\nJUSO Stadt Bern\nBenjamin Walder\nengage.ch\nJunge Grüne Region Thun\nJungfreisinnige Stadt Zürich\nMona Gamie\nSolinetz Luzern\nKritische Politik Uzh Eth\nJunge Grünliberale\nWaffenrecht-Sehengen Ja\nMichael Elsener\nSofortmassnahmen jetzt\nJunge SVP Basel-Stadt\nCamille Lothe\nNico Zobrist\nRevolutionäre Jugend Thurgau\nPdA Biel\njungfreisinnige stadt bern\nDimitri Rougy\nPerspektiven bauen - Solidarität mit Rojava\nJunge SVP Kanton Zürich\nJunge Grüne Aargau\nIrie Noise\nFCZ-Museum\nJungthaeter\nAxel McFoley\nJungfreisinnige Kanton Zürich\nFDP\nJunge SVP Aargau\nPablo I nfernal\nKlimastreik Thurgau\nJunge Grüne Solothurn\nKriegsgeschäfte-Initiative\nvorwärts/ sozialistische Zeitung\nJUSO JS Bielingue\nSchlorian\nJungallianz für das Klima\nSRG Insider\nKameradschaft Heimattreu\nKritische Juristinnen Fribourg\nJunge SVP Schweiz\nJunge Grünliberale Bern\nRevolutionärer Aufbau Basel\nSoybomb\nJUSO Zürich Unterland\nZüri gäge WEF\nGundula\nAdil Koller\nOstschweizer Komitee\nPhilipp Alex Gehrig\nTransparenz-Initiative\nAdrian Spahr\nMichelle Singer\nAlternative\nJunge Grünliberale Aargau\nAlain Sehwald\nSP Muttenz\nNils Fiechter\nJunge SVP Luzern\nJUSO Uri\nJunge SVP Solothurn\nJUSO Kanton Schwyz\nNein zu den Kampfjet-Milliarden\nBenjamin Fischer\nSP Kanton Aargau\nNationalrat Corrado Pardin\nJungfreisinnige\nClaudio Spescha\nNein zum Polizeigesetz\nAlternative Linke Bern\nZüri autofrei\nvera Diener\nJunge BOP Schweiz\nCorinne Merk\nE-Voting-Moratorium\nSystembruch Zug\nNein zur STAF\nJunge Grüne Winterthur\nJungfreisinnige Thurgau\nAktion Vielfalt\nJa zur Zersiedelungsinitiative\nJunge Grüne Graubünden\nInteressengemeinschaft lrchel\nJunge CVP Aargau \nJungfreisinnige Basel-Stadt \nMatthias Erni \nJUSO Stadt St.Gallen \nDiscuss it\nJCVP Schweiz\nMothership Caldonia\nGrünliberale Knonaueramt\nInfinite Hills\nJutz.ch\nJungbürgerliche Konferenz\nKomitee für Menschenwürde\nMarcel Adolf\nRafael Mörgeli\nSVP Nidwalden\nAbschaffung der WAB Kurse \nJUSO Basel-Stadt\nMike Egger\nVollgeldinitiative Nein\nPiratenpartei Schweiz\nKreis 6/10 mit glp in die Zukunf\nWelcome to Hell\nSP Thurgau\nFlorence Fischer\nConrad Schweiz\nSVP Steinen\nNazmije lsmaili FDP TG\nSocial Urban Zone\nElia Leiser\nJunge BOP Kanton Bern\nRaphael Perroulaz",
+          "VorschlageGefalltMir_": "657 \n790 \n401 \n529\n184\n724\n770\n137\n1.323\n2.260\n636\n992\n504\n874\n508\n683\n4.913\n648\n1.888\n555\n458\n164\n976\n75\n738\n305\t\n876\n612\n251\n1.865\n1.871\n516\n14.709\n79\n469\n654\n90\n364\n208\n643\n2.170\n893\n2.306\n497\n262\n1.812\n735\n11\n851\n12.201\n880\n3.106\n105\n651\n1.657\n271\n643\n746\n873\n14.674\n222\n255\n10.862\n518\n876\n1.308\n251\n39\n2.039\n478\n56\n188\n1.725\n1.635\n576\n496\n226\n225\n323\n4.707\n673\n372\n1.645\n399\n11.539\n1.069\n1.048\n1.684\n2.902\n194\n685\n808\n451\n123\n496\n522\n226\n430\n87\n222\n583\n169\n2.332\n80\n315\n625\n760\n104\n325\n256\n1.400\n1.236\n92\n1.180\n270\n99\n208\n141\n335\n500\n2.182\n1.587\n548\n387\n3.518\n121\n725\n503\n1.042\n12.000\n129\n2.309\n1.294\n312\n273\n179",
+          "VerzeichnisNamen_": "Revolutionärer Aufbau Winterthur\nAnarchistische Gruppe Bern - Infoportal\nTAZ\nBeobachter\nVorwärts\n\n\n\n",
+          "VerzeichnisGefalltMir_": "781\n2.294\n287.360\n46.658\n279"
         },
         {
           "Profil_": "P1",
@@ -1424,10 +1424,10 @@ var data =
           "LinkBild_": "DS_B_01-04-19",
           "Bildname_": "ABB-P1-062",
           "Bildunterschriften_": "Auch wenn Messer selten tatsächlich eingesetzt werden, empfinden sie offenbar viele Jugendliche als Bedrohung, gegen die sie sich nur wappnen können, indem sie sich selbst ein Messer zulegen. (Foto: picture alliance / Oliver Berg/d)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1447,10 +1447,10 @@ var data =
           "LinkBild_": "DS_C_01-04-19",
           "Bildname_": "ABB-P1-063",
           "Bildunterschriften_": "Anhängerinnen und Anhänger der oppositionellen CHP in Ankara © Diego Cupolo/NurPhoto/Getty Images",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1470,10 +1470,10 @@ var data =
           "LinkBild_": "DS_D_01-04-19",
           "Bildname_": "ABB-P1-064",
           "Bildunterschriften_": "Klimarunde: Harald Lesch, Wolfgang Kubicki, Theresa Kah, Gastgeberin Anne Will, Rainer Haseloff und Robert Habeck (v.l.n.r.) ©Wolfgang Borrs/NDRDPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1493,10 +1493,10 @@ var data =
           "LinkBild_": "DS_E_01-04-19",
           "Bildname_": "ABB-P1-065",
           "Bildunterschriften_": "Ein Name ist ein Name ist ein Name Foto: Philipp Brandstädter/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1516,10 +1516,10 @@ var data =
           "LinkBild_": "DS_F_01-04-19",
           "Bildname_": "ABB-P1-066",
           "Bildunterschriften_": "«Der drohende Ausschluss aus dem Schengen-Dublin-Abkommen bei einem Nein zum neuen Waffenrecht wäre buchstäblich ein Schuss ins eigene Knie.» Beobachter-Chefredaktor Andres Büchi. Bild: Paul Seewer",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1539,10 +1539,10 @@ var data =
           "LinkBild_": "DS_G_01-04-19",
           "Bildname_": "ABB-P1-067",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1562,10 +1562,10 @@ var data =
           "LinkBild_": "DS_H_01-04-19",
           "Bildname_": "ABB-P1-068",
           "Bildunterschriften_": "© sashadudkina5/EyeEm — Symbolbild",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1585,10 +1585,10 @@ var data =
           "LinkBild_": "DS_I_01-04-19",
           "Bildname_": "ABB-P1-069",
           "Bildunterschriften_": "Illustration: Bianca Tschaikner",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1608,10 +1608,10 @@ var data =
           "LinkBild_": "DS_J_01-04-19",
           "Bildname_": "ABB-P1-070",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1631,10 +1631,10 @@ var data =
           "LinkBild_": "DS_A_02-04-19",
           "Bildname_": "ABB-P1-071",
           "Bildunterschriften_": "Heimat ist, wo der Hirsch hängt: Projektionsfläche für ein Gefühl, das sich nicht beschreiben lässt. FOTO: DANITA DELIMONT, GETTY",
-          "Like-VorschlägeNamen_": "Revolutionärer Aufbau Basel\nRevolutionäre Jugend Zürich\nRojava Komitee - Basel\nMarxist Society Uni Basel\nRevolutionäre Jugend Thurgau\nJUSO Kanton Luzern\nJUSO Kanton Bern\nKritische Politik Uzh Eth\nJUSO Stadt Luzern\nJUSO Graubünden\nJUSO Zürich Oberland\nBern gegen Rechts\nPdA Bern\nJunge Grüne Thurgau\nBasel Nazifrei\nAxel McFoley\nJunge Grüne Kanton Bern\nJUSO Stadt Bern\nGrüne Sursee\nMarxistische Studierende Zürich\nJUSO Baselland\nJunge Grünliberale Luzern\nJUSO Winterthur\nJa zur Zersiedelungsinitiative\nOja Schwamendingen\nAntifa Eidgenossenschaft\nJUSO Zug\nSpekulationsstopp-Initiative\nKUNE \nDachstock Reitschule \nJungfreisinnige Kanton Luzern \nReithalle Bern\nFussballstadion Ja\nKameradschaft Heimattreu \nDominic Täubert\nTreibhaus Luzern\nWelcome to Hell\nPdA Biel\nFDPO \nWaffenrecht-Sehengen Ja\nJunge Grüne Region Thun\nBenjamin Walder\nJungfreisinnige Stadt Zürich\nSolinetz Luzern\nJUSO Aargau\nCamille Lothe\nSofortmassnahmen jetzt\nDimitri Rougy\nCheerstrasse NEIN\nSystembruch Zug\nKlimastreik Thurgau\nJunge Grüne Aargau\nMona Gamie\nJungfreisinnige Kanton Zürich\nengage.ch\nJungthaeter\nIrie Noise\nNico Zobrist\nMichael Elsener\nSchlorian\nPerspektiven bauen - Solidarität mit Rojava\nJunge Grünliberale\nPartenza\nPNOS, Die Partei der Eidgenossen\nZüri gäge WEF\nJunge SVP Schweiz\nup schweiz\nJunge Grünliberale Bern\nJunge SVP Aargau\nJunge SVP Solothurn\nFCZ-Museum\nKriegsgeschäfte-Initiative\nInfoportal Oberland\nAxpo\nJunge Grüne Solothurn\nLange Nacht der Kritik\nSchweizer Demokraten SD\nAdil Koller\nKritische Juristinnen Fribourg\nPablo lnfernal\nGundula\nAdrian Spahr\nJUSO JS Bielingue\nJungallianz für das Klima\nGegen den Schweizer Asylwahnsinn\nAlternative\nNils Fiechter\nJunge SVP Luzern\nJunge Grüne Winterthur\nBlack Rat\nJunge BOP Schweiz\nJungfreisinnige\nRadio Funkloch\nJUSO Zürich Unterland\nMichelle Singer\nSP Kanton Aargau\nTransparenz-Initiative\nAlain Sehwald\nWaffen Schweiz\nJUSO Basel-Stadt\nNein zum Polizeigesetz\nZüri autofrei\nJunge Grünliberale Aargau\nSP Muttenz\nPhilipp Alex Gehrig\nJungfreisinnige Thurgau\nNein zur STAF\nCorinne Merk\nE-Voting-Moratorium\nInteressengemeinschaft lrchel\nMatthias Erni\nPetri Heil\nMothership Caldonia\nGrünliberale Knonaueramt\nReviravolta\nJugendkomitee für eine offene Schweiz\nJCVP Schweiz\nJa zum Grenzschutz\nJutz.ch\nRafael Mörgeli\nAktion Vielfalt\nSVP Nidwalden\nJunge Grüne Graubünden\nKreis 6/10 mit glp in die Zukunf\nFlorence Fischer\nSP Thurgau\nJungbürgerliche Konferenz\nMike Egger\nNazmjje lsmaili FDP TG\nAbschaffung der WAB Kurse\nVollgeldinitiative NEIN\nSocial Urban Zone\nJugendparlament Kanton Zürich\nGrünliberale Partei Kriens\nSVP Steinen",
-          "Like-VorschlägeGefälltMir_": "877\n6.912\n384\n507\n365\n658\n874\n1.865\n790\n555\n401\n191\n529\n184\n434\n11\n724\n976\n137\n458\n1.326\n506\n636\n2.331\n992\n346\n465\n9.207\n684\n18.538\n508\n3.128\n4.912\n22\n164\n3.889\n726\n208\n12.199\n527\n305\n75\n876\n252\n648\n653\n79\n2.170\n204\n428\n105\n497\n612\n851\n738\n735\n262\n90\n14.712\n750\n896\n1.870\n301\n16.129\n39\n10.861\n1.968\n518\n881\n1.646\n1.813\n1.657\n218\n2.503\n651\n186\n58\n480\n255\n3.106\n2.039\n1.635\n643\n872\n11.964\n496\n4.707\n673\n222\n171\n499\n2.903\n151\n251\n576\n1.048\n1.725\n225\n1.238\n1.588\n685\n451\n226\n323\n189\n583\n87\n522\n225\n315\n105\n3.257\n1.236\n92\n414\n533\n1.399\n11.295\n270\n335\n169\n500\n80\n121\n1.042\n503\n99\n549\n2.309\n2.182\n387\n1.294\n326\n149\n129",
-          "Like-VerzeichnisNamen_": "Revolutionärer Aufbau Basel\nRevolutionäre Jugend Zürich - RJZ\nKritische Politik UZH ETH\nMarxistische Studierende Zürich\nZersiedelungsinitiative\nSpekulationsstopp-Initiative\nAntikapitalistisches Kollektiv\nprofil",
-          "Like-VerzeichnisGefälltMir_": "889\n6.988\n1.880\n465\n2.326\n9.189\n758\n115.078"
+          "VorschlageNamen_": "Revolutionärer Aufbau Basel\nRevolutionäre Jugend Zürich\nRojava Komitee - Basel\nMarxist Society Uni Basel\nRevolutionäre Jugend Thurgau\nJUSO Kanton Luzern\nJUSO Kanton Bern\nKritische Politik Uzh Eth\nJUSO Stadt Luzern\nJUSO Graubünden\nJUSO Zürich Oberland\nBern gegen Rechts\nPdA Bern\nJunge Grüne Thurgau\nBasel Nazifrei\nAxel McFoley\nJunge Grüne Kanton Bern\nJUSO Stadt Bern\nGrüne Sursee\nMarxistische Studierende Zürich\nJUSO Baselland\nJunge Grünliberale Luzern\nJUSO Winterthur\nJa zur Zersiedelungsinitiative\nOja Schwamendingen\nAntifa Eidgenossenschaft\nJUSO Zug\nSpekulationsstopp-Initiative\nKUNE \nDachstock Reitschule \nJungfreisinnige Kanton Luzern \nReithalle Bern\nFussballstadion Ja\nKameradschaft Heimattreu \nDominic Täubert\nTreibhaus Luzern\nWelcome to Hell\nPdA Biel\nFDPO \nWaffenrecht-Sehengen Ja\nJunge Grüne Region Thun\nBenjamin Walder\nJungfreisinnige Stadt Zürich\nSolinetz Luzern\nJUSO Aargau\nCamille Lothe\nSofortmassnahmen jetzt\nDimitri Rougy\nCheerstrasse NEIN\nSystembruch Zug\nKlimastreik Thurgau\nJunge Grüne Aargau\nMona Gamie\nJungfreisinnige Kanton Zürich\nengage.ch\nJungthaeter\nIrie Noise\nNico Zobrist\nMichael Elsener\nSchlorian\nPerspektiven bauen - Solidarität mit Rojava\nJunge Grünliberale\nPartenza\nPNOS, Die Partei der Eidgenossen\nZüri gäge WEF\nJunge SVP Schweiz\nup schweiz\nJunge Grünliberale Bern\nJunge SVP Aargau\nJunge SVP Solothurn\nFCZ-Museum\nKriegsgeschäfte-Initiative\nInfoportal Oberland\nAxpo\nJunge Grüne Solothurn\nLange Nacht der Kritik\nSchweizer Demokraten SD\nAdil Koller\nKritische Juristinnen Fribourg\nPablo lnfernal\nGundula\nAdrian Spahr\nJUSO JS Bielingue\nJungallianz für das Klima\nGegen den Schweizer Asylwahnsinn\nAlternative\nNils Fiechter\nJunge SVP Luzern\nJunge Grüne Winterthur\nBlack Rat\nJunge BOP Schweiz\nJungfreisinnige\nRadio Funkloch\nJUSO Zürich Unterland\nMichelle Singer\nSP Kanton Aargau\nTransparenz-Initiative\nAlain Sehwald\nWaffen Schweiz\nJUSO Basel-Stadt\nNein zum Polizeigesetz\nZüri autofrei\nJunge Grünliberale Aargau\nSP Muttenz\nPhilipp Alex Gehrig\nJungfreisinnige Thurgau\nNein zur STAF\nCorinne Merk\nE-Voting-Moratorium\nInteressengemeinschaft lrchel\nMatthias Erni\nPetri Heil\nMothership Caldonia\nGrünliberale Knonaueramt\nReviravolta\nJugendkomitee für eine offene Schweiz\nJCVP Schweiz\nJa zum Grenzschutz\nJutz.ch\nRafael Mörgeli\nAktion Vielfalt\nSVP Nidwalden\nJunge Grüne Graubünden\nKreis 6/10 mit glp in die Zukunf\nFlorence Fischer\nSP Thurgau\nJungbürgerliche Konferenz\nMike Egger\nNazmjje lsmaili FDP TG\nAbschaffung der WAB Kurse\nVollgeldinitiative NEIN\nSocial Urban Zone\nJugendparlament Kanton Zürich\nGrünliberale Partei Kriens\nSVP Steinen",
+          "VorschlageGefalltMir_": "877\n6.912\n384\n507\n365\n658\n874\n1.865\n790\n555\n401\n191\n529\n184\n434\n11\n724\n976\n137\n458\n1.326\n506\n636\n2.331\n992\n346\n465\n9.207\n684\n18.538\n508\n3.128\n4.912\n22\n164\n3.889\n726\n208\n12.199\n527\n305\n75\n876\n252\n648\n653\n79\n2.170\n204\n428\n105\n497\n612\n851\n738\n735\n262\n90\n14.712\n750\n896\n1.870\n301\n16.129\n39\n10.861\n1.968\n518\n881\n1.646\n1.813\n1.657\n218\n2.503\n651\n186\n58\n480\n255\n3.106\n2.039\n1.635\n643\n872\n11.964\n496\n4.707\n673\n222\n171\n499\n2.903\n151\n251\n576\n1.048\n1.725\n225\n1.238\n1.588\n685\n451\n226\n323\n189\n583\n87\n522\n225\n315\n105\n3.257\n1.236\n92\n414\n533\n1.399\n11.295\n270\n335\n169\n500\n80\n121\n1.042\n503\n99\n549\n2.309\n2.182\n387\n1.294\n326\n149\n129",
+          "VerzeichnisNamen_": "Revolutionärer Aufbau Basel\nRevolutionäre Jugend Zürich - RJZ\nKritische Politik UZH ETH\nMarxistische Studierende Zürich\nZersiedelungsinitiative\nSpekulationsstopp-Initiative\nAntikapitalistisches Kollektiv\nprofil",
+          "VerzeichnisGefalltMir_": "889\n6.988\n1.880\n465\n2.326\n9.189\n758\n115.078"
         },
         {
           "Profil_": "P1",
@@ -1654,10 +1654,10 @@ var data =
           "LinkBild_": "DS_B_02-04-19",
           "Bildname_": "ABB-P1-072",
           "Bildunterschriften_": "Alban Grosdidier / SOPA / Getty Images",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1677,10 +1677,10 @@ var data =
           "LinkBild_": "DS_C_02-04-19",
           "Bildname_": "ABB-P1-073",
           "Bildunterschriften_": "So sieht sie aus. Die Zukunft? Nein, die Gegenwart.FOTO: BERND WÜSTNECK/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1700,10 +1700,10 @@ var data =
           "LinkBild_": "DS_D_02-04-19",
           "Bildname_": "ABB-P1-074",
           "Bildunterschriften_": "Die Bundeswehr braucht Nachwuchs und wirbt darum auch an Schulen. Die Berliner SPD will das verbieten. Foto: Sebastian Gollnow/Symbol ©Sebastian GollnowDPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1723,10 +1723,10 @@ var data =
           "LinkBild_": "DS_E_02-04-19",
           "Bildname_": "ABB-P1-075",
           "Bildunterschriften_": "Kinder spielen im Wald, junge Frauen demonstrieren in Frankreich für mehr Klimaschutz: Jeder Mensch produziert CO2, das den Klimawandel verschärft. Einige Umweltschützerinnen verzichten deshalb auf Kinder. © Stephane Mahe/Reuters/Annie Spratt/unsplash.com",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1746,10 +1746,10 @@ var data =
           "LinkBild_": "DS_F_02-04-19",
           "Bildname_": "ABB-P1-076",
           "Bildunterschriften_": "«Natürlich werde ich nicht manipuliert»: Greta Thunberg im deutschen Fernsehen. Foto: ARD",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1769,10 +1769,10 @@ var data =
           "LinkBild_": "DS_G_02-04-19",
           "Bildname_": "ABB-P1-077",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1792,10 +1792,10 @@ var data =
           "LinkBild_": "DS_H_02-04-19",
           "Bildname_": "ABB-P1-078",
           "Bildunterschriften_": "Der frühere amerikanische Vizepräsident Joe Biden sieht sich mit Vorwürfen der Belästigung konfrontiert. (Bild: Frank Franklin / AP Photo)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1815,10 +1815,10 @@ var data =
           "LinkBild_": "DS_I_02-04-19",
           "Bildname_": "ABB-P1-079",
           "Bildunterschriften_": "Britisches Unterhaus Kein Ende der Brexit-Blockade absehbar Zum Video Artikel (Video: Reuters, im Bild Guy Verhofstadt, der Brexit-Beauftragte des EU-Parlaments , Foto:AP )",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1838,10 +1838,10 @@ var data =
           "LinkBild_": "DS_J_02-04-19",
           "Bildname_": "ABB-P1-080",
           "Bildunterschriften_": "NEON sprach mit Klimaaktivistin Luisa Neubauer ©Michael KappelerPicture Alliance",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1861,10 +1861,10 @@ var data =
           "LinkBild_": "DS_A_03-04-19",
           "Bildname_": "ABB-P1-081",
           "Bildunterschriften_": "Jolanda Spiess-Hegglin ist gewillt, gegen Ringier nötigenfalls durch alle Instanzen zu gehen. (Bild: Keystone/Gaetan Bally)",
-          "Like-VorschlägeNamen_": "Bewegung für den Sozialismus - BFS \nKonzern-Initiative\nGrüne Schweiz\nRevolutionäre Jugend Thurgau\nCedric Wermuth\nBerner Zeitung\nKlimastreik Schweiz \nJUSO Kanton Luzern \nzentralplus\nSP Kanton Luzern\nMichael Töngi\nNZZ am Sonntag\nJUSO Winterthur\nRojava Komitee - Base\nFeminfo\nMini-Schwiz\nGrüne Zürich\nJUSO Stadt Luzern\nFinanz und Wirtschaf\nlinke PoC\nKlima-Allianz Schweiz\nMarxist Society Uni Basel\nDaniel Jositsch\nGrüne Luzern \nNico Zobrist\nSP Kanton Zürich\nJUSO Kanton Bern\nMartin Neukom\nJUSO Zürich Oberland\nJUSO Graubünden\nVCS Verkehrs-Club der Schweiz\nTerael76\nStarway Seven\nFerdi's atelier\nBern gegen Rechts\nSP Frauen Schweiz\nJA zur Vollgeld-Initiative\nboatbook.ch\nBeer Pong Club Wiesendangen\nPerspektiven bauen - Solidarität mit Rojava\nOja Schwamendingen\nGewerkschaft Unia\nBalthasar Glättli \nBasel Nazifrei\nJunge Grüne Schaffhausen\nJUSO JS Bielingue\nJörg Meyer, Kantonsrat Luzern\nRASH Zürich\nIWW JAM\nMichael Elsener\nSystembruch Zug\neiszeit \nZentrum für Demokratie Aarau\nI love Wipkingen\nAction-Education Aktion-Bildung\nIrina Studhalter\nNGO-Komitee gegen die Durchsetzungsinitiative\nder funke\nZüri isst\nPerlen aus Blocheristan\nWassergesetz Nein\nFaires Lager\nKlimaschutz Schweiz\nSP Stadt Luzern\nJUSO Stadt Bern\nAlpen-Initiative\nFussballstadion Ja\nStolze Openair\nProject R\nSender\nThomas Hofstette\nNein zu Versicherungsspione\nDachstock Reitschule\nForaus St Gallen\nDominic Täubert\nPdA Bern\nNein zum Unternehmenssteuer-Bschiss\nPartenza\nBastien Girod\nRadio Rase\nPdA Biel\nAIV Akademischer Ingenieur Verein\nGrünliberaie Thun\nAntifa Eidgenossenschaft\nNein zur «Selbstbestimmungs»-Initiative\nJUSO Zug\nAUNS · Aktion für eine unabhängige Schweiz\nSLESS\nGrünliberale\nCampaign Camp Switzerland\nWelcome to Hell\nJunge Grüne Kanton Bern\nUnia Region Siel Seeland Soloturn\nMarxistischer Verein Unibe\nGoafamily secret nights\nRouge Zürich\nNein zu den Kampfjet-Milliarden\nInfanterie Rekrutenschule 12\nDavid Roth\nWecollect\nTimo Steinlin - Jungpolitiker\nWaffenrecht-Sehengen Ja\nPrime News\nJunge Grünliberale Luzern\nJacqueline Badran - Nationalrat\nBDS Switzerland\nGLP Liestal & Umgebung\nNein zum Asylrechtsmissbrauch\nSandra Schneider official\nWärme Initiative Schweiz\nMarxistischer Verein Winterthur\nSVP Frauen Basel-Stadt\nRosmarieQuadranti\nGrüne Sursee\nfinanzen.ch\nKUNE \nSVP Bezirk Muri AG\nMarxistische Studierende\nNicole Müller-Boder\nSchweizerisches Bundesarchiv\nWaffen Schweiz\nJungfreisinnige Stadt Zürich\nBlack Rat\nFeministischer Streik\nMission Possible: Junge für Guggisberg\nWilhelm Tell\nNordwestschweiz- Referendum\nJUSO Baselland\nZüri gäge WEF\nHSG TALENTS Conference\nJunge Grüne Thurgau\nGitarrenbaukurse\nDer Kontraphet\nJunge SVP Schweiz\nJunge Grüne Aargau\nNoti Wümie\nHans-Ueli Vogt\nKommunistische Jugend Zürich\nRegula Rytz\nGewerbehalle\nSP Baselland\nCVP Kanton Luzern\nTele Top\nNein zum Polizeigesetz\nTrio Heinz Herber\nTransparenz-Initiative\nJournal B\nGegenBewegung Spange Nord\nenergie-wende-ja.ch\nJunge SVP Luzern\nAllianz gegen Sozis und Grüne\nNein zum schleichenden EU-Beitritt\nReithalle Bern\nKritische Juristinnen Fribourg\nVPOD Schweiz\nPNOS, Die Partei der Eidgenossen\nJunge SVP Kanton Bern\nMechanisiertes Bataillon 29\nlnf Bat 13\nSchweizerischer Zofingerverein\nInf Bat 61\nHasan Candan\nZürcher Unterländer\nCritical Mass Zurich\nMarrow Switzerland\nForum der Schweizerischen Volkspartei\nkuso Unilu\nDie Weltwoche\nSkeptiker Schweiz\nAllianz der Zivilgesellschaft\nClimate Games Basel\nFreiheit für Nekane\nRote Falken Zürich\nBilanz\nQueeramnesty.ch\nSAM Mofa-Cross Schweiz\nPolit-Forum Bern im Käfigturm\nCamille Lothe\nOpen Eyes Balkanroute\nJungfreisinnige Kanton Zürich\nAxpo \nSP Kanton Bern\naz Grenchner Tagblatt\nSocial Urban Zone\nVelojournal\naid hoc\nAG Queer\nAlternative Linke Bern\nReviravolta\nGrün liberale Zürich\nHistory Reloaded\nTele 1\nLucas Zurkirchen\nSchlorian\nschwizerchrüz.ch Michael Räber\nTeleblocher\nSolinetz Zürich\nAlternative Liste ZH\nSchweizerischer Gewerkschafts Bund\nGrüne Kanton Bern\n1.-Mai-Komitee Zürich\nKinderrechte selbstbestimmt\nAsexuelles Spektrum Schweiz\nDigitale Gesellschaft\nInfoportal Oberland\nMichelle Singer\nRIP Christoph Blocher\nAdil Koller\nGrüne Bülach\nSP Kanton Aargau\nClaudio Spescha\nAutonome Schule Zürich\nMario Schenkel\nSP 4&5 Zürich\nMarco Schläpfer\nMario Bucher\naktiv@unia \nMarionna Schlatter-Schmid\nVSS UNES USU",
-          "Like-VorschlägeGefälltMir_": "4.189\n15.534\n9.985\n365\n13.340\n13.898\n10.085\n658\n8.355\n2.279\n433\n7.007\n638\n384\n764\n3.571\n5.618\n790\n1.831\n292\n5.965\n507\n6.774\n1.037\n91\n5.474\n874\n1.202\n402\n555\n7.065\n7\n4\n27\n191\n1.431\n14.013\n117\n47\n896\n992\n9.119\n5.418\n434\n90\n643\n506\n713\n526\n14.723\n428\n528\n810\n3.897\n458\n475\n10.884\n2.179\n15.522\n861\n1.346\n546\n785\n1.206\n976\n11.231\n4.911\n6.427\n14.046\n2.702\n554\n1.247\n18.540\n565\n164\n529\n7.958\n301\n11.304\n8.732\n209\n844\n201\n346\n8.060\n465\n7.718\n434\n4.325\n555\n724\n724\n56\n400\n1.251\n471\n11.536\n3.484\n976\n1.135\n135\n544\n1.733\n506\n2.123\n1.614\n132\n3.780\n1.069\n1.112\n80\n407\n207\n137\n1.692\n684\n336\n142\n3.870\n1.875\n1.238\n876\n171\n288\n124\n762\n163\n1.328\n39\n3.193\n184\n2.351\n818\n10.868\n497\n1.852\n4.652\n638\n382\n372\n1.410\n1.084\n4.610\n685\n1.007\n1.725\n2.448\n257\n7.718\n673\n1.892\n9.214\n3.128\n255\n1.011\n16.128\n1.887\n2.412\n1.013\n760\n1.796\n397\n1.005\n1.701\n980\n599\n905\n18.210\n2.361\n5.053\n1.130\n1.195\n776\n10.601\n891\n481\n6.440\n652\n2.357\n851\n2.503\n1.826\n993\n1.295\n1.878\n545\n566\n808\n414\n667\n606\n15.668\n224\n757\n10.348\n1.301\n3.573\n4.490\n4.215\n1.038\n1.222\n147\n106\n1.013\n218\n575\n138\n480\n525\n1.048\n195\n9.475\n222\n292\n94\n130\n10.269\n409\n828",
-          "Like-VerzeichnisNamen_": "Grüne Zürich\nNZZ am Sonntag\nCedric Wermuth\nBewegung für den Sozialismus - BFS\nJungalianz für das Klima\nKriegsgeschäfte-Initiative\nDimitri Rougy",
-          "Like-VerzeichnisGefälltMir_": "5.630\n7.143\n13.375\n4.208\n874\n1.656\n2.164"
+          "VorschlageNamen_": "Bewegung für den Sozialismus - BFS \nKonzern-Initiative\nGrüne Schweiz\nRevolutionäre Jugend Thurgau\nCedric Wermuth\nBerner Zeitung\nKlimastreik Schweiz \nJUSO Kanton Luzern \nzentralplus\nSP Kanton Luzern\nMichael Töngi\nNZZ am Sonntag\nJUSO Winterthur\nRojava Komitee - Base\nFeminfo\nMini-Schwiz\nGrüne Zürich\nJUSO Stadt Luzern\nFinanz und Wirtschaf\nlinke PoC\nKlima-Allianz Schweiz\nMarxist Society Uni Basel\nDaniel Jositsch\nGrüne Luzern \nNico Zobrist\nSP Kanton Zürich\nJUSO Kanton Bern\nMartin Neukom\nJUSO Zürich Oberland\nJUSO Graubünden\nVCS Verkehrs-Club der Schweiz\nTerael76\nStarway Seven\nFerdi's atelier\nBern gegen Rechts\nSP Frauen Schweiz\nJA zur Vollgeld-Initiative\nboatbook.ch\nBeer Pong Club Wiesendangen\nPerspektiven bauen - Solidarität mit Rojava\nOja Schwamendingen\nGewerkschaft Unia\nBalthasar Glättli \nBasel Nazifrei\nJunge Grüne Schaffhausen\nJUSO JS Bielingue\nJörg Meyer, Kantonsrat Luzern\nRASH Zürich\nIWW JAM\nMichael Elsener\nSystembruch Zug\neiszeit \nZentrum für Demokratie Aarau\nI love Wipkingen\nAction-Education Aktion-Bildung\nIrina Studhalter\nNGO-Komitee gegen die Durchsetzungsinitiative\nder funke\nZüri isst\nPerlen aus Blocheristan\nWassergesetz Nein\nFaires Lager\nKlimaschutz Schweiz\nSP Stadt Luzern\nJUSO Stadt Bern\nAlpen-Initiative\nFussballstadion Ja\nStolze Openair\nProject R\nSender\nThomas Hofstette\nNein zu Versicherungsspione\nDachstock Reitschule\nForaus St Gallen\nDominic Täubert\nPdA Bern\nNein zum Unternehmenssteuer-Bschiss\nPartenza\nBastien Girod\nRadio Rase\nPdA Biel\nAIV Akademischer Ingenieur Verein\nGrünliberaie Thun\nAntifa Eidgenossenschaft\nNein zur «Selbstbestimmungs»-Initiative\nJUSO Zug\nAUNS · Aktion für eine unabhängige Schweiz\nSLESS\nGrünliberale\nCampaign Camp Switzerland\nWelcome to Hell\nJunge Grüne Kanton Bern\nUnia Region Siel Seeland Soloturn\nMarxistischer Verein Unibe\nGoafamily secret nights\nRouge Zürich\nNein zu den Kampfjet-Milliarden\nInfanterie Rekrutenschule 12\nDavid Roth\nWecollect\nTimo Steinlin - Jungpolitiker\nWaffenrecht-Sehengen Ja\nPrime News\nJunge Grünliberale Luzern\nJacqueline Badran - Nationalrat\nBDS Switzerland\nGLP Liestal & Umgebung\nNein zum Asylrechtsmissbrauch\nSandra Schneider official\nWärme Initiative Schweiz\nMarxistischer Verein Winterthur\nSVP Frauen Basel-Stadt\nRosmarieQuadranti\nGrüne Sursee\nfinanzen.ch\nKUNE \nSVP Bezirk Muri AG\nMarxistische Studierende\nNicole Müller-Boder\nSchweizerisches Bundesarchiv\nWaffen Schweiz\nJungfreisinnige Stadt Zürich\nBlack Rat\nFeministischer Streik\nMission Possible: Junge für Guggisberg\nWilhelm Tell\nNordwestschweiz- Referendum\nJUSO Baselland\nZüri gäge WEF\nHSG TALENTS Conference\nJunge Grüne Thurgau\nGitarrenbaukurse\nDer Kontraphet\nJunge SVP Schweiz\nJunge Grüne Aargau\nNoti Wümie\nHans-Ueli Vogt\nKommunistische Jugend Zürich\nRegula Rytz\nGewerbehalle\nSP Baselland\nCVP Kanton Luzern\nTele Top\nNein zum Polizeigesetz\nTrio Heinz Herber\nTransparenz-Initiative\nJournal B\nGegenBewegung Spange Nord\nenergie-wende-ja.ch\nJunge SVP Luzern\nAllianz gegen Sozis und Grüne\nNein zum schleichenden EU-Beitritt\nReithalle Bern\nKritische Juristinnen Fribourg\nVPOD Schweiz\nPNOS, Die Partei der Eidgenossen\nJunge SVP Kanton Bern\nMechanisiertes Bataillon 29\nlnf Bat 13\nSchweizerischer Zofingerverein\nInf Bat 61\nHasan Candan\nZürcher Unterländer\nCritical Mass Zurich\nMarrow Switzerland\nForum der Schweizerischen Volkspartei\nkuso Unilu\nDie Weltwoche\nSkeptiker Schweiz\nAllianz der Zivilgesellschaft\nClimate Games Basel\nFreiheit für Nekane\nRote Falken Zürich\nBilanz\nQueeramnesty.ch\nSAM Mofa-Cross Schweiz\nPolit-Forum Bern im Käfigturm\nCamille Lothe\nOpen Eyes Balkanroute\nJungfreisinnige Kanton Zürich\nAxpo \nSP Kanton Bern\naz Grenchner Tagblatt\nSocial Urban Zone\nVelojournal\naid hoc\nAG Queer\nAlternative Linke Bern\nReviravolta\nGrün liberale Zürich\nHistory Reloaded\nTele 1\nLucas Zurkirchen\nSchlorian\nschwizerchrüz.ch Michael Räber\nTeleblocher\nSolinetz Zürich\nAlternative Liste ZH\nSchweizerischer Gewerkschafts Bund\nGrüne Kanton Bern\n1.-Mai-Komitee Zürich\nKinderrechte selbstbestimmt\nAsexuelles Spektrum Schweiz\nDigitale Gesellschaft\nInfoportal Oberland\nMichelle Singer\nRIP Christoph Blocher\nAdil Koller\nGrüne Bülach\nSP Kanton Aargau\nClaudio Spescha\nAutonome Schule Zürich\nMario Schenkel\nSP 4&5 Zürich\nMarco Schläpfer\nMario Bucher\naktiv@unia \nMarionna Schlatter-Schmid\nVSS UNES USU",
+          "VorschlageGefalltMir_": "4.189\n15.534\n9.985\n365\n13.340\n13.898\n10.085\n658\n8.355\n2.279\n433\n7.007\n638\n384\n764\n3.571\n5.618\n790\n1.831\n292\n5.965\n507\n6.774\n1.037\n91\n5.474\n874\n1.202\n402\n555\n7.065\n7\n4\n27\n191\n1.431\n14.013\n117\n47\n896\n992\n9.119\n5.418\n434\n90\n643\n506\n713\n526\n14.723\n428\n528\n810\n3.897\n458\n475\n10.884\n2.179\n15.522\n861\n1.346\n546\n785\n1.206\n976\n11.231\n4.911\n6.427\n14.046\n2.702\n554\n1.247\n18.540\n565\n164\n529\n7.958\n301\n11.304\n8.732\n209\n844\n201\n346\n8.060\n465\n7.718\n434\n4.325\n555\n724\n724\n56\n400\n1.251\n471\n11.536\n3.484\n976\n1.135\n135\n544\n1.733\n506\n2.123\n1.614\n132\n3.780\n1.069\n1.112\n80\n407\n207\n137\n1.692\n684\n336\n142\n3.870\n1.875\n1.238\n876\n171\n288\n124\n762\n163\n1.328\n39\n3.193\n184\n2.351\n818\n10.868\n497\n1.852\n4.652\n638\n382\n372\n1.410\n1.084\n4.610\n685\n1.007\n1.725\n2.448\n257\n7.718\n673\n1.892\n9.214\n3.128\n255\n1.011\n16.128\n1.887\n2.412\n1.013\n760\n1.796\n397\n1.005\n1.701\n980\n599\n905\n18.210\n2.361\n5.053\n1.130\n1.195\n776\n10.601\n891\n481\n6.440\n652\n2.357\n851\n2.503\n1.826\n993\n1.295\n1.878\n545\n566\n808\n414\n667\n606\n15.668\n224\n757\n10.348\n1.301\n3.573\n4.490\n4.215\n1.038\n1.222\n147\n106\n1.013\n218\n575\n138\n480\n525\n1.048\n195\n9.475\n222\n292\n94\n130\n10.269\n409\n828",
+          "VerzeichnisNamen_": "Grüne Zürich\nNZZ am Sonntag\nCedric Wermuth\nBewegung für den Sozialismus - BFS\nJungalianz für das Klima\nKriegsgeschäfte-Initiative\nDimitri Rougy",
+          "VerzeichnisGefalltMir_": "5.630\n7.143\n13.375\n4.208\n874\n1.656\n2.164"
         },
         {
           "Profil_": "P1",
@@ -1884,10 +1884,10 @@ var data =
           "LinkBild_": "DS_B_03-04-19",
           "Bildname_": "ABB-P1-082",
           "Bildunterschriften_": "2013 sorgt die 1:12-Initianten weltweit für Aufsehen. Das Anliegen fand aber keine Mehrheit (Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1907,10 +1907,10 @@ var data =
           "LinkBild_": "DS_C_03-04-19",
           "Bildname_": "ABB-P1-083",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1930,10 +1930,10 @@ var data =
           "LinkBild_": "DS_D_03-04-19",
           "Bildname_": "ABB-P1-084",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1953,10 +1953,10 @@ var data =
           "LinkBild_": "DS_E_03-04-19",
           "Bildname_": "ABB-P1-085",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1976,10 +1976,10 @@ var data =
           "LinkBild_": "DS_F_03-04-19",
           "Bildname_": "ABB-P1-086",
           "Bildunterschriften_": "Jonas Heeb (Junge Grüne) wurde in den Kantonsrat gewählt. (Bild: Philipp Schmidli, Luzern, 31. März 2019)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -1999,10 +1999,10 @@ var data =
           "LinkBild_": "DS_G_03-04-19",
           "Bildname_": "ABB-P1-087",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2022,10 +2022,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-088",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2045,10 +2045,10 @@ var data =
           "LinkBild_": "DS_I_03-04-19",
           "Bildname_": "ABB-P1-089",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2068,10 +2068,10 @@ var data =
           "LinkBild_": "DS_J_03-04-19",
           "Bildname_": "ABB-P1-090",
           "Bildunterschriften_": "ZEIT-ONLINE-Autorin Jana Hensel und Sozialforscherin Naika Foroutan © Dominik Butzmann; Rasmus Tanck",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2091,10 +2091,10 @@ var data =
           "LinkBild_": "DS_A_04-04-19",
           "Bildname_": "ABB-P1-091",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Konzern-Initiative \nKlima-Allianz Schweiz\nGrüne Luzern\nBalthasar Glättli\nBerner Zeitung\nKlimaschutz Schweiz\nMartin Neukom\nFDP\nAlternative Liste ZH\nSP Kanton Zürich\nSP Frauen Schweiz\nJUSO Winterthur\nPerlen aus Blocheristan\nJUSO Kanton Luzern\nMini-Schwiz\nFeminfo\nAutonome Schule Zürich\nBastien Girod\nJUSO Zürich Oberland\nJUSO Stadt Luzern\nNein zum Entwaffnungsdiktat\nRadio RaBe\nlinke PoC\nPdA Bern\nPro Natura\nJUSO Kanton Schwyz\nTerael76\nJa zur Vollgeld-Initiative\nNein zu Versicherungsspionen\nStarway Seven\nMarxist Society Uni Basel\nboatbook.ch\nSVP Kanton Bern\nGewerkschaft Unia\nJunge SVP Kanton Zürich\nJUSO Graubünden\nOja Schwamendingen\nMichael Töngi\nFDP Kanton Zürich\nI love Wipkingen\nder funke\nJUSO Kanton Bern\nWassergesetz Nein\nMarxistischer Verein Unibe\nNachhaltigkeitswoche Zürich\nZüri isst\nSehen und Handeln \nJUSO Stadt Bern\nFussballstadion Ja\nSender\nMilchjugend. Falsch sexuelle Welten\nAlpen-Initiative\nAlternative Linke Bern\nProject R\nStolze Openair\nJörg Meyer, Kantonsrat Luzern\nZüri autofrei\nJUSO Baselland\nFinanz und Wirtschaft\nDachstock Reitschule\nRojava Komitee - Basel\nSP Stadt Luzern\nGrünliberale\neiszeit \nDominic Täubert\nNein zum Unternehmenssteuer-Bschiss\nJungfreisinnige Kanton Zürich \nDaniel Jositsch \nNein zur «Selbstbestimmungs»-Initiative\nJunge SVP Schweiz \nClimate Save Switzerland \nATAZ \nAnzeiger von Saanen \nKlimastreik Basel\nzentralplus\nPNOS, Oie Partei der Eidgenossen\nJunge Grünliberale\nJUSO Zug\nCamille Lothe\nGrüne Kanton Bern\nNZZ Folio\nSVP des Kantons Zürich\nRouge Zürich\nNicole Müller-Boder\nJa zum Verhüllungsverbo\nJunge Grüne Kanton Bern\nPartenza\nForum der Schweizerischen Volkspartei\nCVP Kanton Aargau\nAUNS · Aktion für eine unabhängige Schweiz\nHasan Candan\nNein zu den Kampfjet-Milliarden\nAllianz der Zivilgesellschaft\nFDP Zürich 9\nFDP.Die liberalen Luzern\nThomas Matter \nTele Top\nGrün liberale Zürich\nJunge Grünliberale Luzern\nZentrum für Demokratie Aarau\nNein zum Asylrechtsmissbrauch\nClaudio Schmid\nAction_Education Aktion_Bildung\nSystembruch Zug\nWecollect\nAlbert Rösti\nJUSO JS Bielingue\nSP Kloten\nDringender Aufruf\nDavid Roth\nFaires Lager\nenergie-wende-ja.ch \nIrina Studhalter\nJunge SVP Kanton Bern\nCVP Kanton Luzern\nSchweizerischer Zofingerverein\nSP Baselland\ncash.ch\nVPOD Schweiz\nJUSO Aargau\nHans Egli\nMarrow Switzerland\nMarxistischer Verein Winterthur\nSP Kanton Luzern\nForaus St Gallen\nGrüne Sursee\nGrün liberale Stadt Luzern\nBilanz\nCVP Stadt Luzern\nSP 4&5 Zürich\nSVP des Kantons Luzern\nPrime News\nRASH Zürich\nMichael Elsener\nIsabel Garcia GLP\nBOP Kanton Luzern\nSchweizerischer Gewerkschafts Bund\nThomas Hofstetter\nGrüne Zürichsee\nJungfreisinnige Stadt Zürich\nGLP Liestal & Umgebung\nSRG Insider\nEVP / PEV\nkuso Unilu\naz Grenchner Tagblatt\nHände weg von meiner Rente\nSRF News Basel\nBlack Rat\nGrünliberale Partei Kanton Luzern",
-          "Like-VorschlägeGefälltMir_": "15.602\n5.972\n1.037\n5.418\n13.906\n749\n1.202\n12.202\n4.490\n5.476\n1.431\n638\n862\n658\n3.574\n764\n9.477\n11.305\n402\n790\n2.309\n8.734\n292\n530\n13.368\n399\n7\n14.009\n1.247\n4\n507\n117\n2.963\n9.131\n2.307\n555\n992\n433\n1.650\n3.879\n2.179\n874\n1.346\n400\n2.964\n15.535\n4.474\n976\n4.910\n2.702\n3.208\n11.231\n809\n14.047\n6.427\n505\n451\n1.329\n1.833\n18.544\n386\n1.207\n4.327\n528\n164\n7.958\n851\n6.779\n8.059\n10.873\n709\n485\n782\n389\n8.370\n16.130\n1.871\n467\n653\n1.038\n19.791\n3.124\n472\n3.873\n2.989\n724\n301\n601\n496\n7.727\n397\n11.535\n5.054\n83\n605\n10.908\n4.624\n670\n506\n810\n3.780\n336\n458\n428\n1.135\n7.502\n643\n274\n6.930\n977\n547\n7.725\n475\n1.891\n1.084\n760\n1.414\n1.615\n1.015\n648\n295\n979\n80\n2.285\n565\n137\n244\n10.616\n278\n292\n1.692\n1.733\n714\n14.731\n574\n380\n4.215\n556\n316\n876\n132",
-          "Like-VerzeichnisNamen_": "Klimastreik Schweiz\nGrüne Schweiz\nKonzern-Initiative\nKlima-Alianz Schweiz\nBalthasar Glättli\nPro Natura",
-          "Like-VerzeichnisGefälltMir_": "11.083\n10.121\n16.826\n6.038\n5.415\n13.608"
+          "VorschlageNamen_": "Konzern-Initiative \nKlima-Allianz Schweiz\nGrüne Luzern\nBalthasar Glättli\nBerner Zeitung\nKlimaschutz Schweiz\nMartin Neukom\nFDP\nAlternative Liste ZH\nSP Kanton Zürich\nSP Frauen Schweiz\nJUSO Winterthur\nPerlen aus Blocheristan\nJUSO Kanton Luzern\nMini-Schwiz\nFeminfo\nAutonome Schule Zürich\nBastien Girod\nJUSO Zürich Oberland\nJUSO Stadt Luzern\nNein zum Entwaffnungsdiktat\nRadio RaBe\nlinke PoC\nPdA Bern\nPro Natura\nJUSO Kanton Schwyz\nTerael76\nJa zur Vollgeld-Initiative\nNein zu Versicherungsspionen\nStarway Seven\nMarxist Society Uni Basel\nboatbook.ch\nSVP Kanton Bern\nGewerkschaft Unia\nJunge SVP Kanton Zürich\nJUSO Graubünden\nOja Schwamendingen\nMichael Töngi\nFDP Kanton Zürich\nI love Wipkingen\nder funke\nJUSO Kanton Bern\nWassergesetz Nein\nMarxistischer Verein Unibe\nNachhaltigkeitswoche Zürich\nZüri isst\nSehen und Handeln \nJUSO Stadt Bern\nFussballstadion Ja\nSender\nMilchjugend. Falsch sexuelle Welten\nAlpen-Initiative\nAlternative Linke Bern\nProject R\nStolze Openair\nJörg Meyer, Kantonsrat Luzern\nZüri autofrei\nJUSO Baselland\nFinanz und Wirtschaft\nDachstock Reitschule\nRojava Komitee - Basel\nSP Stadt Luzern\nGrünliberale\neiszeit \nDominic Täubert\nNein zum Unternehmenssteuer-Bschiss\nJungfreisinnige Kanton Zürich \nDaniel Jositsch \nNein zur «Selbstbestimmungs»-Initiative\nJunge SVP Schweiz \nClimate Save Switzerland \nATAZ \nAnzeiger von Saanen \nKlimastreik Basel\nzentralplus\nPNOS, Oie Partei der Eidgenossen\nJunge Grünliberale\nJUSO Zug\nCamille Lothe\nGrüne Kanton Bern\nNZZ Folio\nSVP des Kantons Zürich\nRouge Zürich\nNicole Müller-Boder\nJa zum Verhüllungsverbo\nJunge Grüne Kanton Bern\nPartenza\nForum der Schweizerischen Volkspartei\nCVP Kanton Aargau\nAUNS · Aktion für eine unabhängige Schweiz\nHasan Candan\nNein zu den Kampfjet-Milliarden\nAllianz der Zivilgesellschaft\nFDP Zürich 9\nFDP.Die liberalen Luzern\nThomas Matter \nTele Top\nGrün liberale Zürich\nJunge Grünliberale Luzern\nZentrum für Demokratie Aarau\nNein zum Asylrechtsmissbrauch\nClaudio Schmid\nAction_Education Aktion_Bildung\nSystembruch Zug\nWecollect\nAlbert Rösti\nJUSO JS Bielingue\nSP Kloten\nDringender Aufruf\nDavid Roth\nFaires Lager\nenergie-wende-ja.ch \nIrina Studhalter\nJunge SVP Kanton Bern\nCVP Kanton Luzern\nSchweizerischer Zofingerverein\nSP Baselland\ncash.ch\nVPOD Schweiz\nJUSO Aargau\nHans Egli\nMarrow Switzerland\nMarxistischer Verein Winterthur\nSP Kanton Luzern\nForaus St Gallen\nGrüne Sursee\nGrün liberale Stadt Luzern\nBilanz\nCVP Stadt Luzern\nSP 4&5 Zürich\nSVP des Kantons Luzern\nPrime News\nRASH Zürich\nMichael Elsener\nIsabel Garcia GLP\nBOP Kanton Luzern\nSchweizerischer Gewerkschafts Bund\nThomas Hofstetter\nGrüne Zürichsee\nJungfreisinnige Stadt Zürich\nGLP Liestal & Umgebung\nSRG Insider\nEVP / PEV\nkuso Unilu\naz Grenchner Tagblatt\nHände weg von meiner Rente\nSRF News Basel\nBlack Rat\nGrünliberale Partei Kanton Luzern",
+          "VorschlageGefalltMir_": "15.602\n5.972\n1.037\n5.418\n13.906\n749\n1.202\n12.202\n4.490\n5.476\n1.431\n638\n862\n658\n3.574\n764\n9.477\n11.305\n402\n790\n2.309\n8.734\n292\n530\n13.368\n399\n7\n14.009\n1.247\n4\n507\n117\n2.963\n9.131\n2.307\n555\n992\n433\n1.650\n3.879\n2.179\n874\n1.346\n400\n2.964\n15.535\n4.474\n976\n4.910\n2.702\n3.208\n11.231\n809\n14.047\n6.427\n505\n451\n1.329\n1.833\n18.544\n386\n1.207\n4.327\n528\n164\n7.958\n851\n6.779\n8.059\n10.873\n709\n485\n782\n389\n8.370\n16.130\n1.871\n467\n653\n1.038\n19.791\n3.124\n472\n3.873\n2.989\n724\n301\n601\n496\n7.727\n397\n11.535\n5.054\n83\n605\n10.908\n4.624\n670\n506\n810\n3.780\n336\n458\n428\n1.135\n7.502\n643\n274\n6.930\n977\n547\n7.725\n475\n1.891\n1.084\n760\n1.414\n1.615\n1.015\n648\n295\n979\n80\n2.285\n565\n137\n244\n10.616\n278\n292\n1.692\n1.733\n714\n14.731\n574\n380\n4.215\n556\n316\n876\n132",
+          "VerzeichnisNamen_": "Klimastreik Schweiz\nGrüne Schweiz\nKonzern-Initiative\nKlima-Alianz Schweiz\nBalthasar Glättli\nPro Natura",
+          "VerzeichnisGefalltMir_": "11.083\n10.121\n16.826\n6.038\n5.415\n13.608"
         },
         {
           "Profil_": "P1",
@@ -2114,10 +2114,10 @@ var data =
           "LinkBild_": "DS_B_04-04-19",
           "Bildname_": "ABB-P1-092",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2137,10 +2137,10 @@ var data =
           "LinkBild_": "DS_C_04-04-19",
           "Bildname_": "ABB-P1-093",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2160,10 +2160,10 @@ var data =
           "LinkBild_": "DS_D_04-04-19",
           "Bildname_": "ABB-P1-094",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2183,10 +2183,10 @@ var data =
           "LinkBild_": "DS_E_04-04-19",
           "Bildname_": "ABB-P1-095",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2206,10 +2206,10 @@ var data =
           "LinkBild_": "DS_F_04-04-19",
           "Bildname_": "ABB-P1-096",
           "Bildunterschriften_": "Bild: Pius Amrein, Hildisrieden, 2. April 2019",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2229,10 +2229,10 @@ var data =
           "LinkBild_": "DS_G_04-04-19",
           "Bildname_": "ABB-P1-097",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2252,10 +2252,10 @@ var data =
           "LinkBild_": "DS_H_04-04-19",
           "Bildname_": "ABB-P1-098",
           "Bildunterschriften_": "Ein fernes Bild aus vergangener Zeit? Shell-Tankstelle irgendwo in Arizona, USA. Quelle: Thomas Hawk | Flickr Creative Commons",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2275,10 +2275,10 @@ var data =
           "LinkBild_": "DS_I_04-04-19",
           "Bildname_": "ABB-P1-099",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2298,10 +2298,10 @@ var data =
           "LinkBild_": "DS_J_04-04-19",
           "Bildname_": "ABB-P1-100",
           "Bildunterschriften_": "Ölarbeitercamp in Midland, Westtexas: Die Strassen sind voll von Lastwagen und Pick-ups, überall stinkt es nach Gas und Öl. FOTO: JULIE DERMANSKY",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2321,10 +2321,10 @@ var data =
           "LinkBild_": "DS_A_05-04-19",
           "Bildname_": "ABB-P1-101",
           "Bildunterschriften_": "GLP-Kantonsrätin Claudia Huser freut sich über das gute Abschneiden der Frauen bei den Kantonsratswahlen.  (Bild: zvg)",
-          "Like-VorschlägeNamen_": "FDP\nBerner Zeitung\nMartin Neukom\nMarxist Society Uni Basel\nMarxistischer Verein Unibe\nJUSO Winterthur\nAlternative Liste ZH\nAllianz gegen Sozis und Grüne\nGrüne Luzern\nJUSO Kanton Luzern\nFeminfo\nSRG Insider\nJUSO\nStadt Bern\nRojava Komitee-Basel\nAutonome Schule Zürich\nJUSO JS Bielingue\nGrünliberale\nRadio RaBe\nNein zum Polizeigesetz\nTerael76\nStarway Seven\nSP Kanton Zürich\nGewerkschaft Unia\nJUSO Stadt Luzern\nkriPo Bern-kritische Politik Bern\nPablo Infernal\nJUSO Zürich Oberland\nBeer Pong Club Wiesendangen\nboatbook.ch\nTeleBärn\nKlimaschutz Schweiz\nSolinetz Zürich\nGrüne Kanton Bern\nAlternative Linke Bern\nJa zur Vollgeld-Initiative\nOja Schwamendingen\nZüri isst\nJUSO Kanton Bern\nJUSO Thurgau\nder funke\nJUSO Graubünden\nSchluss mit Kürzen\nSender\nJunge SVP Schweiz\neiszeit\nFussballstadion Ja\nI love Wipkingen\nAllianz der Zivilgesellschaft\nFDP Kanton Zürich\nMilchjugend. Falschsexuelle Welten\nRASH Zürich\nSVP Kanton Bern\nStolze Openair\nJörg Meyer Kantonsrat Luzern\nRote Falken Zürich\nFreiheit für Nekane\nDachstock Reitschule\nSehen und Handeln\nSP Stadt Luzern\nWo unrecht zu recht wird\nPdA Bern\nTrue Rebel Schweiz\nPerlen aus Blocheristan\nReithalle Bern\nZüri autofrei\nIWW JAM\nSVP des Kantons Zürich\nRouge Zürich\nMichael Töngi\nAUNS-Aktion für eine unabhängige Schweiz\nAlbani\nNein zun Unternehmenssteuer-Bschiss\nPiratenpartei Schweiz\nSP Kanton Luzern\nDominic Täubert\nJUSO Zürich Unterland\nNein zur «Selbstbestimmungs»-Initiative\nKlimastreik Basel\nGrünliberale Zürich\nJunge Grünliberale\nJa zum Verhüllungsverbot\nNein zum Asylrechtmissbrauch\nJunge Grüne Kanton Bern\nThomas Matter Nicole Müller-Boder\nSP Baselland\nHasan Candan\nzentralplus\nSandra Schneider official\nGrüne Zürichsee\nZentrum für Demokratie Aarau\nTransparenz-Initiative\nenergie-wende-ja.ch\nFaires Lager\nJunge SVP Kanton Bern\nSP Birsfelden\nSchlorian\nLinke PoC\nNein zu den Kampfjet-Milliarden\nTagblatt\nJunge Grünliberale Luzern\nAlbert Rösti\nBDP Kanton Luzern\nIrina Studhalter\nJunge SVP Aargau\nFinanz und Wirtschaft\nCritical Mass Zürich\nSchweizerischer Zofingerverein\nNico Zobrist\nMarrow Switzerland\nForaus St Gallen\nNachhaltigkeitswoche Zürich\nPrime News\nDavid Roth\nKUNE\nTele Top\nDringender Aufruf\nCVP Stadt Luzern\nSystembruch Zug\nMarionna Schlatter-Schmid\nSVP des Kantons Luzern\nAlpen-Initiative\nHans Egli\naz Grenchner Tagblatt\nThomas Aeschi\nPartenza\nPolit-Forum Bern im Käfigturm\nAxpo\nJunge Grüne Aargau\nGrüne Sursee\nNils Fiechter\nDaniel Jositsch\nPatrick Tscherrig\nNein zu Versicherungsspionen\nMichelle Singer\nSandro Brotz\nDie Weltwoche\nRoland Fischer\nBilanz\nkuso UniLu\nCamille Lothe\nJungfreisinnige Stadt Zürich\nSRF News Basel\nHände weg von meiner Rente\nSchweizerischer Gewerkschafts Bund\nAdil Koller\nSVP Kanton St.Gallen\nGrünliberale Partei Kanton Luzern\nThomas Hofstetter\nStudyweek Azerbaijan",
-          "Like-VorschlägeGefälltMir_": "12.201\n13.907\n1.202\n507\n400\n638\n4.490\n1.891\n1.038\n658\n764\n14.670\n976\n388\n9.477\n644\n4.327\n8.735\n686\n7\n4\n5.477\n9.135\n790\n568\n3.110\n402\n47\n117\n13.947\n750\n3.572\n1.039\n809\n14.010\n991\n15.540\n875\n521\n2.179\n555\n326\n2.703\n10.872\n528\n4.910\n3.897\n5.055\n1.651\n3.203\n714\n2.964\n6.427\n505\n776\n1.194\n18.547\n4.475\n1.208\n1.000\n530\n10.363\n863\n3.129\n451\n526\n3.126\n472\n433\n7.738\n4.268\n7.958\n3.517\n2.288\n164\n251\n8.059\n391\n670\n1.872\n2.989\n3.780\n724\n10.912\n3.874\n1.415\n397\n8.372\n1.072\n316\n811\n1.725\n7.725\n547\n1.893\n148\n753\n292\n11.535\n11.936\n507\n7.501\n380\n475\n881\n1.832\n1.706\n760\n92\n979\n565\n2.955\n1.733\n977\n685\n4.633\n6.930\n278\n428\n438\n1.691\n11.231\n295\n994\n3.644\n301\n6.441\n2.505\n497\n137\n4.705\n6.781\n205\n1.248\n574\n2.491\n18.208\n176\n10.632\n904\n653\n877\n2.245\n470\n4.219\n484\n909\n225\n556\n94",
-          "Like-VerzeichnisNamen_": "Martin Neukom\nAlternative Liste ZH\nSP Kanton Zürich\nFeminto\nSolinetz Zürich\nGewerkschaft Unia\nDer Funke\nPiratenpartei Schweiz",
-          "Like-VerzeichnisGefälltMir_": "1.218\n4.495\n5.489\n772\n3.594\n9.151\n2.190\n3.514"
+          "VorschlageNamen_": "FDP\nBerner Zeitung\nMartin Neukom\nMarxist Society Uni Basel\nMarxistischer Verein Unibe\nJUSO Winterthur\nAlternative Liste ZH\nAllianz gegen Sozis und Grüne\nGrüne Luzern\nJUSO Kanton Luzern\nFeminfo\nSRG Insider\nJUSO\nStadt Bern\nRojava Komitee-Basel\nAutonome Schule Zürich\nJUSO JS Bielingue\nGrünliberale\nRadio RaBe\nNein zum Polizeigesetz\nTerael76\nStarway Seven\nSP Kanton Zürich\nGewerkschaft Unia\nJUSO Stadt Luzern\nkriPo Bern-kritische Politik Bern\nPablo Infernal\nJUSO Zürich Oberland\nBeer Pong Club Wiesendangen\nboatbook.ch\nTeleBärn\nKlimaschutz Schweiz\nSolinetz Zürich\nGrüne Kanton Bern\nAlternative Linke Bern\nJa zur Vollgeld-Initiative\nOja Schwamendingen\nZüri isst\nJUSO Kanton Bern\nJUSO Thurgau\nder funke\nJUSO Graubünden\nSchluss mit Kürzen\nSender\nJunge SVP Schweiz\neiszeit\nFussballstadion Ja\nI love Wipkingen\nAllianz der Zivilgesellschaft\nFDP Kanton Zürich\nMilchjugend. Falschsexuelle Welten\nRASH Zürich\nSVP Kanton Bern\nStolze Openair\nJörg Meyer Kantonsrat Luzern\nRote Falken Zürich\nFreiheit für Nekane\nDachstock Reitschule\nSehen und Handeln\nSP Stadt Luzern\nWo unrecht zu recht wird\nPdA Bern\nTrue Rebel Schweiz\nPerlen aus Blocheristan\nReithalle Bern\nZüri autofrei\nIWW JAM\nSVP des Kantons Zürich\nRouge Zürich\nMichael Töngi\nAUNS-Aktion für eine unabhängige Schweiz\nAlbani\nNein zun Unternehmenssteuer-Bschiss\nPiratenpartei Schweiz\nSP Kanton Luzern\nDominic Täubert\nJUSO Zürich Unterland\nNein zur «Selbstbestimmungs»-Initiative\nKlimastreik Basel\nGrünliberale Zürich\nJunge Grünliberale\nJa zum Verhüllungsverbot\nNein zum Asylrechtmissbrauch\nJunge Grüne Kanton Bern\nThomas Matter Nicole Müller-Boder\nSP Baselland\nHasan Candan\nzentralplus\nSandra Schneider official\nGrüne Zürichsee\nZentrum für Demokratie Aarau\nTransparenz-Initiative\nenergie-wende-ja.ch\nFaires Lager\nJunge SVP Kanton Bern\nSP Birsfelden\nSchlorian\nLinke PoC\nNein zu den Kampfjet-Milliarden\nTagblatt\nJunge Grünliberale Luzern\nAlbert Rösti\nBDP Kanton Luzern\nIrina Studhalter\nJunge SVP Aargau\nFinanz und Wirtschaft\nCritical Mass Zürich\nSchweizerischer Zofingerverein\nNico Zobrist\nMarrow Switzerland\nForaus St Gallen\nNachhaltigkeitswoche Zürich\nPrime News\nDavid Roth\nKUNE\nTele Top\nDringender Aufruf\nCVP Stadt Luzern\nSystembruch Zug\nMarionna Schlatter-Schmid\nSVP des Kantons Luzern\nAlpen-Initiative\nHans Egli\naz Grenchner Tagblatt\nThomas Aeschi\nPartenza\nPolit-Forum Bern im Käfigturm\nAxpo\nJunge Grüne Aargau\nGrüne Sursee\nNils Fiechter\nDaniel Jositsch\nPatrick Tscherrig\nNein zu Versicherungsspionen\nMichelle Singer\nSandro Brotz\nDie Weltwoche\nRoland Fischer\nBilanz\nkuso UniLu\nCamille Lothe\nJungfreisinnige Stadt Zürich\nSRF News Basel\nHände weg von meiner Rente\nSchweizerischer Gewerkschafts Bund\nAdil Koller\nSVP Kanton St.Gallen\nGrünliberale Partei Kanton Luzern\nThomas Hofstetter\nStudyweek Azerbaijan",
+          "VorschlageGefalltMir_": "12.201\n13.907\n1.202\n507\n400\n638\n4.490\n1.891\n1.038\n658\n764\n14.670\n976\n388\n9.477\n644\n4.327\n8.735\n686\n7\n4\n5.477\n9.135\n790\n568\n3.110\n402\n47\n117\n13.947\n750\n3.572\n1.039\n809\n14.010\n991\n15.540\n875\n521\n2.179\n555\n326\n2.703\n10.872\n528\n4.910\n3.897\n5.055\n1.651\n3.203\n714\n2.964\n6.427\n505\n776\n1.194\n18.547\n4.475\n1.208\n1.000\n530\n10.363\n863\n3.129\n451\n526\n3.126\n472\n433\n7.738\n4.268\n7.958\n3.517\n2.288\n164\n251\n8.059\n391\n670\n1.872\n2.989\n3.780\n724\n10.912\n3.874\n1.415\n397\n8.372\n1.072\n316\n811\n1.725\n7.725\n547\n1.893\n148\n753\n292\n11.535\n11.936\n507\n7.501\n380\n475\n881\n1.832\n1.706\n760\n92\n979\n565\n2.955\n1.733\n977\n685\n4.633\n6.930\n278\n428\n438\n1.691\n11.231\n295\n994\n3.644\n301\n6.441\n2.505\n497\n137\n4.705\n6.781\n205\n1.248\n574\n2.491\n18.208\n176\n10.632\n904\n653\n877\n2.245\n470\n4.219\n484\n909\n225\n556\n94",
+          "VerzeichnisNamen_": "Martin Neukom\nAlternative Liste ZH\nSP Kanton Zürich\nFeminto\nSolinetz Zürich\nGewerkschaft Unia\nDer Funke\nPiratenpartei Schweiz",
+          "VerzeichnisGefalltMir_": "1.218\n4.495\n5.489\n772\n3.594\n9.151\n2.190\n3.514"
         },
         {
           "Profil_": "P1",
@@ -2344,10 +2344,10 @@ var data =
           "LinkBild_": "DS_B_05-04-19",
           "Bildname_": "ABB-P1-102",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2367,10 +2367,10 @@ var data =
           "LinkBild_": "DS_C_05-04-19",
           "Bildname_": "ABB-P1-103",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2390,10 +2390,10 @@ var data =
           "LinkBild_": "DS_D_05-04-19",
           "Bildname_": "ABB-P1-104",
           "Bildunterschriften_": "Rund ein Fünftel eines Einkaufs landen am Ende in der Tonne. Im Bild: Ein Betrieb in der Ostschweiz wandelt überschüssige Lebensmittel aus den Grossverteilern in Biostrom um. (Bild: Christoph Ruckstuhl / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2413,10 +2413,10 @@ var data =
           "LinkBild_": "DS_E_05-04-19",
           "Bildname_": "ABB-P1-105",
           "Bildunterschriften_": "Schweizer Geld ist alles andere als klimaverträglich. (Symbolbild) © Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2436,10 +2436,10 @@ var data =
           "LinkBild_": "DS_F_05-04-19",
           "Bildname_": "ABB-P1-106",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2459,10 +2459,10 @@ var data =
           "LinkBild_": "DS_G_05-04-19",
           "Bildname_": "ABB-P1-107",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2482,10 +2482,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-108",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2505,10 +2505,10 @@ var data =
           "LinkBild_": "DS_H_05-04-19",
           "Bildname_": "ABB-P1-109",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2528,10 +2528,10 @@ var data =
           "LinkBild_": "DS_J_05-04-19",
           "Bildname_": "ABB-P1-110",
           "Bildunterschriften_": "Boris Johnson folgt einer Pro-Brexit-Rede von Gisela Stuart (Foto: AFP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2551,10 +2551,10 @@ var data =
           "LinkBild_": "DS_A_06-04-19",
           "Bildname_": "ABB-P1-111",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "zentralplus\nFDP Kanton Zürich\nFDP\nRadio RaBe\nNein zum Entwaffnungsdiktat\nBerner Zeitung\nAutonome Schule Zürich\nMarxist Society Uni Basel\nJUSO Kanton Bern\nSVP des Kantons Zürich\nJUSO Kanton Luzern\nSehen und Handeln\nGrüne Luzern\nGrünliberale\nGSOG-Gruppe für eine Schweiz ohne Armee\nGrüne Zürichsee\nSP Kanton Luzern\nSRG Insider\nJUSO Winterthur\nTerael76\nStarway Seven\nRojava Komitee-Basel\nRegula Rytz\nBastien Girod\nAllianz der Zivilgesellschaft\nSP Frauen Schweiz\nCamille Lothe\nkriPo-kritische Politik Bern\nNein zum Polizeigesetz\nBeer Pong Club Wiesendangen\nboatbook.ch\nSP Kanton St.Gallen\nJUSO Stadt Luzern\nJUSO Zürich Oberland\nMilchjugend.Falschsexuelle Welten\nJa zur Vollgeld-Initiative\nJUSO JS Bielingue\nJUSO Stadt Bern\nZüri isst\nJUSO Thurgau\nIWW JAM\nMarionna Schlatter-Schmid\nSP 6 und 10 Zürich\nAlbani\nSchluss mit Kürzen\nRASH Zürich\nSender\nJUSO Graubünden\nFussballstadion Ja\nFreiheit für Nekane\nI love Wipkingen\nPablo Infernal\nThomas Matter\neiszeit\nJunge SVP Schweiz\nStolze Openair\nNein zur «Selbstbestimmungs»-Initiative\nRote Falken Zürich\nClimate Games Basel\nDachstock Reitschule\nJunge SVP Kanton Zürich\nMichael Töngi\nWo unrecht zu recht wird\nJungfreisinnige Kanton Zürich\nMarxistischer Verein Unibe\nZüri autofrei\nSP Kanton Aargau\nReithalle Bern\nTrue Rebel Schweiz\nTreibhaus Luzern\nWaffenrecht-Schengen Ja\nRouge Zürich\nSVP Kanton Bern\nAlternative Linke Bern\nPhilippe Kühni GLP\nJacqueline Badran-Nationalrat\nNicole Müller-Boder\nGrüne Kanton Bern\nSP Baselland\nSP Stadt Luzern\nJUSO Zürich Unterland\nNein zun Unternehmenssteuer-Bschiss\nDominic Täubert\nCVP Kanton Zürich\nFinanz und Wirtschaft\nNZZ Folio\nCVP Kanton Aargau\nenergie-wende-ja.ch\nPdA Bern\nDaniel Jositsch\nPerlen aus Blocheristan\nStadtpräsidentin Corine Mauch\nKanton Luzern-Stadt\nNein zu No Billag\nStiftung Menschen für Menschen\nFDP.Die Liberalen Aargau\nSchlorian\nSandra Schneider official\nNein zum schleichenden EU-Beitritt\nSVP Stadt Winterthur\nJunge Grünliberale\nEticus Rozas\nLinke PoC\nterre des hommes schweiz\nTele Top\nCritical Mass Zürich\nGrünliberale Zürich\nMichael Schibli\nJunge Grüne Kanton Bern\nDavid Roth\nJungfreisinnige Kanton Schwyz\nTagblatt\nPiratenpartei Aargau\nKathrin Schweizer\nReine Profis\nRoland Fischer\nBilanz\nHistory Reloaded\nMattea Meyer in den Nationalrat\nThomas Aeschi\nAlbert Rösti\nSandro Botz\nMichael Eisener\nSVP des Kantons Luzern\nEVP\nDie Weltwoche\nKlimastreik Basel\nGrüne Basel-Stadt\nAxpo\naktiv@unia\nCVP Stadt Luzern\nGrüne Partei Frauenfeld\nMichelle Singer\nSamuel Krähenbühl\nNadja Pieren\nJunge Grünliberale Luzern\nProject R\nSP Basel-Stadt\nIBES-ohne Elektrosmog\nNOFNOG\nGrünliberale Partei Kanton Luzern\nAdil Koller\nPatrick Walder\nPolit-Forum Bern im Käfigturm\nGrüne Sursee\nWork-die Zeitung der Gewerkschaft\nJungfreisinnige\nDringender Aufruf\nFeministischer Streik",
-          "Like-VorschlägeGefälltMir_": "8.372\n1.652\n12.204\n8.736\n2.359\n13.911\n9.478\n507\n875\n3.127\n658\n4.474\n1.039\n4.327\n4.487\n317\n2.290\n14.669\n638\n7\n4\n388\n382\n11.304\n5.053\n1.431\n653\n568\n685\n47\n117\n1.502\n790\n402\n3.204\n14.010\n644\n976\n15.553\n521\n526\n447\n412\n4.269\n326\n713\n2.704\n555\n4.910\n1.194\n3.896\n3.112\n10.912\n528\n10.871\n6.426\n8.059\n776\n1.153\n18.544\n2.309\n433\n1.000\n852\n400\n451\n1.048\n3.131\n10.364\n3.889\n592\n472\n2.966\n809\n109\n2.123\n3.878\n1.040\n1.418\n1.209\n251\n7.957\n164\n380\n1.833\n19.790\n497\n7.722\n530\n6.784\n861\n2.603\n507\n4.077\n778\n696\n754\n1.072\n9.226\n741\n1.872\n78\n298\n2.355\n4.637\n1.707\n670\n453\n724\n977\n409\n11.938\n467\n1.350\n326\n176\n10.632\n606\n645\n3.650\n7.503\n2.492\n14.737\n1.691\n2.161\n18.207\n397\n1.777\n2.505\n10.277\n278\n157\n575\n1.488\n1.912\n507\n14.044\n2.750\n8.442\n2.231\n225\n486\n208\n6.441\n137\n1.227\n2.902\n6.927\n290",
-          "Like-VerzeichnisNamen_": "Regula Rytz\nSehen und Handeln\nAllianz der Zivilgesellschaft\nfossil-free.ch\njunge Welt\n",
-          "Like-VerzeichnisGefälltMir_": "387\n4.473\n5.052\n2.332\n68.712"
+          "VorschlageNamen_": "zentralplus\nFDP Kanton Zürich\nFDP\nRadio RaBe\nNein zum Entwaffnungsdiktat\nBerner Zeitung\nAutonome Schule Zürich\nMarxist Society Uni Basel\nJUSO Kanton Bern\nSVP des Kantons Zürich\nJUSO Kanton Luzern\nSehen und Handeln\nGrüne Luzern\nGrünliberale\nGSOG-Gruppe für eine Schweiz ohne Armee\nGrüne Zürichsee\nSP Kanton Luzern\nSRG Insider\nJUSO Winterthur\nTerael76\nStarway Seven\nRojava Komitee-Basel\nRegula Rytz\nBastien Girod\nAllianz der Zivilgesellschaft\nSP Frauen Schweiz\nCamille Lothe\nkriPo-kritische Politik Bern\nNein zum Polizeigesetz\nBeer Pong Club Wiesendangen\nboatbook.ch\nSP Kanton St.Gallen\nJUSO Stadt Luzern\nJUSO Zürich Oberland\nMilchjugend.Falschsexuelle Welten\nJa zur Vollgeld-Initiative\nJUSO JS Bielingue\nJUSO Stadt Bern\nZüri isst\nJUSO Thurgau\nIWW JAM\nMarionna Schlatter-Schmid\nSP 6 und 10 Zürich\nAlbani\nSchluss mit Kürzen\nRASH Zürich\nSender\nJUSO Graubünden\nFussballstadion Ja\nFreiheit für Nekane\nI love Wipkingen\nPablo Infernal\nThomas Matter\neiszeit\nJunge SVP Schweiz\nStolze Openair\nNein zur «Selbstbestimmungs»-Initiative\nRote Falken Zürich\nClimate Games Basel\nDachstock Reitschule\nJunge SVP Kanton Zürich\nMichael Töngi\nWo unrecht zu recht wird\nJungfreisinnige Kanton Zürich\nMarxistischer Verein Unibe\nZüri autofrei\nSP Kanton Aargau\nReithalle Bern\nTrue Rebel Schweiz\nTreibhaus Luzern\nWaffenrecht-Schengen Ja\nRouge Zürich\nSVP Kanton Bern\nAlternative Linke Bern\nPhilippe Kühni GLP\nJacqueline Badran-Nationalrat\nNicole Müller-Boder\nGrüne Kanton Bern\nSP Baselland\nSP Stadt Luzern\nJUSO Zürich Unterland\nNein zun Unternehmenssteuer-Bschiss\nDominic Täubert\nCVP Kanton Zürich\nFinanz und Wirtschaft\nNZZ Folio\nCVP Kanton Aargau\nenergie-wende-ja.ch\nPdA Bern\nDaniel Jositsch\nPerlen aus Blocheristan\nStadtpräsidentin Corine Mauch\nKanton Luzern-Stadt\nNein zu No Billag\nStiftung Menschen für Menschen\nFDP.Die Liberalen Aargau\nSchlorian\nSandra Schneider official\nNein zum schleichenden EU-Beitritt\nSVP Stadt Winterthur\nJunge Grünliberale\nEticus Rozas\nLinke PoC\nterre des hommes schweiz\nTele Top\nCritical Mass Zürich\nGrünliberale Zürich\nMichael Schibli\nJunge Grüne Kanton Bern\nDavid Roth\nJungfreisinnige Kanton Schwyz\nTagblatt\nPiratenpartei Aargau\nKathrin Schweizer\nReine Profis\nRoland Fischer\nBilanz\nHistory Reloaded\nMattea Meyer in den Nationalrat\nThomas Aeschi\nAlbert Rösti\nSandro Botz\nMichael Eisener\nSVP des Kantons Luzern\nEVP\nDie Weltwoche\nKlimastreik Basel\nGrüne Basel-Stadt\nAxpo\naktiv@unia\nCVP Stadt Luzern\nGrüne Partei Frauenfeld\nMichelle Singer\nSamuel Krähenbühl\nNadja Pieren\nJunge Grünliberale Luzern\nProject R\nSP Basel-Stadt\nIBES-ohne Elektrosmog\nNOFNOG\nGrünliberale Partei Kanton Luzern\nAdil Koller\nPatrick Walder\nPolit-Forum Bern im Käfigturm\nGrüne Sursee\nWork-die Zeitung der Gewerkschaft\nJungfreisinnige\nDringender Aufruf\nFeministischer Streik",
+          "VorschlageGefalltMir_": "8.372\n1.652\n12.204\n8.736\n2.359\n13.911\n9.478\n507\n875\n3.127\n658\n4.474\n1.039\n4.327\n4.487\n317\n2.290\n14.669\n638\n7\n4\n388\n382\n11.304\n5.053\n1.431\n653\n568\n685\n47\n117\n1.502\n790\n402\n3.204\n14.010\n644\n976\n15.553\n521\n526\n447\n412\n4.269\n326\n713\n2.704\n555\n4.910\n1.194\n3.896\n3.112\n10.912\n528\n10.871\n6.426\n8.059\n776\n1.153\n18.544\n2.309\n433\n1.000\n852\n400\n451\n1.048\n3.131\n10.364\n3.889\n592\n472\n2.966\n809\n109\n2.123\n3.878\n1.040\n1.418\n1.209\n251\n7.957\n164\n380\n1.833\n19.790\n497\n7.722\n530\n6.784\n861\n2.603\n507\n4.077\n778\n696\n754\n1.072\n9.226\n741\n1.872\n78\n298\n2.355\n4.637\n1.707\n670\n453\n724\n977\n409\n11.938\n467\n1.350\n326\n176\n10.632\n606\n645\n3.650\n7.503\n2.492\n14.737\n1.691\n2.161\n18.207\n397\n1.777\n2.505\n10.277\n278\n157\n575\n1.488\n1.912\n507\n14.044\n2.750\n8.442\n2.231\n225\n486\n208\n6.441\n137\n1.227\n2.902\n6.927\n290",
+          "VerzeichnisNamen_": "Regula Rytz\nSehen und Handeln\nAllianz der Zivilgesellschaft\nfossil-free.ch\njunge Welt\n",
+          "VerzeichnisGefalltMir_": "387\n4.473\n5.052\n2.332\n68.712"
         },
         {
           "Profil_": "P1",
@@ -2574,10 +2574,10 @@ var data =
           "LinkBild_": "DS_B_06-04-19",
           "Bildname_": "ABB-P1-112",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2597,10 +2597,10 @@ var data =
           "LinkBild_": "DS_C_06-04-19",
           "Bildname_": "ABB-P1-113",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2620,10 +2620,10 @@ var data =
           "LinkBild_": "DS_D_06-04-19",
           "Bildname_": "ABB-P1-114",
           "Bildunterschriften_": "CC BY-SA 3.0 de, Thomas Buchwalder",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2643,10 +2643,10 @@ var data =
           "LinkBild_": "DS_E_06-04-19",
           "Bildname_": "ABB-P1-115",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2666,10 +2666,10 @@ var data =
           "LinkBild_": "DS_F_06-04-19",
           "Bildname_": "ABB-P1-116",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2689,10 +2689,10 @@ var data =
           "LinkBild_": "DS_G_06-04-19",
           "Bildname_": "ABB-P1-117",
           "Bildunterschriften_": "Die Baugespanne für das Projekt Brunaupark werden schon aufgestellt, demnächst wird auch das Baugesuch eingegeben. (Bild: Karin Hofer / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2712,10 +2712,10 @@ var data =
           "LinkBild_": "DS_H_06-04-19",
           "Bildname_": "ABB-P1-118",
           "Bildunterschriften_": "Nationalrat Roger Köppel giesst weiteres Öl ins Feuer. Aufnahme vom 30. März 2019, an der Delegiertenversammlung in Amriswil. © KEYSTONE/Gian Ehrenzeller",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2735,10 +2735,10 @@ var data =
           "LinkBild_": "DS_I_06-04-19",
           "Bildname_": "ABB-P1-119",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2758,10 +2758,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-120",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2781,10 +2781,10 @@ var data =
           "LinkBild_": "DS_A_07-04-19",
           "Bildname_": "ABB-P1-121",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "zentralplus\nFinanz und Wirtschaft\nFDP Kanton Zürich\nRadio RaBe\nTeleBärn\nRojava Komitee-Basel\nZürcher Unterländer\nFDP\nGrünliberale\nAutonome Schule Zürich\nBerner Zeitung\nBieler Tagblatt\nSVP des Kantons Zürich\nJUSO Kanton Bern\nBastien Girod\nJUSO Kanton Luzern\nKlimaschutz Schweiz\nSP Kanton Luzern\nGrüne Zürichsee\nMarionna Schlatter-Schmid\nGrüne Kanton Bern\nTerael76\nGrüne Luzern\nStarway Seven\nPCtipp.ch\nCamille Lothe\nfriPo-kritische Politik\nJUSO Stadt Luzern\nBeer Pong Club Wiesendangen\nboatbook.ch\nJUSO Zürich Oberland\nCVP\nJa zur Vollgeld-Initiartive\nMilchjugend. Falschsexuelle Welten\nMarxist Society Uni Basel\nAxel McFoley\nZüri isst\nJUSO Thurgau\nterre des hommes schweiz\nIWW JAM\nAlbani\nSP 6 und 10 Zürich\nNein zum Polizeigesetz\nSchluss mit Kürzen\nJUSO Winterthur\nSender\nJunge SVP Kanton Zürich\nJUSO Graubünden\nFussballstadion Ja\nFreiheit für Nekane\nI love Wipkingen\nJUSO JS Bielingue\nenergie-wende-ja.ch\nStadtpräsidentin Corine Mauch\nJunge SVP Schweiz\nStolze Openair\nRote Falken Zürich\nThomas Matter \nDachstock Reitschule\nGrünliberale Kanton Bern\nPdA Bern\nCritical Mass Zürich\nJUSO Stadt Bern\nZüri autofrei\nMarxistischer Verein Unibe\nReithalle Bern\nTrue Rebel Schweiz\nJungfreisinnige Kanton Zürich\neiszeit\nRouge Zürich\nMichael Töngi\nRASH Zürich\nSVP Kanton Bern\nAlbert Rösti\nAlternative Linke Bern\nSP Frauen Schweiz\nSP Stadt Luzern\nSP Kanton Aargau\nJUSO Zürich Unterland\nNein zum Unternehmenssteuer-Bschiss\nEVP Kanton Zürich\nDominic Täubert\nCliffhangers\nHess & The Spanky Hammers\nCVP KAnton Aargau\nWo unrecht zu recht wird\nSP Baselland\nNein zur «Selbstbestimmungs»-Initiative\nCVP Kanton Zürich\nWorld of Trains Modelleisenbahn\nVision Landwirtschaft\nSandra Schneider official\nPerlen aus Blocheristan\nJunge Grünliberale\nDringender Aufruf\nCrunchy Communications\nmyblueplanet-climate actions\nWaffenrecht-Schengen Ja\nJacqueline Badran-Nationalrätin\nFDP.Die Liberalen Aargau\nSchlorian\nPro Infirmis\numverkehR\nChrista Markwalder\nElena Marti\nJunge CVP Kanton Solothurn\nClimate Games Basel\nVerena Herzog\nSP Thurgau\nEticus Rozas\nFDP.Die Liberalen St.Gallen\nNicole Müller-Boder\nMarcel Dobler\nLinke PoC\nMichael Schibli\nNeubad\nJungfreisinnige Kanton Schyz\nGrünliberale Zürich\nJunge Grüne Aargau\nSP Basel-Stadt\nDavid Roth\nGeneration Klima\nTagblatt\nGrüne Thurgau\nKathrin Schweizer\nAxpo\nNOFNOG\nRoland Fischer\nKandidatinnen der SP 11 und 1...\nThomas Aeschi\nSandro Brotz\nMichael Eisener\nUni Gag\nIBES-ohne Elektrosmog\nEVP\nMaurus Frei\nDie Weltwoche\nGrüne Basel-Stadt\nJunge Grünliberale Luzern\nBenjamin Fischer\nBernhard Theater\nCVP Stadt Luzern\nMichelle Singer\nInfoticker.ch\nLuzi Stamm\nJunge Grüne St.Gallen\nJunge Grüne Kanton Bern\nProject R\nPatrick Walder\nSVP des Kantons Luzern",
-          "Like-VorschlägeGefälltMir_": "8.372\n1.834\n1.652\n8.736\n13.948\n389\n1.007\n12.205\n4.327\n9.478\n13.911\n4.968\n3.127\n875\n11.305\n658\n756\n2.290\n317\n447\n1.040\n7\n1.039\n4\n3.757\n653\n568\n790\n47\n117\n402\n12.700\n14.010\n3.204\n507\n11\n15.553\n521\n2.355\n526\n4.269\n412\n685\n326\n638\n2.704\n2.309\n555\n4.910\n1.194\n3.896\n644\n7.722\n2.603\n10.871\n6.426\n776\n10.912\n18.544\n510\n530\n1.707\n976\n451\n400\n3.131\n10.364\n852\n528\n472\n433\n713\n2.966\n7.503\n810\n1.431\n1.209\n1.048\n251\n7.957\n270\n164\n881\n413\n497\n1.000\n1.418\n8.059\n380\n287\n509\n1.072\n861\n1.872\n6.927\n4.961\n1.538\n592\n2.123\n696\n754\n17.067\n2.620\n1.571\n898\n506\n1.154\n547\n507\n78\n821\n3.878\n4.709\n298\n453\n11.908\n409\n670\n497\n2.750\n977\n1.099\n11.938\n288\n1.351\n2.505\n2.231\n176\n301\n3.651\n2.493\n14.737\n11.794\n8.441\n2.161\n83\n18.207\n1.777\n507\n1.069\n2.310\n278\n575\n14.171\n3.627\n412\n724\n14.044\n208\n1.691",
-          "Like-VerzeichnisNamen_": "Bastien Girod\nGrünliberale\nAutonome Schule Zürich\nterre des homme schweiz",
-          "Like-VerzeichnisGefälltMir_": "11.273\n4.351\n9.483\n2.362"
+          "VorschlageNamen_": "zentralplus\nFinanz und Wirtschaft\nFDP Kanton Zürich\nRadio RaBe\nTeleBärn\nRojava Komitee-Basel\nZürcher Unterländer\nFDP\nGrünliberale\nAutonome Schule Zürich\nBerner Zeitung\nBieler Tagblatt\nSVP des Kantons Zürich\nJUSO Kanton Bern\nBastien Girod\nJUSO Kanton Luzern\nKlimaschutz Schweiz\nSP Kanton Luzern\nGrüne Zürichsee\nMarionna Schlatter-Schmid\nGrüne Kanton Bern\nTerael76\nGrüne Luzern\nStarway Seven\nPCtipp.ch\nCamille Lothe\nfriPo-kritische Politik\nJUSO Stadt Luzern\nBeer Pong Club Wiesendangen\nboatbook.ch\nJUSO Zürich Oberland\nCVP\nJa zur Vollgeld-Initiartive\nMilchjugend. Falschsexuelle Welten\nMarxist Society Uni Basel\nAxel McFoley\nZüri isst\nJUSO Thurgau\nterre des hommes schweiz\nIWW JAM\nAlbani\nSP 6 und 10 Zürich\nNein zum Polizeigesetz\nSchluss mit Kürzen\nJUSO Winterthur\nSender\nJunge SVP Kanton Zürich\nJUSO Graubünden\nFussballstadion Ja\nFreiheit für Nekane\nI love Wipkingen\nJUSO JS Bielingue\nenergie-wende-ja.ch\nStadtpräsidentin Corine Mauch\nJunge SVP Schweiz\nStolze Openair\nRote Falken Zürich\nThomas Matter \nDachstock Reitschule\nGrünliberale Kanton Bern\nPdA Bern\nCritical Mass Zürich\nJUSO Stadt Bern\nZüri autofrei\nMarxistischer Verein Unibe\nReithalle Bern\nTrue Rebel Schweiz\nJungfreisinnige Kanton Zürich\neiszeit\nRouge Zürich\nMichael Töngi\nRASH Zürich\nSVP Kanton Bern\nAlbert Rösti\nAlternative Linke Bern\nSP Frauen Schweiz\nSP Stadt Luzern\nSP Kanton Aargau\nJUSO Zürich Unterland\nNein zum Unternehmenssteuer-Bschiss\nEVP Kanton Zürich\nDominic Täubert\nCliffhangers\nHess & The Spanky Hammers\nCVP KAnton Aargau\nWo unrecht zu recht wird\nSP Baselland\nNein zur «Selbstbestimmungs»-Initiative\nCVP Kanton Zürich\nWorld of Trains Modelleisenbahn\nVision Landwirtschaft\nSandra Schneider official\nPerlen aus Blocheristan\nJunge Grünliberale\nDringender Aufruf\nCrunchy Communications\nmyblueplanet-climate actions\nWaffenrecht-Schengen Ja\nJacqueline Badran-Nationalrätin\nFDP.Die Liberalen Aargau\nSchlorian\nPro Infirmis\numverkehR\nChrista Markwalder\nElena Marti\nJunge CVP Kanton Solothurn\nClimate Games Basel\nVerena Herzog\nSP Thurgau\nEticus Rozas\nFDP.Die Liberalen St.Gallen\nNicole Müller-Boder\nMarcel Dobler\nLinke PoC\nMichael Schibli\nNeubad\nJungfreisinnige Kanton Schyz\nGrünliberale Zürich\nJunge Grüne Aargau\nSP Basel-Stadt\nDavid Roth\nGeneration Klima\nTagblatt\nGrüne Thurgau\nKathrin Schweizer\nAxpo\nNOFNOG\nRoland Fischer\nKandidatinnen der SP 11 und 1...\nThomas Aeschi\nSandro Brotz\nMichael Eisener\nUni Gag\nIBES-ohne Elektrosmog\nEVP\nMaurus Frei\nDie Weltwoche\nGrüne Basel-Stadt\nJunge Grünliberale Luzern\nBenjamin Fischer\nBernhard Theater\nCVP Stadt Luzern\nMichelle Singer\nInfoticker.ch\nLuzi Stamm\nJunge Grüne St.Gallen\nJunge Grüne Kanton Bern\nProject R\nPatrick Walder\nSVP des Kantons Luzern",
+          "VorschlageGefalltMir_": "8.372\n1.834\n1.652\n8.736\n13.948\n389\n1.007\n12.205\n4.327\n9.478\n13.911\n4.968\n3.127\n875\n11.305\n658\n756\n2.290\n317\n447\n1.040\n7\n1.039\n4\n3.757\n653\n568\n790\n47\n117\n402\n12.700\n14.010\n3.204\n507\n11\n15.553\n521\n2.355\n526\n4.269\n412\n685\n326\n638\n2.704\n2.309\n555\n4.910\n1.194\n3.896\n644\n7.722\n2.603\n10.871\n6.426\n776\n10.912\n18.544\n510\n530\n1.707\n976\n451\n400\n3.131\n10.364\n852\n528\n472\n433\n713\n2.966\n7.503\n810\n1.431\n1.209\n1.048\n251\n7.957\n270\n164\n881\n413\n497\n1.000\n1.418\n8.059\n380\n287\n509\n1.072\n861\n1.872\n6.927\n4.961\n1.538\n592\n2.123\n696\n754\n17.067\n2.620\n1.571\n898\n506\n1.154\n547\n507\n78\n821\n3.878\n4.709\n298\n453\n11.908\n409\n670\n497\n2.750\n977\n1.099\n11.938\n288\n1.351\n2.505\n2.231\n176\n301\n3.651\n2.493\n14.737\n11.794\n8.441\n2.161\n83\n18.207\n1.777\n507\n1.069\n2.310\n278\n575\n14.171\n3.627\n412\n724\n14.044\n208\n1.691",
+          "VerzeichnisNamen_": "Bastien Girod\nGrünliberale\nAutonome Schule Zürich\nterre des homme schweiz",
+          "VerzeichnisGefalltMir_": "11.273\n4.351\n9.483\n2.362"
         },
         {
           "Profil_": "P1",
@@ -2804,10 +2804,10 @@ var data =
           "LinkBild_": "DS_B_07-04-19",
           "Bildname_": "ABB-P1-122",
           "Bildunterschriften_": "Sachsen-Anhalt, Wittenberg: Eine als \"Judensau\" bezeichnete mittelalterliche Schmähskulptur ist an der Außenwand der Stadtkirche Sankt Marien zu sehen ©Hendrik SchmidtDPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2827,10 +2827,10 @@ var data =
           "LinkBild_": "DS_C_07-04-19",
           "Bildname_": "ABB-P1-123",
           "Bildunterschriften_": "Die deutsche Bundeskanzlerin Angela Merkel und der französische Staatspräsident Emmanuel Macron in Paris am 26. März 2019.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2850,10 +2850,10 @@ var data =
           "LinkBild_": "DS_D_07-04-19",
           "Bildname_": "ABB-P1-124",
           "Bildunterschriften_": "Jan Böhmermann – wie immer – viel beschäftigt Foto: dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2873,10 +2873,10 @@ var data =
           "LinkBild_": "DS_E_07-04-19",
           "Bildname_": "ABB-P1-125",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2896,10 +2896,10 @@ var data =
           "LinkBild_": "DS_F_07-04-19",
           "Bildname_": "ABB-P1-126",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2919,10 +2919,10 @@ var data =
           "LinkBild_": "DS_G_07-04-19",
           "Bildname_": "ABB-P1-127",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2942,10 +2942,10 @@ var data =
           "LinkBild_": "DS_H_07-04-19",
           "Bildname_": "ABB-P1-128",
           "Bildunterschriften_": "In Zürich waren über über 15'000 Menschen auf der Strasse. KEYSTONE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2965,10 +2965,10 @@ var data =
           "LinkBild_": "DS_I_07-04-19",
           "Bildname_": "ABB-P1-129",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -2988,10 +2988,10 @@ var data =
           "LinkBild_": "DS_J_07-04-19",
           "Bildname_": "ABB-P1-130",
           "Bildunterschriften_": "Grossaufmarsch an der Klimademonstration: So viele Demonstrierende gab es seit Jahrzehnten nicht auf Winterthurer Strassen. Bild: Martin Freuler",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3011,10 +3011,10 @@ var data =
           "LinkBild_": "DS_A_08-04-19",
           "Bildname_": "ABB-P1-131",
           "Bildunterschriften_": "Plakat in Zürich: «Kapitalismus versenken, Klimakrise abwenden». screenshot: twitter / sozialismus.ch",
-          "Like-VorschlägeNamen_": "zentralplus\nFinanz und Wirtschaft\nBerner Zeitung\nBastien Girod\nGrüne Kanton Bern\nFDP KAnton Zürich\nRojava Zürich\nGrünliberale\nCVP\nRadio RaBe\nJUSO Kanton Bern\nMrionna Schlatter-Schmid\nPerlen aus Blocheristan\nFDP\nBündnis buntes Schwyz\nGrüne Zürichsee\nThomas Matter\nMarxist Society Uni Basel\nTarael76\nKlimaschutz Schweiz\nStormtroop Helvetica\nBeer Pong Club Wiesendang\nNein zum Austritt der skuba\n1.Mai-Komitee Zürich\nSmash Little WEF\nDaniel Jositsch\nJUSO Kanton Luzern\nIntermezzo Houses AG\nWassergesetz Nein\nAxel McFoley\nZüri isst\nJa zur Vollgeld-Initiative\nPdA Bern\nSP Kanton Aargau\nRASH Zürich\nMilchjugend. Falschsexuelle Welten\nLeckerbissen aus Blocheristan\nfinanzen.ch\nI love Wipkingen\nJUSO Zürich Oberland\nJunge SVP Schweiz\nterre des hommes schweiz\nProject R\nSVP des Kantons Zürich\nGrüne Luzern\nGeschichte der Gegenwart\nSP Kanton Luzern\nSender\nMichael Töngi\nenergie-wende-ja.ch\nJUSO Graubünden\nIWW JAM\nJungfreisinnige KAnton Zürich\nJunge SVP Kanton Zürich\nFussballstadion Ja\nSP Kanton St.Gallen\nAlbert Rösti\nPNOS\nAutonome Schule Zürich\nJUSO Winterthur\nSVP Kanton Bern\nFReiheit für Nekane\nDachstock Reitschule \nStolze Openair\nNicole Müller-Boder\nTreibhaus Luzern\nRote Falken Zürich\nSP 6 und 10 Zürich\nZüri autofrei\nRouge Zürich\nCAmille Lothe\nTrue Rebel Schweiz\nNachhaltigkeitswoche Zürich\nMini-Schwiz\nHannah Pfalzgraf\nTransparenz-Initiative\nNein zum Unternehmenssteuer-Bschiss\nJUSO Stadt Bern\nAlbani\nSP Baselland\nWo unrecht zu recht wird\nNein zur «Selbstbestimmungs»-Initiative\nSandra Schneider official\nKomitee \"Weltoffenes Zürich\"\nStadtpräsidentin Corine Mauch\nDominic Täubert\nAlternative Linke Bern\nSVP Stadt Winterthur\nJörg Meyer\nSchlorian\nGrünliberale Kanton Bern\nFDP.Die Liberalen Aargau\nKanton Luzern-Stadt\nDie Weltwoche\nClimate Games Basel\nCritical Mass Zürich\nTele Top\nGrünliberale Zürich\nZuger Zeitung\nCVP Kanton Zürich\nGrüne Bülach\nHans-Ulrich\nBigler\nThomas Aeschi\nJCVP Kanton Luzern\nEVP Kanton Zürich\nJunge BDP Schweiz\nJUSO Stadt Luzern\nFDP Zürich 9\nCrunchy Communications\nDringender Aufruf\nHistory Reloaded\nMarcel Dobler\nWaffenrecht-Schengen Ja\nSRG Insider\nCVP Kanton Aargau\nJacqueline Badran\nFDP.Die Liberalen Kanton Schwyz\nartizza\nReine Profis\nSP Stast Luzern\nEVP\ninfoticker.ch\nSVP des Kanton Luzern\nmyblueplanet\nSara Bachmann\nJunge Grünliberale\nRadio Top\nAxpo\nAUNS\nGrüne Partei Frauenfeld\nGrünliberale Partei Kanton Luzern\nKathrin Schweizer\nTagblatt\nKlimastreik Thurgau\nChrista Markwalder\nMeldezentrale für Eidgenossen \nEticus Rozas\nSportler Akademie SAK\nTele 1\naz Solothurner Zeitung\nSRF News Basel\nMichael Eisener\nVerena Herzog\nCVP Stadt Luzern\nPro Infirmis\ni'etincelle\nElena Marti\nJungfreisinnige\nLinke PoC\nRoland Fischer \nProtell",
-          "Like-VorschlägeGefälltMir_": "8.371\n1.834\n13.911\n11.304\n1.040\n1.653\n390\n4.331\n12.742\n8.738\n875\n466\n868\n12.205\n72\n317\n10.914\n507\n7\n761\n4\n47\n191\n1.226\n239\n6.785\n658\n16\n1.347\n11\n15.569\n14.011\n531\n1.049\n713\n3.204\n1.248\n1.691\n3.894\n402\n10.873\n2.535\n14.043\n3.310\n1.042\n9.200\n2.307\n2.706\n433\n7.722\n555\n526\n851\n2.315\n4.908\n1.502\n7.504\n16.131\n9.478\n638\n2.965\n1.194\n18.539\n6.426\n3.881\n3.889\n778\n412\n451\n472\n654\n10.359\n2.955\n3.574\n256\n1.725\n7.956\n976\n4.271\n1.420\n999\n8.059\n1.072\n705\n2.605\n164\n811\n741\n505\n754\n509\n696\n507\n18.215\n1.161\n1.712\n4.638\n671\n1.564\n380\n526\n444\n3.652\n483\n296\n499\n790\n83\n4.960\n6.927\n606\n4.708\n611\n14.668\n522\n2.125\n337\n689\n326\n1.211\n2.163\n14.171\n1.691\n1.538\n17.579\n1.871\n17.552\n2.513\n7.747\n157\n225\n1.353\n11.936\n108\n1.572\n475\n78\n861\n15.666\n4.940\n2.245\n14.742\n548\n282\n17.067\n734\n900\n2.901\n300\n176\n4.008",
-          "Like-VerzeichnisNamen_": "Collective Climat Justice\nMarxist Society Uni Basel\nKlimaschutz Schweiz\nFeministischer Streik\nKommunistische Jugend Zürich\nGeneration Klima",
-          "Like-VerzeichnisGefälltMir_": "1.192\n515\n801\n304\n635\n1.101"
+          "VorschlageNamen_": "zentralplus\nFinanz und Wirtschaft\nBerner Zeitung\nBastien Girod\nGrüne Kanton Bern\nFDP KAnton Zürich\nRojava Zürich\nGrünliberale\nCVP\nRadio RaBe\nJUSO Kanton Bern\nMrionna Schlatter-Schmid\nPerlen aus Blocheristan\nFDP\nBündnis buntes Schwyz\nGrüne Zürichsee\nThomas Matter\nMarxist Society Uni Basel\nTarael76\nKlimaschutz Schweiz\nStormtroop Helvetica\nBeer Pong Club Wiesendang\nNein zum Austritt der skuba\n1.Mai-Komitee Zürich\nSmash Little WEF\nDaniel Jositsch\nJUSO Kanton Luzern\nIntermezzo Houses AG\nWassergesetz Nein\nAxel McFoley\nZüri isst\nJa zur Vollgeld-Initiative\nPdA Bern\nSP Kanton Aargau\nRASH Zürich\nMilchjugend. Falschsexuelle Welten\nLeckerbissen aus Blocheristan\nfinanzen.ch\nI love Wipkingen\nJUSO Zürich Oberland\nJunge SVP Schweiz\nterre des hommes schweiz\nProject R\nSVP des Kantons Zürich\nGrüne Luzern\nGeschichte der Gegenwart\nSP Kanton Luzern\nSender\nMichael Töngi\nenergie-wende-ja.ch\nJUSO Graubünden\nIWW JAM\nJungfreisinnige KAnton Zürich\nJunge SVP Kanton Zürich\nFussballstadion Ja\nSP Kanton St.Gallen\nAlbert Rösti\nPNOS\nAutonome Schule Zürich\nJUSO Winterthur\nSVP Kanton Bern\nFReiheit für Nekane\nDachstock Reitschule \nStolze Openair\nNicole Müller-Boder\nTreibhaus Luzern\nRote Falken Zürich\nSP 6 und 10 Zürich\nZüri autofrei\nRouge Zürich\nCAmille Lothe\nTrue Rebel Schweiz\nNachhaltigkeitswoche Zürich\nMini-Schwiz\nHannah Pfalzgraf\nTransparenz-Initiative\nNein zum Unternehmenssteuer-Bschiss\nJUSO Stadt Bern\nAlbani\nSP Baselland\nWo unrecht zu recht wird\nNein zur «Selbstbestimmungs»-Initiative\nSandra Schneider official\nKomitee \"Weltoffenes Zürich\"\nStadtpräsidentin Corine Mauch\nDominic Täubert\nAlternative Linke Bern\nSVP Stadt Winterthur\nJörg Meyer\nSchlorian\nGrünliberale Kanton Bern\nFDP.Die Liberalen Aargau\nKanton Luzern-Stadt\nDie Weltwoche\nClimate Games Basel\nCritical Mass Zürich\nTele Top\nGrünliberale Zürich\nZuger Zeitung\nCVP Kanton Zürich\nGrüne Bülach\nHans-Ulrich\nBigler\nThomas Aeschi\nJCVP Kanton Luzern\nEVP Kanton Zürich\nJunge BDP Schweiz\nJUSO Stadt Luzern\nFDP Zürich 9\nCrunchy Communications\nDringender Aufruf\nHistory Reloaded\nMarcel Dobler\nWaffenrecht-Schengen Ja\nSRG Insider\nCVP Kanton Aargau\nJacqueline Badran\nFDP.Die Liberalen Kanton Schwyz\nartizza\nReine Profis\nSP Stast Luzern\nEVP\ninfoticker.ch\nSVP des Kanton Luzern\nmyblueplanet\nSara Bachmann\nJunge Grünliberale\nRadio Top\nAxpo\nAUNS\nGrüne Partei Frauenfeld\nGrünliberale Partei Kanton Luzern\nKathrin Schweizer\nTagblatt\nKlimastreik Thurgau\nChrista Markwalder\nMeldezentrale für Eidgenossen \nEticus Rozas\nSportler Akademie SAK\nTele 1\naz Solothurner Zeitung\nSRF News Basel\nMichael Eisener\nVerena Herzog\nCVP Stadt Luzern\nPro Infirmis\ni'etincelle\nElena Marti\nJungfreisinnige\nLinke PoC\nRoland Fischer \nProtell",
+          "VorschlageGefalltMir_": "8.371\n1.834\n13.911\n11.304\n1.040\n1.653\n390\n4.331\n12.742\n8.738\n875\n466\n868\n12.205\n72\n317\n10.914\n507\n7\n761\n4\n47\n191\n1.226\n239\n6.785\n658\n16\n1.347\n11\n15.569\n14.011\n531\n1.049\n713\n3.204\n1.248\n1.691\n3.894\n402\n10.873\n2.535\n14.043\n3.310\n1.042\n9.200\n2.307\n2.706\n433\n7.722\n555\n526\n851\n2.315\n4.908\n1.502\n7.504\n16.131\n9.478\n638\n2.965\n1.194\n18.539\n6.426\n3.881\n3.889\n778\n412\n451\n472\n654\n10.359\n2.955\n3.574\n256\n1.725\n7.956\n976\n4.271\n1.420\n999\n8.059\n1.072\n705\n2.605\n164\n811\n741\n505\n754\n509\n696\n507\n18.215\n1.161\n1.712\n4.638\n671\n1.564\n380\n526\n444\n3.652\n483\n296\n499\n790\n83\n4.960\n6.927\n606\n4.708\n611\n14.668\n522\n2.125\n337\n689\n326\n1.211\n2.163\n14.171\n1.691\n1.538\n17.579\n1.871\n17.552\n2.513\n7.747\n157\n225\n1.353\n11.936\n108\n1.572\n475\n78\n861\n15.666\n4.940\n2.245\n14.742\n548\n282\n17.067\n734\n900\n2.901\n300\n176\n4.008",
+          "VerzeichnisNamen_": "Collective Climat Justice\nMarxist Society Uni Basel\nKlimaschutz Schweiz\nFeministischer Streik\nKommunistische Jugend Zürich\nGeneration Klima",
+          "VerzeichnisGefalltMir_": "1.192\n515\n801\n304\n635\n1.101"
         },
         {
           "Profil_": "P1",
@@ -3034,10 +3034,10 @@ var data =
           "LinkBild_": "DS_B_08-04-19.jpeg",
           "Bildname_": "ABB-P1-132",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3057,10 +3057,10 @@ var data =
           "LinkBild_": "DS_C_08-04-19",
           "Bildname_": "ABB-P1-133",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3080,10 +3080,10 @@ var data =
           "LinkBild_": "DS_D_08-04-19",
           "Bildname_": "ABB-P1-134",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3103,10 +3103,10 @@ var data =
           "LinkBild_": "DS_E_08-04-19",
           "Bildname_": "ABB-P1-135",
           "Bildunterschriften_": "Zum Schwimmen mit Burkini? Ist das Freiheit und Selbstbestimmung? Ein Bild aus der Ausstellung Foto: Shereen Sabet/ Splashgear LLC",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3126,10 +3126,10 @@ var data =
           "LinkBild_": "DS_F_08-04-19",
           "Bildname_": "ABB-P1-136",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3149,10 +3149,10 @@ var data =
           "LinkBild_": "DS_G_08-04-19",
           "Bildname_": "ABB-P1-137",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3172,10 +3172,10 @@ var data =
           "LinkBild_": "DS_H_08-04-19",
           "Bildname_": "ABB-P1-138",
           "Bildunterschriften_": "Ex-Vizekanzler Reinhold Mitterlehner: \"Nicht alle bei uns hatten Interesse daran, dass die Regierung Erfolg hat.\"  © Philipp Horak für profil",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3195,10 +3195,10 @@ var data =
           "LinkBild_": "DS_I_08-04-19",
           "Bildname_": "ABB-P1-139",
           "Bildunterschriften_": "Ein Hoch auf Korintha Bärtsch (2.v.r.) und Martin Neukom (r.): Parteichefin Regula Rytz zelebriert die grüne Welle. (6. April 2019) Bild: Jean-Christophe Bott/Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3218,10 +3218,10 @@ var data =
           "LinkBild_": "DS_J_08-04-19",
           "Bildname_": "ABB-P1-140",
           "Bildunterschriften_": "Svenja Kannt, Sebastian Grieme, Linus Steinmetz und Šana Strahinjić (v.li.) stellen sich im Sauriersaal des Museums für Naturkunde der Öffentlichkeit. (Foto: dpa)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3241,10 +3241,10 @@ var data =
           "LinkBild_": "DS_A_09-04-19",
           "Bildname_": "ABB-P1-141",
           "Bildunterschriften_": "Alle Fotos: Elena Anosova",
-          "Like-VorschlägeNamen_": "Mini-Schwiz\nBerner Zeitung\nDaniel Jositsch\nJUSO Kanton Luzern\nFDP Kanton Zürich\nSchweizerischer Gewerkschaftsbund\nRojava Komitee-Basel\nCollective Climate Justice\nSVP des Kantons Zürich\nMichael Elsener\nEltern fürs Klima\nKlimaschutz Schweiz\nJa zur Vollgeld-Initiative\nRASH Zürich\nPdA Bern\nPerlen aus Blocheristan\nGeschichte der Gegenwart\nEducation For Integration\nMarxist Society Uni Basel\nWassergesetz Nein\nKommunistische Jugend Zürich\nKlimastadt Zürich\nGeneration Bildung\nJUSO Stadt Bern\nGrüne Bülach\nJUSO Winterthur\nBündnis buntes Schwyz\nAlpen-Initiative\nJUSO Graubünden\nGrüne Luzern\nDachstock Reitschule\nNachhaltigkeitswoche Zürich\nJUSO Zürich Oberland\nZüri autofrei\nVivi und die starken Männer\nSP Kanton Luzern\nFeministischer Streik\nTrue Rebel Schweiz\nThomas Matter\nJuntos en camino\nSP Stadt Luzern\nJUSO Baselland\nNein zum Austritt der skuba\nGrüne Dieldorf\nGrüne Kanton Bern\n1.Mai-Komitee Zürich\nReithalle Bern\nAxel McFoley\nInitiative Ernährungssouveränität\nIWW JAM\nJUSO\nThurgau\nCritical Mass Zürich\nIntermezzo Houses AG\nFreiheit für Nekane\neiszeit\nProject R\nNo Borders, No Nations\nRote Falken Zürich\nJUSO Zürich Unterland\nHannah Pfalzgraf\nMilchjugend. Falschsexuelle Welten\nSP Frauen Schweiz\nDominic Täubert\nZüri isst\nenergie-wende-ja.ch\nNein zum Unternehmenssteuer-Bschiss\nFussballstadion Ja\nTransparenz-Initiative\nSende\nNicole Müller-Boder\nJunge SVP Schweiz\nI love Wipkingen\nWo unrecht zu recht wird\nJunge Grüne Thurgau\nRouge Zürich\nChaostruppe\nStolze Openair\nUmweltberatung Luzern\nGrüne Zürichsee\nJunge Grünliberale Luzern\nkriPo Bern-kritische Politik Bern\nGrüne Kanton St.Gallen\nMichael Töngi\nJunge Grünliberale\nElena Marti\nSP Baselland\nVCS\nJunge Grüne Kanton Bern\nGrünliberale Zürich\nCamille Lothe\nFür eine konstruktive Europapolitik\nMarionna Schlatter-Schmid\nJungfreisinnige Stadt Zürich\nStadtpräsidentin Corine Mauch\nzentralplus\nmyblueplanet\nNein zur Zersiedelungsinitiative\nWaffenrecht-Schengen Ja\nJUSO Stadt Luzern\nAlbani\nSRF Einstein\nMarcel Dobler\nRadio RaBe\nDie Weltwoche\nGrüne Sursee\naz Grenchner Tagblatt\nSandro Brotz\nSVP Kanton ST.Gallen\nSP Kanton Aargau\nZuger Zeitung\nJunge Grüne Aargau\nbuschi&anni\nCVP KAnton Zürich\nSP Kanton St.Gallen\nSchlorian\nFDP.Die Liberalen Luzern\nJungfreisinnige Kanton Schwyz\nJunge Grüne Solothurn\nVisu\nVIOZ\nDavid Roth\nIBES-ohne Elektrosmog\nWinterthurer Musikfestwochen\nNZZ Format\nSP Kanton Bern\nSchaffhauser Nachrichten\nJungfreisinnige Kanton Luzern\nLuzi Stamm\nTele Top\nturnhalle\nGrünliberale Kanton Bern\nTagblatt\nFDP.Die Liberalen Kanton Thurgau\nSP Thurgau\nSP Basel-Stadt\nAlbert Rösti\nZürcher Unterländer\nStimmen Festival\nSRG Insider\nPro Velo Zürich\nartiazza\nGrünliberale Partei Kanton Luzern\nFDP.Die Liberalen Aargau\nSP 6 und 10 Zürich\nAids-Hilfe-Schweiz\nBDP Kanton Bern\nmänner.ch\nChrist Markwalder\naz Solothurner Zeitung\nJacqueline Badran- Nationalrat\nSecondas Zürich",
-          "Like-VorschlägeGefälltMir_": "3.572\n13.910\n6.787\n658\n1.653\n4.239\n391\n1.169\n3.134\n14.744\n132\n762\n14.010\n714\n531\n871\n9.204\n4.600\n506\n1.347\n639\n199\n30\n976\n526\n638\n73\n11.230\n555\n1.043\n18.541\n2.958\n402\n452\n54\n2.317\n293\n10.359\n10.911\n154\n1.213\n1.328\n191\n8\n1.040\n1.227\n3.131\n11\n1.087\n527\n521\n1.716\n16\n1.194\n528\n14.043\n4.189\n778\n251\n257\n3.206\n1.435\n164\n15.572\n7.722\n7.955\n4.907\n1.725\n2.711\n3.884\n10.870\n3.893\n999\n187\n472\n3.602\n6.427\n552\n317\n510\n569\n327\n434\n1.871\n900\n1.420\n7.091\n725\n671\n655\n8.902\n485\n876\n2.605\n8.373\n1.538\n150\n628\n792\n4.272\n16.188\n4.706\n8.739\n18.218\n137\n994\n2.496\n909\n1.049\n1.564\n497\n1.420\n380\n1.503\n754\n605\n409\n650\n2.260\n555\n977\n8.509\n19.540\n4.819\n1.840\n5.055\n507\n3.629\n4.640\n10.721\n509\n11.945\n759\n508\n2.750\n7.505\n1.010\n6.713\n14.665\n5.357\n691\n225\n696\n412\n1.937\n439\n2.446\n1.573\n4.948\n2.125\n3.025",
-          "Like-VerzeichnisNamen_": "Mini-Schwiz\nDaniel Jositsch\nBerner Schweiz\nSchweizerischer Gewerkschaftsbund SGB\nenergie-wende-ja.ch\nJa zur Vollgeld-Initiative\nTrue Rebel Schweiz",
-          "Like-VerzeichnisGefälltMir_": "3.589\n6.789\n13.962\n4.254\n7.780\n13.981\n10.353"
+          "VorschlageNamen_": "Mini-Schwiz\nBerner Zeitung\nDaniel Jositsch\nJUSO Kanton Luzern\nFDP Kanton Zürich\nSchweizerischer Gewerkschaftsbund\nRojava Komitee-Basel\nCollective Climate Justice\nSVP des Kantons Zürich\nMichael Elsener\nEltern fürs Klima\nKlimaschutz Schweiz\nJa zur Vollgeld-Initiative\nRASH Zürich\nPdA Bern\nPerlen aus Blocheristan\nGeschichte der Gegenwart\nEducation For Integration\nMarxist Society Uni Basel\nWassergesetz Nein\nKommunistische Jugend Zürich\nKlimastadt Zürich\nGeneration Bildung\nJUSO Stadt Bern\nGrüne Bülach\nJUSO Winterthur\nBündnis buntes Schwyz\nAlpen-Initiative\nJUSO Graubünden\nGrüne Luzern\nDachstock Reitschule\nNachhaltigkeitswoche Zürich\nJUSO Zürich Oberland\nZüri autofrei\nVivi und die starken Männer\nSP Kanton Luzern\nFeministischer Streik\nTrue Rebel Schweiz\nThomas Matter\nJuntos en camino\nSP Stadt Luzern\nJUSO Baselland\nNein zum Austritt der skuba\nGrüne Dieldorf\nGrüne Kanton Bern\n1.Mai-Komitee Zürich\nReithalle Bern\nAxel McFoley\nInitiative Ernährungssouveränität\nIWW JAM\nJUSO\nThurgau\nCritical Mass Zürich\nIntermezzo Houses AG\nFreiheit für Nekane\neiszeit\nProject R\nNo Borders, No Nations\nRote Falken Zürich\nJUSO Zürich Unterland\nHannah Pfalzgraf\nMilchjugend. Falschsexuelle Welten\nSP Frauen Schweiz\nDominic Täubert\nZüri isst\nenergie-wende-ja.ch\nNein zum Unternehmenssteuer-Bschiss\nFussballstadion Ja\nTransparenz-Initiative\nSende\nNicole Müller-Boder\nJunge SVP Schweiz\nI love Wipkingen\nWo unrecht zu recht wird\nJunge Grüne Thurgau\nRouge Zürich\nChaostruppe\nStolze Openair\nUmweltberatung Luzern\nGrüne Zürichsee\nJunge Grünliberale Luzern\nkriPo Bern-kritische Politik Bern\nGrüne Kanton St.Gallen\nMichael Töngi\nJunge Grünliberale\nElena Marti\nSP Baselland\nVCS\nJunge Grüne Kanton Bern\nGrünliberale Zürich\nCamille Lothe\nFür eine konstruktive Europapolitik\nMarionna Schlatter-Schmid\nJungfreisinnige Stadt Zürich\nStadtpräsidentin Corine Mauch\nzentralplus\nmyblueplanet\nNein zur Zersiedelungsinitiative\nWaffenrecht-Schengen Ja\nJUSO Stadt Luzern\nAlbani\nSRF Einstein\nMarcel Dobler\nRadio RaBe\nDie Weltwoche\nGrüne Sursee\naz Grenchner Tagblatt\nSandro Brotz\nSVP Kanton ST.Gallen\nSP Kanton Aargau\nZuger Zeitung\nJunge Grüne Aargau\nbuschi&anni\nCVP KAnton Zürich\nSP Kanton St.Gallen\nSchlorian\nFDP.Die Liberalen Luzern\nJungfreisinnige Kanton Schwyz\nJunge Grüne Solothurn\nVisu\nVIOZ\nDavid Roth\nIBES-ohne Elektrosmog\nWinterthurer Musikfestwochen\nNZZ Format\nSP Kanton Bern\nSchaffhauser Nachrichten\nJungfreisinnige Kanton Luzern\nLuzi Stamm\nTele Top\nturnhalle\nGrünliberale Kanton Bern\nTagblatt\nFDP.Die Liberalen Kanton Thurgau\nSP Thurgau\nSP Basel-Stadt\nAlbert Rösti\nZürcher Unterländer\nStimmen Festival\nSRG Insider\nPro Velo Zürich\nartiazza\nGrünliberale Partei Kanton Luzern\nFDP.Die Liberalen Aargau\nSP 6 und 10 Zürich\nAids-Hilfe-Schweiz\nBDP Kanton Bern\nmänner.ch\nChrist Markwalder\naz Solothurner Zeitung\nJacqueline Badran- Nationalrat\nSecondas Zürich",
+          "VorschlageGefalltMir_": "3.572\n13.910\n6.787\n658\n1.653\n4.239\n391\n1.169\n3.134\n14.744\n132\n762\n14.010\n714\n531\n871\n9.204\n4.600\n506\n1.347\n639\n199\n30\n976\n526\n638\n73\n11.230\n555\n1.043\n18.541\n2.958\n402\n452\n54\n2.317\n293\n10.359\n10.911\n154\n1.213\n1.328\n191\n8\n1.040\n1.227\n3.131\n11\n1.087\n527\n521\n1.716\n16\n1.194\n528\n14.043\n4.189\n778\n251\n257\n3.206\n1.435\n164\n15.572\n7.722\n7.955\n4.907\n1.725\n2.711\n3.884\n10.870\n3.893\n999\n187\n472\n3.602\n6.427\n552\n317\n510\n569\n327\n434\n1.871\n900\n1.420\n7.091\n725\n671\n655\n8.902\n485\n876\n2.605\n8.373\n1.538\n150\n628\n792\n4.272\n16.188\n4.706\n8.739\n18.218\n137\n994\n2.496\n909\n1.049\n1.564\n497\n1.420\n380\n1.503\n754\n605\n409\n650\n2.260\n555\n977\n8.509\n19.540\n4.819\n1.840\n5.055\n507\n3.629\n4.640\n10.721\n509\n11.945\n759\n508\n2.750\n7.505\n1.010\n6.713\n14.665\n5.357\n691\n225\n696\n412\n1.937\n439\n2.446\n1.573\n4.948\n2.125\n3.025",
+          "VerzeichnisNamen_": "Mini-Schwiz\nDaniel Jositsch\nBerner Schweiz\nSchweizerischer Gewerkschaftsbund SGB\nenergie-wende-ja.ch\nJa zur Vollgeld-Initiative\nTrue Rebel Schweiz",
+          "VerzeichnisGefalltMir_": "3.589\n6.789\n13.962\n4.254\n7.780\n13.981\n10.353"
         },
         {
           "Profil_": "P1",
@@ -3264,10 +3264,10 @@ var data =
           "LinkBild_": "DS_B_09-04-19",
           "Bildname_": "ABB-P1-142",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3287,10 +3287,10 @@ var data =
           "LinkBild_": "DS_C_09-04-19",
           "Bildname_": "ABB-P1-143",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3310,10 +3310,10 @@ var data =
           "LinkBild_": "DS_D_09-04-19",
           "Bildname_": "ABB-P1-144",
           "Bildunterschriften_": "Auf dem Weg zur sozialistischen Revolution? Klimademo in Zürich. bild: keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3333,10 +3333,10 @@ var data =
           "LinkBild_": "DS_E_09-04-19",
           "Bildname_": "ABB-P1-145",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3356,10 +3356,10 @@ var data =
           "LinkBild_": "DS_F_09-04-19",
           "Bildname_": "ABB-P1-146",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3379,10 +3379,10 @@ var data =
           "LinkBild_": "DS_G_09-04-19",
           "Bildname_": "ABB-P1-147",
           "Bildunterschriften_": "Der Grünen-Parteichef Robert Habeck spricht am 29. März in Berlin über das neue Grundsatzprogramm. (Bild: Felipe Trueba / EPA)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3402,10 +3402,10 @@ var data =
           "LinkBild_": "DS_H_09-04-19",
           "Bildname_": "ABB-P1-148",
           "Bildunterschriften_": "Aus Sicht von Ausseminister Ignazio Cassis ist der Vertrag nur Symbolpolitik, der die nukleare Abrüstung nicht voranbringt. Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3425,10 +3425,10 @@ var data =
           "LinkBild_": "DS_I_09-04-19",
           "Bildname_": "ABB-P1-149",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3448,10 +3448,10 @@ var data =
           "LinkBild_": "DS_J_09-04-19",
           "Bildname_": "ABB-P1-150",
           "Bildunterschriften_": "Newmont-Vizepräsident Brian Hill im Gespräch mit einer Minenwache in Ghana. Der Anzug wirkt deplatziert. ((c) Crossroad Production Photos via Flickr)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3471,10 +3471,10 @@ var data =
           "LinkBild_": "DS_A_10-04-19",
           "Bildname_": "ABB-P1-151",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Collective Climate Justice\nMarxist Society Uni Basel\nKlimaschutz Schweiz\nThomas Matter\nJUSO Kanton Luzern\nEltern fürs Klima\nEducation For Integration\nSRF Deville Thurgauer Zeitung\nGeschichte der Gegenwart\nWassergesetz Nein \nRojave Komitee-Basel\nPdA Bern\nJUSO Zürich Oberland\nAlbert Rösti\nGrüne Luzern\nMichael Elsener\nMigrant-Solidarity-Network\nGRüne Bülach\nKommunistische Jugend Zürich\nKlimastadt Zürich\nJUSO Kanton Bern\nBündnis buntes Schwyz\nJUSO Winterthur\nJUSO GRaubünden\nJUSO Baselland\nRote Falken Zürich \nGeneration Bildung\nAlpen-Initiative\nJUSO STadt Bern\nNachhaltigkeitswoche Zürich\nRASH Zürich\nDachstock Reitschule\nProject R\nZüri autofrei\nFeministischer Streik\nVivi und die starken Männer\nNein zum Unternehmenssteuer-Bschiss\nNo Borders, No Nations\nSVP Kanton Bern\nSP Frauen Schweiz\nJuntos en camino\nTele 1\nGRüne Dielsdorf\nJUSO Thurgau\naz Solothurner Zeitung\nNein zum Austritt der skuba\nSP Stadt Luzern\nFinanz und Wirtschaft\nSleeplessin\n1.Mai-Komitee Zürich\nIWW JAM\nReithalle Bern\nInitiative Ernährungssouveränität\nsport.ch \nJUSO Zürich Unterland\nFreiheit für Nekane\nIntermezzo House AG\nMilchjugend.Falschsexuelle Welten\nFür eine konstruktive Europapolitik\neiszeit\nSVP des Kantons Zürich\nHannah Pfalzgraf\nDiana Gutjahr\nZüri isst\nNZZ Format\nTransparenz-Initiative\naz Grenchner Tagblatt\nCVP\nFDP Kanton Zürich\nSender\nJunge Grüne Thurgau\nFussballstadion Ja\nGRüne Kanton Bern\nI love Wipkingen\nJunge SVP Schweiz\nWo unrecht zu recht wird\nDominic Täubert\nStolze Openair\nmyblueplanet\nJUSO Stadt Luzern\nNein zum Entwaffnungsdiktat\nSchlorian\nTreibhaus Luzern\nChaostruppe\nRouge Zürich\nZofinger Tagblatt\nBieler Tagblatt\nUmweltberatung Luzern\nNein zum schleichenden EU-Beitritt\nJunge Grünliberale Luzern\nkriPo Bern-kritische Politik Bern\nSP Baselland\nVPOD Schweiz\nSP Kanton Luzern\nLuzi Stamm\nJungfreisinnige Kanton Zürich\nPaul Winiker\nChristian Wasserfallen\nMichael Töngi\nJunge Grüne Kanton Bern\nPrime News\nJunge Grüne Aargau\nNicole Müller-Boder\nzentralplus\nDie Weltwoche\nMartina Bircher\nMarcel Dobler\nRadio RaBE\nmänner.ch\nGrüne Basel-Stadt\nFDP.Die Liberalen St.Gallen\nGrüne Sursee\nThomas Aeschi\nHans-Ulrich Bigler\nJunge GRünliberale\nBDP KAnton Bern\nSandro Brotz\nMatthias Teh\nbuschi&anni\nCamille Lothe\nDavid Roth\nGrüne Kanton St.Gallen\nEnergiewende Schweiz\nSP Basel-Stadt\nVimentis\nKomitee \"WEltoffenes Zürich\"\nVisu\nFDP.Die Liberalen Aargau\nCritical Mass Zürich\nJunge BDP Schweiz\nSRF mySchool\nVIOZ\nJörg Mäder\nSVP des Kantons Luzern\nTagblatt\nJungfreisinnige Stadt Zürich\nAktion gegen Fremdenhass\nAdrian Amstutz\nartiazza\nGrünliberale Partei Kanton Luzern\nSchaffhauser Nachrichten\nKrebsliga Schweiz\nTele Top\nWerner Salzmann\nJacqueline Badran\nPolit-Forum\nBern im Käfigturm\nSP Kanton Bern",
-          "Like-VorschlägeGefälltMir_": "1.169\n506\n762\n10.911\n658\n133\n4.600\n14.078\n2.492\n9.206\n1.347\n392\n531\n402\n7.505\n1.043\n14.744\n703\n526\n639\n199\n875\n73\n638\n555\n1.328\n778\n30\n11.230\n976\n2.958\n714\n18.541\n14.043\n452\n293\n54\n7.955\n4.189\n2.963\n1.435\n154\n15.670\n8\n521\n4.949\n191\n1.214\n1.835\n219\n1.227\n527\n3.131\n1.087\n10.249\n241\n1.194\n16\n3.206\n8.901\n528\n3.134\n257\n1.053\n15.572\n4.819\n1.725\n994\n12.777\n1.653\n2.712\n187\n4.907\n1.040\n3.893\n10.870\n999\n164\n6.427\n1.538\n792\n2.465\n754\n3.889\n3.603\n2.465\n754\n3.889\n3.603\n372\n2.705\n4.973\n552\n9.244\n511\n569\n1.420\n1.020\n2.317\n3.629\n851\n765\n7.074\n435\n726\n1.747\n497\n3.883\n8.373\n18.218\n422\n4.706\n8.739\n2.447\n1.777\n824\n137\n3.665\n445\n1.872\n439\n2.496\n1.336\n1.420\n655\n977\n327\n409\n2.750\n5.086\n704\n2.260\n696\n1.716\n500\n2.109\n555\n482\n1.691\n11.946\n876\n3.401\n5.482\n691\n226\n5.055\n5.354\n4.640\n1.269\n2.125\n6.442\n1.841",
-          "Like-VerzeichnisNamen_": "Wecollect\nMigrant-Solidarity-Network\nNachhaltigkeitswoche Zürich\nGreenpeace\nWWF Suisse",
-          "Like-VerzeichnisGefälltMir_": "1.146\n714\n2.966\n17.240\n18.394"
+          "VorschlageNamen_": "Collective Climate Justice\nMarxist Society Uni Basel\nKlimaschutz Schweiz\nThomas Matter\nJUSO Kanton Luzern\nEltern fürs Klima\nEducation For Integration\nSRF Deville Thurgauer Zeitung\nGeschichte der Gegenwart\nWassergesetz Nein \nRojave Komitee-Basel\nPdA Bern\nJUSO Zürich Oberland\nAlbert Rösti\nGrüne Luzern\nMichael Elsener\nMigrant-Solidarity-Network\nGRüne Bülach\nKommunistische Jugend Zürich\nKlimastadt Zürich\nJUSO Kanton Bern\nBündnis buntes Schwyz\nJUSO Winterthur\nJUSO GRaubünden\nJUSO Baselland\nRote Falken Zürich \nGeneration Bildung\nAlpen-Initiative\nJUSO STadt Bern\nNachhaltigkeitswoche Zürich\nRASH Zürich\nDachstock Reitschule\nProject R\nZüri autofrei\nFeministischer Streik\nVivi und die starken Männer\nNein zum Unternehmenssteuer-Bschiss\nNo Borders, No Nations\nSVP Kanton Bern\nSP Frauen Schweiz\nJuntos en camino\nTele 1\nGRüne Dielsdorf\nJUSO Thurgau\naz Solothurner Zeitung\nNein zum Austritt der skuba\nSP Stadt Luzern\nFinanz und Wirtschaft\nSleeplessin\n1.Mai-Komitee Zürich\nIWW JAM\nReithalle Bern\nInitiative Ernährungssouveränität\nsport.ch \nJUSO Zürich Unterland\nFreiheit für Nekane\nIntermezzo House AG\nMilchjugend.Falschsexuelle Welten\nFür eine konstruktive Europapolitik\neiszeit\nSVP des Kantons Zürich\nHannah Pfalzgraf\nDiana Gutjahr\nZüri isst\nNZZ Format\nTransparenz-Initiative\naz Grenchner Tagblatt\nCVP\nFDP Kanton Zürich\nSender\nJunge Grüne Thurgau\nFussballstadion Ja\nGRüne Kanton Bern\nI love Wipkingen\nJunge SVP Schweiz\nWo unrecht zu recht wird\nDominic Täubert\nStolze Openair\nmyblueplanet\nJUSO Stadt Luzern\nNein zum Entwaffnungsdiktat\nSchlorian\nTreibhaus Luzern\nChaostruppe\nRouge Zürich\nZofinger Tagblatt\nBieler Tagblatt\nUmweltberatung Luzern\nNein zum schleichenden EU-Beitritt\nJunge Grünliberale Luzern\nkriPo Bern-kritische Politik Bern\nSP Baselland\nVPOD Schweiz\nSP Kanton Luzern\nLuzi Stamm\nJungfreisinnige Kanton Zürich\nPaul Winiker\nChristian Wasserfallen\nMichael Töngi\nJunge Grüne Kanton Bern\nPrime News\nJunge Grüne Aargau\nNicole Müller-Boder\nzentralplus\nDie Weltwoche\nMartina Bircher\nMarcel Dobler\nRadio RaBE\nmänner.ch\nGrüne Basel-Stadt\nFDP.Die Liberalen St.Gallen\nGrüne Sursee\nThomas Aeschi\nHans-Ulrich Bigler\nJunge GRünliberale\nBDP KAnton Bern\nSandro Brotz\nMatthias Teh\nbuschi&anni\nCamille Lothe\nDavid Roth\nGrüne Kanton St.Gallen\nEnergiewende Schweiz\nSP Basel-Stadt\nVimentis\nKomitee \"WEltoffenes Zürich\"\nVisu\nFDP.Die Liberalen Aargau\nCritical Mass Zürich\nJunge BDP Schweiz\nSRF mySchool\nVIOZ\nJörg Mäder\nSVP des Kantons Luzern\nTagblatt\nJungfreisinnige Stadt Zürich\nAktion gegen Fremdenhass\nAdrian Amstutz\nartiazza\nGrünliberale Partei Kanton Luzern\nSchaffhauser Nachrichten\nKrebsliga Schweiz\nTele Top\nWerner Salzmann\nJacqueline Badran\nPolit-Forum\nBern im Käfigturm\nSP Kanton Bern",
+          "VorschlageGefalltMir_": "1.169\n506\n762\n10.911\n658\n133\n4.600\n14.078\n2.492\n9.206\n1.347\n392\n531\n402\n7.505\n1.043\n14.744\n703\n526\n639\n199\n875\n73\n638\n555\n1.328\n778\n30\n11.230\n976\n2.958\n714\n18.541\n14.043\n452\n293\n54\n7.955\n4.189\n2.963\n1.435\n154\n15.670\n8\n521\n4.949\n191\n1.214\n1.835\n219\n1.227\n527\n3.131\n1.087\n10.249\n241\n1.194\n16\n3.206\n8.901\n528\n3.134\n257\n1.053\n15.572\n4.819\n1.725\n994\n12.777\n1.653\n2.712\n187\n4.907\n1.040\n3.893\n10.870\n999\n164\n6.427\n1.538\n792\n2.465\n754\n3.889\n3.603\n2.465\n754\n3.889\n3.603\n372\n2.705\n4.973\n552\n9.244\n511\n569\n1.420\n1.020\n2.317\n3.629\n851\n765\n7.074\n435\n726\n1.747\n497\n3.883\n8.373\n18.218\n422\n4.706\n8.739\n2.447\n1.777\n824\n137\n3.665\n445\n1.872\n439\n2.496\n1.336\n1.420\n655\n977\n327\n409\n2.750\n5.086\n704\n2.260\n696\n1.716\n500\n2.109\n555\n482\n1.691\n11.946\n876\n3.401\n5.482\n691\n226\n5.055\n5.354\n4.640\n1.269\n2.125\n6.442\n1.841",
+          "VerzeichnisNamen_": "Wecollect\nMigrant-Solidarity-Network\nNachhaltigkeitswoche Zürich\nGreenpeace\nWWF Suisse",
+          "VerzeichnisGefalltMir_": "1.146\n714\n2.966\n17.240\n18.394"
         },
         {
           "Profil_": "P1",
@@ -3494,10 +3494,10 @@ var data =
           "LinkBild_": "DS_B_10-04-19",
           "Bildname_": "ABB-P1-152",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3517,10 +3517,10 @@ var data =
           "LinkBild_": "DS_C_10-04-19",
           "Bildname_": "ABB-P1-153",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3540,10 +3540,10 @@ var data =
           "LinkBild_": "DS_D_10-04-19",
           "Bildname_": "ABB-P1-154",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3563,10 +3563,10 @@ var data =
           "LinkBild_": "DS_E_10-04-19",
           "Bildname_": "ABB-P1-155",
           "Bildunterschriften_": "Foto: David Werner",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3586,10 +3586,10 @@ var data =
           "LinkBild_": "DS_F_10-04-19",
           "Bildname_": "ABB-P1-156",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3609,10 +3609,10 @@ var data =
           "LinkBild_": "DS_G_10-04-19",
           "Bildname_": "ABB-P1-157",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3632,10 +3632,10 @@ var data =
           "LinkBild_": "DS_H_10-04-19",
           "Bildname_": "ABB-P1-158",
           "Bildunterschriften_": "Ein Gefahrenpotenzial ist auf den ersten Blick nicht erkennbar Foto: dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3655,10 +3655,10 @@ var data =
           "LinkBild_": "DS_I_10-04-19",
           "Bildname_": "ABB-P1-159",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3678,10 +3678,10 @@ var data =
           "LinkBild_": "DS_J_10-04-19",
           "Bildname_": "ABB-P1-160",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3701,10 +3701,10 @@ var data =
           "LinkBild_": "DS_A_11-04-19",
           "Bildname_": "ABB-P1-161",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Rojava Komitee-Basel\nBildung ohne Sexismus\nMarch against Monsanto + Syngenta\nJUSO Baselland\nJUSO Zürich Oberland\nRASH Zürich\nPerlen aus Blocheristan\nJUSPO Kanton Luzern\nSRF Deville\nNicole Müller-Boder\nEltern fürs Klima\nJuso Kanton Bern \nKlimastadt Zürich\nEducation For Integration \nThurgauer Zeitung\nWassergesetz Nein \nGeschichte der Gegenwart\nPdA Bern\nGrüne Luzern\nMichael Elsener\nSoFa\nJUSO Graubünden\nRote Falken Zürich\nZüri autofrei\nGEneration Bildung\nJUSO Stadt Bern\nBündnis buntes Schwyz\nFreiheit für Nekane\nProject R\nDachstock\nReitschule\nQueer_z\nReithalle Bern\nCheschtinuzunft Eyholz\nVivi und die starken Männer\nThomas Matter SPStadt Luzern\nSVP des Kanton Zürich\nNein zum Unternehmenssteuer-Bschiss\nGrüne Dielsdorf\nSchlorian\nHerr Müller\nTransparenz-Initiative\nJUSO Winterthur\nNein zum Austritt der skuba\nIWW JAM\nSleeplessin Tele 1 \naz Solothurn Zeitung\nInitiative Ernährungssouveränitöt\nJUSO Zürich Unterland\nJunge Grünliberale Bern\nFrauen_Streik Thun\nSP Frauen Schweiz\nIntermezzo Houses AG\nsport.ch\nNein zum schleichenden Eu-Beitritt\nWilhelm Tell\nAxel McFoley\nKritische Juristinnen Zürich\n1.Mai-Komitee Zürich\nkriPo Bern-kritische Politik Bern\nMilchjugend. Falschsexuelle Welten\nNo Borders, No Nations\nHannah Pfalzgraf\nJUSO Stadt Luzern\neiszeit\nZüri isst Dominic Täubert\nGrüne Basel-Stadt\nNzz Format\naz Grenchner Tagblatt\nAlbert Rösti\nErnährungsforum Zürich\nWo unrecht zu recht wird\nFatima Moumouni\nFussballstadion Ja\nSender\nI love Wipkingen \nFDP Kanton Zürich\nDiana Gutjahr\nStolze Openair\nUmweltberatung\nLuzernJunge Grüne Kanton Bern\nKirche für Konzernverantwortung\nRouge Zürich\nChaostruppe\nUnterkünfte ohne Not\nMartina Bircher\nMarxistischer Verein Unibe\nKriPo Frauenstreik\nCritical Mass Zürich\nJunge GRüne Thurgau\nAG Bibliotheken\nBieler Tagblatt\nKameradschaft Heimattreu\nSecondas Zürich\nFDP.Die Liberalen St.Gallen\nPrime News\nBahnonline.ch\nFDP\n1815.ch\nJunge Grüne Aargau\nZofinger Tagblatt\nJunge SVP Schweiz\nRote Falken Zürich-City\nJörg Meyer, Kantonsrat Luzern\nGrüne Kanton St.Gallen\nSP Kanton Solothurn\nGreenpeace\nLuzi Stamm\nKein Museum\nKafi Klick\nSP Kanton Luzern\nRote Falken Zürich-Nord\numverkehR\nSchluss mit Kürzen\nInteressengemeinschaft Oerlikon\nMichael Töngi\nGrüne Kanton Bern\nFachverein Ethnologie Zürich\nSVP Kanton Bern\nJungfreisinnige Kanton Zürich\nJungfreisinnige Stadt Zürich\nUnabhängige, Direkte DEmokratie\nDie Weltwoche\nRadio Top\nChristian Wasserfallen\nFinanz und Wirtschaft\nCyrill von Planta\nzentralplus\nNein zur Zersiedelungsinitiative\nFür eine konstruktive Europapolitik\nJungfreisinnige Kanton Schwyz\nElia Leiser\nBastA!\nSP Basel-Stadt\nGrüne Sursee\nVimentis\nEnergiewende Schweiz\nMatthias Teh\nDavid Roth\nKathrin Schweizer\nHans-Ulrich Bigier\nAdrian Amstutz\nCamille Lothe\nPolit-Forum Bern im Käfigturm\nbuschi%anni\nHasan Candan",
-          "Like-VorschlägeGefälltMir_": "392\n157\n701\n1.328\n402\n712\n870\n658\n14.080\n3.884\n154\n876\n199\n4.597\n2.494\n1.348\n9.206\n530\n1.045\n14.744\n418\n555\n778\n452\n30\n976\n76\n1.193\n14.043\n18.542\n172\n3.129\n4\n54\n10.914\n1.213\n3.135\n7.953\n8\n754\n29\n1.724\n638\n191\n526\n219\n15.669\n4.950\n1.087\n251\n524\n144\n1.436\n16\n10.250\n9.245\n767\n11\n182\n1.227\n568\n3.205\n4.187\n257\n792\n527\n15.572\n164\n1.776\n4.820\n994\n7.507\n2.861\n1.000\n2.371\n4.906\n2.715\n3.892\n1.653\n1.053\n6.427\n552\n726\n217\n472\n3.603\n654\n422\n401\n213\n1.722\n187\n141\n4.974\n223\n3.026\n824\n1.757\n2.337\n12.210\n7.763\n496\n2.708\n10.869\n280\n506\n327\n2.557\n407\n3.628\n704\n359\n2.324\n189\n2.632\n326\n143\n436\n1.039\n276\n2.964\n851\n876\n1.136\n18.219\n17.555\n7.074\n1.835\n137\n8.374\n150\n8.897\n409\n313\n2.619\n2.749\n137\n5.087\n409\n1.336\n977\n1.306\n445\n5.486\n654\n6.442\n1.420\n399",
-          "Like-VerzeichnisNamen_": "Rojava Komitee - Basel\nMarch against Monsanto + Syngenta Basel\nJUSO Baselland\nJUSO Zürich Oberland\nWassergesetz Nein\nGeschichte der Gegenwart",
-          "Like-VerzeichnisGefälltMir_": "395\n720\n1.332\n408\n1.353\n9.256"
+          "VorschlageNamen_": "Rojava Komitee-Basel\nBildung ohne Sexismus\nMarch against Monsanto + Syngenta\nJUSO Baselland\nJUSO Zürich Oberland\nRASH Zürich\nPerlen aus Blocheristan\nJUSPO Kanton Luzern\nSRF Deville\nNicole Müller-Boder\nEltern fürs Klima\nJuso Kanton Bern \nKlimastadt Zürich\nEducation For Integration \nThurgauer Zeitung\nWassergesetz Nein \nGeschichte der Gegenwart\nPdA Bern\nGrüne Luzern\nMichael Elsener\nSoFa\nJUSO Graubünden\nRote Falken Zürich\nZüri autofrei\nGEneration Bildung\nJUSO Stadt Bern\nBündnis buntes Schwyz\nFreiheit für Nekane\nProject R\nDachstock\nReitschule\nQueer_z\nReithalle Bern\nCheschtinuzunft Eyholz\nVivi und die starken Männer\nThomas Matter SPStadt Luzern\nSVP des Kanton Zürich\nNein zum Unternehmenssteuer-Bschiss\nGrüne Dielsdorf\nSchlorian\nHerr Müller\nTransparenz-Initiative\nJUSO Winterthur\nNein zum Austritt der skuba\nIWW JAM\nSleeplessin Tele 1 \naz Solothurn Zeitung\nInitiative Ernährungssouveränitöt\nJUSO Zürich Unterland\nJunge Grünliberale Bern\nFrauen_Streik Thun\nSP Frauen Schweiz\nIntermezzo Houses AG\nsport.ch\nNein zum schleichenden Eu-Beitritt\nWilhelm Tell\nAxel McFoley\nKritische Juristinnen Zürich\n1.Mai-Komitee Zürich\nkriPo Bern-kritische Politik Bern\nMilchjugend. Falschsexuelle Welten\nNo Borders, No Nations\nHannah Pfalzgraf\nJUSO Stadt Luzern\neiszeit\nZüri isst Dominic Täubert\nGrüne Basel-Stadt\nNzz Format\naz Grenchner Tagblatt\nAlbert Rösti\nErnährungsforum Zürich\nWo unrecht zu recht wird\nFatima Moumouni\nFussballstadion Ja\nSender\nI love Wipkingen \nFDP Kanton Zürich\nDiana Gutjahr\nStolze Openair\nUmweltberatung\nLuzernJunge Grüne Kanton Bern\nKirche für Konzernverantwortung\nRouge Zürich\nChaostruppe\nUnterkünfte ohne Not\nMartina Bircher\nMarxistischer Verein Unibe\nKriPo Frauenstreik\nCritical Mass Zürich\nJunge GRüne Thurgau\nAG Bibliotheken\nBieler Tagblatt\nKameradschaft Heimattreu\nSecondas Zürich\nFDP.Die Liberalen St.Gallen\nPrime News\nBahnonline.ch\nFDP\n1815.ch\nJunge Grüne Aargau\nZofinger Tagblatt\nJunge SVP Schweiz\nRote Falken Zürich-City\nJörg Meyer, Kantonsrat Luzern\nGrüne Kanton St.Gallen\nSP Kanton Solothurn\nGreenpeace\nLuzi Stamm\nKein Museum\nKafi Klick\nSP Kanton Luzern\nRote Falken Zürich-Nord\numverkehR\nSchluss mit Kürzen\nInteressengemeinschaft Oerlikon\nMichael Töngi\nGrüne Kanton Bern\nFachverein Ethnologie Zürich\nSVP Kanton Bern\nJungfreisinnige Kanton Zürich\nJungfreisinnige Stadt Zürich\nUnabhängige, Direkte DEmokratie\nDie Weltwoche\nRadio Top\nChristian Wasserfallen\nFinanz und Wirtschaft\nCyrill von Planta\nzentralplus\nNein zur Zersiedelungsinitiative\nFür eine konstruktive Europapolitik\nJungfreisinnige Kanton Schwyz\nElia Leiser\nBastA!\nSP Basel-Stadt\nGrüne Sursee\nVimentis\nEnergiewende Schweiz\nMatthias Teh\nDavid Roth\nKathrin Schweizer\nHans-Ulrich Bigier\nAdrian Amstutz\nCamille Lothe\nPolit-Forum Bern im Käfigturm\nbuschi%anni\nHasan Candan",
+          "VorschlageGefalltMir_": "392\n157\n701\n1.328\n402\n712\n870\n658\n14.080\n3.884\n154\n876\n199\n4.597\n2.494\n1.348\n9.206\n530\n1.045\n14.744\n418\n555\n778\n452\n30\n976\n76\n1.193\n14.043\n18.542\n172\n3.129\n4\n54\n10.914\n1.213\n3.135\n7.953\n8\n754\n29\n1.724\n638\n191\n526\n219\n15.669\n4.950\n1.087\n251\n524\n144\n1.436\n16\n10.250\n9.245\n767\n11\n182\n1.227\n568\n3.205\n4.187\n257\n792\n527\n15.572\n164\n1.776\n4.820\n994\n7.507\n2.861\n1.000\n2.371\n4.906\n2.715\n3.892\n1.653\n1.053\n6.427\n552\n726\n217\n472\n3.603\n654\n422\n401\n213\n1.722\n187\n141\n4.974\n223\n3.026\n824\n1.757\n2.337\n12.210\n7.763\n496\n2.708\n10.869\n280\n506\n327\n2.557\n407\n3.628\n704\n359\n2.324\n189\n2.632\n326\n143\n436\n1.039\n276\n2.964\n851\n876\n1.136\n18.219\n17.555\n7.074\n1.835\n137\n8.374\n150\n8.897\n409\n313\n2.619\n2.749\n137\n5.087\n409\n1.336\n977\n1.306\n445\n5.486\n654\n6.442\n1.420\n399",
+          "VerzeichnisNamen_": "Rojava Komitee - Basel\nMarch against Monsanto + Syngenta Basel\nJUSO Baselland\nJUSO Zürich Oberland\nWassergesetz Nein\nGeschichte der Gegenwart",
+          "VerzeichnisGefalltMir_": "395\n720\n1.332\n408\n1.353\n9.256"
         },
         {
           "Profil_": "P1",
@@ -3724,10 +3724,10 @@ var data =
           "LinkBild_": "DS_B_11-04-19",
           "Bildname_": "ABB-P1-162",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3747,10 +3747,10 @@ var data =
           "LinkBild_": "DS_C_11-04-19",
           "Bildname_": "ABB-P1-163",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3770,10 +3770,10 @@ var data =
           "LinkBild_": "DS_D_11-04-19",
           "Bildname_": "ABB-P1-164",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3793,10 +3793,10 @@ var data =
           "LinkBild_": "DS_E_11-04-19",
           "Bildname_": "ABB-P1-165",
           "Bildunterschriften_": "Zwischen den Kantonen gibt es grosse Unterschiede. Bern, Solothurn und Zürich – für mehr als zwei Drittel der bestätigten Immobilienverkäufe verantwortlich – schwingen obenaus. (Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3816,10 +3816,10 @@ var data =
           "LinkBild_": "DS_F_11-04-19",
           "Bildname_": "ABB-P1-166",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3839,10 +3839,10 @@ var data =
           "LinkBild_": "DS_G_11-04-19",
           "Bildname_": "ABB-P1-167",
           "Bildunterschriften_": "Kondome solle ungewollte Schwangerschaften verhindern. (Bild: Getty)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3862,10 +3862,10 @@ var data =
           "LinkBild_": "DS_H_11-04-19",
           "Bildname_": "ABB-P1-168",
           "Bildunterschriften_": "Quelle: Global Energy System based on 100 % Renewable Energy, Zahlen gerundet",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3885,10 +3885,10 @@ var data =
           "LinkBild_": "DS_I_11-04-19",
           "Bildname_": "ABB-P1-169",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3908,10 +3908,10 @@ var data =
           "LinkBild_": "DS_J_11-04-19",
           "Bildname_": "ABB-P1-170",
           "Bildunterschriften_": "Fünf Kantone dürfen vorerst kein Bauland mehr einzonen. Das hat der Bundesrat entschieden. (Bild: KEYSTONE/GAETAN BALLY)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3931,10 +3931,10 @@ var data =
           "LinkBild_": "DS_A_12-04-19",
           "Bildname_": "ABB-P1-171",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "JUSO Kanton Luzern\nJUSO Graubünden\nSRF Deville\nKlimastadt Zürich\nRASH Zürich\nEducation For Integration\nEltern fürs Klima\nGeneration Bildung\nGrüne Bülach\nJUSO Winterthur\nJUSO Kanton Bern\nBündnis buntes Schwyz\nSP Stadt Luzern\nRote Falken Zürich\nCheschtinuzufunft Eyholz\nVivi und die starken Männer\nProject R\nPdA Bern\nMilchjugend. Falschsexuelle Welten\nTransparenz-Initiative\nNein zum Unternehmenssteuer-Bschiss\nSP Baselland\nGrüne Dielsdorf\nHerr Müller\nNein zum Austritt der skuba\n360 Grad-Zürich City\nNicole Müller-Boder\nInitiative Ernährungssouveränität\nDachstock Reitschule \nSleeplessin\nReithalle Bern\nIWW JAM\nJUSO Stadt Bern\nZüri autofrei\nIntermezzo Houses AG\neiszeit\nRevolutionäre Jugend Thurgau\n1.Mai-Komitee Zürich\nJUSO Stadt Luzern\nHannah Pfalzgraf\nMichael Elsener\nSoFa\nJUSO Zürich Unterland\nWo unrecht zu recht wird\nSP Basel-Stadt\nNo Borders, No Nations\nFussballstadion Ja\nSP Frauen Schweiz\nZüri isst \nMultiwatch\nUmweltberatung Luzern\nSender\nPFF\nStolze Openair\nI love Wipkingen\nRouge Zürich\nDominic Täubert\nArtstübli\nGrüne Basel-Stadt\nFatima Moumouni\nThomas Matter\nJunge Grünliberale Bern\nSchlorian\nPfasyl\nJunge Grüne Kanton Bern\nreatch\nJunge Grüne Aargau\nNachhaltige-Jobs.ch\nNein zur «Selbstbestimmungs»-Initiative\nKarl der Grosse\nkriPo Bern\nBildung ohne Sexismus\nGrüne Kanton St.Gallen\nUnterkünfte ohne Not\nKirche für Konzernverantwortung\nKritische Juristinnen Zürich\nWorkspace2go\nVPOD Schweiz\nSandra Schneider official\nAline Trede\nJunge SVP Schweiz\nGreenpeace\nKameradschaft Heimattreu\nSecondas Zürich\nWork-die Zeitung der Gewerkschaft\nFrauen_Streik Thun\nKarl-Marx-Seminar\nKein Museum\nJUSO Basel-Stadt\nAlternative\nJunge Grüne Thurgau\nGrennpeace Regionalgruppe\nSuperdark\nCritical Mass Zürich\nKathrin Schweizer\nFDP.Die Liberalen St.Gallen\nNZZ Format\nzentralplus\nGemeinsam Znacht Aargau\nBastA! Basel starke Alternative\nGRüne Baselland\nGrüne Sursee\nSVP des Kantons Zürich\nLuzi Stamm\nJUSO-Die wohl unnötigste Partei der Schweiz\nFinanz und Wirtschaft\nPrime News\nSP Kanton Luzern\nCyrill von Planta \nNico Zobrist\nThomas Aeschi\nUnabhängige\nSchule für die Kinder\nDem-Kurd Nordwestschweiz\nVisu\nSP Schweiz International\nCamille Lothe\nNationalrat Corrado Pardini\nCVP\nSolidarität mit Afrin\nGuestlist Zurich Switzerland\nMarxistischer Verein Unibe\nGrüne Kanton Bern\nJungfreisinnige Stadt Zürich\nKlimastreik Basel\nDiana Gutjahr\nSVP des Kanton Luzern\nIBES-ohne Elektrosmog\nLiechtensteiner Vaterland\nNein zur Zersiedelungsinitiative\nMehrspur\nPolit-Forum Bern im Käfigturm\naz Grenchner Tagblatt\nRadio RaBe\nCVP Kanton Luzern\nGrüne Luzern\nDie Weltwoche\nLinke PoC \nSolidaritätsnetz Bern\nSamuel Hasler\nSRF News Basel\nvoCHabular\nHasan Candan\nLiechtensteiner Volksblatt\nMiro Meyer und Levin Koller\nJunge Grünliberale Luzern\nJUSO Zug",
-          "Like-VorschlägeGefälltMir_": "658\n555\n14.082\n199\n712\n4.597\n155\n30\n526\n638\n876\n85\n1.214\n778\n4\n54\n14.040\n530\n3.206\n1.724\n7.952\n1.419\n8\n29\n191\n1.270\n1.192\n3.882\n1.087\n18.549\n219\n3.130\n526\n976\n452\n15\n527\n368\n1.228\n792\n257\n14.745\n418\n251\n1.000\n2.748\n4.188\n4.903\n1.436\n15.576\n803\n552\n2.716\n446\n6.428\n3.891\n472\n164\n1.173\n1.776\n2.370\n10.911\n524\n754\n1.335\n726\n2.355\n496\n502\n8.052\n3.808\n569\n157\n327\n654\n218\n182\n775\n1.020\n1.074\n2.061\n10.868\n407\n224\n3.028\n1.228\n144\n447\n706\n1.586\n498\n187\n25\n339\n1.724\n1.359\n824\n4.820\n8.375\n698\n2.620\n719\n137\n3.135\n3.629\n224\n3.206\n1.838\n1.774\n2.337\n137\n96\n3.654\n1.143\n587\n256\n2.259\n1.118\n654\n1.685\n12.824\n502\n787\n401\n1.039\n876\n417\n1.052\n1.691\n8.523\n8.478\n150\n5.536\n6.442\n994\n8.739\n1.087\n1.046\n18.219\n303\n553\n47\n2.257\n724\n400\n7.801\n130\n511\n469",
-          "Like-VerzeichnisNamen_": "JUSO Kanton Luzern\nRASH Zürich\nEducation For Integration\nSP Stadt Luzern\nProject R",
-          "Like-VerzeichnisGefälltMir_": "666\n713\n4.462\n1.219\n14.022"
+          "VorschlageNamen_": "JUSO Kanton Luzern\nJUSO Graubünden\nSRF Deville\nKlimastadt Zürich\nRASH Zürich\nEducation For Integration\nEltern fürs Klima\nGeneration Bildung\nGrüne Bülach\nJUSO Winterthur\nJUSO Kanton Bern\nBündnis buntes Schwyz\nSP Stadt Luzern\nRote Falken Zürich\nCheschtinuzufunft Eyholz\nVivi und die starken Männer\nProject R\nPdA Bern\nMilchjugend. Falschsexuelle Welten\nTransparenz-Initiative\nNein zum Unternehmenssteuer-Bschiss\nSP Baselland\nGrüne Dielsdorf\nHerr Müller\nNein zum Austritt der skuba\n360 Grad-Zürich City\nNicole Müller-Boder\nInitiative Ernährungssouveränität\nDachstock Reitschule \nSleeplessin\nReithalle Bern\nIWW JAM\nJUSO Stadt Bern\nZüri autofrei\nIntermezzo Houses AG\neiszeit\nRevolutionäre Jugend Thurgau\n1.Mai-Komitee Zürich\nJUSO Stadt Luzern\nHannah Pfalzgraf\nMichael Elsener\nSoFa\nJUSO Zürich Unterland\nWo unrecht zu recht wird\nSP Basel-Stadt\nNo Borders, No Nations\nFussballstadion Ja\nSP Frauen Schweiz\nZüri isst \nMultiwatch\nUmweltberatung Luzern\nSender\nPFF\nStolze Openair\nI love Wipkingen\nRouge Zürich\nDominic Täubert\nArtstübli\nGrüne Basel-Stadt\nFatima Moumouni\nThomas Matter\nJunge Grünliberale Bern\nSchlorian\nPfasyl\nJunge Grüne Kanton Bern\nreatch\nJunge Grüne Aargau\nNachhaltige-Jobs.ch\nNein zur «Selbstbestimmungs»-Initiative\nKarl der Grosse\nkriPo Bern\nBildung ohne Sexismus\nGrüne Kanton St.Gallen\nUnterkünfte ohne Not\nKirche für Konzernverantwortung\nKritische Juristinnen Zürich\nWorkspace2go\nVPOD Schweiz\nSandra Schneider official\nAline Trede\nJunge SVP Schweiz\nGreenpeace\nKameradschaft Heimattreu\nSecondas Zürich\nWork-die Zeitung der Gewerkschaft\nFrauen_Streik Thun\nKarl-Marx-Seminar\nKein Museum\nJUSO Basel-Stadt\nAlternative\nJunge Grüne Thurgau\nGrennpeace Regionalgruppe\nSuperdark\nCritical Mass Zürich\nKathrin Schweizer\nFDP.Die Liberalen St.Gallen\nNZZ Format\nzentralplus\nGemeinsam Znacht Aargau\nBastA! Basel starke Alternative\nGRüne Baselland\nGrüne Sursee\nSVP des Kantons Zürich\nLuzi Stamm\nJUSO-Die wohl unnötigste Partei der Schweiz\nFinanz und Wirtschaft\nPrime News\nSP Kanton Luzern\nCyrill von Planta \nNico Zobrist\nThomas Aeschi\nUnabhängige\nSchule für die Kinder\nDem-Kurd Nordwestschweiz\nVisu\nSP Schweiz International\nCamille Lothe\nNationalrat Corrado Pardini\nCVP\nSolidarität mit Afrin\nGuestlist Zurich Switzerland\nMarxistischer Verein Unibe\nGrüne Kanton Bern\nJungfreisinnige Stadt Zürich\nKlimastreik Basel\nDiana Gutjahr\nSVP des Kanton Luzern\nIBES-ohne Elektrosmog\nLiechtensteiner Vaterland\nNein zur Zersiedelungsinitiative\nMehrspur\nPolit-Forum Bern im Käfigturm\naz Grenchner Tagblatt\nRadio RaBe\nCVP Kanton Luzern\nGrüne Luzern\nDie Weltwoche\nLinke PoC \nSolidaritätsnetz Bern\nSamuel Hasler\nSRF News Basel\nvoCHabular\nHasan Candan\nLiechtensteiner Volksblatt\nMiro Meyer und Levin Koller\nJunge Grünliberale Luzern\nJUSO Zug",
+          "VorschlageGefalltMir_": "658\n555\n14.082\n199\n712\n4.597\n155\n30\n526\n638\n876\n85\n1.214\n778\n4\n54\n14.040\n530\n3.206\n1.724\n7.952\n1.419\n8\n29\n191\n1.270\n1.192\n3.882\n1.087\n18.549\n219\n3.130\n526\n976\n452\n15\n527\n368\n1.228\n792\n257\n14.745\n418\n251\n1.000\n2.748\n4.188\n4.903\n1.436\n15.576\n803\n552\n2.716\n446\n6.428\n3.891\n472\n164\n1.173\n1.776\n2.370\n10.911\n524\n754\n1.335\n726\n2.355\n496\n502\n8.052\n3.808\n569\n157\n327\n654\n218\n182\n775\n1.020\n1.074\n2.061\n10.868\n407\n224\n3.028\n1.228\n144\n447\n706\n1.586\n498\n187\n25\n339\n1.724\n1.359\n824\n4.820\n8.375\n698\n2.620\n719\n137\n3.135\n3.629\n224\n3.206\n1.838\n1.774\n2.337\n137\n96\n3.654\n1.143\n587\n256\n2.259\n1.118\n654\n1.685\n12.824\n502\n787\n401\n1.039\n876\n417\n1.052\n1.691\n8.523\n8.478\n150\n5.536\n6.442\n994\n8.739\n1.087\n1.046\n18.219\n303\n553\n47\n2.257\n724\n400\n7.801\n130\n511\n469",
+          "VerzeichnisNamen_": "JUSO Kanton Luzern\nRASH Zürich\nEducation For Integration\nSP Stadt Luzern\nProject R",
+          "VerzeichnisGefalltMir_": "666\n713\n4.462\n1.219\n14.022"
         },
         {
           "Profil_": "P1",
@@ -3954,10 +3954,10 @@ var data =
           "LinkBild_": "DS_B_12-04-19",
           "Bildname_": "ABB-P1-172",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -3977,10 +3977,10 @@ var data =
           "LinkBild_": "DS_C_12-04-19",
           "Bildname_": "ABB-P1-173",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4000,10 +4000,10 @@ var data =
           "LinkBild_": "DS_D_12-04-19",
           "Bildname_": "ABB-P1-174",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4023,10 +4023,10 @@ var data =
           "LinkBild_": "DS_E_12-04-19",
           "Bildname_": "ABB-P1-175",
           "Bildunterschriften_": "Alice Weidel hat unerlaubt Spenden aus dem Ausland erhalten. Die Spur führt nach Zürich. bild: epa/epa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4046,10 +4046,10 @@ var data =
           "LinkBild_": "DS_F_12-04-19.jpeg",
           "Bildname_": "ABB-P1-176",
           "Bildunterschriften_": "Demonstration gegen die \"Notstandsgesetze\", Mai 1968, Bonn: Quelle: br.de",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4069,10 +4069,10 @@ var data =
           "LinkBild_": "DS_G_12-04-19",
           "Bildname_": "ABB-P1-177",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4092,10 +4092,10 @@ var data =
           "LinkBild_": "DS_H_12-04-19",
           "Bildname_": "ABB-P1-178",
           "Bildunterschriften_": "Gruppenbild der Zuger Klima-Jugend mit Zuger Kantonsratspäsidentin: Monika Barmet steht leicht links der Mitte über dem Transparent. (Bild: mam)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4115,10 +4115,10 @@ var data =
           "LinkBild_": "DS_I_12-04-19",
           "Bildname_": "ABB-P1-179",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4138,10 +4138,10 @@ var data =
           "LinkBild_": "DS_J_12-04-19",
           "Bildname_": "ABB-P1-180",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4161,10 +4161,10 @@ var data =
           "LinkBild_": "DS_A_13-04-19",
           "Bildname_": "ABB-P1-181",
           "Bildunterschriften_": "Die Aussichten, die Homo-Ehe im Jahr 2020 einzuführen, trüben sich ein. Foto: Melanie Duchene («Der Landbote»)",
-          "Like-VorschlägeNamen_": "JUSO Stadt Luzern\nJUSO Winterthur\nJUSO Stadt Bern\nJunge Grünliberale Luzern\nSRF Deville\nFDP.Die Liberalen Kanton Schwyz\nJunge SVP Kanton Zürich\nJUSO Aargau\nSP Bezirk Winterthur\nJUSO Graubünden\nDrum Arosa\nJungfreisinnige Kanton Zürich\nKlimastreik Basel\nJungfreisinnige Stadt Luzern\nMarxismus und Tierbefreiung\nGrünliberale Luzern Land\nIWW JAM\nRevolutionäre Jugend Thurgau\nRafael Mörgeli\nJunge Grünliberale beider Basel\nJUSO Kanton Bern\nSVP Stadt Bern\nGeneration Bildung\nBildung ohne Sexismus\nJunge SVP Solothurn\nStanding with Standing Rock\nGrünliberale Bezirk Küssnacht\nJUSO Zürich Unterland\nJunge Grüne Kanton Bern\nDas Regenbogenvolk\nUnterkünfte ohne Not\nBDP Graubünden\nEltern fürs Klima\nAlpen-Initiative\nSVP Stadt Winterthur\nPdA Bern\nNicole Müller-Boder\nZüri autofrei\nRote Falken Zürich\nBündnis buntes Schwyz\nKlimastadt Zürich\nNein zu Versicherungsspinonen\nKampaKollektiv\nGrüne Bülach\nSP Kanton Aargau\nSVP Basserdorf\nNein zum Unternehmenssteuer-Bschiss\nSP Münsingen\nPolycup\nGrüne Partei Frauenfeld\nMichael Eisener \neiszeit\nGrüne Dielsdorf\n360 Grad-Zürich City\nChaostruppe\nSleeplessin\nkriPo Bern-kritische Politik Bern\nDachstock Reitschule\nInitiative Ernährungssouveränität\nCritical Mass Zürich \nSP Frauen Schweiz\nInermezzo Houses AG\n1.Mai-Komitee Zürich\nBasel Nazifrei\nWo unrecht zu recht wird\nThomas Matter\nReithalle Bern\nNo WEF\nHannah Pfalzgraf\nVCS Verkehrs-Club der Schweiz\nTransparenz-Initiative\nNo Borders, No Nations\nVPOD Schweiz\nRouge Zürich\nZüri isst\nStolze Openair\nSP Chur\nI love Wipkingen\nGemeinsam weiter\nMichael Töngi\nSender\nFussballstadion Ja \nFatima Moumouni\nNein zur «Selbstbestimmungs»-Initiative\nZentrum für Demokratie Aarau\nYoung Struggel Schweiz\nGrüne Zürichsee\nJUSO Zug\nDavid Roth\nDSJ\nAline Trede\nKirche für Konzernverantwortung\nSP Baselland\nHasan Candan\nSoFa\nSecondas Zürich\nJUSO Kanton Schwyz\nKritische Juristinnen Zürich\nLinke PoC Grüne Kanton Bern\nSP Kanton Luzern\nNico Zobrist\nAndreas Lustenberger\nSVP des Kantons Zürich\nAlternative\nJUSO Basel-Stadt\nFabian Eberhard\nKathrin Schweizer\nJunge SVP Schweiz\nGrüne Basel-Stadt\nGrüne Kanton Solothurn\nJunge Grüne Aargau\nGrüne Kanton St.Gallen\nSRF News Basel\nKriPo Frauenstreik\nMarionna Schlatter-Schmid\nCamille Lothe\nBastA!-Basels starke Alternative\nMichelle Singer\nSystembruch Zug\nGrüne Baselland\nCVP Stadt Luzern\nAG Bibliothek\nNadja Pieren\nGrüne Luzern\nDAmian Müller\nDominic Täubert\nSP Basel-Stadt\nCVP Kanton Aargau\nStudents Across Borders\nNZZ Format\nKritische Juristinnen Fribourg\nCVP\nartiazza\nJUSO Uri\nFDP Kanton Zürich\nUntergrund.\nreatch\nSP Kanton St.Gallen\nCVP Wahlkreis Entlebuch\nKarl der Grosse\nGrünliberale Stadt Luzern\nTele Top\nGrünliberale Partei Graubünden\nIrina Studhalter\nOstermarsch Bern",
-          "Like-VorschlägeGefälltMir_": "792\n639\n977\n511\n14.085\n337\n2.302\n649\n615\n555\n843\n852\n422\n376\n1.032\n189\n527\n366\n335\n176\n876\n196\n30\n157\n1.650\n373\n90\n251\n726\n35\n655\n371\n156\n11.234\n740\n532\n3.881\n452\n777\n125\n200\n1.249\n236\n526\n1.408\n141\n7.949\n8\n33\n157\n14.749\n526\n8\n1.269\n3.603\n222\n568\n18.557\n1.086\n1.730\n1.436\n15\n1.230\n434\n998\n10.916\n3.132\n468\n258\n7.141\n1.725\n4.188\n1.022\n472\n15.590\n6.427\n443\n3.891\n6.315\n437\n2.718\n4.901\n2.375\n8.052\n816\n760\n317\n469\n978\n1.236\n2.061\n219\n1.424\n401\n419\n3.030\n398\n183\n304\n1.040\n2.343\n96\n360\n3.136\n497\n1.586\n3.208\n1.360\n10.871\n1.776\n501\n497\n327\n2.260\n215\n516\n654\n2.623\n581\n429\n719\n284\n141\n1.916\n1.046\n2.430\n164\n2.750\n535\n834\n4.825\n257\n12.859\n699\n373\n1.651\n113\n2.355\n1.511\n180\n3.808\n247\n4.647\n314\n476\n580",
-          "Like-VerzeichnisNamen_": "JUSO Stadt Luzern\nJUSO Winterthur\nJUSO Stadt Bern\nMarxismus und Tierbefreiung\nNein zu Versicherungsspionen",
-          "Like-VerzeichnisGefälltMir_": "791\n647\n977\n1.055\n1.275"
+          "VorschlageNamen_": "JUSO Stadt Luzern\nJUSO Winterthur\nJUSO Stadt Bern\nJunge Grünliberale Luzern\nSRF Deville\nFDP.Die Liberalen Kanton Schwyz\nJunge SVP Kanton Zürich\nJUSO Aargau\nSP Bezirk Winterthur\nJUSO Graubünden\nDrum Arosa\nJungfreisinnige Kanton Zürich\nKlimastreik Basel\nJungfreisinnige Stadt Luzern\nMarxismus und Tierbefreiung\nGrünliberale Luzern Land\nIWW JAM\nRevolutionäre Jugend Thurgau\nRafael Mörgeli\nJunge Grünliberale beider Basel\nJUSO Kanton Bern\nSVP Stadt Bern\nGeneration Bildung\nBildung ohne Sexismus\nJunge SVP Solothurn\nStanding with Standing Rock\nGrünliberale Bezirk Küssnacht\nJUSO Zürich Unterland\nJunge Grüne Kanton Bern\nDas Regenbogenvolk\nUnterkünfte ohne Not\nBDP Graubünden\nEltern fürs Klima\nAlpen-Initiative\nSVP Stadt Winterthur\nPdA Bern\nNicole Müller-Boder\nZüri autofrei\nRote Falken Zürich\nBündnis buntes Schwyz\nKlimastadt Zürich\nNein zu Versicherungsspinonen\nKampaKollektiv\nGrüne Bülach\nSP Kanton Aargau\nSVP Basserdorf\nNein zum Unternehmenssteuer-Bschiss\nSP Münsingen\nPolycup\nGrüne Partei Frauenfeld\nMichael Eisener \neiszeit\nGrüne Dielsdorf\n360 Grad-Zürich City\nChaostruppe\nSleeplessin\nkriPo Bern-kritische Politik Bern\nDachstock Reitschule\nInitiative Ernährungssouveränität\nCritical Mass Zürich \nSP Frauen Schweiz\nInermezzo Houses AG\n1.Mai-Komitee Zürich\nBasel Nazifrei\nWo unrecht zu recht wird\nThomas Matter\nReithalle Bern\nNo WEF\nHannah Pfalzgraf\nVCS Verkehrs-Club der Schweiz\nTransparenz-Initiative\nNo Borders, No Nations\nVPOD Schweiz\nRouge Zürich\nZüri isst\nStolze Openair\nSP Chur\nI love Wipkingen\nGemeinsam weiter\nMichael Töngi\nSender\nFussballstadion Ja \nFatima Moumouni\nNein zur «Selbstbestimmungs»-Initiative\nZentrum für Demokratie Aarau\nYoung Struggel Schweiz\nGrüne Zürichsee\nJUSO Zug\nDavid Roth\nDSJ\nAline Trede\nKirche für Konzernverantwortung\nSP Baselland\nHasan Candan\nSoFa\nSecondas Zürich\nJUSO Kanton Schwyz\nKritische Juristinnen Zürich\nLinke PoC Grüne Kanton Bern\nSP Kanton Luzern\nNico Zobrist\nAndreas Lustenberger\nSVP des Kantons Zürich\nAlternative\nJUSO Basel-Stadt\nFabian Eberhard\nKathrin Schweizer\nJunge SVP Schweiz\nGrüne Basel-Stadt\nGrüne Kanton Solothurn\nJunge Grüne Aargau\nGrüne Kanton St.Gallen\nSRF News Basel\nKriPo Frauenstreik\nMarionna Schlatter-Schmid\nCamille Lothe\nBastA!-Basels starke Alternative\nMichelle Singer\nSystembruch Zug\nGrüne Baselland\nCVP Stadt Luzern\nAG Bibliothek\nNadja Pieren\nGrüne Luzern\nDAmian Müller\nDominic Täubert\nSP Basel-Stadt\nCVP Kanton Aargau\nStudents Across Borders\nNZZ Format\nKritische Juristinnen Fribourg\nCVP\nartiazza\nJUSO Uri\nFDP Kanton Zürich\nUntergrund.\nreatch\nSP Kanton St.Gallen\nCVP Wahlkreis Entlebuch\nKarl der Grosse\nGrünliberale Stadt Luzern\nTele Top\nGrünliberale Partei Graubünden\nIrina Studhalter\nOstermarsch Bern",
+          "VorschlageGefalltMir_": "792\n639\n977\n511\n14.085\n337\n2.302\n649\n615\n555\n843\n852\n422\n376\n1.032\n189\n527\n366\n335\n176\n876\n196\n30\n157\n1.650\n373\n90\n251\n726\n35\n655\n371\n156\n11.234\n740\n532\n3.881\n452\n777\n125\n200\n1.249\n236\n526\n1.408\n141\n7.949\n8\n33\n157\n14.749\n526\n8\n1.269\n3.603\n222\n568\n18.557\n1.086\n1.730\n1.436\n15\n1.230\n434\n998\n10.916\n3.132\n468\n258\n7.141\n1.725\n4.188\n1.022\n472\n15.590\n6.427\n443\n3.891\n6.315\n437\n2.718\n4.901\n2.375\n8.052\n816\n760\n317\n469\n978\n1.236\n2.061\n219\n1.424\n401\n419\n3.030\n398\n183\n304\n1.040\n2.343\n96\n360\n3.136\n497\n1.586\n3.208\n1.360\n10.871\n1.776\n501\n497\n327\n2.260\n215\n516\n654\n2.623\n581\n429\n719\n284\n141\n1.916\n1.046\n2.430\n164\n2.750\n535\n834\n4.825\n257\n12.859\n699\n373\n1.651\n113\n2.355\n1.511\n180\n3.808\n247\n4.647\n314\n476\n580",
+          "VerzeichnisNamen_": "JUSO Stadt Luzern\nJUSO Winterthur\nJUSO Stadt Bern\nMarxismus und Tierbefreiung\nNein zu Versicherungsspionen",
+          "VerzeichnisGefalltMir_": "791\n647\n977\n1.055\n1.275"
         },
         {
           "Profil_": "P1",
@@ -4184,10 +4184,10 @@ var data =
           "LinkBild_": "DS_B_13-04-19",
           "Bildname_": "ABB-P1-182",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4207,10 +4207,10 @@ var data =
           "LinkBild_": "DS_C_13-04-19",
           "Bildname_": "ABB-P1-183",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4230,10 +4230,10 @@ var data =
           "LinkBild_": "DS_D_13-04-19",
           "Bildname_": "ABB-P1-184",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4253,10 +4253,10 @@ var data =
           "LinkBild_": "DS_E_13-04-19",
           "Bildname_": "ABB-P1-185",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4276,10 +4276,10 @@ var data =
           "LinkBild_": "DS_F_13-04-19",
           "Bildname_": "ABB-P1-186",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4299,10 +4299,10 @@ var data =
           "LinkBild_": "DS_G_13-04-19",
           "Bildname_": "ABB-P1-187",
           "Bildunterschriften_": "Der Solothurner CVP-Ständerat Pirmin Bischof nach dem Urteil des Bundesgerichts zu den Medien: \"Ich freue mich unwahrscheinlich und es ist für mich eine echte Überraschung.\" © KEYSTONE/JEAN-CHRISTOPHE BOTT",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4322,10 +4322,10 @@ var data =
           "LinkBild_": "DS_H_13-04-19",
           "Bildname_": "ABB-P1-188",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4345,10 +4345,10 @@ var data =
           "LinkBild_": "DS_I_13-04-19",
           "Bildname_": "ABB-P1-189",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4368,10 +4368,10 @@ var data =
           "LinkBild_": "DS_J_13-04-19",
           "Bildname_": "ABB-P1-190",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4391,10 +4391,10 @@ var data =
           "LinkBild_": "DS_A_14-04-19",
           "Bildname_": "ABB-P1-191",
           "Bildunterschriften_": "Das Stimmvolk muss ein weiteres Mal über die Heiratsstrafe befinden. bild: keystone",
-          "Like-VorschlägeNamen_": "JUSO Kanton Bern\nSP FRauen Schweiz\nJUSO Graubünden\nJunge SVP Kanton Zürich\nSRF Deville\nJunge Grünliberale Luzern\nKlimastreik Basel\nVPOD Schweiz\nSP Bezirk Winterthur\nIWW JAM\nDrumArosa\nJUSOplus in den Kantonsrat\nRevolutionäre Jugend Thurgau\nJungfreisinnige Kanton Zürich\nRote Falken Zürich\nJUSO Kanton Schwyz\nJUSO Zürich Oberland\nStanding with Standing Rock\nUnterkünfte ohne Not\nJUSO Thurgau\nGrüne Luzern\nAlpen-Initiative\nSVP Stadt Winterthur\nBündnis buntes Schwyz\nZüri autofrei\nGeneration Bildung\nJUSO Zug\nDas Regenbogenvolk\nGrüne Bülach\nPdA Bern\nJunge Grünliberale beider Basel\nWo unrecht zu recht wird\nKlimastreik Zürich\nEltern fürs Klima\nRafael Mörgeli\nNein zum Unternehmenssteuer-Bschiss\nNicole Müller-Boder\nSP Kanton Aargau\nSP Münsingen\nPolycup\nChaostruppe\nMichael Eisener\nGrpne Dielsdorf\nSVP Stadt Bern\nSleeplessin\nThomas Matter Campaign Camp Switzerland\n360 Grad-Zürich City\nGrünliberale Bezirk Küssnacht\nkriPo Bern-kritische Politik Bern\nDachstock Reitschule\nInitiative Ernährungssouveränität\neiszeit\nLinke PoC\nBasel Nazifrei\nJungfreisinnige Stadt Luzern\nIntermezzo Houses AG\nCritical Mass Zürich\nKampaKollektiv\nAG Quuer\nSVP Bassersdorf\nGrüne Partei Frauenfeld\nHannah Pfalzgraf\nJUSO Uri\nTransparenz-Initiative\nReithalle Bern\nStolze Openair\nJunge Grüne Aargau\nMichael Töngi\nVCS Verkehrs-Club der Schweiz\nNo Borders, No Nations\nStreetArt Luzern\nZüri isst\nRouge Zürich\nAllianz gegen Sozis und Grüne\nSP Töss\nAllianz gegen Racial Profiling\nI love Wipkingen\nDavid Roth\nCVP Stadt Luzern\nTreibhaus Luzern\nGemeinsam weiter\nSender Fussballstadion Ja\nSandra Schneider official\nHasan Candan\nYoung Struggle Schweiz\nNo WEF\nGrüne Zürichsee\nIrina Studhalter\nNein zur «Selbstbestimmungs»-Initiative\nSRG Insider\nSP Kanton Luzern\nGrüne Kanton Bern\nJunge Grünliberale Bern\nJörg Meier, Kantonsrat Luzern\nCamille Lothe\nSVP des Kanton Zürich\nKritische Jugend Fribourg\nJUSO Basel-Stadt\nAndreas Lustenberger\nThomas Aeschi\nGrünliberale Stadt Luzern\nFDP\nKathrin Schweizer\nGrüne Basel-Stadt\nGRüne Kanton Solothurn\nJunge SVP Schweiz\nSystembruch Zug\nFDP.Die Liberalen Frauenfeld\nBastA!\nFDP Kanton Zürich\nMarxistischer Verein Unibe\nMichelle Singer\nGrüne Baselland\nTrotzphase\nNils Fiechter\nCVP Kanton Aargau\nNadja Pieren\nJUSO Stadt St.Gallen\nUSL\nCVP Stadt Winterthur\nCVP Kanton Zürich\nDominic Täubert\nartiazza\nSP Kanton Bern\nHans-Ulrich Bigier\nNZZ Format\nSandro Brotz\nJunge Grüne Solothurn\nSP Kanton St.Gallen\nBDP Kanton Bern\nGrüne Kanton St.Gallen\nBenjamin Fischer\nLuzi Stamm\nTele Top\nMarcel Dobler\nPrime News\nHans-Ueli Vogt\nAlternative Linke Bern\nKanton Luzern-Stadt\nI love KMU's\nWerner Salzmann\nKlimastreik Thurgau",
-          "Like-VorschlägeGefälltMir_": "876\n1.436\n555\n2.320\n14.083\n511\n422\n1.022\n615\n527\n843\n217\n366\n852\n777\n398\n251\n373\n655\n521\n1.046\n11.234\n740\n125\n452\n30\n469\n35\n526\n532\n176\n998\n200\n156\n335\n7.948\n3.881\n1.048\n8\n33\n3.603\n14.750\n8\n196\n222\n10.916\n556\n1.270\n90\n568\n18.557\n1.086\n526\n304\n434\n376\n15\n1.731\n236\n568\n141\n157\n258\n373\n1.725\n3.134\n6.427\n497\n437\n7.141\n4.188\n1.402\n15.591\n471\n1.902\n306\n1.514\n3.891\n978\n284\n3.890\n6.315\n2.718\n4.901\n1.076\n401\n760\n468\n317\n476\n8.052\n14.665\n2.344\n1.040\n524\n506\n654\n3.137\n257\n1.586\n360\n3.652\n247\n12.210\n1.360\n1.776\n501\n10.871\n429\n260\n2.623\n1.651\n401\n581\n719\n114\n4.702\n535\n1.916\n338\n1.928\n207\n383\n164\n699\n1.842\n451\n4.825\n2.509\n650\n1.511\n439\n327\n1.072\n3.629\n4.647\n4.702\n1.793\n4.659\n810\n506\n65\n1.270\n111",
-          "Like-VerzeichnisNamen_": "1.Mai-Komitee Zürich\nSP Frauen\nVPOD Schweiz\nAlpen-Initiative\nWo untrecht zu recht wird",
-          "Like-VerzeichnisGefälltMir_": "1.279\n1.470\n1.050\n11.232\n1.002"
+          "VorschlageNamen_": "JUSO Kanton Bern\nSP FRauen Schweiz\nJUSO Graubünden\nJunge SVP Kanton Zürich\nSRF Deville\nJunge Grünliberale Luzern\nKlimastreik Basel\nVPOD Schweiz\nSP Bezirk Winterthur\nIWW JAM\nDrumArosa\nJUSOplus in den Kantonsrat\nRevolutionäre Jugend Thurgau\nJungfreisinnige Kanton Zürich\nRote Falken Zürich\nJUSO Kanton Schwyz\nJUSO Zürich Oberland\nStanding with Standing Rock\nUnterkünfte ohne Not\nJUSO Thurgau\nGrüne Luzern\nAlpen-Initiative\nSVP Stadt Winterthur\nBündnis buntes Schwyz\nZüri autofrei\nGeneration Bildung\nJUSO Zug\nDas Regenbogenvolk\nGrüne Bülach\nPdA Bern\nJunge Grünliberale beider Basel\nWo unrecht zu recht wird\nKlimastreik Zürich\nEltern fürs Klima\nRafael Mörgeli\nNein zum Unternehmenssteuer-Bschiss\nNicole Müller-Boder\nSP Kanton Aargau\nSP Münsingen\nPolycup\nChaostruppe\nMichael Eisener\nGrpne Dielsdorf\nSVP Stadt Bern\nSleeplessin\nThomas Matter Campaign Camp Switzerland\n360 Grad-Zürich City\nGrünliberale Bezirk Küssnacht\nkriPo Bern-kritische Politik Bern\nDachstock Reitschule\nInitiative Ernährungssouveränität\neiszeit\nLinke PoC\nBasel Nazifrei\nJungfreisinnige Stadt Luzern\nIntermezzo Houses AG\nCritical Mass Zürich\nKampaKollektiv\nAG Quuer\nSVP Bassersdorf\nGrüne Partei Frauenfeld\nHannah Pfalzgraf\nJUSO Uri\nTransparenz-Initiative\nReithalle Bern\nStolze Openair\nJunge Grüne Aargau\nMichael Töngi\nVCS Verkehrs-Club der Schweiz\nNo Borders, No Nations\nStreetArt Luzern\nZüri isst\nRouge Zürich\nAllianz gegen Sozis und Grüne\nSP Töss\nAllianz gegen Racial Profiling\nI love Wipkingen\nDavid Roth\nCVP Stadt Luzern\nTreibhaus Luzern\nGemeinsam weiter\nSender Fussballstadion Ja\nSandra Schneider official\nHasan Candan\nYoung Struggle Schweiz\nNo WEF\nGrüne Zürichsee\nIrina Studhalter\nNein zur «Selbstbestimmungs»-Initiative\nSRG Insider\nSP Kanton Luzern\nGrüne Kanton Bern\nJunge Grünliberale Bern\nJörg Meier, Kantonsrat Luzern\nCamille Lothe\nSVP des Kanton Zürich\nKritische Jugend Fribourg\nJUSO Basel-Stadt\nAndreas Lustenberger\nThomas Aeschi\nGrünliberale Stadt Luzern\nFDP\nKathrin Schweizer\nGrüne Basel-Stadt\nGRüne Kanton Solothurn\nJunge SVP Schweiz\nSystembruch Zug\nFDP.Die Liberalen Frauenfeld\nBastA!\nFDP Kanton Zürich\nMarxistischer Verein Unibe\nMichelle Singer\nGrüne Baselland\nTrotzphase\nNils Fiechter\nCVP Kanton Aargau\nNadja Pieren\nJUSO Stadt St.Gallen\nUSL\nCVP Stadt Winterthur\nCVP Kanton Zürich\nDominic Täubert\nartiazza\nSP Kanton Bern\nHans-Ulrich Bigier\nNZZ Format\nSandro Brotz\nJunge Grüne Solothurn\nSP Kanton St.Gallen\nBDP Kanton Bern\nGrüne Kanton St.Gallen\nBenjamin Fischer\nLuzi Stamm\nTele Top\nMarcel Dobler\nPrime News\nHans-Ueli Vogt\nAlternative Linke Bern\nKanton Luzern-Stadt\nI love KMU's\nWerner Salzmann\nKlimastreik Thurgau",
+          "VorschlageGefalltMir_": "876\n1.436\n555\n2.320\n14.083\n511\n422\n1.022\n615\n527\n843\n217\n366\n852\n777\n398\n251\n373\n655\n521\n1.046\n11.234\n740\n125\n452\n30\n469\n35\n526\n532\n176\n998\n200\n156\n335\n7.948\n3.881\n1.048\n8\n33\n3.603\n14.750\n8\n196\n222\n10.916\n556\n1.270\n90\n568\n18.557\n1.086\n526\n304\n434\n376\n15\n1.731\n236\n568\n141\n157\n258\n373\n1.725\n3.134\n6.427\n497\n437\n7.141\n4.188\n1.402\n15.591\n471\n1.902\n306\n1.514\n3.891\n978\n284\n3.890\n6.315\n2.718\n4.901\n1.076\n401\n760\n468\n317\n476\n8.052\n14.665\n2.344\n1.040\n524\n506\n654\n3.137\n257\n1.586\n360\n3.652\n247\n12.210\n1.360\n1.776\n501\n10.871\n429\n260\n2.623\n1.651\n401\n581\n719\n114\n4.702\n535\n1.916\n338\n1.928\n207\n383\n164\n699\n1.842\n451\n4.825\n2.509\n650\n1.511\n439\n327\n1.072\n3.629\n4.647\n4.702\n1.793\n4.659\n810\n506\n65\n1.270\n111",
+          "VerzeichnisNamen_": "1.Mai-Komitee Zürich\nSP Frauen\nVPOD Schweiz\nAlpen-Initiative\nWo untrecht zu recht wird",
+          "VerzeichnisGefalltMir_": "1.279\n1.470\n1.050\n11.232\n1.002"
         },
         {
           "Profil_": "P1",
@@ -4414,10 +4414,10 @@ var data =
           "LinkBild_": "DS_B_14-04-19",
           "Bildname_": "ABB-P1-192",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4437,10 +4437,10 @@ var data =
           "LinkBild_": "DS_C_14-04-19",
           "Bildname_": "ABB-P1-193",
           "Bildunterschriften_": "Die demonstrierenden Jugendlichen hierzulande fordern, dass die Schweiz die Treibhausgasemissionen bis 2030 auf netto null reduziert. (Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4460,10 +4460,10 @@ var data =
           "LinkBild_": "DS_D_14-04-19",
           "Bildname_": "ABB-P1-194",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4483,10 +4483,10 @@ var data =
           "LinkBild_": "DS_E_14-04-19",
           "Bildname_": "ABB-P1-195",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4506,10 +4506,10 @@ var data =
           "LinkBild_": "DS_F_14-04-19",
           "Bildname_": "ABB-P1-196",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4529,10 +4529,10 @@ var data =
           "LinkBild_": "DS_G_14-04-19",
           "Bildname_": "ABB-P1-197",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4552,10 +4552,10 @@ var data =
           "LinkBild_": "DS_H_14-04-19",
           "Bildname_": "ABB-P1-198",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4575,10 +4575,10 @@ var data =
           "LinkBild_": "DS_I_14-04-19",
           "Bildname_": "ABB-P1-199",
           "Bildunterschriften_": "EU-Anhänger demonstrieren Ende März in London für ein zweites Brexit-Referendum. (Bild: Kevin Coombs / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4598,10 +4598,10 @@ var data =
           "LinkBild_": "DS_J_14-04-19",
           "Bildname_": "ABB-P1-200",
           "Bildunterschriften_": "Bei einem Strassenabschnitt bei Ramosch sollen für die gekiesten Seitenränder doppelt so viele Laufmeter verrechnet worden sein, wie tatsächlich verbaut wurden. Bild: Till Forrer und Hanna Jaray",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4621,10 +4621,10 @@ var data =
           "LinkBild_": "DS_A_15-04-19",
           "Bildname_": "ABB-P1-201",
           "Bildunterschriften_": "Auf dem Weg zur sozialistischen Revolution? Klimademo in Zürich. bild: keystone",
-          "Like-VorschlägeNamen_": "JUSO Kanton Bern\nSRF Deville\nRote Falken Zürich\nUnterkünfte ohne Not\nJUSO Graubünden\nSP Kanton Aargau\nJunge SVP Kanton Zürich\nSP Bezirk Winterthur\nIWW JAM\nKlimasteik Basel\nJunge Grünliberale Luzern\nRevolutionäre Jugend Thurgau\nJUSO Zürich Unterland\nFDP. Die Liberalen Kanton Schwyz\nStanding with Standing Rock - Basel\nPdA Bern\nBündnis buntes Schwyz\nZüri autofrei\nJUSO Zug\nDas Regenbogenvolk\nGeneration Bildung\nGrüne Bülach\nSVP Stadt Winterthur\nNein zum Unternehmenssteuer-Bschiss\nEltern fürs Klima\nKlimastadt Zürich\nJUSOpuls in den Kantonsrat\nHannah Pfalzgraf\nNicole Müller-Boder\nSP Münsingen\nChaostruppe\nPolycup\nMichael Elsener\nGrüne Dielsdorf\nSleeplessin\nVCS Verkehrs-Club der Schweiz\nkriPo Bern - kritische Politik Bern\n360 Grad – Zürich City\nDachstock Reitschule\nGrüne Luzern\nGrünliberale Luzern Land\nInitiative Ernährungssouverän\nJunge Grünliberale beider Basel\nJUSO Aargau\nAG Queer\nIntermezzo Houses AG\nTransparenz-Initiative\nJUSO Uri\nJunge Grüne Aargau\nEiszeit\nStolze Openair\nSVP Stadt Bern\nCritical Mass Zurich\nMichael Töngi\nLeckerbissen aus Blocherstan\nReithalle Bern\nGrünliberale Bezirk Küssnacht\nGrüne Kanton Bern\nBasel Nazifrei\nNo Borders, No Nations – Reitschule Bern\nZüri isst\nRouge Zürich\nBDP Graubünden\nSP Töss\nDavid Roth\nI love Wipkingen\nTreibhaus Luzern\nGemeinsam weiter / JA zur Ehe für alle\nSVP Bassersdorf\nGrüne Partei Frauenfeld\nCVP Stadt Luzern\nSender\nFussballstadion JA\nHasan Candan\nLinke PoC\nYoung Struggle Schweiz\nIrina Studhalter\nSandra Schneider\nSRG Insider\nNein zur Selbstbestimmungsinitiative\nAllianz gegen Racial Profiling\nSP Baselland\nAlternative Liste Schaffhausen\nAndreas Lustenberger in den Nationalrat\nBüro Zwoi\nCamille Lothe\nJörg Meyer\nKameradschaft Heimattreu\nAktionswoche der Stadt Bern gegen Rassismus\nJUSO Kanton Schwyz\nZentralpuls\nMeldezentrale für Eidgenossen\nKritische Juristinnen Fribourg/Bern\nDie Super-Schweizer\nSP Migrantinnen Zürich\nJunge SVP Kanton Bern\nSVP des Kantons Zürich\nThomas Aeschi\nGrüne Kanton Solothurn\nGrünliberale Stadt Luzern\nKanton Luzern-Stadt\nJunge SVP Basel-Stadt\nOpen Borders Caravan Bern\nSandro Brotz\nJunge SVP Schweiz\nKathrin Schweizer\nFrauenstreikBaselland2019\nPrime News\nHans-Ueli Vogt\nSystembruch Zug\nMichelle Singer\nFDP. Die Liberalen Frauenfeld\nSparpaket weg\nSP Kanton Bern\nThomas Matter\nJASS\nNextzürich\nVCS beider Basel\nMarxistischer Verein Unibe\nJUSO Basel-Stadt\nCVP Kanton Aargau\nSP Basel-Stadt\nDominic Täubert\nFDP. Die Liberalen Aargau\nNadja Pieren\nGrüne Zürichsee\nLuzi Stamm\nMartina Bircher\nNils Fiechter\nUSL\nCVP Stadt Winterthur\nCVP/PDC/PPD\nSRF News Basel\nCVP Kanton Zürich\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nAdrian Spahr\nAUND – Aktion für eine unabhängige und neutrale Schweiz\nKlimastreik Thurgau\nJungfreisinnige Kanton Zürich\nGrünliberale Partei Graubünden\nHans-Ulrich Bigler\nBastA! – Basels starke Alternative\nNationalrat Corrado Pardini\nDie Leiden der jungen Bertha",
-          "Like-VorschlägeGefälltMir_": "876\n14.097\n778\n655\n555\n1.048\n2.32\n615\n527\n423\n511\n365\n251\n337\n373\n532\n126\n452\n469\n35\n30\n526\n740\n7.946\n156\n202\n217\n258\n3.881\n8\n3.603\n33\n14.749\n8\n222\n7.154\n567\n1.27\n18.557\n1.047\n189\n1.086\n176\n649\n568\n15\n1.725\n373\n497\n526\n6.427\n196\n1.732\n439\n1.245\n3.135\n90\n1.04\n434\n4.186\n15.595\n473\n371\n306\n978\n3.891\n3.89\n6.314\n141\n157\n284\n2.72\n4.901\n401\n304\n761\n476\n1.087\n14.664\n8.05\n1.514\n1.424\n1.057\n361\n515\n654\n506\n229\n1.849\n398\n8.381\n476\n257\n2.597\n810\n1.896\n3.138\n3.652\n501\n247\n506\n469\n711\n2.509\n10.871\n1.36\n109\n1.798\n4.659\n429\n581\n260\n1.027\n1.842\n10.916\n1.878\n1.092\n174\n401\n1.585\n536\n2.75\n164\n696\n1.916\n317\n3.629\n425\n4.703\n1.928\n207\n12.876\n2.259\n383\n82\n1.639\n7.756\n111\n852\n314\n452\n2.623\n1.685\n322",
-          "Like-VerzeichnisNamen_": "Rote Falken Zürich\nUnterkünfte ohne Not\nStanding with Standing Rock - Basel\nMarc Wäckerlin\nTransparenz-Initiative\nMultiwatch",
-          "Like-VerzeichnisGefälltMir_": "786\n660\n373\n2.266\n1.726\n825"
+          "VorschlageNamen_": "JUSO Kanton Bern\nSRF Deville\nRote Falken Zürich\nUnterkünfte ohne Not\nJUSO Graubünden\nSP Kanton Aargau\nJunge SVP Kanton Zürich\nSP Bezirk Winterthur\nIWW JAM\nKlimasteik Basel\nJunge Grünliberale Luzern\nRevolutionäre Jugend Thurgau\nJUSO Zürich Unterland\nFDP. Die Liberalen Kanton Schwyz\nStanding with Standing Rock - Basel\nPdA Bern\nBündnis buntes Schwyz\nZüri autofrei\nJUSO Zug\nDas Regenbogenvolk\nGeneration Bildung\nGrüne Bülach\nSVP Stadt Winterthur\nNein zum Unternehmenssteuer-Bschiss\nEltern fürs Klima\nKlimastadt Zürich\nJUSOpuls in den Kantonsrat\nHannah Pfalzgraf\nNicole Müller-Boder\nSP Münsingen\nChaostruppe\nPolycup\nMichael Elsener\nGrüne Dielsdorf\nSleeplessin\nVCS Verkehrs-Club der Schweiz\nkriPo Bern - kritische Politik Bern\n360 Grad – Zürich City\nDachstock Reitschule\nGrüne Luzern\nGrünliberale Luzern Land\nInitiative Ernährungssouverän\nJunge Grünliberale beider Basel\nJUSO Aargau\nAG Queer\nIntermezzo Houses AG\nTransparenz-Initiative\nJUSO Uri\nJunge Grüne Aargau\nEiszeit\nStolze Openair\nSVP Stadt Bern\nCritical Mass Zurich\nMichael Töngi\nLeckerbissen aus Blocherstan\nReithalle Bern\nGrünliberale Bezirk Küssnacht\nGrüne Kanton Bern\nBasel Nazifrei\nNo Borders, No Nations – Reitschule Bern\nZüri isst\nRouge Zürich\nBDP Graubünden\nSP Töss\nDavid Roth\nI love Wipkingen\nTreibhaus Luzern\nGemeinsam weiter / JA zur Ehe für alle\nSVP Bassersdorf\nGrüne Partei Frauenfeld\nCVP Stadt Luzern\nSender\nFussballstadion JA\nHasan Candan\nLinke PoC\nYoung Struggle Schweiz\nIrina Studhalter\nSandra Schneider\nSRG Insider\nNein zur Selbstbestimmungsinitiative\nAllianz gegen Racial Profiling\nSP Baselland\nAlternative Liste Schaffhausen\nAndreas Lustenberger in den Nationalrat\nBüro Zwoi\nCamille Lothe\nJörg Meyer\nKameradschaft Heimattreu\nAktionswoche der Stadt Bern gegen Rassismus\nJUSO Kanton Schwyz\nZentralpuls\nMeldezentrale für Eidgenossen\nKritische Juristinnen Fribourg/Bern\nDie Super-Schweizer\nSP Migrantinnen Zürich\nJunge SVP Kanton Bern\nSVP des Kantons Zürich\nThomas Aeschi\nGrüne Kanton Solothurn\nGrünliberale Stadt Luzern\nKanton Luzern-Stadt\nJunge SVP Basel-Stadt\nOpen Borders Caravan Bern\nSandro Brotz\nJunge SVP Schweiz\nKathrin Schweizer\nFrauenstreikBaselland2019\nPrime News\nHans-Ueli Vogt\nSystembruch Zug\nMichelle Singer\nFDP. Die Liberalen Frauenfeld\nSparpaket weg\nSP Kanton Bern\nThomas Matter\nJASS\nNextzürich\nVCS beider Basel\nMarxistischer Verein Unibe\nJUSO Basel-Stadt\nCVP Kanton Aargau\nSP Basel-Stadt\nDominic Täubert\nFDP. Die Liberalen Aargau\nNadja Pieren\nGrüne Zürichsee\nLuzi Stamm\nMartina Bircher\nNils Fiechter\nUSL\nCVP Stadt Winterthur\nCVP/PDC/PPD\nSRF News Basel\nCVP Kanton Zürich\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nAdrian Spahr\nAUND – Aktion für eine unabhängige und neutrale Schweiz\nKlimastreik Thurgau\nJungfreisinnige Kanton Zürich\nGrünliberale Partei Graubünden\nHans-Ulrich Bigler\nBastA! – Basels starke Alternative\nNationalrat Corrado Pardini\nDie Leiden der jungen Bertha",
+          "VorschlageGefalltMir_": "876\n14.097\n778\n655\n555\n1.048\n2.32\n615\n527\n423\n511\n365\n251\n337\n373\n532\n126\n452\n469\n35\n30\n526\n740\n7.946\n156\n202\n217\n258\n3.881\n8\n3.603\n33\n14.749\n8\n222\n7.154\n567\n1.27\n18.557\n1.047\n189\n1.086\n176\n649\n568\n15\n1.725\n373\n497\n526\n6.427\n196\n1.732\n439\n1.245\n3.135\n90\n1.04\n434\n4.186\n15.595\n473\n371\n306\n978\n3.891\n3.89\n6.314\n141\n157\n284\n2.72\n4.901\n401\n304\n761\n476\n1.087\n14.664\n8.05\n1.514\n1.424\n1.057\n361\n515\n654\n506\n229\n1.849\n398\n8.381\n476\n257\n2.597\n810\n1.896\n3.138\n3.652\n501\n247\n506\n469\n711\n2.509\n10.871\n1.36\n109\n1.798\n4.659\n429\n581\n260\n1.027\n1.842\n10.916\n1.878\n1.092\n174\n401\n1.585\n536\n2.75\n164\n696\n1.916\n317\n3.629\n425\n4.703\n1.928\n207\n12.876\n2.259\n383\n82\n1.639\n7.756\n111\n852\n314\n452\n2.623\n1.685\n322",
+          "VerzeichnisNamen_": "Rote Falken Zürich\nUnterkünfte ohne Not\nStanding with Standing Rock - Basel\nMarc Wäckerlin\nTransparenz-Initiative\nMultiwatch",
+          "VerzeichnisGefalltMir_": "786\n660\n373\n2.266\n1.726\n825"
         },
         {
           "Profil_": "P1",
@@ -4644,10 +4644,10 @@ var data =
           "LinkBild_": "DS_B_15-04-19",
           "Bildname_": "ABB-P1-202",
           "Bildunterschriften_": "Sie probt schon schon mal: Lotti Baumann, Präsidentin des Aargauer Bäuerinnen und Landfrauenverband, will am 14. an den Frauenstreik und dort im Liegestuhl Cüpli trinken. (Siggi Bucher)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4667,10 +4667,10 @@ var data =
           "LinkBild_": "DS_C_15-04-19",
           "Bildname_": "ABB-P1-203",
           "Bildunterschriften_": "Am 17. September 2018 sendete «10vor10» einen kritischen Beitrag zum Syngenta-Pestizid Polo © srf",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4690,10 +4690,10 @@ var data =
           "LinkBild_": "DS_D_15-04-19",
           "Bildname_": "ABB-P1-204",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4713,10 +4713,10 @@ var data =
           "LinkBild_": "DS_E_15-04-19",
           "Bildname_": "ABB-P1-205",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4736,10 +4736,10 @@ var data =
           "LinkBild_": "DS_F_15-04-19",
           "Bildname_": "ABB-P1-206",
           "Bildunterschriften_": "Die Nestlé GV wird 14.30 Uhr durch den VR Präsidenten Paul Bulcke eröffnet - fast als erstes begrüsst er seinen Vorgänger Peter Brabeck...",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4759,10 +4759,10 @@ var data =
           "LinkBild_": "DS_G_15-04-19",
           "Bildname_": "ABB-P1-207",
           "Bildunterschriften_": "\"Bernal Sphere, Population: 10,000\", Entwurf 1970er Jahre; credit: NASA Ames Research Center; Quelle: nasa.gov",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4782,10 +4782,10 @@ var data =
           "LinkBild_": "DS_H_15-04-19",
           "Bildname_": "ABB-P1-208",
           "Bildunterschriften_": "Der Greta-Thunberg-Effekt wirkt sich auf das Flugverhalten der Schweden aus. Die Aktivistin reist mit dem Zug ans WEF. Bild: 20 Minuten",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4805,10 +4805,10 @@ var data =
           "LinkBild_": "DS_I_15-04-19",
           "Bildname_": "ABB-P1-209",
           "Bildunterschriften_": "Die SDP mit Kandidat Antti Rinne liegt knapp vorne. (Foto: REUTERS)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4828,10 +4828,10 @@ var data =
           "LinkBild_": "DS_J_15-04-19",
           "Bildname_": "ABB-P1-210",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4851,10 +4851,10 @@ var data =
           "LinkBild_": "DS_A_16-04-19",
           "Bildname_": "ABB-P1-211",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Rote Falken Bern\nWork – Die Zeitung der Gewerkschaft\nJUSO Kanton Bern\nLinke PoC\nKlimastreik Zentralschweiz\nSP Migrantinnen Zürich\nMeldezentrale für Eidgenossen\nKlimastreik Basel\nRevolutionäre Jugend Thurgau\nMarionna Schlatter-Schmid\nIWW JAM\nJUSO Graubünden\numverkehR\nCritical Mass Zurich\nVCS Verkehrs-Club der Schweiz\nPdA Bern\nAntifa Eidgenossenschaft\nZunder – Migration jetzt\nZüri autofrei\nBündnis buntes Schwyz\nBasel Nazifrei\nEltern fürs Klima\nInitiative Ernährungssouveränität\nSO Gym Münchenstein\nNein zum Unternehmenssteuer-Bschiss\nNicole Müller-Boder\nKlimastadt Zürich\nSP Münsingen\nGrüne Bülach\nMarxistischer Verein Unibe\nGeneration Bildung\nGrüne Dielsdorf\nGrüne Luzern\nYoung Struggle Schweiz\nJASS\nJUSO Basel-Stadt\nChaostruppe\nDachstock Reitschule\nEiszeit\nkriPo Bern - kritische Politik Bern\nThomas Matter\nGrüne Winterthur\nJUSO Aargau\nAllianz gegen Racial Profiling\nJacqueline Badran\nMichael Töngi\nPatrick Tscherrig\nHannah Pfalzgraf\nCVP Stadt Luzern\nKarl der Grosse\nZüri isst\nStolze Openair\nSaiten – Ostschweizer Kulturmagazin\nZiischtigsklub\nSP Kanton Aargau\nDavid Roth\nBüro Zwoi\nJUSO Kanton Schwyz\nNein zur Selbstbestimmungsinitiative\nHasan Candan\nSender\nI love Wipkingen\nFussballstadion JA\nIrina Studhalter\nZüri City Card\nJUSO Thurgau\nhonorabl.com\nGrüne Kanton Bern\nJunge Grünliberale Bern\nSP Kanton Luzern\nSans-Papiers Anlaufstelle Zürich\nJunge Grüne Kanton Bern\nDie Super-Schweizer\nJUSO Zug\nSandra Schneider\nSandro Brotz\nGrünliberale Stadt Luzern\nSP Schweiz International\nWaffenrecht Schengen JA\nKanton Luzern-Stadt\nSVP des Kantons Zürich\nAlternative Liste Schaffhausen\nFDP\nGegenbewegung Spange Nord\nPrime News\nJUSO JS Bielingue\nThomas Aeschi\nGrüne Kanton Solothurn\nKirche für Konzernverantwortung\nJunge SVP Schweiz\nAndreas Lustenberger in den Nationalrat\nAG Queer\nOpen Borders Caravan Bern\nFabian Eberhard\nAktionswoche der Stadt Bern gegen Rassismus\nSRF News Basel\nNarr. Das narrativistische Literaturmagazin\nTrotzphase\nJunge Grüne Aargau\nSystembruch Zug\nVegan Outlawz\nHans-Ueli Vogt\nFussverkehr Schweiz\nArbeit Aargau\nKritische Juristinnen Fribourg/Bern\nAktion gegen Fremdenhass in der Schweiz\nFDP Kanton Zürich\nJunge Alternative JA\nMichelle Singer\nSP Kanton Bern\nJUSO Uri\nLuzi Stamm\nViva con Agua Schweiz\nDominic Täubert\nCamille Lothe\nWoraus St.Gallen\nAline Trede\nSofortmassnahmen jetzt – Nein\nMartina Bircher\nStimmen Festival\nPro Velo Luzern\nVpod Region Basel\nSparpaket weg\nCampaign Camp Switzerland\nGrüne Zürichsee\nCVP Kanton Aargau\nJournal B\nEuropainstitut der Universität\nArtiazza\nNils Fiechter\nNachhaltigkeit Universität Basel\nAZ Solothurner Zeitung\nSP Töss\nSecondas Zürich\nSolidaritätsnetz Zürich\nAlain Schwald\nNZZ Format\nNikolaus Wyss\nStadtspital Waid und Triemli\nNationalrat Corrado Pardini\nAlternative Linke Bern\nKlimastreik Thurgau\nNadja Pieren\nI love KMU’s\nRadio Top",
-          "Like-VorschlägeGefälltMir_": "387\n1.227\n876\n304\n13\n810\n476\n424\n365\n530\n527\n554\n2.657\n1.734\n7.16\n532\n347\n448\n452\n127\n433\n156\n1.086\n46\n7.945\n3.881\n203\n8\n526\n401\n30\n8\n1.046\n761\n1.88\n1.588\n3.603\n18.559\n526\n568\n10.919\n528\n649\n1.514\n2.129\n441\n206\n260\n284\n3.81\n15.598\n6.429\n3.642\n660\n1.048\n978\n515\n398\n8.05\n401\n2.725\n3.893\n4.899\n477\n505\n521\n361\n1.04\n523\n2.348\n848\n728\n2.597\n469\n1.092\n2.511\n247\n1.117\n710\n506\n3.138\n1.056\n12.224\n269\n1.801\n644\n3.652\n501\n219\n10.87\n372\n568\n711\n3.209\n1.849\n2.261\n1.577\n115\n497\n429\n1.111\n4.659\n1.069\n354\n257\n3.401\n1.655\n544\n581\n1.842\n374\n3.629\n5.003\n165\n654\n568\n2.063\n82\n426\n6.721\n489\n555\n1.027\n556\n317\n537\n2.474\n520\n703\n4.702\n588\n4.962\n306\n3.033\n552\n225\n4.828\n1.821\n4.374\n1.686\n810\n111\n1.916\n65\n17.56",
-          "Like-VerzeichnisNamen_": "Work - die Zeitung der Gewerkschaft\nLinke PoC\nMarionna Schlatter-Schmid\nInitiative Ernährungssouveränität\nSandro Botz\nAllianz gegen Racial Profiling\nOstschweizer Kulturmagazin",
-          "Like-VerzeichnisGefälltMir_": "1.238\n311\n561\n1.085\n2.523\n1.516\n3.650"
+          "VorschlageNamen_": "Rote Falken Bern\nWork – Die Zeitung der Gewerkschaft\nJUSO Kanton Bern\nLinke PoC\nKlimastreik Zentralschweiz\nSP Migrantinnen Zürich\nMeldezentrale für Eidgenossen\nKlimastreik Basel\nRevolutionäre Jugend Thurgau\nMarionna Schlatter-Schmid\nIWW JAM\nJUSO Graubünden\numverkehR\nCritical Mass Zurich\nVCS Verkehrs-Club der Schweiz\nPdA Bern\nAntifa Eidgenossenschaft\nZunder – Migration jetzt\nZüri autofrei\nBündnis buntes Schwyz\nBasel Nazifrei\nEltern fürs Klima\nInitiative Ernährungssouveränität\nSO Gym Münchenstein\nNein zum Unternehmenssteuer-Bschiss\nNicole Müller-Boder\nKlimastadt Zürich\nSP Münsingen\nGrüne Bülach\nMarxistischer Verein Unibe\nGeneration Bildung\nGrüne Dielsdorf\nGrüne Luzern\nYoung Struggle Schweiz\nJASS\nJUSO Basel-Stadt\nChaostruppe\nDachstock Reitschule\nEiszeit\nkriPo Bern - kritische Politik Bern\nThomas Matter\nGrüne Winterthur\nJUSO Aargau\nAllianz gegen Racial Profiling\nJacqueline Badran\nMichael Töngi\nPatrick Tscherrig\nHannah Pfalzgraf\nCVP Stadt Luzern\nKarl der Grosse\nZüri isst\nStolze Openair\nSaiten – Ostschweizer Kulturmagazin\nZiischtigsklub\nSP Kanton Aargau\nDavid Roth\nBüro Zwoi\nJUSO Kanton Schwyz\nNein zur Selbstbestimmungsinitiative\nHasan Candan\nSender\nI love Wipkingen\nFussballstadion JA\nIrina Studhalter\nZüri City Card\nJUSO Thurgau\nhonorabl.com\nGrüne Kanton Bern\nJunge Grünliberale Bern\nSP Kanton Luzern\nSans-Papiers Anlaufstelle Zürich\nJunge Grüne Kanton Bern\nDie Super-Schweizer\nJUSO Zug\nSandra Schneider\nSandro Brotz\nGrünliberale Stadt Luzern\nSP Schweiz International\nWaffenrecht Schengen JA\nKanton Luzern-Stadt\nSVP des Kantons Zürich\nAlternative Liste Schaffhausen\nFDP\nGegenbewegung Spange Nord\nPrime News\nJUSO JS Bielingue\nThomas Aeschi\nGrüne Kanton Solothurn\nKirche für Konzernverantwortung\nJunge SVP Schweiz\nAndreas Lustenberger in den Nationalrat\nAG Queer\nOpen Borders Caravan Bern\nFabian Eberhard\nAktionswoche der Stadt Bern gegen Rassismus\nSRF News Basel\nNarr. Das narrativistische Literaturmagazin\nTrotzphase\nJunge Grüne Aargau\nSystembruch Zug\nVegan Outlawz\nHans-Ueli Vogt\nFussverkehr Schweiz\nArbeit Aargau\nKritische Juristinnen Fribourg/Bern\nAktion gegen Fremdenhass in der Schweiz\nFDP Kanton Zürich\nJunge Alternative JA\nMichelle Singer\nSP Kanton Bern\nJUSO Uri\nLuzi Stamm\nViva con Agua Schweiz\nDominic Täubert\nCamille Lothe\nWoraus St.Gallen\nAline Trede\nSofortmassnahmen jetzt – Nein\nMartina Bircher\nStimmen Festival\nPro Velo Luzern\nVpod Region Basel\nSparpaket weg\nCampaign Camp Switzerland\nGrüne Zürichsee\nCVP Kanton Aargau\nJournal B\nEuropainstitut der Universität\nArtiazza\nNils Fiechter\nNachhaltigkeit Universität Basel\nAZ Solothurner Zeitung\nSP Töss\nSecondas Zürich\nSolidaritätsnetz Zürich\nAlain Schwald\nNZZ Format\nNikolaus Wyss\nStadtspital Waid und Triemli\nNationalrat Corrado Pardini\nAlternative Linke Bern\nKlimastreik Thurgau\nNadja Pieren\nI love KMU’s\nRadio Top",
+          "VorschlageGefalltMir_": "387\n1.227\n876\n304\n13\n810\n476\n424\n365\n530\n527\n554\n2.657\n1.734\n7.16\n532\n347\n448\n452\n127\n433\n156\n1.086\n46\n7.945\n3.881\n203\n8\n526\n401\n30\n8\n1.046\n761\n1.88\n1.588\n3.603\n18.559\n526\n568\n10.919\n528\n649\n1.514\n2.129\n441\n206\n260\n284\n3.81\n15.598\n6.429\n3.642\n660\n1.048\n978\n515\n398\n8.05\n401\n2.725\n3.893\n4.899\n477\n505\n521\n361\n1.04\n523\n2.348\n848\n728\n2.597\n469\n1.092\n2.511\n247\n1.117\n710\n506\n3.138\n1.056\n12.224\n269\n1.801\n644\n3.652\n501\n219\n10.87\n372\n568\n711\n3.209\n1.849\n2.261\n1.577\n115\n497\n429\n1.111\n4.659\n1.069\n354\n257\n3.401\n1.655\n544\n581\n1.842\n374\n3.629\n5.003\n165\n654\n568\n2.063\n82\n426\n6.721\n489\n555\n1.027\n556\n317\n537\n2.474\n520\n703\n4.702\n588\n4.962\n306\n3.033\n552\n225\n4.828\n1.821\n4.374\n1.686\n810\n111\n1.916\n65\n17.56",
+          "VerzeichnisNamen_": "Work - die Zeitung der Gewerkschaft\nLinke PoC\nMarionna Schlatter-Schmid\nInitiative Ernährungssouveränität\nSandro Botz\nAllianz gegen Racial Profiling\nOstschweizer Kulturmagazin",
+          "VerzeichnisGefalltMir_": "1.238\n311\n561\n1.085\n2.523\n1.516\n3.650"
         },
         {
           "Profil_": "P1",
@@ -4874,10 +4874,10 @@ var data =
           "LinkBild_": "DS_B_16-04-19",
           "Bildname_": "ABB-P1-212",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4897,10 +4897,10 @@ var data =
           "LinkBild_": "DS_C_16-04-19",
           "Bildname_": "ABB-P1-213",
           "Bildunterschriften_": "Im letzten Jahr stellte sich heraus: Die Steuerbeamten von Finanzminister Ueli Maurer hatten sich verrechnet. Die Heiratsstrafe betrifft deutlich mehr Ehepaare. (Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4920,10 +4920,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-214",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4943,10 +4943,10 @@ var data =
           "LinkBild_": "DS_E_16-04-19",
           "Bildname_": "ABB-P1-215",
           "Bildunterschriften_": "Landwirtschaftliche Arbeiten auf dem Gelände der Internationalistischen Kommune. Bild: Make Rojava Green Again",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4966,10 +4966,10 @@ var data =
           "LinkBild_": "DS_F_16-04-19",
           "Bildname_": "ABB-P1-216",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -4989,10 +4989,10 @@ var data =
           "LinkBild_": "DS_G_16-04-19",
           "Bildname_": "ABB-P1-217",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5012,10 +5012,10 @@ var data =
           "LinkBild_": "DS_H_16-04-19",
           "Bildname_": "ABB-P1-218",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5035,10 +5035,10 @@ var data =
           "LinkBild_": "DS_I_16-04-19",
           "Bildname_": "ABB-P1-219",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5058,10 +5058,10 @@ var data =
           "LinkBild_": "DS_J_16-04-19",
           "Bildname_": "ABB-P1-220",
           "Bildunterschriften_": "Devènes",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5081,10 +5081,10 @@ var data =
           "LinkBild_": "DS_A_17-04-19",
           "Bildname_": "ABB-P1-221",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Irina Studhalter\nSP Migrantinnen Zürich\nIWW JAM\nKlimastreik Zentralschweiz\nBündnis buntes Schwyz\nGrüne Zürichsee\nCritical Mass Zürich\nKlimastreik Basel\nNicole Müller-Boder\nAG Queer\nBasel Nazifrei\numverkehR\nRevolutionäre Jugend Thurgau\nMeldezentrale für Eidgenossen\nAntifa Eidgenossenschaft\nJUSO Kanton Bern\nWasser für Wasser – WfW\nZunder – Migration jetzt\nChaostruppe\nVCS Verkehrs-Club der Schweiz\nHerberge zur Heimat\nGrüne Bülach\nPdA Bern\nKlimastadt Zürich\nNein zum Unternehmenssteuer-Bschiss\nSO Gym Münchenstein\nPro Natura Luzern\nJUSO Basel-Stadt\nJUSO Uri\nSP Münsingen\nGrüne Dielsdorf\n360 Grad – Zürich City\nEiszeit\nDachstock Reitschule\nEltern fürs Klima\nMarxistischer Verein Unlieb\nGeneration Bildung\nkriPo Bern - kritische Politik Bern\nJUSO Graubünden\nJaqueline Badran\nSieger Design- und Modellbau\nZüri autofrei\nJUSO Aargau\nGrüne Winterthur\nJUSO Zug\nNein zum Polizeigesetz\nStolze Openair\nZiischtigsklub\nZüri isst\nKarl der Grosse\nFDP\nYoung Struggle Schweiz\nThomas Matter\nSP Kanton Aargau\nNein zur Selbstbestimmungsinitiative\nOja Schamendingen\nFussballstadion JA\nI love Wipkingen\nSender\nAllianz gegen Sozis und Grüne\nmänner.ch\nLewin Lampert\nThomas Aeschi\nSchluss mit Kürzen\nHannah Pfalzgraf\nJUSO Thurgau\nAline Trede\nAJZ jetzt – Ein neues Jugendzentrum\nSVP des Kantons Zürich\nSP 7 und 8\nNina in den Stadtrat\nDie Super-Schweizer\nJUSO Kanton Schwyz\nHasan Candan\nClaudio Schmid\nNZZ Format\nTheater Anundpfirsich\nhonorabl.com\nJunge SVP Schweiz\nTeleblocher\nZentralplus\nJunge Grüne Winterthur\nGegenbewegung Spange Nord\nViva con Agua Schweiz\nCampaign Camp Schweiz\nMEH Mathilde Escher-Heim\nJunge Grünliberale\nCamille Lothe\nNachhaltigkeit Universität Basel\nNarr. Das narrativistische Literaturmagazin\nJASS\nSP Kanton Bern\nTrotzphase\nFDP Kanton Zürich\nSystembruch Zug\nWaffenrecht Schengen JA\nAlain Schwald\nGrüne Kanton Bern\nSolidaritätsnetz Bern\nFussverkehr Schweiz\nPhilipp Alex Gehrig\nStimmen Festival\nKirche für Konzernverantwortung\nPriska Seiler Graf\nZüri City Card\nSP Töss\nDominic Täubert\nJunge Grünliberale Bern\nNadja Pieren\nKathrin Schweizer\nArtiazza\nFrauenstreik Thun\nCVP/PDC/PPD\nNatur-Initiative\nMartina Bircher\nJungfreisinnige Kanton Zürich\nSandra Schneider\nBlaues Kreuz Schweiz\nEtrit Hasler\nEuropainstitut der Universität\nMarxistischer Verein Winterthur\nSRF News Basel\nSP Kanton Luzern\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nDelta Schule Zürich\nVisu\nJunge BDP Schweiz\nLet’s go big band\nLuzi Stamm\nAdrian Spahr\nRadio Top\nJunge SVP Aargau\nWerner Salzmann\nZüri gäge WEF\nEVP/PEV\nTagblatt\nVpod Region Basel\nEticus Rozas\nCVP Stadt Luzern\nMichael Töngi\nJeanloup\nAndreas Lustenberger in den Nationalrat",
-          "Like-VorschlägeGefälltMir_": "477\n810\n527\n14\n130\n317\n1.736\n426\n3.881\n568\n433\n2.66\n365\n476\n347\n877\n4.592\n448\n3.603\n7.175\n161\n526\n532\n205\n7.944\n46\n413\n1.587\n374\n8\n8\n1.27\n526\n18.561\n157\n401\n30\n568\n554\n2.128\n50\n452\n648\n528\n469\n688\n6.428\n661\n15.597\n3.812\n12.224\n761\n10.921\n1.048\n8.05\n989\n4.899\n3.893\n2.727\n1.91\n2.446\n382\n3.652\n328\n260\n521\n2.062\n56\n3.138\n398\n239\n2.595\n398\n402\n336\n4.828\n2.638\n365\n10.868\n1.312\n8.393\n222\n269\n5.004\n556\n693\n1.872\n654\n589\n1.579\n1.881\n1.842\n118\n1.655\n429\n736\n225\n1.04\n552\n1.069\n194\n6.722\n219\n380\n505\n307\n165\n523\n1.917\n1.362\n704\n146\n12.913\n316\n427\n854\n1.093\n949\n845\n521\n81\n2.264\n2.359\n82\n293\n2.268\n500\n174\n3.629\n1.64\n17.561\n926\n1.27\n42\n2.163\n11.964\n560\n78\n284\n441\n7.127\n375",
-          "Like-VerzeichnisNamen_": "Irina Studhalter\nIWW JAM\nAntifa Eidgenossenschaft\nZunder - Migration jetzt\nkriPo Bern - kritische Politik Bern\nRIP Christoph Blocher\nAktion gegen Fremdenhass in der Schweiz",
-          "Like-VerzeichnisGefälltMir_": "481\n527\n351\n450\n571\n141\n3.400"
+          "VorschlageNamen_": "Irina Studhalter\nSP Migrantinnen Zürich\nIWW JAM\nKlimastreik Zentralschweiz\nBündnis buntes Schwyz\nGrüne Zürichsee\nCritical Mass Zürich\nKlimastreik Basel\nNicole Müller-Boder\nAG Queer\nBasel Nazifrei\numverkehR\nRevolutionäre Jugend Thurgau\nMeldezentrale für Eidgenossen\nAntifa Eidgenossenschaft\nJUSO Kanton Bern\nWasser für Wasser – WfW\nZunder – Migration jetzt\nChaostruppe\nVCS Verkehrs-Club der Schweiz\nHerberge zur Heimat\nGrüne Bülach\nPdA Bern\nKlimastadt Zürich\nNein zum Unternehmenssteuer-Bschiss\nSO Gym Münchenstein\nPro Natura Luzern\nJUSO Basel-Stadt\nJUSO Uri\nSP Münsingen\nGrüne Dielsdorf\n360 Grad – Zürich City\nEiszeit\nDachstock Reitschule\nEltern fürs Klima\nMarxistischer Verein Unlieb\nGeneration Bildung\nkriPo Bern - kritische Politik Bern\nJUSO Graubünden\nJaqueline Badran\nSieger Design- und Modellbau\nZüri autofrei\nJUSO Aargau\nGrüne Winterthur\nJUSO Zug\nNein zum Polizeigesetz\nStolze Openair\nZiischtigsklub\nZüri isst\nKarl der Grosse\nFDP\nYoung Struggle Schweiz\nThomas Matter\nSP Kanton Aargau\nNein zur Selbstbestimmungsinitiative\nOja Schamendingen\nFussballstadion JA\nI love Wipkingen\nSender\nAllianz gegen Sozis und Grüne\nmänner.ch\nLewin Lampert\nThomas Aeschi\nSchluss mit Kürzen\nHannah Pfalzgraf\nJUSO Thurgau\nAline Trede\nAJZ jetzt – Ein neues Jugendzentrum\nSVP des Kantons Zürich\nSP 7 und 8\nNina in den Stadtrat\nDie Super-Schweizer\nJUSO Kanton Schwyz\nHasan Candan\nClaudio Schmid\nNZZ Format\nTheater Anundpfirsich\nhonorabl.com\nJunge SVP Schweiz\nTeleblocher\nZentralplus\nJunge Grüne Winterthur\nGegenbewegung Spange Nord\nViva con Agua Schweiz\nCampaign Camp Schweiz\nMEH Mathilde Escher-Heim\nJunge Grünliberale\nCamille Lothe\nNachhaltigkeit Universität Basel\nNarr. Das narrativistische Literaturmagazin\nJASS\nSP Kanton Bern\nTrotzphase\nFDP Kanton Zürich\nSystembruch Zug\nWaffenrecht Schengen JA\nAlain Schwald\nGrüne Kanton Bern\nSolidaritätsnetz Bern\nFussverkehr Schweiz\nPhilipp Alex Gehrig\nStimmen Festival\nKirche für Konzernverantwortung\nPriska Seiler Graf\nZüri City Card\nSP Töss\nDominic Täubert\nJunge Grünliberale Bern\nNadja Pieren\nKathrin Schweizer\nArtiazza\nFrauenstreik Thun\nCVP/PDC/PPD\nNatur-Initiative\nMartina Bircher\nJungfreisinnige Kanton Zürich\nSandra Schneider\nBlaues Kreuz Schweiz\nEtrit Hasler\nEuropainstitut der Universität\nMarxistischer Verein Winterthur\nSRF News Basel\nSP Kanton Luzern\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nDelta Schule Zürich\nVisu\nJunge BDP Schweiz\nLet’s go big band\nLuzi Stamm\nAdrian Spahr\nRadio Top\nJunge SVP Aargau\nWerner Salzmann\nZüri gäge WEF\nEVP/PEV\nTagblatt\nVpod Region Basel\nEticus Rozas\nCVP Stadt Luzern\nMichael Töngi\nJeanloup\nAndreas Lustenberger in den Nationalrat",
+          "VorschlageGefalltMir_": "477\n810\n527\n14\n130\n317\n1.736\n426\n3.881\n568\n433\n2.66\n365\n476\n347\n877\n4.592\n448\n3.603\n7.175\n161\n526\n532\n205\n7.944\n46\n413\n1.587\n374\n8\n8\n1.27\n526\n18.561\n157\n401\n30\n568\n554\n2.128\n50\n452\n648\n528\n469\n688\n6.428\n661\n15.597\n3.812\n12.224\n761\n10.921\n1.048\n8.05\n989\n4.899\n3.893\n2.727\n1.91\n2.446\n382\n3.652\n328\n260\n521\n2.062\n56\n3.138\n398\n239\n2.595\n398\n402\n336\n4.828\n2.638\n365\n10.868\n1.312\n8.393\n222\n269\n5.004\n556\n693\n1.872\n654\n589\n1.579\n1.881\n1.842\n118\n1.655\n429\n736\n225\n1.04\n552\n1.069\n194\n6.722\n219\n380\n505\n307\n165\n523\n1.917\n1.362\n704\n146\n12.913\n316\n427\n854\n1.093\n949\n845\n521\n81\n2.264\n2.359\n82\n293\n2.268\n500\n174\n3.629\n1.64\n17.561\n926\n1.27\n42\n2.163\n11.964\n560\n78\n284\n441\n7.127\n375",
+          "VerzeichnisNamen_": "Irina Studhalter\nIWW JAM\nAntifa Eidgenossenschaft\nZunder - Migration jetzt\nkriPo Bern - kritische Politik Bern\nRIP Christoph Blocher\nAktion gegen Fremdenhass in der Schweiz",
+          "VerzeichnisGefalltMir_": "481\n527\n351\n450\n571\n141\n3.400"
         },
         {
           "Profil_": "P1",
@@ -5104,10 +5104,10 @@ var data =
           "LinkBild_": "DS_B_17-04-19",
           "Bildname_": "ABB-P1-222",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5127,10 +5127,10 @@ var data =
           "LinkBild_": "DS_C_17-04-19",
           "Bildname_": "ABB-P1-223",
           "Bildunterschriften_": "Der Buchdrucker, um 1825. Lithography von Jos Trentsensky, Quelle: gewerkschaftsgeschichte.de",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5150,10 +5150,10 @@ var data =
           "LinkBild_": "DS_D_17-04-19",
           "Bildname_": "ABB-P1-224",
           "Bildunterschriften_": "Sie holen bei der Wahlbeteiligung auf: Eine junge Frau an der jüngsten Zürcher Klimademo. Bild: Ennio Leanza/Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5173,10 +5173,10 @@ var data =
           "LinkBild_": "DS_E_17-04-19",
           "Bildname_": "ABB-P1-225",
           "Bildunterschriften_": "reviravolta_bern",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5196,10 +5196,10 @@ var data =
           "LinkBild_": "DS_F_17-04-19",
           "Bildname_": "ABB-P1-226",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5219,10 +5219,10 @@ var data =
           "LinkBild_": "DS_G_17-04-19",
           "Bildname_": "ABB-P1-227",
           "Bildunterschriften_": "Die SNB sollte eigentlich ein ureigenes Interesse haben, Klimarisiken in ihre Kreditrisikoanalyse einzubeziehen. (Bild: Arnd Wiegmann / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5242,10 +5242,10 @@ var data =
           "LinkBild_": "DS_H_17-04-19",
           "Bildname_": "ABB-P1-228",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5265,10 +5265,10 @@ var data =
           "LinkBild_": "DS_I_17-04-19",
           "Bildname_": "ABB-P1-229",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5288,10 +5288,10 @@ var data =
           "LinkBild_": "DS_J_17-04-19",
           "Bildname_": "ABB-P1-230",
           "Bildunterschriften_": "Dabei sollten die Soldaten die Ausbildung zum Wachtmeister absolvieren. Sie schickten ein Gesuch zur Zulassung zum Zivildienst ab, weil sie damit nicht einverstanden waren. (Symbolbild) Bild: Keystone/Christian Beutler",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5311,10 +5311,10 @@ var data =
           "LinkBild_": "DS_A_18-04-19",
           "Bildname_": "ABB-P1-231",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "PdA Bern\nKameradschaft Heimattreu\nDiagnose: Eidgenose\nKlimastreik Zentralschweiz\nMerci Schweiz?\nCritical Mass Zurich\nNicole Müller-Boder\nKlimastreik Basel\nBasel Nazifrei\nNein zur Selbstbestimmungsinitiative\numverkehR\nMeldezentrale für Eidgenossen\nSP MigrantInnen Zürich\nBündnis buntes Schwyz\nVCS Verkehrs-Club der Schweiz\nAfD Schweiz\nGrüne Bülach\nKlimastadt Zürich\nMarxistischer Verein Unibe\nNEIN zum Unternehmenssteuer-Bschiss\nChaostruppe\nSO Gym Münchenstein\nSP Münsingen\nGrüne Zürichsee\nJUSO Basel-Stadt\n360 Grad - Zürich City \nGrüne Dielsdorf\nEltern fürs Klima\nsteger design & modellbau\nDachstock Reitschule\nGeneration Bildung\nJUSO Aargau\nJacqueline Badran - Nationalrat\nLewin Lempert\nZüri autofrei\nZüri gäge WEF\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\neiszeit\nZüri isst\nZiischtigsklub\nStolze Openair\nJUSO Graubünden\nKarl der Grosse\nNEIN zur «Selbstbestimmungs»-Initiative\nYoung Struggle Schweiz\nThomas Matter\nFussballstadion Ja\nDie Leiden der jungen Bertha\nGrüne Winterthur\nSender\nZüri City Card\nSandra Schneider official\nJUSO Kanton Bern - JS du canton de Berne\nJUSO Zug\nHans-Ulrich Bigler\nHannah Pfalzgraf\nI love Wipkingen\nJASS\nJunge SVP Kanton Bern\nSchluss mit Kürzen\nJUSO Thurgau\nMichael Töngi\nSVP des Kantons Zürich\nAJZ jetzt - Ein neues Jugendzentrum für Zürich\nJUSO Uri\nTeleblocher\nNein zum Polizeigesetz\nJunge Grüne Aargau\nSP Kanton Aargau\nPfasyl\nNina in den Stadtrat\nJUSO Kanton Schwyz\nPartenza\nGrüne Kanton Bern - Verts canton de Berne\nFlüchtlings Theater Malaika\nmänner.ch\nBrennpunkt Schweiz\nJunge Grünliberale Luzern\nNein zum Entwaffnungsdiktat der EU\nMattea Meyer in den Nationalrat\nAline Trede\nViva con Agua Schweiz\nAdrian Spahr\nVeloblitz\nInfoportal Oberland\nHONORABL.com\nTrio Heinz Herbert\nSmash Little WEF - No HSG-Symposium\nCVP Kanton Aargau\nCie. Echolot\nSpiilplätz\nJunge Grüne unibe\nSP Töss\nClaudio Schmid\nLuzi Stamm\nAvalanche Prey\nNachhaltigkeit Universität Basel\nSP 7 und 8\nCamille Lothe\nTELE TOP\nNadja Pieren\nOpen Eyes Balkanroute\nNZZ Format\nNils Fiechter\nWaffenrecht-Schengen JA\nJunge Grüne Graubünden\nGöldin & Bit-Tuner\ntheater anundpfirsich\nHände weg von meiner Rente\nJunge Grüne Thurgau\nHans-Ueli Vogt\nWeg mit den Agrarsubventionen\nJungthaeter\nThomas Aeschi\nDominic Täubert\nget loud\nHAB.lgbt\nJunge Grünliberale\nPhilipp Alex Gehrig\nGrüne Luzern\nAndreas Lustenberger in den Nationalrat\nDichtungsring Poetry Slam Winterthur\nJunge Alternative JA\nSVP Rheintal\nMichael Köpfli, Grünliberale Bern\nSHIFT\nJungfreisinnige Kanton Zürich\nReviravolta\nartiazza\nSchule für Gestaltung St.Gallen\nAlain Schwald\nFussverkehr Schweiz / Mobilité piétonne\nSPU - Schweizerische Partei der Unschlüssigen\nKirche für Konzernverantwortung\nSans-Papiers Anlaufstelle Zürich SPAZ\naz Solothurner Zeitung\nKay WIEOIMMER\nErfreuliche Universität Palace\nmischgewebe\nThe Espionne\nbärner studizytig\nSRF News Basel\nSP Baselland\nGob Ribbons\nJunge Linke Liste",
-          "Like-VorschlägeGefälltMir_": "532 \n234 \n190 \n14 \n204 \n1.737 \n3.882 \n426 \n433 \n273 \n2.665 \n476 \n809 \n131 \n7.180 \n74 \n526 \n205 \n401 \n7.942 \n3.603 \n46 \n8 \n317 \n1.589 \n1.270 \n8 \n157 \n50 \n18.564 \n30 \n648 \n2.129 \n381 \n452 \n42 \n728 \n526 \n15.593 \n661 \n6.428 \n554 \n3.812 \n8.048 \n760 \n10.920 \n4.899 \n325 \n528 \n2.730 \n506 \n1.092 \n877 \n470 \n452 \n260 \n3.893 \n1.881 \n1.893 \n328 \n521 \n441 \n3.140 \n56 \n374 \n1.312 \n688 \n497 \n1.047 \n1.335 \n239 \n400 \n299 \n1.040 \n853 \n2.446 \n1.026 \n510 \n2.799 \n646 \n2.061 \n5.002 \n1.639 \n1.228 \n218 \n366 \n1.013 \n240 \n537 \n323 \n388 \n132 \n307 \n335 \n3.630 \n227 \n589 \n398 \n654 \n4.651 \n1.917 \n2.352 \n4.829 \n4.703 \n754 \n84 \n669 \n2.637 \n468 \n189 \n4.659 \n135 \n736 \n3.652 \n165 \n1.361 \n652 \n1.872 \n194 \n1.045 \n376 \n465 \n545 \n250 \n652 \n339 \n854 \n417 \n705 \n3.081 \n225 \n1.068 \n260 \n219 \n849 \n4.967 \n305 \n283 \n336 \n806 \n394 \n2.270 \n1.426 \n88 \n256 ",
-          "Like-VerzeichnisNamen_": "Revolutionäre Jugend Thurgau - RJT\nMarxistischer Verein Unibe\nJUSO Basel-Stadt\nJacqueline Badran - Nationalrat\nNein zum Polizeigesetz",
-          "Like-VerzeichnisGefälltMir_": "363\n402\n1.594\n2.132\n687"
+          "VorschlageNamen_": "PdA Bern\nKameradschaft Heimattreu\nDiagnose: Eidgenose\nKlimastreik Zentralschweiz\nMerci Schweiz?\nCritical Mass Zurich\nNicole Müller-Boder\nKlimastreik Basel\nBasel Nazifrei\nNein zur Selbstbestimmungsinitiative\numverkehR\nMeldezentrale für Eidgenossen\nSP MigrantInnen Zürich\nBündnis buntes Schwyz\nVCS Verkehrs-Club der Schweiz\nAfD Schweiz\nGrüne Bülach\nKlimastadt Zürich\nMarxistischer Verein Unibe\nNEIN zum Unternehmenssteuer-Bschiss\nChaostruppe\nSO Gym Münchenstein\nSP Münsingen\nGrüne Zürichsee\nJUSO Basel-Stadt\n360 Grad - Zürich City \nGrüne Dielsdorf\nEltern fürs Klima\nsteger design & modellbau\nDachstock Reitschule\nGeneration Bildung\nJUSO Aargau\nJacqueline Badran - Nationalrat\nLewin Lempert\nZüri autofrei\nZüri gäge WEF\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\neiszeit\nZüri isst\nZiischtigsklub\nStolze Openair\nJUSO Graubünden\nKarl der Grosse\nNEIN zur «Selbstbestimmungs»-Initiative\nYoung Struggle Schweiz\nThomas Matter\nFussballstadion Ja\nDie Leiden der jungen Bertha\nGrüne Winterthur\nSender\nZüri City Card\nSandra Schneider official\nJUSO Kanton Bern - JS du canton de Berne\nJUSO Zug\nHans-Ulrich Bigler\nHannah Pfalzgraf\nI love Wipkingen\nJASS\nJunge SVP Kanton Bern\nSchluss mit Kürzen\nJUSO Thurgau\nMichael Töngi\nSVP des Kantons Zürich\nAJZ jetzt - Ein neues Jugendzentrum für Zürich\nJUSO Uri\nTeleblocher\nNein zum Polizeigesetz\nJunge Grüne Aargau\nSP Kanton Aargau\nPfasyl\nNina in den Stadtrat\nJUSO Kanton Schwyz\nPartenza\nGrüne Kanton Bern - Verts canton de Berne\nFlüchtlings Theater Malaika\nmänner.ch\nBrennpunkt Schweiz\nJunge Grünliberale Luzern\nNein zum Entwaffnungsdiktat der EU\nMattea Meyer in den Nationalrat\nAline Trede\nViva con Agua Schweiz\nAdrian Spahr\nVeloblitz\nInfoportal Oberland\nHONORABL.com\nTrio Heinz Herbert\nSmash Little WEF - No HSG-Symposium\nCVP Kanton Aargau\nCie. Echolot\nSpiilplätz\nJunge Grüne unibe\nSP Töss\nClaudio Schmid\nLuzi Stamm\nAvalanche Prey\nNachhaltigkeit Universität Basel\nSP 7 und 8\nCamille Lothe\nTELE TOP\nNadja Pieren\nOpen Eyes Balkanroute\nNZZ Format\nNils Fiechter\nWaffenrecht-Schengen JA\nJunge Grüne Graubünden\nGöldin & Bit-Tuner\ntheater anundpfirsich\nHände weg von meiner Rente\nJunge Grüne Thurgau\nHans-Ueli Vogt\nWeg mit den Agrarsubventionen\nJungthaeter\nThomas Aeschi\nDominic Täubert\nget loud\nHAB.lgbt\nJunge Grünliberale\nPhilipp Alex Gehrig\nGrüne Luzern\nAndreas Lustenberger in den Nationalrat\nDichtungsring Poetry Slam Winterthur\nJunge Alternative JA\nSVP Rheintal\nMichael Köpfli, Grünliberale Bern\nSHIFT\nJungfreisinnige Kanton Zürich\nReviravolta\nartiazza\nSchule für Gestaltung St.Gallen\nAlain Schwald\nFussverkehr Schweiz / Mobilité piétonne\nSPU - Schweizerische Partei der Unschlüssigen\nKirche für Konzernverantwortung\nSans-Papiers Anlaufstelle Zürich SPAZ\naz Solothurner Zeitung\nKay WIEOIMMER\nErfreuliche Universität Palace\nmischgewebe\nThe Espionne\nbärner studizytig\nSRF News Basel\nSP Baselland\nGob Ribbons\nJunge Linke Liste",
+          "VorschlageGefalltMir_": "532 \n234 \n190 \n14 \n204 \n1.737 \n3.882 \n426 \n433 \n273 \n2.665 \n476 \n809 \n131 \n7.180 \n74 \n526 \n205 \n401 \n7.942 \n3.603 \n46 \n8 \n317 \n1.589 \n1.270 \n8 \n157 \n50 \n18.564 \n30 \n648 \n2.129 \n381 \n452 \n42 \n728 \n526 \n15.593 \n661 \n6.428 \n554 \n3.812 \n8.048 \n760 \n10.920 \n4.899 \n325 \n528 \n2.730 \n506 \n1.092 \n877 \n470 \n452 \n260 \n3.893 \n1.881 \n1.893 \n328 \n521 \n441 \n3.140 \n56 \n374 \n1.312 \n688 \n497 \n1.047 \n1.335 \n239 \n400 \n299 \n1.040 \n853 \n2.446 \n1.026 \n510 \n2.799 \n646 \n2.061 \n5.002 \n1.639 \n1.228 \n218 \n366 \n1.013 \n240 \n537 \n323 \n388 \n132 \n307 \n335 \n3.630 \n227 \n589 \n398 \n654 \n4.651 \n1.917 \n2.352 \n4.829 \n4.703 \n754 \n84 \n669 \n2.637 \n468 \n189 \n4.659 \n135 \n736 \n3.652 \n165 \n1.361 \n652 \n1.872 \n194 \n1.045 \n376 \n465 \n545 \n250 \n652 \n339 \n854 \n417 \n705 \n3.081 \n225 \n1.068 \n260 \n219 \n849 \n4.967 \n305 \n283 \n336 \n806 \n394 \n2.270 \n1.426 \n88 \n256 ",
+          "VerzeichnisNamen_": "Revolutionäre Jugend Thurgau - RJT\nMarxistischer Verein Unibe\nJUSO Basel-Stadt\nJacqueline Badran - Nationalrat\nNein zum Polizeigesetz",
+          "VerzeichnisGefalltMir_": "363\n402\n1.594\n2.132\n687"
         },
         {
           "Profil_": "P1",
@@ -5334,10 +5334,10 @@ var data =
           "LinkBild_": "DS_B_18-04-19",
           "Bildname_": "ABB-P1-232",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5357,10 +5357,10 @@ var data =
           "LinkBild_": "DS_C_18-04-19",
           "Bildname_": "ABB-P1-233",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5380,10 +5380,10 @@ var data =
           "LinkBild_": "DS_D_18-04-19",
           "Bildname_": "ABB-P1-234",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5403,10 +5403,10 @@ var data =
           "LinkBild_": "DS_E_18-04-19",
           "Bildname_": "ABB-P1-235",
           "Bildunterschriften_": "Tsipras bei seiner Rede vor dem Parlament am Mittwochabend. (17. April 2019) Bild: Reuters",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5426,10 +5426,10 @@ var data =
           "LinkBild_": "DS_F_18-04-19",
           "Bildname_": "ABB-P1-236",
           "Bildunterschriften_": "Symbolbild: Stapel von Zeitungen – (c) Clemens Fabry, Presse",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5449,10 +5449,10 @@ var data =
           "LinkBild_": "DS_G_18-04-19",
           "Bildname_": "ABB-P1-237",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5472,10 +5472,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-238",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5495,10 +5495,10 @@ var data =
           "LinkBild_": "DS_I_18-04-19",
           "Bildname_": "ABB-P1-239",
           "Bildunterschriften_": "Nordkoreanische Soldaten stehen Wache an der Demarkationslinie in der Demilitarisierten Zone zwischen den beiden koreanischen Staaten (Symbolbild) ©EPA/JEON HEON-KYUNDPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5518,10 +5518,10 @@ var data =
           "LinkBild_": "DS_J_18-04-19",
           "Bildname_": "ABB-P1-240",
           "Bildunterschriften_": "Zur Papst-Audienz nach Rom gereist: Greta Thunberg Foto: vatican media via reuters",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5541,10 +5541,10 @@ var data =
           "LinkBild_": "DS_A_19-04-19",
           "Bildname_": "ABB-P1-241",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "PdA Bern\nSolidaritätskomitee Rojava - Luzern\nKampagne 19 - Refcrime\nNicole Müller-Boder\nKlimastreik Basel\nCritical Mass Zurich\nMeldezentrale für Eidgenossen\nNCBI Schweiz\numverkehR\nKlimastreik Zentralschweiz\nInfoladen Cigno Nero\nBlack Rat\nUnia Ostschweiz-Graubünden\nECOPOP - Vereinigung Umwelt und Bevölkerung\nGrüne Bülach\nBündnis buntes Schwyz\nW. Glaser Waffen AG - 8005 Zürich\nKlimastadt Zürich\nVCS Verkehrs-Club der Schweiz\nLeckerbissen aus Blocheristan\nChaostruppe\nBasel Nazifrei\nNEIN zum Unternehmenssteuer-Bschiss\nEltern fürs Klima\nSP Baselland\nAllianz gegen Sozis und Grüne\nSchweizerische Flüchtlingshilfe SFH\nPdA Biel / POP Bienne\nZüri gäge WEF\nGeneration Bildung\nKarl der Grosse\nDachstock Reitschule\nJunge SVP Kanton Bern\nYoung Struggle Schweiz\nZüri autofrei\nZüri isst\nStolze Openair\nJUSO Aargau\nZiischtigsklub\nNEIN zur «Selbstbestimmungs»-Initiative\nPartenza\neiszeit\nJUSO Thurgau\nJUSO Graubünden\nPerspektiven bauen - Solidarität mit Rojava\nSender\nAfD Schweiz\nThomas Matter\nFussballstadion JA\nJUSO Kanton Bern - JS du canton de Berne\nForum der Schweizerischen Volkspartei\nSP Basel-Stadt\nGrüne Winterthur\nSP MigrantInnen Zürich\nSandra Schneider official\nI love Wipkingen\nHannah Pfalzgraf\nFabian Eberhard\nMichael Töngi\nSchluss mit Kürzen\nNein zum Entwaffnungsdiktat der EU\nJUSO Uri\nAJZ jetzt - Ein neues Jugendzentrum für Zürich\nmänner.ch\nNina in den Stadtrat\nJUSO Kanton Schwyz\nJUSO Zug\nAline Trede\nAdrian Spahr\nNils Fiechter\nPfasyl\nPrime News\nHans-Ueli Vogt\nKAFF - Kulturarbeit für Frauenfeld\nInfoportal Oberland\nJunge Grüne Aargau\nBrennpunkt Schweiz\nGrüne Basel-Stadt\nClaudio Schmid\nGina Kern, Nationalratskandidatin FDP\nReviravolta\nNZZ Format\nAktionswoche der Stadt Bern gegen Rassismus\nTELE TOP\nJunge Alternative JA\nGrüne Zürichsee\nVeloblitz\nPhilipp Eng\nTrio Heinz Herbert\nJunge Grüne Thurgau\nSP Töss\nSpiilplätz\nBenjamin Fischer\ncherusgaelti.ch\nTeleblocher\nFabian Wyssen\nAllianz gegen Sozis und Grüne replacement\nCie. Echolot\nFDP Kanton Zürich\nSystembruch Zug\nJunge Grünliberale\nNadja Pieren\nHände weg von meiner Rente\nSascha Schmid\nGrüne Luzern\nKathrin Schweizer\nNatur-Initiative\nBarbara Steinemann\nDavid Roth\nSP Bezirk Bülach\nAndreas Lustenberger in den Nationalrat\nThomas Aeschi\nGrüne Kanton Bern - Verts canton de Berne\nSP Kanton Solothurn\nDichtungsring Poetry Slam Winterthur\nCVP Kanton Luzern\nBlock Süd Thun\nDominic Täubert\nCamille Lothe\nget loud\nNein zum Asylrechtsmissbrauch\nJungthaeter\nPatrick Tscherrig\nMattea Meyer in den Nationalrat\nSVP des Kantons Zürich\nmegafon\nJungfreisinnige Kanton Zürich\nBrache Warmbächli\nJungfreisinnige Kanton Schwyz\nDSJ | FSPJ | FSPG\nSP Kanton Aargau\nBern gegen Rechts\nRestaurant Sous Le Pont\nJunge Linke Liste\nLuzi Stamm\nViva con Agua Schweiz\nWir unterstützen Christoph Blocher gegen den linken Mob\nDie Leiden der jungen Bertha\nCVP Basel-Stadt\nTagblatt\nSHIFT\nOpen Eyes Balkanroute\nzentralplus",
-          "Like-VorschlägeGefälltMir_": "532 \n241 \n133 \n3.883 \n427 \n1.737 \n476 \n788 \n2.668 \n14 \n451 \n171 \n531 \n1.311 \n526 \n133 \n248 \n207 \n7.195 \n1.246 \n3.603 \n433 \n7.940 \n158 \n1.427 \n1.912 \n10.939 \n209 \n42 \n30 \n3.811 \n18.563 \n1.894 \n759 \n454 \n15.593 \n6.429 \n648 \n661 \n8.047 \n299 \n526 \n521 \n553 \n893 \n2.729 \n74 \n10.925 \n4.899 \n877 \n618 \n2.759 \n528 \n809 \n1.092 \n3.893 \n260 \n3.210 \n441 \n328 \n2.819 \n374 \n56 \n2.446 \n239 \n400 \n470 \n2.061 \n1.640 \n4.702 \n1.335 \n1.814 \n4.657 \n2.135 \n218 \n497 \n1.025 \n1.779 \n335 \n254 \n418 \n4.830 \n1.848 \n4.652 \n545 \n317 \n1.228 \n244 \n1.014 \n189 \n307 \n388 \n1.073 \n1.938 \n1.315 \n274 \n174 \n323 \n1.654 \n429 \n1.873 \n1.917 \n469 \n472 \n1.045 \n1.363 \n316 \n30 \n979 \n430 \n377 \n3.652 \n1.041 \n2.554 \n465 \n1.089 \n1.047 \n165 \n657 \n1.360 \n3.782 \n736 \n206 \n646 \n3.144 \n587 \n854 \n1.341 \n407 \n1.238 \n1.047 \n202 \n1.887 \n256 \n3.630 \n5.016 \n4.999 \n325 \n321 \n11.963 \n339 \n2.352 \n8.395 ",
-          "Like-VerzeichnisNamen_": "PdA Bern\nSchweizerische Flüchtlingshilfe SFH\nEidgenossen sind Rassisten\nECOPOP\nSP Basel-Stadt",
-          "Like-VerzeichnisGefälltMir_": "531\n10.944\n461\n1.310\n2.773"
+          "VorschlageNamen_": "PdA Bern\nSolidaritätskomitee Rojava - Luzern\nKampagne 19 - Refcrime\nNicole Müller-Boder\nKlimastreik Basel\nCritical Mass Zurich\nMeldezentrale für Eidgenossen\nNCBI Schweiz\numverkehR\nKlimastreik Zentralschweiz\nInfoladen Cigno Nero\nBlack Rat\nUnia Ostschweiz-Graubünden\nECOPOP - Vereinigung Umwelt und Bevölkerung\nGrüne Bülach\nBündnis buntes Schwyz\nW. Glaser Waffen AG - 8005 Zürich\nKlimastadt Zürich\nVCS Verkehrs-Club der Schweiz\nLeckerbissen aus Blocheristan\nChaostruppe\nBasel Nazifrei\nNEIN zum Unternehmenssteuer-Bschiss\nEltern fürs Klima\nSP Baselland\nAllianz gegen Sozis und Grüne\nSchweizerische Flüchtlingshilfe SFH\nPdA Biel / POP Bienne\nZüri gäge WEF\nGeneration Bildung\nKarl der Grosse\nDachstock Reitschule\nJunge SVP Kanton Bern\nYoung Struggle Schweiz\nZüri autofrei\nZüri isst\nStolze Openair\nJUSO Aargau\nZiischtigsklub\nNEIN zur «Selbstbestimmungs»-Initiative\nPartenza\neiszeit\nJUSO Thurgau\nJUSO Graubünden\nPerspektiven bauen - Solidarität mit Rojava\nSender\nAfD Schweiz\nThomas Matter\nFussballstadion JA\nJUSO Kanton Bern - JS du canton de Berne\nForum der Schweizerischen Volkspartei\nSP Basel-Stadt\nGrüne Winterthur\nSP MigrantInnen Zürich\nSandra Schneider official\nI love Wipkingen\nHannah Pfalzgraf\nFabian Eberhard\nMichael Töngi\nSchluss mit Kürzen\nNein zum Entwaffnungsdiktat der EU\nJUSO Uri\nAJZ jetzt - Ein neues Jugendzentrum für Zürich\nmänner.ch\nNina in den Stadtrat\nJUSO Kanton Schwyz\nJUSO Zug\nAline Trede\nAdrian Spahr\nNils Fiechter\nPfasyl\nPrime News\nHans-Ueli Vogt\nKAFF - Kulturarbeit für Frauenfeld\nInfoportal Oberland\nJunge Grüne Aargau\nBrennpunkt Schweiz\nGrüne Basel-Stadt\nClaudio Schmid\nGina Kern, Nationalratskandidatin FDP\nReviravolta\nNZZ Format\nAktionswoche der Stadt Bern gegen Rassismus\nTELE TOP\nJunge Alternative JA\nGrüne Zürichsee\nVeloblitz\nPhilipp Eng\nTrio Heinz Herbert\nJunge Grüne Thurgau\nSP Töss\nSpiilplätz\nBenjamin Fischer\ncherusgaelti.ch\nTeleblocher\nFabian Wyssen\nAllianz gegen Sozis und Grüne replacement\nCie. Echolot\nFDP Kanton Zürich\nSystembruch Zug\nJunge Grünliberale\nNadja Pieren\nHände weg von meiner Rente\nSascha Schmid\nGrüne Luzern\nKathrin Schweizer\nNatur-Initiative\nBarbara Steinemann\nDavid Roth\nSP Bezirk Bülach\nAndreas Lustenberger in den Nationalrat\nThomas Aeschi\nGrüne Kanton Bern - Verts canton de Berne\nSP Kanton Solothurn\nDichtungsring Poetry Slam Winterthur\nCVP Kanton Luzern\nBlock Süd Thun\nDominic Täubert\nCamille Lothe\nget loud\nNein zum Asylrechtsmissbrauch\nJungthaeter\nPatrick Tscherrig\nMattea Meyer in den Nationalrat\nSVP des Kantons Zürich\nmegafon\nJungfreisinnige Kanton Zürich\nBrache Warmbächli\nJungfreisinnige Kanton Schwyz\nDSJ | FSPJ | FSPG\nSP Kanton Aargau\nBern gegen Rechts\nRestaurant Sous Le Pont\nJunge Linke Liste\nLuzi Stamm\nViva con Agua Schweiz\nWir unterstützen Christoph Blocher gegen den linken Mob\nDie Leiden der jungen Bertha\nCVP Basel-Stadt\nTagblatt\nSHIFT\nOpen Eyes Balkanroute\nzentralplus",
+          "VorschlageGefalltMir_": "532 \n241 \n133 \n3.883 \n427 \n1.737 \n476 \n788 \n2.668 \n14 \n451 \n171 \n531 \n1.311 \n526 \n133 \n248 \n207 \n7.195 \n1.246 \n3.603 \n433 \n7.940 \n158 \n1.427 \n1.912 \n10.939 \n209 \n42 \n30 \n3.811 \n18.563 \n1.894 \n759 \n454 \n15.593 \n6.429 \n648 \n661 \n8.047 \n299 \n526 \n521 \n553 \n893 \n2.729 \n74 \n10.925 \n4.899 \n877 \n618 \n2.759 \n528 \n809 \n1.092 \n3.893 \n260 \n3.210 \n441 \n328 \n2.819 \n374 \n56 \n2.446 \n239 \n400 \n470 \n2.061 \n1.640 \n4.702 \n1.335 \n1.814 \n4.657 \n2.135 \n218 \n497 \n1.025 \n1.779 \n335 \n254 \n418 \n4.830 \n1.848 \n4.652 \n545 \n317 \n1.228 \n244 \n1.014 \n189 \n307 \n388 \n1.073 \n1.938 \n1.315 \n274 \n174 \n323 \n1.654 \n429 \n1.873 \n1.917 \n469 \n472 \n1.045 \n1.363 \n316 \n30 \n979 \n430 \n377 \n3.652 \n1.041 \n2.554 \n465 \n1.089 \n1.047 \n165 \n657 \n1.360 \n3.782 \n736 \n206 \n646 \n3.144 \n587 \n854 \n1.341 \n407 \n1.238 \n1.047 \n202 \n1.887 \n256 \n3.630 \n5.016 \n4.999 \n325 \n321 \n11.963 \n339 \n2.352 \n8.395 ",
+          "VerzeichnisNamen_": "PdA Bern\nSchweizerische Flüchtlingshilfe SFH\nEidgenossen sind Rassisten\nECOPOP\nSP Basel-Stadt",
+          "VerzeichnisGefalltMir_": "531\n10.944\n461\n1.310\n2.773"
         },
         {
           "Profil_": "P1",
@@ -5564,10 +5564,10 @@ var data =
           "LinkBild_": "DS_B_19-04-19",
           "Bildname_": "ABB-P1-242",
           "Bildunterschriften_": "Grüne Hoffnung: Eine Dorfversammlung in Rojava. Bild: IL Frankfurt.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5587,10 +5587,10 @@ var data =
           "LinkBild_": "DS_C_19-04-19",
           "Bildname_": "ABB-P1-243",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5610,10 +5610,10 @@ var data =
           "LinkBild_": "DS_D_19-04-19",
           "Bildname_": "ABB-P1-244",
           "Bildunterschriften_": "Happe­ning Berlin 2002, Quelle: sonicedevelopment.com",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5633,10 +5633,10 @@ var data =
           "LinkBild_": "DS_E_19-04-19",
           "Bildname_": "ABB-P1-245",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5656,10 +5656,10 @@ var data =
           "LinkBild_": "DS_F_19-04-19",
           "Bildname_": "ABB-P1-246",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5679,10 +5679,10 @@ var data =
           "LinkBild_": "DS_G_19-04-19",
           "Bildname_": "ABB-P1-247",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5702,10 +5702,10 @@ var data =
           "LinkBild_": "DS_H_19-04-19",
           "Bildname_": "ABB-P1-248",
           "Bildunterschriften_": "foto: reuters/stephane mahe\nSadaf Khadem war am Samstag als erste iranische Boxerin zu einem offiziellen Wettkampf angetreten.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5725,10 +5725,10 @@ var data =
           "LinkBild_": "DS_I_19-04-19",
           "Bildname_": "ABB-P1-249",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5748,10 +5748,10 @@ var data =
           "LinkBild_": "DS_J_19-04-19",
           "Bildname_": "ABB-P1-250",
           "Bildunterschriften_": "Bilder: Klasse gegen Klasse, Fightback Canada, Communist Party of India.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5771,10 +5771,10 @@ var data =
           "LinkBild_": "DS_A_20-04-19",
           "Bildname_": "ABB-P1-251",
           "Bildunterschriften_": "Sadaf Khadem bei ihrem ersten offiziellen Wettkampf\n©s_khadem/ Instagram",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5794,10 +5794,10 @@ var data =
           "LinkBild_": "DS_B_20-04-19",
           "Bildname_": "ABB-P1-252",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Leckerbissen aus Blocheristan\nKameradschaft Heimattreu\nMeldezentrale für Eidgenossen\nJUSO - Die wohl unnötigste Partei der Schweiz\nJUSO Kanton Bern - JS du canton de Berne\nPerspektiven bauen - Solidarität mit Rojava\nPsychex\nAllianz gegen Sozis und Grüne\nNicole Müller-Boder\nSolidaritätskomitee Rojava - Luzern\nJuso Oberaargau\nInfoladen Cigno Nero\nCritical Mass Zurich\nBasel Nazifrei\nBlack Rat\nGegen Demokratiemüdigkeit in der Schweiz\numverkehR\nKlimastreik Basel\nGrüne Bülach\nBündnis buntes Schwyz\nMerci Schweiz?\nBrennpunkt Schweiz\nKlimastadt Zürich\nJunge Grüne Schaffhausen\nVCS Verkehrs-Club der Schweiz\nNEIN zum Unternehmenssteuer-Bschiss\nChaostruppe\nEltern fürs Klima\nThomas Matter\nPartenza\nNEIN zur «Selbstbestimmungs»-Initiative\nKritische JuristInnen Zürich\nAfD Schweiz\nOGMH\nGeneration Bildung\nSP MigrantInnen Zürich\nDachstock Reitschule\nGrüne Zürichsee\nKarl der Grosse\nJunge SVP Kanton Bern\nNadja Pieren\n25 Karat\nJUSO Thurgau\nBastA! - Basels starke Alternative\nFabian Eberhard\nZüri isst\nZüri autofrei\nZüri gäge WEF\nYoung Struggle Schweiz\nZiischtigsklub\nJUSO Aargau\nJUSO Graubünden\nPdA Biel / POP Bienne\neiszeit\nMartin Hartmann\nGrüne Basel-Stadt\nTranszendentale Meditation\nAndreas Lustenberger in den Nationalrat\nSender\nStolze Openair\nSchule für die Kinder von Kobane\nFussballstadion JA\nI love Wipkingen\nHannah Pfalzgraf\nJUSO Zug\nSCHWEIZ come back\nZüri City Card\nGartenbauschule Oeschberg\nDiagnose: Eidgenose\nThomas Aeschi\nSchluss mit Kürzen\nMichael Töngi\nLukas Reimann\nJUSO Uri\nAJZ jetzt - Ein neues Jugendzentrum für Zürich\nClaudio Schmid\nTeleblocher\nPrime News\nNina in den Stadtrat\nSandra Schneider official\nAdrian Spahr\nKathrin Schweizer\nJUSO Kanton Schwyz\nInfoportal Oberland\nBern gegen Rechts\nAllianz gegen Sozis und Grüne replacement\nMarxistische Studierende Konstanz\nSRF News Basel\nReviravolta\nNils Fiechter\nHans-Ueli Vogt\nGina Kern, Nationalratskandidatin FDP\nWir unterstützen Christoph Blocher gegen den linken Mob\nAline Trede\nSchwarz Rot Bern\nGrüne Luzern\nNZZ Format\nTrio Heinz Herbert\nHände weg von meiner Rente\nViva con Agua Schweiz\nmänner.ch\nPfasyl\nWelcome to Hell\nLuzi Stamm\nVeloblitz\nFDP Kanton Zürich\nJunge Grüne Aargau\nAlbert Rösti\nSpiilplätz\nMarkus Knauss\nJunge Grüne Thurgau\nOpen Eyes Balkanroute\nSP Töss\nCie. Echolot\nJunge SVP Luzern\nGrüne Kanton Bern - Verts canton de Berne\nGrüne Kanton Solothurn\nWeg mit den Agrarsubventionen\nTrΩtzphase\nJunge Grünliberale\nJunge Alternative JA\nJunge Grüne Region Thun\nDominic Täubert\nKritische JuristInnen Fribourg/Bern\nSP Kanton Aargau\nVisu\nArber Bullakaj\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nMartina Bircher, Aarburg - Nationalratskandidatin\nDavid Roth\nCamille Lothe\nDichtungsring Poetry Slam Winterthur\nNein zu den Kampfjet-Milliarden\nget loud\nMichelle Singer\nSVP des Kantons Zürich\nGegenbewegung\nschwizerchrüz.ch Michael Räber\nJunge Grüne unibe\nSUB - Studierendenschaft der Universität Bern\nJungthaeter\nKugelfest\nPolit-Stammtisch\nJungfreisinnige Kanton Zürich\nEs ist was faul im Staate Schweiz",
-          "Like-VorschlägeGefälltMir_": "1.246 \n235 \n476 \n225 \n877 \n893 \n986 \n1.912 \n3.883 \n241 \n317 \n451 \n1.737 \n433 \n171 \n649 \n2.669 \n427 \n526 \n133 \n204 \n1.025 \n207 \n96 \n7.196 \n7.940 \n3.603 \n158 \n10.926 \n299 \n8.047 \n184 \n74 \n620 \n30 \n809 \n18.563 \n317 \n3.811 \n1.894 \n1.917 \n541 \n521 \n2.625 \n3.210 \n15.593 \n454 \n42 \n759 \n661 \n648 \n553 \n209 \n526 \n256 \n1.779 \n633 \n377 \n2.729 \n6.429 \n586 \n4.899 \n3.893 \n260 \n470 \n2.924 \n506 \n801 \n190 \n3.652 \n328 \n441 \n13.979 \n374 \n56 \n335 \n1.315 \n1.815 \n239 \n1.092 \n1.640 \n1.363 \n400 \n218 \n202 \n174 \n145 \n2.274 \n418 \n4.702 \n4.657 \n254 \n4.999 \n2.061 \n1.214 \n1.045 \n4.831 \n1.014 \n469 \n5.016 \n2.447 \n1.335 \n727 \n3.630 \n1.228 \n1.654 \n497 \n7.504 \n388 \n505 \n189 \n2.352 \n307 \n323 \n676 \n1.042 \n501 \n135 \n119 \n1.873 \n545 \n305 \n165 \n257 \n1.047 \n2.269 \n8.042 \n728 \n430 \n979 \n657 \n465 \n11.514 \n1.360 \n580 \n3.146 \n380 \n10.364 \n132 \n2.385 \n736 \n483 \n511 \n854 \n3.361",
-          "Like-VerzeichnisNamen_": "Perspektiven bauen - Solidrität mit Rojava\nJUSO Kanton Bern\nPdA Solidaritätskomitee Rojava - Luzern\nBasel Nazifrei \nNein zur„ Selbstbestimmungs“-initiative ",
-          "Like-VerzeichnisGefälltMir_": "891\n880\n242\n436\n8.040"
+          "VorschlageNamen_": "Leckerbissen aus Blocheristan\nKameradschaft Heimattreu\nMeldezentrale für Eidgenossen\nJUSO - Die wohl unnötigste Partei der Schweiz\nJUSO Kanton Bern - JS du canton de Berne\nPerspektiven bauen - Solidarität mit Rojava\nPsychex\nAllianz gegen Sozis und Grüne\nNicole Müller-Boder\nSolidaritätskomitee Rojava - Luzern\nJuso Oberaargau\nInfoladen Cigno Nero\nCritical Mass Zurich\nBasel Nazifrei\nBlack Rat\nGegen Demokratiemüdigkeit in der Schweiz\numverkehR\nKlimastreik Basel\nGrüne Bülach\nBündnis buntes Schwyz\nMerci Schweiz?\nBrennpunkt Schweiz\nKlimastadt Zürich\nJunge Grüne Schaffhausen\nVCS Verkehrs-Club der Schweiz\nNEIN zum Unternehmenssteuer-Bschiss\nChaostruppe\nEltern fürs Klima\nThomas Matter\nPartenza\nNEIN zur «Selbstbestimmungs»-Initiative\nKritische JuristInnen Zürich\nAfD Schweiz\nOGMH\nGeneration Bildung\nSP MigrantInnen Zürich\nDachstock Reitschule\nGrüne Zürichsee\nKarl der Grosse\nJunge SVP Kanton Bern\nNadja Pieren\n25 Karat\nJUSO Thurgau\nBastA! - Basels starke Alternative\nFabian Eberhard\nZüri isst\nZüri autofrei\nZüri gäge WEF\nYoung Struggle Schweiz\nZiischtigsklub\nJUSO Aargau\nJUSO Graubünden\nPdA Biel / POP Bienne\neiszeit\nMartin Hartmann\nGrüne Basel-Stadt\nTranszendentale Meditation\nAndreas Lustenberger in den Nationalrat\nSender\nStolze Openair\nSchule für die Kinder von Kobane\nFussballstadion JA\nI love Wipkingen\nHannah Pfalzgraf\nJUSO Zug\nSCHWEIZ come back\nZüri City Card\nGartenbauschule Oeschberg\nDiagnose: Eidgenose\nThomas Aeschi\nSchluss mit Kürzen\nMichael Töngi\nLukas Reimann\nJUSO Uri\nAJZ jetzt - Ein neues Jugendzentrum für Zürich\nClaudio Schmid\nTeleblocher\nPrime News\nNina in den Stadtrat\nSandra Schneider official\nAdrian Spahr\nKathrin Schweizer\nJUSO Kanton Schwyz\nInfoportal Oberland\nBern gegen Rechts\nAllianz gegen Sozis und Grüne replacement\nMarxistische Studierende Konstanz\nSRF News Basel\nReviravolta\nNils Fiechter\nHans-Ueli Vogt\nGina Kern, Nationalratskandidatin FDP\nWir unterstützen Christoph Blocher gegen den linken Mob\nAline Trede\nSchwarz Rot Bern\nGrüne Luzern\nNZZ Format\nTrio Heinz Herbert\nHände weg von meiner Rente\nViva con Agua Schweiz\nmänner.ch\nPfasyl\nWelcome to Hell\nLuzi Stamm\nVeloblitz\nFDP Kanton Zürich\nJunge Grüne Aargau\nAlbert Rösti\nSpiilplätz\nMarkus Knauss\nJunge Grüne Thurgau\nOpen Eyes Balkanroute\nSP Töss\nCie. Echolot\nJunge SVP Luzern\nGrüne Kanton Bern - Verts canton de Berne\nGrüne Kanton Solothurn\nWeg mit den Agrarsubventionen\nTrΩtzphase\nJunge Grünliberale\nJunge Alternative JA\nJunge Grüne Region Thun\nDominic Täubert\nKritische JuristInnen Fribourg/Bern\nSP Kanton Aargau\nVisu\nArber Bullakaj\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nMartina Bircher, Aarburg - Nationalratskandidatin\nDavid Roth\nCamille Lothe\nDichtungsring Poetry Slam Winterthur\nNein zu den Kampfjet-Milliarden\nget loud\nMichelle Singer\nSVP des Kantons Zürich\nGegenbewegung\nschwizerchrüz.ch Michael Räber\nJunge Grüne unibe\nSUB - Studierendenschaft der Universität Bern\nJungthaeter\nKugelfest\nPolit-Stammtisch\nJungfreisinnige Kanton Zürich\nEs ist was faul im Staate Schweiz",
+          "VorschlageGefalltMir_": "1.246 \n235 \n476 \n225 \n877 \n893 \n986 \n1.912 \n3.883 \n241 \n317 \n451 \n1.737 \n433 \n171 \n649 \n2.669 \n427 \n526 \n133 \n204 \n1.025 \n207 \n96 \n7.196 \n7.940 \n3.603 \n158 \n10.926 \n299 \n8.047 \n184 \n74 \n620 \n30 \n809 \n18.563 \n317 \n3.811 \n1.894 \n1.917 \n541 \n521 \n2.625 \n3.210 \n15.593 \n454 \n42 \n759 \n661 \n648 \n553 \n209 \n526 \n256 \n1.779 \n633 \n377 \n2.729 \n6.429 \n586 \n4.899 \n3.893 \n260 \n470 \n2.924 \n506 \n801 \n190 \n3.652 \n328 \n441 \n13.979 \n374 \n56 \n335 \n1.315 \n1.815 \n239 \n1.092 \n1.640 \n1.363 \n400 \n218 \n202 \n174 \n145 \n2.274 \n418 \n4.702 \n4.657 \n254 \n4.999 \n2.061 \n1.214 \n1.045 \n4.831 \n1.014 \n469 \n5.016 \n2.447 \n1.335 \n727 \n3.630 \n1.228 \n1.654 \n497 \n7.504 \n388 \n505 \n189 \n2.352 \n307 \n323 \n676 \n1.042 \n501 \n135 \n119 \n1.873 \n545 \n305 \n165 \n257 \n1.047 \n2.269 \n8.042 \n728 \n430 \n979 \n657 \n465 \n11.514 \n1.360 \n580 \n3.146 \n380 \n10.364 \n132 \n2.385 \n736 \n483 \n511 \n854 \n3.361",
+          "VerzeichnisNamen_": "Perspektiven bauen - Solidrität mit Rojava\nJUSO Kanton Bern\nPdA Solidaritätskomitee Rojava - Luzern\nBasel Nazifrei \nNein zur„ Selbstbestimmungs“-initiative ",
+          "VerzeichnisGefalltMir_": "891\n880\n242\n436\n8.040"
         },
         {
           "Profil_": "P1",
@@ -5817,10 +5817,10 @@ var data =
           "LinkBild_": "DS_C_20-04-19",
           "Bildname_": "ABB-P1-253",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5840,10 +5840,10 @@ var data =
           "LinkBild_": "DS_D_20-04-19",
           "Bildname_": "ABB-P1-254",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5863,10 +5863,10 @@ var data =
           "LinkBild_": "DS_E_20-04-19",
           "Bildname_": "ABB-P1-255",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5886,10 +5886,10 @@ var data =
           "LinkBild_": "DS_F_20-04-19",
           "Bildname_": "ABB-P1-256",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5909,10 +5909,10 @@ var data =
           "LinkBild_": "DS_G_20-04-19",
           "Bildname_": "ABB-P1-257",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5932,10 +5932,10 @@ var data =
           "LinkBild_": "DS_H_20-04-19",
           "Bildname_": "ABB-P1-258",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5955,10 +5955,10 @@ var data =
           "LinkBild_": "DS_I_20-04-19",
           "Bildname_": "ABB-P1-259",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -5978,10 +5978,10 @@ var data =
           "LinkBild_": "DS_J_20-04-19",
           "Bildname_": "ABB-P1-260",
           "Bildunterschriften_": "Besucher im Parthenon: Griechenland ist vom Touristen abhängig, auch von jenen aus Deutschland. Derzeit ist die Stimmung zwischen den beiden Ländern allerdings angespannt. – REUTERS",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6001,10 +6001,10 @@ var data =
           "LinkBild_": "DS_A_21-04-19",
           "Bildname_": "ABB-P1-261",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Leckerbissen aus Blocheristan\nFabian Eberhard\nBastA! - Basels starke Alternative\nWaffenrecht-Schengen JA\nNicole Müller-Boder\neiszeit\nJUSO Graubünden\nJUSO Thurgau\nCritical Mass Zurich\nSchluss mit Kürzen\nAllianz gegen Sozis und Grüne\nReviravolta\nGrüne Zürichsee\nBern gegen Rechts\nEin Europa für alle - eine Stadt für alle\nPdA Biel / POP Bienne\nZüri gäge WEF\nNEIN zum Unternehmenssteuer-Bschiss\numverkehR\nBlack Rat\nInfoportal Oberland\nÜberzeit\nKlimastreik Basel\nBündnis buntes Schwyz\nSystembruch Zug\nJUSO Kanton Schwyz\nKommando Avocado\nAG Queer\nKarl der Grosse\nJunge Grüne Schaffhausen\nTeilzeitfans Wohlen\nJuso Oberaargau\nJUSO JS Bielingue\nKlimastadt Zürich\nJUSO Aargau\nZüri City Card\nDachstock Reitschule\nJUSO Uri\n25 Karat\nChaostruppe\nRadio RaBe\nKriPo FrauenSternli\nNo Borders, No Nations - Reitschule Sommerfest\nZüri autofrei\nZiischtigsklub\nSparpaket weg\nEltern fürs Klima\nSans-Papiers Anlaufstelle Zürich SPAZ\nThomas Matter\nZüri isst\nStolze Openair\nSender\nI love Wipkingen\nAlternative Linke Bern\nBrennpunkt Schweiz\nFussballstadion JA\nEntlastungsinitiative\nHannah Pfalzgraf\nNina in den Stadtrat\nYoung Struggle Schweiz\nJunge SVP Kanton Bern\nReithalle Bern\nAG Umwelt\nAndreas Lustenberger in den Nationalrat\nJUSO Zug\nDiagnose: Eidgenose\nWilhelm Tell\nPsychex\nAline Trede\nNEIN zum Schnüffelstaat\nCamille Lothe\nAfD Schweiz\nThomas Aeschi\nSolidaritätsbündnis mit ATIK - ATIK le dayanişma birliği\nBleiberecht Bern\nNadja Pieren\nGrüne Basel-Stadt\nKathrin Schweizer\nInfoladen Cigno Nero\nGina Kern, Nationalratskandidatin FDP\nHans-Ueli Vogt\nSchlorian\nFDP Kanton Zürich\nDominic Täubert\nSandra Schneider official\nSRF News Basel\nJungfreisinnige Kanton Zürich\nAdrian Spahr\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nWir unterstützen Christoph Blocher gegen den linken Mob\nSP Kanton Aargau\nAllianz gegen Sozis und Grüne replacement\nHände weg von meiner Rente\nPatrick Walder\nPfasyl\nVisu\nWelcome to Hell\nMarxistische Studierende Konstanz\nClaudio Schmid\nLuzi Stamm\nLukas Reimann\nBruderschaft Seeland\nJunge Grünliberale\nNils Fiechter\nGrüne Winterthur\nSVP des Kantons Zürich\nIdentitäre Bewegung Bern\nAlbert Rösti\nKarin Fehr Thoma\nTELE TOP\nCVP Basel-Stadt\nNein zum Asylrechtsmissbrauch\nEnergie Experten\nCVP Stadt Winterthur\nNZZ Format\nCie. Echolot\nCVP Kanton Luzern\nHoffnung+Kiwi\nGrünliberale Bezirk Uster\ntheater anundpfirsich\nSpiilplätz\nMartina Bircher, Aarburg - Nationalratskandidatin\nJunge Grüne Region Thun\nVeloblitz\nDichtungsring Poetry Slam Winterthur\nGrüne Kanton Bern - Verts canton de Berne\nTeleblocher\nRestaurant Sous Le Pont\nRADIO TOP\nLiechtensteiner Volksblatt\nNein zur Zersiedelungsinitiative\nGrüne Kanton Solothurn\nUnia Aargau-Nordwestschweiz\nEtrit Hasler\nGegen Demokratiemüdigkeit in der Schweiz\nTagblatt\nKlimastreik Thurgau\nSP Töss\nTom Gisler\nFrauenstreikBaselland2019\nFDP.Die Liberalen Aargau\nStand up for refugees\nWeg mit den Agrarsubventionen\nJungthaeter\nLewin Lempert\nJunge SVP Luzern",
-          "Like-VorschlägeGefälltMir_": "1.246 \n3.263 \n2.624 \n821 \n3.883 \n528 \n555 \n521 \n1.746 \n329 \n1.914 \n418 \n317 \n202 \n49 \n209 \n42 \n7.939 \n2.672 \n171 \n219 \n520 \n428 \n133 \n430 \n400 \n112 \n568 \n3.811 \n96 \n229 \n317 \n643 \n225 \n648 \n506 \n18.560 \n374 \n541 \n3.603 \n8.742 \n214 \n4.186 \n455 \n663 \n1.029 \n159 \n849 \n10.930 \n15.596 \n6.427 \n2.733 \n3.891 \n811 \n1.025 \n4.898 \n188 \n260 \n239 \n759 \n1.895 \n3.136 \n106 \n377 \n470 \n190 \n797 \n986 \n2.059 \n3.801 \n658 \n74 \n3.652 \n542 \n3.073 \n1.916 \n1.779 \n1.364 \n451 \n256 \n4.660 \n759 \n1.655 \n165 \n1.092 \n2.278 \n854 \n1.640 \n728 \n5.008 \n1.048 \n174 \n469 \n211 \n1.335 \n2.270 \n727 \n145 \n335 \n3.630 \n13.978 \n201 \n1.872 \n4.704 \n528 \n3.150 \n35 \n7.505 \n352 \n4.656 \n321 \n3.781 \n19.013 \n206 \n4.831 \n324 \n1.089 \n521 \n150 \n2.638 \n388 \n432 \n305 \n1.227 \n465 \n1.044 \n1.317 \n1.887 \n17.572 \n7.817 \n151 \n501 \n2.150 \n847 \n647 \n11.966 \n111 \n307 \n3.165 \n110 \n697 \n5.184 \n135 \n736 \n384 \n676 ",
-          "Like-VerzeichnisNamen_": "Waffenrecht-Schengen JA\nBastA! - Basels starke Alternative\nBern gegen rechts\nSystembruch Zug\nBleiberecht Bern",
-          "Like-VerzeichnisGefälltMir_": "1.052\n2.631\n209\n428\n3.072"
+          "VorschlageNamen_": "Leckerbissen aus Blocheristan\nFabian Eberhard\nBastA! - Basels starke Alternative\nWaffenrecht-Schengen JA\nNicole Müller-Boder\neiszeit\nJUSO Graubünden\nJUSO Thurgau\nCritical Mass Zurich\nSchluss mit Kürzen\nAllianz gegen Sozis und Grüne\nReviravolta\nGrüne Zürichsee\nBern gegen Rechts\nEin Europa für alle - eine Stadt für alle\nPdA Biel / POP Bienne\nZüri gäge WEF\nNEIN zum Unternehmenssteuer-Bschiss\numverkehR\nBlack Rat\nInfoportal Oberland\nÜberzeit\nKlimastreik Basel\nBündnis buntes Schwyz\nSystembruch Zug\nJUSO Kanton Schwyz\nKommando Avocado\nAG Queer\nKarl der Grosse\nJunge Grüne Schaffhausen\nTeilzeitfans Wohlen\nJuso Oberaargau\nJUSO JS Bielingue\nKlimastadt Zürich\nJUSO Aargau\nZüri City Card\nDachstock Reitschule\nJUSO Uri\n25 Karat\nChaostruppe\nRadio RaBe\nKriPo FrauenSternli\nNo Borders, No Nations - Reitschule Sommerfest\nZüri autofrei\nZiischtigsklub\nSparpaket weg\nEltern fürs Klima\nSans-Papiers Anlaufstelle Zürich SPAZ\nThomas Matter\nZüri isst\nStolze Openair\nSender\nI love Wipkingen\nAlternative Linke Bern\nBrennpunkt Schweiz\nFussballstadion JA\nEntlastungsinitiative\nHannah Pfalzgraf\nNina in den Stadtrat\nYoung Struggle Schweiz\nJunge SVP Kanton Bern\nReithalle Bern\nAG Umwelt\nAndreas Lustenberger in den Nationalrat\nJUSO Zug\nDiagnose: Eidgenose\nWilhelm Tell\nPsychex\nAline Trede\nNEIN zum Schnüffelstaat\nCamille Lothe\nAfD Schweiz\nThomas Aeschi\nSolidaritätsbündnis mit ATIK - ATIK le dayanişma birliği\nBleiberecht Bern\nNadja Pieren\nGrüne Basel-Stadt\nKathrin Schweizer\nInfoladen Cigno Nero\nGina Kern, Nationalratskandidatin FDP\nHans-Ueli Vogt\nSchlorian\nFDP Kanton Zürich\nDominic Täubert\nSandra Schneider official\nSRF News Basel\nJungfreisinnige Kanton Zürich\nAdrian Spahr\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nWir unterstützen Christoph Blocher gegen den linken Mob\nSP Kanton Aargau\nAllianz gegen Sozis und Grüne replacement\nHände weg von meiner Rente\nPatrick Walder\nPfasyl\nVisu\nWelcome to Hell\nMarxistische Studierende Konstanz\nClaudio Schmid\nLuzi Stamm\nLukas Reimann\nBruderschaft Seeland\nJunge Grünliberale\nNils Fiechter\nGrüne Winterthur\nSVP des Kantons Zürich\nIdentitäre Bewegung Bern\nAlbert Rösti\nKarin Fehr Thoma\nTELE TOP\nCVP Basel-Stadt\nNein zum Asylrechtsmissbrauch\nEnergie Experten\nCVP Stadt Winterthur\nNZZ Format\nCie. Echolot\nCVP Kanton Luzern\nHoffnung+Kiwi\nGrünliberale Bezirk Uster\ntheater anundpfirsich\nSpiilplätz\nMartina Bircher, Aarburg - Nationalratskandidatin\nJunge Grüne Region Thun\nVeloblitz\nDichtungsring Poetry Slam Winterthur\nGrüne Kanton Bern - Verts canton de Berne\nTeleblocher\nRestaurant Sous Le Pont\nRADIO TOP\nLiechtensteiner Volksblatt\nNein zur Zersiedelungsinitiative\nGrüne Kanton Solothurn\nUnia Aargau-Nordwestschweiz\nEtrit Hasler\nGegen Demokratiemüdigkeit in der Schweiz\nTagblatt\nKlimastreik Thurgau\nSP Töss\nTom Gisler\nFrauenstreikBaselland2019\nFDP.Die Liberalen Aargau\nStand up for refugees\nWeg mit den Agrarsubventionen\nJungthaeter\nLewin Lempert\nJunge SVP Luzern",
+          "VorschlageGefalltMir_": "1.246 \n3.263 \n2.624 \n821 \n3.883 \n528 \n555 \n521 \n1.746 \n329 \n1.914 \n418 \n317 \n202 \n49 \n209 \n42 \n7.939 \n2.672 \n171 \n219 \n520 \n428 \n133 \n430 \n400 \n112 \n568 \n3.811 \n96 \n229 \n317 \n643 \n225 \n648 \n506 \n18.560 \n374 \n541 \n3.603 \n8.742 \n214 \n4.186 \n455 \n663 \n1.029 \n159 \n849 \n10.930 \n15.596 \n6.427 \n2.733 \n3.891 \n811 \n1.025 \n4.898 \n188 \n260 \n239 \n759 \n1.895 \n3.136 \n106 \n377 \n470 \n190 \n797 \n986 \n2.059 \n3.801 \n658 \n74 \n3.652 \n542 \n3.073 \n1.916 \n1.779 \n1.364 \n451 \n256 \n4.660 \n759 \n1.655 \n165 \n1.092 \n2.278 \n854 \n1.640 \n728 \n5.008 \n1.048 \n174 \n469 \n211 \n1.335 \n2.270 \n727 \n145 \n335 \n3.630 \n13.978 \n201 \n1.872 \n4.704 \n528 \n3.150 \n35 \n7.505 \n352 \n4.656 \n321 \n3.781 \n19.013 \n206 \n4.831 \n324 \n1.089 \n521 \n150 \n2.638 \n388 \n432 \n305 \n1.227 \n465 \n1.044 \n1.317 \n1.887 \n17.572 \n7.817 \n151 \n501 \n2.150 \n847 \n647 \n11.966 \n111 \n307 \n3.165 \n110 \n697 \n5.184 \n135 \n736 \n384 \n676 ",
+          "VerzeichnisNamen_": "Waffenrecht-Schengen JA\nBastA! - Basels starke Alternative\nBern gegen rechts\nSystembruch Zug\nBleiberecht Bern",
+          "VerzeichnisGefalltMir_": "1.052\n2.631\n209\n428\n3.072"
         },
         {
           "Profil_": "P1",
@@ -6024,10 +6024,10 @@ var data =
           "LinkBild_": "DS_B_21-04-19",
           "Bildname_": "ABB-P1-262",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6047,10 +6047,10 @@ var data =
           "LinkBild_": "DS_C_21-04-19",
           "Bildname_": "ABB-P1-263",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6070,10 +6070,10 @@ var data =
           "LinkBild_": "DS_D_21-04-19",
           "Bildname_": "ABB-P1-264",
           "Bildunterschriften_": "Bild: Staatsarchiv Basel-Stadt.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6093,10 +6093,10 @@ var data =
           "LinkBild_": "DS_E_21-04-19",
           "Bildname_": "ABB-P1-265",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6116,10 +6116,10 @@ var data =
           "LinkBild_": "DS_F_21-04-19",
           "Bildname_": "ABB-P1-266",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6139,10 +6139,10 @@ var data =
           "LinkBild_": "DS_G_21-04-19",
           "Bildname_": "ABB-P1-267",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6162,10 +6162,10 @@ var data =
           "LinkBild_": "DS_H_21-04-19",
           "Bildname_": "ABB-P1-268",
           "Bildunterschriften_": "Vom Burkini bis zum Chanel-Nikab: Die Frankfurter Ausstellung zeigt den Facettenreichtum muslimischer Mode. Fotos: © Tanya Habjouqa/EAST WING; Silver&Soul; NurZahra; Al-Badry/Wesaam; Sabet, Shereen/Splashgear LLC; Al-Badry/Wesaam",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6185,10 +6185,10 @@ var data =
           "LinkBild_": "DS_I_21-04-19",
           "Bildname_": "ABB-P1-269",
           "Bildunterschriften_": "Ekrem Imamoğlu am Mittwoch vor seinen Anhängern vor dem Istanbuler Rathaus (Foto: AFP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6208,10 +6208,10 @@ var data =
           "LinkBild_": "",
           "Bildname_": "ABB-P1-270",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6231,10 +6231,10 @@ var data =
           "LinkBild_": "DS_A_22-04-19",
           "Bildname_": "ABB-P1-271",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Grüne Kanton Bern - Verts canton de Berne\nGrüne Baselland\nBDP Kanton Luzern\nSVP des Kantons Luzern\nGrünliberale Kanton Bern\nPro Velo beider Basel\nGrünliberale Zürich\nMustafa Atici\nQalam\nsur le pont\nLike Weinland - Kein Endlager im Zürcher Weinland\nLDP Liberal-Demokratische Partei Basel-Stadt\nUrs Hofmann – unser Regierungsrat\nFabian Eberhard\nAlexander Gröflin\nEVP Basel-Stadt\nCritical Mass Zurich\nNicole Müller-Boder\nAllianz gegen Sozis und Grüne\nJUSO JS Bielingue\nKlimastreik Basel\nNein zum Entwaffnungsdiktat der EU\nGrüne Bülach\nSchluss mit Kürzen\nGrüne Zürichsee\nZüri gäge WEF\numverkehR\nNEIN zum Unternehmenssteuer-Bschiss\nNEIN zum schleichenden EU-Beitritt\nBündnis buntes Schwyz\nCamille Lothe\nUnabhängige, Direkt Demokratische Schweiz\nBrennpunkt Schweiz\nJUSO Graubünden\nPdA Biel / POP Bienne\nZüri City Card\nJUSO Thurgau\nKarl der Grosse\nJunge Grüne Schaffhausen\nÜberzeit\nJUSO Kanton Schwyz\nGeneration Bildung\nAG Queer\nJUSO Uri\nJUSO Aargau\nKlimastadt Zürich\nYoung Struggle Schweiz\nReithalle Bern\nDachstock Reitschule\nReviravolta\nRadio RaBe\nChaostruppe\nSans-Papiers Anlaufstelle Zürich SPAZ\n25 Karat\nZiischtigsklub\nBlack Rat\nNo Borders, No Nations - Reitschule Sommerfest\nEltern fürs Klima\nAlternative Linke Bern\nZüri isst\nNein zum Hardturm-Bschiss\nThomas Matter\nStolze Openair\nJuso Oberaargau\nSender\nPartenza\nI love Wipkingen\neiszeit\nFussballstadion JA\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nEntlastungsinitiative\nNina in den Stadtrat\nHannah Pfalzgraf\nJunge SVP Kanton Bern\nKommando Avocado\nDampfbahn Verein Zürcher Oberland DVZO\nSandra Schneider official\nAG Umwelt\nStiftung Sport-Gymnasium Davos\nSolidarität mit Afrin\nSolidaritätsnetz Bern\nAndreas Lustenberger in den Nationalrat\nInfoportal Oberland\nHeidi Mück\nAdrian Amstutz\nHände weg von meiner Rente\nJUSO Zug\nErnährungsforum Zürich\nNEIN zum Schnüffelstaat\nThomas Aeschi\nGegenbewegung\nRigat bleibt\nClaudio Schmid\nNadja Pieren\nOpen Borders Caravan Bern\nJunge BDP Schweiz\nSP Kanton Bern - PS du canton de Berne\nVeloinitiative Stadt Zürich\nKathrin Schweizer\nFDP Kanton Zürich\nSRG Zentralschweiz\nMarkus Knauss\nSchlorian\nAxel McFoley\nAllianz gegen Sozis und Grüne replacement\nGegen den Schweizer Asylwahnsinn\nSP Töss\nMichelle Singer\nWelcome to Hell\nPlatzKultur\nDominic Täubert\nAnlaufstelle für Sans-Papiers Basel\nAline Trede\nJungfreisinnige Kanton Zürich\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nGränni\nResolut\nSolidaritätsbündnis mit ATIK - ATIK le dayanişma birliği\nPfasyl\nLukas Reimann\nWaffen Schweiz\nSP Kanton Aargau\nVélorution Suisse\nPatrick Walder\nmyblueplanet - climate actions\nJUSO Stadt St.Gallen\nCVP Basel-Stadt\n5ème ETAGE\nNils Fiechter\nDie Leiden der jungen Bertha\nSRF News Basel\nGebrauchskunst\nFrauen_streik Thun/BeO\nSP Schwarzenburg\nJunge Grüne Aargau\nTELE TOP\njunges grünes bündnis nordwest\nSVP des Kantons Zürich\nJunge Grünliberale\nTrΩtzphase\nUnia Aargau-Nordwestschweiz\nSHIFT\nAlbert Rösti\nJunge Grünliberale Bern\nZeig deinen Lohn",
-          "Like-VorschlägeGefälltMir_": "1.044 \n719 \n381 \n1.695 \n508 \n1.191 \n678 \n1.085 \n499 \n939 \n395 \n532 \n2.025 \n3.268 \n263 \n63 \n1.746 \n3.883 \n1.914 \n643 \n428 \n2.877 \n526 \n329 \n317 \n42 \n2.672 \n7.938 \n9.317 \n133 \n658 \n1.170 \n1.025 \n555 \n209 \n506 \n521 \n3.811 \n96 \n520 \n400 \n30 \n568 \n374 \n648 \n225 \n759 \n3.136 \n18.560 \n418 \n8.743 \n3.603 \n849 \n541 \n663 \n171 \n4.186 \n159 \n811 \n15.596 \n163 \n10.930 \n6.427 \n317 \n2.733 \n298 \n3.891 \n528 \n4.899 \n82 \n188 \n239 \n260 \n1.895 \n112 \n1.673 \n1.092 \n106 \n1.114 \n500 \n552 \n377 \n219 \n750 \n5.492 \n469 \n470 \n2.868 \n3.801 \n3.652 \n379 \n107 \n335 \n1.916 \n711 \n501 \n1.844 \n635 \n1.364 \n1.655 \n494 \n505 \n759 \n10 \n174 \n11.958 \n307 \n580 \n727 \n807 \n165 \n573 \n2.059 \n854 \n728 \n1.121 \n106 \n542 \n1.335 \n13.978 \n1.261 \n1.048 \n88 \n211 \n1.548 \n340 \n321 \n523 \n4.705 \n325 \n2.278 \n827 \n148 \n156 \n499 \n4.656 \n734 \n3.150 \n1.872 \n119 \n2.150 \n339 \n7.505 \n524 \n596 ",
-          "Like-VerzeichnisNamen_": "Ein Europa für alle\nZüri autofrei \nKriPo FrauenSternli\nSparpaket weg\nLeckerbissen aus Blocheristan\naktiv@unia\nGrüne Basel-Stadt",
-          "Like-VerzeichnisGefälltMir_": "77\n461\n215\n1.030\n1.253\n10.306\n1.788"
+          "VorschlageNamen_": "Grüne Kanton Bern - Verts canton de Berne\nGrüne Baselland\nBDP Kanton Luzern\nSVP des Kantons Luzern\nGrünliberale Kanton Bern\nPro Velo beider Basel\nGrünliberale Zürich\nMustafa Atici\nQalam\nsur le pont\nLike Weinland - Kein Endlager im Zürcher Weinland\nLDP Liberal-Demokratische Partei Basel-Stadt\nUrs Hofmann – unser Regierungsrat\nFabian Eberhard\nAlexander Gröflin\nEVP Basel-Stadt\nCritical Mass Zurich\nNicole Müller-Boder\nAllianz gegen Sozis und Grüne\nJUSO JS Bielingue\nKlimastreik Basel\nNein zum Entwaffnungsdiktat der EU\nGrüne Bülach\nSchluss mit Kürzen\nGrüne Zürichsee\nZüri gäge WEF\numverkehR\nNEIN zum Unternehmenssteuer-Bschiss\nNEIN zum schleichenden EU-Beitritt\nBündnis buntes Schwyz\nCamille Lothe\nUnabhängige, Direkt Demokratische Schweiz\nBrennpunkt Schweiz\nJUSO Graubünden\nPdA Biel / POP Bienne\nZüri City Card\nJUSO Thurgau\nKarl der Grosse\nJunge Grüne Schaffhausen\nÜberzeit\nJUSO Kanton Schwyz\nGeneration Bildung\nAG Queer\nJUSO Uri\nJUSO Aargau\nKlimastadt Zürich\nYoung Struggle Schweiz\nReithalle Bern\nDachstock Reitschule\nReviravolta\nRadio RaBe\nChaostruppe\nSans-Papiers Anlaufstelle Zürich SPAZ\n25 Karat\nZiischtigsklub\nBlack Rat\nNo Borders, No Nations - Reitschule Sommerfest\nEltern fürs Klima\nAlternative Linke Bern\nZüri isst\nNein zum Hardturm-Bschiss\nThomas Matter\nStolze Openair\nJuso Oberaargau\nSender\nPartenza\nI love Wipkingen\neiszeit\nFussballstadion JA\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nEntlastungsinitiative\nNina in den Stadtrat\nHannah Pfalzgraf\nJunge SVP Kanton Bern\nKommando Avocado\nDampfbahn Verein Zürcher Oberland DVZO\nSandra Schneider official\nAG Umwelt\nStiftung Sport-Gymnasium Davos\nSolidarität mit Afrin\nSolidaritätsnetz Bern\nAndreas Lustenberger in den Nationalrat\nInfoportal Oberland\nHeidi Mück\nAdrian Amstutz\nHände weg von meiner Rente\nJUSO Zug\nErnährungsforum Zürich\nNEIN zum Schnüffelstaat\nThomas Aeschi\nGegenbewegung\nRigat bleibt\nClaudio Schmid\nNadja Pieren\nOpen Borders Caravan Bern\nJunge BDP Schweiz\nSP Kanton Bern - PS du canton de Berne\nVeloinitiative Stadt Zürich\nKathrin Schweizer\nFDP Kanton Zürich\nSRG Zentralschweiz\nMarkus Knauss\nSchlorian\nAxel McFoley\nAllianz gegen Sozis und Grüne replacement\nGegen den Schweizer Asylwahnsinn\nSP Töss\nMichelle Singer\nWelcome to Hell\nPlatzKultur\nDominic Täubert\nAnlaufstelle für Sans-Papiers Basel\nAline Trede\nJungfreisinnige Kanton Zürich\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nGränni\nResolut\nSolidaritätsbündnis mit ATIK - ATIK le dayanişma birliği\nPfasyl\nLukas Reimann\nWaffen Schweiz\nSP Kanton Aargau\nVélorution Suisse\nPatrick Walder\nmyblueplanet - climate actions\nJUSO Stadt St.Gallen\nCVP Basel-Stadt\n5ème ETAGE\nNils Fiechter\nDie Leiden der jungen Bertha\nSRF News Basel\nGebrauchskunst\nFrauen_streik Thun/BeO\nSP Schwarzenburg\nJunge Grüne Aargau\nTELE TOP\njunges grünes bündnis nordwest\nSVP des Kantons Zürich\nJunge Grünliberale\nTrΩtzphase\nUnia Aargau-Nordwestschweiz\nSHIFT\nAlbert Rösti\nJunge Grünliberale Bern\nZeig deinen Lohn",
+          "VorschlageGefalltMir_": "1.044 \n719 \n381 \n1.695 \n508 \n1.191 \n678 \n1.085 \n499 \n939 \n395 \n532 \n2.025 \n3.268 \n263 \n63 \n1.746 \n3.883 \n1.914 \n643 \n428 \n2.877 \n526 \n329 \n317 \n42 \n2.672 \n7.938 \n9.317 \n133 \n658 \n1.170 \n1.025 \n555 \n209 \n506 \n521 \n3.811 \n96 \n520 \n400 \n30 \n568 \n374 \n648 \n225 \n759 \n3.136 \n18.560 \n418 \n8.743 \n3.603 \n849 \n541 \n663 \n171 \n4.186 \n159 \n811 \n15.596 \n163 \n10.930 \n6.427 \n317 \n2.733 \n298 \n3.891 \n528 \n4.899 \n82 \n188 \n239 \n260 \n1.895 \n112 \n1.673 \n1.092 \n106 \n1.114 \n500 \n552 \n377 \n219 \n750 \n5.492 \n469 \n470 \n2.868 \n3.801 \n3.652 \n379 \n107 \n335 \n1.916 \n711 \n501 \n1.844 \n635 \n1.364 \n1.655 \n494 \n505 \n759 \n10 \n174 \n11.958 \n307 \n580 \n727 \n807 \n165 \n573 \n2.059 \n854 \n728 \n1.121 \n106 \n542 \n1.335 \n13.978 \n1.261 \n1.048 \n88 \n211 \n1.548 \n340 \n321 \n523 \n4.705 \n325 \n2.278 \n827 \n148 \n156 \n499 \n4.656 \n734 \n3.150 \n1.872 \n119 \n2.150 \n339 \n7.505 \n524 \n596 ",
+          "VerzeichnisNamen_": "Ein Europa für alle\nZüri autofrei \nKriPo FrauenSternli\nSparpaket weg\nLeckerbissen aus Blocheristan\naktiv@unia\nGrüne Basel-Stadt",
+          "VerzeichnisGefalltMir_": "77\n461\n215\n1.030\n1.253\n10.306\n1.788"
         },
         {
           "Profil_": "P1",
@@ -6254,10 +6254,10 @@ var data =
           "LinkBild_": "DS_B_22-04-19",
           "Bildname_": "ABB-P1-272",
           "Bildunterschriften_": "Widerständiger Rückblick auf eine Woche voller Rassismus",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6277,10 +6277,10 @@ var data =
           "LinkBild_": "DS_C_22-04-19",
           "Bildname_": "ABB-P1-273",
           "Bildunterschriften_": "Liefert pointierte Beobachtungen und harte Analysen: Reni Eddo-Lodge. Foto: Thomas Egli",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6300,10 +6300,10 @@ var data =
           "LinkBild_": "DS_D_22-04-19",
           "Bildname_": "ABB-P1-274",
           "Bildunterschriften_": "Jugendliche gehen auf die Strasse: Klimademonstration in Bern am 6. April. Foto: Susanne Keller",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6323,10 +6323,10 @@ var data =
           "LinkBild_": "DS_E_22-04-19",
           "Bildname_": "ABB-P1-275",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6346,10 +6346,10 @@ var data =
           "LinkBild_": "DS_F_22-04-19",
           "Bildname_": "ABB-P1-276",
           "Bildunterschriften_": "Klimawahnsinnige Heiligsprechung.Illustration: Wieslaw Smetek",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6369,10 +6369,10 @@ var data =
           "LinkBild_": "DS_G_22-04-19",
           "Bildname_": "ABB-P1-277",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6392,10 +6392,10 @@ var data =
           "LinkBild_": "DS_H_22-04-19",
           "Bildname_": "ABB-P1-278",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6415,10 +6415,10 @@ var data =
           "LinkBild_": "DS_I_22-04-19",
           "Bildname_": "ABB-P1-279",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6438,10 +6438,10 @@ var data =
           "LinkBild_": "DS_J_22-04-19",
           "Bildname_": "ABB-P1-280",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6461,10 +6461,10 @@ var data =
           "LinkBild_": "DS_A_23-04-19",
           "Bildname_": "ABB-P1-281",
           "Bildunterschriften_": "Fische im Meer, Quelle: https://pixabay.com/de/photos/meer-ozean-wasser-licht-fisch-79950/",
-          "Like-VorschlägeNamen_": "Grüne Kanton Bern - Verts canton de Berne\nGrüne Baselland\nFabian Eberhard\nBDP Kanton Luzern\nSVP des Kantons Luzern\nGrünliberale Kanton Bern\nNicole Müller-Boder\nKlimastreik Basel\nSchluss mit Kürzen\nGrünliberale Zürich\nQalam\nAllianz gegen Sozis und Grüne\nCritical Mass Zurich\nUrs Hofmann – unser Regierungsrat\nLike Weinland - Kein Endlager im Zürcher Weinland\nGrüne Zürichsee\nNEIN zum Unternehmenssteuer-Bschiss\nZüri City Card\nPdA Biel / POP Bienne\nReviravolta\nPartenza\nWilhelm Tell\nAlternative Linke Bern\nSans-Papiers Anlaufstelle Zürich SPAZ\nJUSO Kanton Schwyz\nAG Queer\nZüri gäge WEF\nÜberzeit\nReithalle Bern\nNo Borders, No Nations - Reitschule Sommerfest\nChaostruppe\nNein zum Entwaffnungsdiktat der EU\nKarl der Grosse\nJUSO Aargau\nJUSO JS Bielingue\nRadio RaBe\nDachstock Reitschule\nBündnis buntes Schwyz\nYoung Struggle Schweiz\neiszeit\nKlimastadt Zürich\nSP Stadt Bern\n25 Karat\nOja Schwamendingen\nSans-Papiers Schweiz\nJUSO Thurgau\nJUSO Uri\nBrennpunkt Schweiz\nZiischtigsklub\nUnabhängige, Direkt Demokratische Schweiz\nEltern fürs Klima\nBlack Rat\nStolze Openair\nZüri isst\nNEIN zum schleichenden EU-Beitritt\nSolidarität mit Afrin\nEntlastungsinitiative\nFussballstadion JA\nSender\nJUSO Graubünden\nNadja Pieren\nI love Wipkingen\nThomas Matter\nKritische JuristInnen Fribourg/Bern\nHannah Pfalzgraf\nHände weg von meiner Rente\nNina in den Stadtrat\nSCHWEIZ come back\nKommando Avocado\nJunge SVP Kanton Bern\nSchwarz Rot Bern\nJUSO Zürich Unterland\nNEIN zum Schnüffelstaat\nAG Umwelt\nJUSO Zug\nThomas Aeschi\nInfoportal Oberland\nGrüne Bülach\nJuso Oberaargau\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nStiftung Sport-Gymnasium Davos\nDampfbahn Verein Zürcher Oberland DVZO\nSandra Schneider official\nClaudio Schmid\nAnlaufstelle für Sans-Papiers Basel\nAxel McFoley\nCamille Lothe\nJunge SVP Kanton Zürich\nSchlorian\nAdrian Amstutz\nErnährungsforum Zürich\nKathrin Schweizer\nNein zur Zersiedelungsinitiative\nFDP Kanton Zürich\nSolidaritätsnetz Bern\nGina Kern, Nationalratskandidatin FDP\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nGrüne Kanton Solothurn\nAline Trede\nAUNS · Aktion für eine unabhängige und neutrale Schweiz\nNils Fiechter\nDominic Täubert\nAllianz gegen Sozis und Grüne replacement\nAster\nJunge Grüne Aargau\nJungfreisinnige Kanton Zürich\nOpen Borders Caravan Bern\nSRG Zentralschweiz\nOpen Eyes Balkanroute\nSVP des Kantons Zürich\nSRF News Basel\nJunge SVP Luzern\nResolut\nOstschweizer Komitee\nJunge BDP Schweiz\nPhilipp Eng\nGrüne Winterthur\nPfasyl\nSVP Durchsetzungs-Intiative\nSHIFT\nCVP Kanton Luzern\nFDP Growth Hack\nCVP Basel-Stadt\nSP Kanton Luzern\nJunge Grünliberale\nSmash Little WEF - No HSG-Symposium\nUnia Aargau-Nordwestschweiz\nmyblueplanet - climate actions\nLange Nacht der Kritik\nTELE TOP\nSP Kanton Bern - PS du canton de Berne\nGränni\nSecondas Zürich\nJunge SVP Schweiz\nSpiilplätz\nJunge SVP Basel-Stadt\nPlatzKultur\nAfD Schweiz\nJunge Grüne Region Thun\nJunge SVP Solothurn\nZeig deinen Lohn\nvpod region basel\nNZZ Format\nFDP.Die Liberalen Aargau\nRADIO TOP\nCie. Echolot\nDiana Gutjahr\nLukas Reimann",
-          "Like-VorschlägeGefälltMir_": "1.044 \n719 \n3.299 \n380 \n1.695 \n510 \n3.884 \n429 \n329 \n678 \n499 \n1.912 \n1.748 \n2.025 \n395 \n317 \n7.937 \n506 \n209 \n418 \n298 \n798 \n811 \n850 \n400 \n568 \n42 \n520 \n3.137 \n4.190 \n3.604 \n2.913 \n3.810 \n649 \n643 \n8.743 \n18.562 \n132 \n759 \n527 \n225 \n513 \n541 \n988 \n771 \n521 \n374 \n1.024 \n665 \n1.170 \n161 \n171 \n6.428 \n15.600 \n9.326 \n500 \n188 \n4.900 \n2.733 \n555 \n1.915 \n3.892 \n10.931 \n257 \n260 \n469 \n239 \n2.928 \n112 \n1.895 \n1.216 \n252 \n3.801 \n106 \n470 \n3.650 \n218 \n526 \n317 \n82 \n1.114 \n1.684 \n1.091 \n334 \n573 \n10 \n659 \n2.318 \n759 \n5.494 \n2.868 \n1.368 \n151 \n1.655 \n552 \n256 \n728 \n501 \n2.059 \n7.780 \n4.703 \n165 \n174 \n49 \n500 \n854 \n711 \n494 \n2.352 \n3.150 \n2.279 \n676 \n109 \n141 \n501 \n244 \n528 \n1.335 \n3.099 \n339 \n1.089 \n37 \n321 \n2.371 \n1.872 \n239 \n2.150 \n1.548 \n187 \n4.656 \n1.844 \n1.121 \n3.033 \n10.865 \n388 \n471 \n812 \n74 \n305 \n1.651 \n597 \n565 \n4.833 \n698 \n17.569 \n326 \n1.054 \n13.974 ",
-          "Like-VerzeichnisNamen_": "Grüne Kanton Bern\nGreenpeace Regionalgruppe Basel\nSolidarität mit Afrin\nRevirolta\nAlternative Linke\nDie Feministen",
-          "Like-VerzeichnisGefälltMir_": "1.048\n435\n501\n420\n814\n577"
+          "VorschlageNamen_": "Grüne Kanton Bern - Verts canton de Berne\nGrüne Baselland\nFabian Eberhard\nBDP Kanton Luzern\nSVP des Kantons Luzern\nGrünliberale Kanton Bern\nNicole Müller-Boder\nKlimastreik Basel\nSchluss mit Kürzen\nGrünliberale Zürich\nQalam\nAllianz gegen Sozis und Grüne\nCritical Mass Zurich\nUrs Hofmann – unser Regierungsrat\nLike Weinland - Kein Endlager im Zürcher Weinland\nGrüne Zürichsee\nNEIN zum Unternehmenssteuer-Bschiss\nZüri City Card\nPdA Biel / POP Bienne\nReviravolta\nPartenza\nWilhelm Tell\nAlternative Linke Bern\nSans-Papiers Anlaufstelle Zürich SPAZ\nJUSO Kanton Schwyz\nAG Queer\nZüri gäge WEF\nÜberzeit\nReithalle Bern\nNo Borders, No Nations - Reitschule Sommerfest\nChaostruppe\nNein zum Entwaffnungsdiktat der EU\nKarl der Grosse\nJUSO Aargau\nJUSO JS Bielingue\nRadio RaBe\nDachstock Reitschule\nBündnis buntes Schwyz\nYoung Struggle Schweiz\neiszeit\nKlimastadt Zürich\nSP Stadt Bern\n25 Karat\nOja Schwamendingen\nSans-Papiers Schweiz\nJUSO Thurgau\nJUSO Uri\nBrennpunkt Schweiz\nZiischtigsklub\nUnabhängige, Direkt Demokratische Schweiz\nEltern fürs Klima\nBlack Rat\nStolze Openair\nZüri isst\nNEIN zum schleichenden EU-Beitritt\nSolidarität mit Afrin\nEntlastungsinitiative\nFussballstadion JA\nSender\nJUSO Graubünden\nNadja Pieren\nI love Wipkingen\nThomas Matter\nKritische JuristInnen Fribourg/Bern\nHannah Pfalzgraf\nHände weg von meiner Rente\nNina in den Stadtrat\nSCHWEIZ come back\nKommando Avocado\nJunge SVP Kanton Bern\nSchwarz Rot Bern\nJUSO Zürich Unterland\nNEIN zum Schnüffelstaat\nAG Umwelt\nJUSO Zug\nThomas Aeschi\nInfoportal Oberland\nGrüne Bülach\nJuso Oberaargau\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nStiftung Sport-Gymnasium Davos\nDampfbahn Verein Zürcher Oberland DVZO\nSandra Schneider official\nClaudio Schmid\nAnlaufstelle für Sans-Papiers Basel\nAxel McFoley\nCamille Lothe\nJunge SVP Kanton Zürich\nSchlorian\nAdrian Amstutz\nErnährungsforum Zürich\nKathrin Schweizer\nNein zur Zersiedelungsinitiative\nFDP Kanton Zürich\nSolidaritätsnetz Bern\nGina Kern, Nationalratskandidatin FDP\nJunge Grüne Kanton Bern / Jeunes Vert-e-s Berne\nGrüne Kanton Solothurn\nAline Trede\nAUNS · Aktion für eine unabhängige und neutrale Schweiz\nNils Fiechter\nDominic Täubert\nAllianz gegen Sozis und Grüne replacement\nAster\nJunge Grüne Aargau\nJungfreisinnige Kanton Zürich\nOpen Borders Caravan Bern\nSRG Zentralschweiz\nOpen Eyes Balkanroute\nSVP des Kantons Zürich\nSRF News Basel\nJunge SVP Luzern\nResolut\nOstschweizer Komitee\nJunge BDP Schweiz\nPhilipp Eng\nGrüne Winterthur\nPfasyl\nSVP Durchsetzungs-Intiative\nSHIFT\nCVP Kanton Luzern\nFDP Growth Hack\nCVP Basel-Stadt\nSP Kanton Luzern\nJunge Grünliberale\nSmash Little WEF - No HSG-Symposium\nUnia Aargau-Nordwestschweiz\nmyblueplanet - climate actions\nLange Nacht der Kritik\nTELE TOP\nSP Kanton Bern - PS du canton de Berne\nGränni\nSecondas Zürich\nJunge SVP Schweiz\nSpiilplätz\nJunge SVP Basel-Stadt\nPlatzKultur\nAfD Schweiz\nJunge Grüne Region Thun\nJunge SVP Solothurn\nZeig deinen Lohn\nvpod region basel\nNZZ Format\nFDP.Die Liberalen Aargau\nRADIO TOP\nCie. Echolot\nDiana Gutjahr\nLukas Reimann",
+          "VorschlageGefalltMir_": "1.044 \n719 \n3.299 \n380 \n1.695 \n510 \n3.884 \n429 \n329 \n678 \n499 \n1.912 \n1.748 \n2.025 \n395 \n317 \n7.937 \n506 \n209 \n418 \n298 \n798 \n811 \n850 \n400 \n568 \n42 \n520 \n3.137 \n4.190 \n3.604 \n2.913 \n3.810 \n649 \n643 \n8.743 \n18.562 \n132 \n759 \n527 \n225 \n513 \n541 \n988 \n771 \n521 \n374 \n1.024 \n665 \n1.170 \n161 \n171 \n6.428 \n15.600 \n9.326 \n500 \n188 \n4.900 \n2.733 \n555 \n1.915 \n3.892 \n10.931 \n257 \n260 \n469 \n239 \n2.928 \n112 \n1.895 \n1.216 \n252 \n3.801 \n106 \n470 \n3.650 \n218 \n526 \n317 \n82 \n1.114 \n1.684 \n1.091 \n334 \n573 \n10 \n659 \n2.318 \n759 \n5.494 \n2.868 \n1.368 \n151 \n1.655 \n552 \n256 \n728 \n501 \n2.059 \n7.780 \n4.703 \n165 \n174 \n49 \n500 \n854 \n711 \n494 \n2.352 \n3.150 \n2.279 \n676 \n109 \n141 \n501 \n244 \n528 \n1.335 \n3.099 \n339 \n1.089 \n37 \n321 \n2.371 \n1.872 \n239 \n2.150 \n1.548 \n187 \n4.656 \n1.844 \n1.121 \n3.033 \n10.865 \n388 \n471 \n812 \n74 \n305 \n1.651 \n597 \n565 \n4.833 \n698 \n17.569 \n326 \n1.054 \n13.974 ",
+          "VerzeichnisNamen_": "Grüne Kanton Bern\nGreenpeace Regionalgruppe Basel\nSolidarität mit Afrin\nRevirolta\nAlternative Linke\nDie Feministen",
+          "VerzeichnisGefalltMir_": "1.048\n435\n501\n420\n814\n577"
         },
         {
           "Profil_": "P1",
@@ -6484,10 +6484,10 @@ var data =
           "LinkBild_": "DS_B_23-04-19",
           "Bildname_": "ABB-P1-282",
           "Bildunterschriften_": "„Links“. April 2019, Artikel von Natascha Wey",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6507,10 +6507,10 @@ var data =
           "LinkBild_": "DS_C_23-04-19",
           "Bildname_": "ABB-P1-283",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6530,10 +6530,10 @@ var data =
           "LinkBild_": "DS_D_23-04-19",
           "Bildname_": "ABB-P1-284",
           "Bildunterschriften_": "Selbst die zuständige Bundesrätin Karin Keller-Sutter wird scharf attackiert. (Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6553,10 +6553,10 @@ var data =
           "LinkBild_": "DS_E_23-04-19",
           "Bildname_": "ABB-P1-285",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6576,10 +6576,10 @@ var data =
           "LinkBild_": "DS_F_23-04-19",
           "Bildname_": "ABB-P1-286",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6599,10 +6599,10 @@ var data =
           "LinkBild_": "DS_G_23-04-19",
           "Bildname_": "ABB-P1-287",
           "Bildunterschriften_": "Ein Eisberg liegt vor dem Dorf Innaarsuit in Grönland. dpa/Susanne Eliassen",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6622,10 +6622,10 @@ var data =
           "LinkBild_": "DS_H_23-04-19",
           "Bildname_": "ABB-P1-288",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6645,10 +6645,10 @@ var data =
           "LinkBild_": "DS_I_23-04-19",
           "Bildname_": "ABB-P1-289",
           "Bildunterschriften_": "Die Stadtpolizei Zürich setzt am 1. Mai 2008 einen ihrer Wasserwerfer gegen einen Demonstranten ein. Bild: Steffen Schmidt/Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6668,10 +6668,10 @@ var data =
           "LinkBild_": "DS_J_23-04-19",
           "Bildname_": "ABB-P1-290",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6691,10 +6691,10 @@ var data =
           "LinkBild_": "DS_A_24-04-19",
           "Bildname_": "ABB-P1-291",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "Schluss mit Kürzen\neiszeit\nGrüne Zürichsee\nSP Stadt Bern\nKlimastreik Basel\nGrünliberale Zürich\nJunge Grüne St.Gallen\nFabian Eberhard\nSVP des Kantons Luzern\nKritische JuristInnen Fribourg/Bern\nGrüne Bülach\nUrs Hofmann – unser Regierungsrat\nSP Kanton Bern - PS du canton de Berne\nAndreas Lustenberger in den Nationalrat\nQalam\nNicole Müller-Boder\nJunge Alternative JA\nPartenza\nGrünes Bündnis Stadt Bern\nJunge Grüne Aargau\nAllianz gegen Sozis und Grüne\nSolidaritätsnetz Bern\nNon de Prêles\nVeloinitiative Stadt Zürich\nSwissmem Europe\nJUSO Thurgau\nPdA Biel / POP Bienne\nCritical Mass Zurich\nKarl der Grosse\nInfoladen Cigno Nero\nJUSO Kanton Schwyz\nGrünliberale Kanton Bern\nAG Queer\nJUSO JS Bielingue\nReithalle Bern\nJUSO Aargau\nJUSO Graubünden\nRadio RaBe\nKommando Avocado\nNein zum Entwaffnungsdiktat der EU\nZüri City Card\nBDP Kanton Luzern\nDachstock Reitschule\nFDP.Die Liberalen Aargau\nNEIN zum Unternehmenssteuer-Bschiss\nKlimastadt Zürich\n25 Karat\nGrüne Winterthur\nZüri gäge WEF\nSans-Papiers Schweiz\nBlack Rat\nGebrauchskunst\nZiischtigsklub\nChaostruppe\nJUSO Uri\nEltern fürs Klima\nZüri isst\nYoung Struggle Schweiz\nBrennpunkt Schweiz\nSender\nNEIN zum schleichenden EU-Beitritt\nEntlastungsinitiative\nFussballstadion JA\nStolze Openair\nNina in den Stadtrat\nWilhelm Tell\nI love Wipkingen\nSCHWEIZ come back\nUnabhängige, Direkt Demokratische Schweiz\nJA zur AHV-Steuervorlage\nJUSO Zürich Unterland\nHände weg von meiner Rente\nInfoportal Oberland\nNadja Pieren\nResolut\nCamille Lothe\nLaufbahnzentrum der Stadt Zürich\nFDP.Die Liberalen Kanton Thurgau\nAG Bibliotheken\nThomas Matter\nSchwarz Rot Bern\nJunge SVP Kanton Bern\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nSP Kanton St.Gallen\nBerner Energiegesetz JA / Loi bernoise sur l’énergie OUI\nNEIN zum Schnüffelstaat\nSP Zürich 3\nAG Umwelt\nJUSO Zug\nThomas Aeschi\nSandra Schneider official\nHeidi Mück\nClaudio Schmid\nJuso Oberaargau\nSP 6 und 10 Zürich\nAdrian Amstutz\nMissling\nOpen Eyes Balkanroute\nDampfbahn Verein Zürcher Oberland DVZO\nSabine Gerassimatos - DIE LINKE. Ludwigshafen\nGrünliberale Partei Graubünden\nStiftung Sport-Gymnasium Davos\nFranziska Zimmerli Huber\nJunge Grünliberale\nFDP.Die Liberalen Frauen Kanton Bern\nPrime News\nDem-Kurd Nordwestschweiz\nOpen Borders Caravan Bern\nCVP Basel-Stadt\nAline Trede\nNils Fiechter\nJeteur de Pierres\nAllianz gegen Sozis und Grüne replacement\nGina Kern, Nationalratskandidatin FDP\nAdrian Spahr\nFDP Kanton Zürich\nCVP Kanton Luzern\nDrumArosa\nKathrin Schweizer\nCampaign Camp Switzerland\nPhilipp Eng\nDominic Täubert\nSVP des Kantons Zürich\nHans-Ueli Vogt\nNein zur Zersiedelungsinitiative\nSRG Zentralschweiz\nWelcome to Hell\nFaires Lager\nJungfreisinnige Kanton Zürich\nPfasyl\nJunge BDP Schweiz\nGränni\nSHIFT\nLewin Lempert\nGrüne Kanton Solothurn\nStadtrat Daniel Leupi\nAnian Liebrand\nAktionswoche der Stadt Bern gegen Rassismus\nSP Thurgau\nElena Marti\nSEV young\nPro Infirmis\nPlatzKultur\nTrΩtzphase\nAfdS - Alternative für die Schweiz\nschussfreude.ch\nTELE TOP\nSpiilplätz\nKunstcafé „momäntum“\nCie. Echolot",
-          "Like-VorschlägeGefälltMir_": "329 \n527 \n317 \n513 \n430 \n679 \n417 \n3.302 \n1.695 \n257 \n526 \n2.025 \n1.845 \n377 \n499 \n3.886 \n545 \n298 \n526 \n500 \n1.912 \n553 \n298 \n635 \n2.614 \n521 \n209 \n1.749 \n3.812 \n452 \n400 \n510 \n568 \n643 \n3.136 \n648 \n556 \n8.746 \n112 \n2.937 \n507 \n380 \n18.562 \n698 \n7.935 \n225 \n541 \n528 \n42 \n771 \n171 \n827 \n666 \n3.602 \n374 \n161 \n15.606 \n759 \n1.026 \n2.733 \n9.331 \n188 \n4.900 \n6.430 \n239 \n799 \n3.891 \n2.928 \n1.172 \n183 \n252 \n469 \n218 \n1.918 \n109 \n663 \n591 \n762 \n141 \n10.930 \n1.216 \n1.895 \n82 \n1.512 \n566 \n3.801 \n309 \n106 \n470 \n3.650 \n1.091 \n750 \n334 \n317 \n412 \n5.494 \n412 \n2.352 \n1.689 \n162 \n316 \n1.114 \n207 \n1.872 \n243 \n1.843 \n256 \n711 \n321 \n2.059 \n4.702 \n1.771 \n174 \n256 \n1.638 \n1.654 \n1.089 \n842 \n1.370 \n558 \n244 \n165 \n3.151 \n4.660 \n152 \n495 \n727 \n546 \n854 \n1.335 \n501 \n1.120 \n339 \n385 \n501 \n330 \n360 \n1.850 \n509 \n902 \n391 \n17.060 \n812 \n119 \n33 \n539 \n4.655 \n388 \n406 \n326 ",
-          "Like-VerzeichnisNamen_": "Schluss mit Kürzen\nKlimastreik Basel\nSolidaritätsnetzwerk\nSP Kanton Bern\nGegenbewegung\nJunge Alternative JA",
-          "Like-VerzeichnisGefälltMir_": "330\n439\n553\n1.853\n379\n547"
+          "VorschlageNamen_": "Schluss mit Kürzen\neiszeit\nGrüne Zürichsee\nSP Stadt Bern\nKlimastreik Basel\nGrünliberale Zürich\nJunge Grüne St.Gallen\nFabian Eberhard\nSVP des Kantons Luzern\nKritische JuristInnen Fribourg/Bern\nGrüne Bülach\nUrs Hofmann – unser Regierungsrat\nSP Kanton Bern - PS du canton de Berne\nAndreas Lustenberger in den Nationalrat\nQalam\nNicole Müller-Boder\nJunge Alternative JA\nPartenza\nGrünes Bündnis Stadt Bern\nJunge Grüne Aargau\nAllianz gegen Sozis und Grüne\nSolidaritätsnetz Bern\nNon de Prêles\nVeloinitiative Stadt Zürich\nSwissmem Europe\nJUSO Thurgau\nPdA Biel / POP Bienne\nCritical Mass Zurich\nKarl der Grosse\nInfoladen Cigno Nero\nJUSO Kanton Schwyz\nGrünliberale Kanton Bern\nAG Queer\nJUSO JS Bielingue\nReithalle Bern\nJUSO Aargau\nJUSO Graubünden\nRadio RaBe\nKommando Avocado\nNein zum Entwaffnungsdiktat der EU\nZüri City Card\nBDP Kanton Luzern\nDachstock Reitschule\nFDP.Die Liberalen Aargau\nNEIN zum Unternehmenssteuer-Bschiss\nKlimastadt Zürich\n25 Karat\nGrüne Winterthur\nZüri gäge WEF\nSans-Papiers Schweiz\nBlack Rat\nGebrauchskunst\nZiischtigsklub\nChaostruppe\nJUSO Uri\nEltern fürs Klima\nZüri isst\nYoung Struggle Schweiz\nBrennpunkt Schweiz\nSender\nNEIN zum schleichenden EU-Beitritt\nEntlastungsinitiative\nFussballstadion JA\nStolze Openair\nNina in den Stadtrat\nWilhelm Tell\nI love Wipkingen\nSCHWEIZ come back\nUnabhängige, Direkt Demokratische Schweiz\nJA zur AHV-Steuervorlage\nJUSO Zürich Unterland\nHände weg von meiner Rente\nInfoportal Oberland\nNadja Pieren\nResolut\nCamille Lothe\nLaufbahnzentrum der Stadt Zürich\nFDP.Die Liberalen Kanton Thurgau\nAG Bibliotheken\nThomas Matter\nSchwarz Rot Bern\nJunge SVP Kanton Bern\nSofortmassnahmen jetzt - NEIN zum Rosengartenloch\nSP Kanton St.Gallen\nBerner Energiegesetz JA / Loi bernoise sur l’énergie OUI\nNEIN zum Schnüffelstaat\nSP Zürich 3\nAG Umwelt\nJUSO Zug\nThomas Aeschi\nSandra Schneider official\nHeidi Mück\nClaudio Schmid\nJuso Oberaargau\nSP 6 und 10 Zürich\nAdrian Amstutz\nMissling\nOpen Eyes Balkanroute\nDampfbahn Verein Zürcher Oberland DVZO\nSabine Gerassimatos - DIE LINKE. Ludwigshafen\nGrünliberale Partei Graubünden\nStiftung Sport-Gymnasium Davos\nFranziska Zimmerli Huber\nJunge Grünliberale\nFDP.Die Liberalen Frauen Kanton Bern\nPrime News\nDem-Kurd Nordwestschweiz\nOpen Borders Caravan Bern\nCVP Basel-Stadt\nAline Trede\nNils Fiechter\nJeteur de Pierres\nAllianz gegen Sozis und Grüne replacement\nGina Kern, Nationalratskandidatin FDP\nAdrian Spahr\nFDP Kanton Zürich\nCVP Kanton Luzern\nDrumArosa\nKathrin Schweizer\nCampaign Camp Switzerland\nPhilipp Eng\nDominic Täubert\nSVP des Kantons Zürich\nHans-Ueli Vogt\nNein zur Zersiedelungsinitiative\nSRG Zentralschweiz\nWelcome to Hell\nFaires Lager\nJungfreisinnige Kanton Zürich\nPfasyl\nJunge BDP Schweiz\nGränni\nSHIFT\nLewin Lempert\nGrüne Kanton Solothurn\nStadtrat Daniel Leupi\nAnian Liebrand\nAktionswoche der Stadt Bern gegen Rassismus\nSP Thurgau\nElena Marti\nSEV young\nPro Infirmis\nPlatzKultur\nTrΩtzphase\nAfdS - Alternative für die Schweiz\nschussfreude.ch\nTELE TOP\nSpiilplätz\nKunstcafé „momäntum“\nCie. Echolot",
+          "VorschlageGefalltMir_": "329 \n527 \n317 \n513 \n430 \n679 \n417 \n3.302 \n1.695 \n257 \n526 \n2.025 \n1.845 \n377 \n499 \n3.886 \n545 \n298 \n526 \n500 \n1.912 \n553 \n298 \n635 \n2.614 \n521 \n209 \n1.749 \n3.812 \n452 \n400 \n510 \n568 \n643 \n3.136 \n648 \n556 \n8.746 \n112 \n2.937 \n507 \n380 \n18.562 \n698 \n7.935 \n225 \n541 \n528 \n42 \n771 \n171 \n827 \n666 \n3.602 \n374 \n161 \n15.606 \n759 \n1.026 \n2.733 \n9.331 \n188 \n4.900 \n6.430 \n239 \n799 \n3.891 \n2.928 \n1.172 \n183 \n252 \n469 \n218 \n1.918 \n109 \n663 \n591 \n762 \n141 \n10.930 \n1.216 \n1.895 \n82 \n1.512 \n566 \n3.801 \n309 \n106 \n470 \n3.650 \n1.091 \n750 \n334 \n317 \n412 \n5.494 \n412 \n2.352 \n1.689 \n162 \n316 \n1.114 \n207 \n1.872 \n243 \n1.843 \n256 \n711 \n321 \n2.059 \n4.702 \n1.771 \n174 \n256 \n1.638 \n1.654 \n1.089 \n842 \n1.370 \n558 \n244 \n165 \n3.151 \n4.660 \n152 \n495 \n727 \n546 \n854 \n1.335 \n501 \n1.120 \n339 \n385 \n501 \n330 \n360 \n1.850 \n509 \n902 \n391 \n17.060 \n812 \n119 \n33 \n539 \n4.655 \n388 \n406 \n326 ",
+          "VerzeichnisNamen_": "Schluss mit Kürzen\nKlimastreik Basel\nSolidaritätsnetzwerk\nSP Kanton Bern\nGegenbewegung\nJunge Alternative JA",
+          "VerzeichnisGefalltMir_": "330\n439\n553\n1.853\n379\n547"
         },
         {
           "Profil_": "P1",
@@ -6714,10 +6714,10 @@ var data =
           "LinkBild_": "DS_B_24-04-19",
           "Bildname_": "ABB-P1-292",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6737,10 +6737,10 @@ var data =
           "LinkBild_": "DS_C_24-04-19",
           "Bildname_": "ABB-P1-293",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6760,10 +6760,10 @@ var data =
           "LinkBild_": "DS_D_24-04-19",
           "Bildname_": "ABB-P1-294",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6783,10 +6783,10 @@ var data =
           "LinkBild_": "DS_E_24-04-19",
           "Bildname_": "ABB-P1-295",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6806,10 +6806,10 @@ var data =
           "LinkBild_": "DS_F_24-04-19",
           "Bildname_": "ABB-P1-296",
           "Bildunterschriften_": "Unterrichtsraum; Quelle: pexels.com",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6829,10 +6829,10 @@ var data =
           "LinkBild_": "DS_G_24-04-19",
           "Bildname_": "ABB-P1-297",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6852,10 +6852,10 @@ var data =
           "LinkBild_": "DS_H_24-04-19",
           "Bildname_": "ABB-P1-298",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6875,10 +6875,10 @@ var data =
           "LinkBild_": "DS_I_24-04-19",
           "Bildname_": "ABB-P1-299",
           "Bildunterschriften_": "Screenshot: Facebook",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P1",
@@ -6898,10 +6898,10 @@ var data =
           "LinkBild_": "DS_J_24-04-19",
           "Bildname_": "ABB-P1-300",
           "Bildunterschriften_": "BREXIT-NASE: Premierministerin Theresa May killt mit Brexit die britische Wirtschaft. Skulptur vor dem Parlament in London. (Foto: Getty)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         }
     ],
     [
@@ -6923,10 +6923,10 @@ var data =
           "LinkBild_": "RH_A_26-03-19",
           "Bildname": "ABB-P2-001",
           "Bildunterschriften_": "Junge Angehörige der Waffen-SS werden im Norden Frankreichs von den Amerikanern gefangen genommen (Anfang September 1944). (Bild: Imago)",
-          "Like-VorschlägeNamen_": "MySports – Home of Sports\nAdieu Heimat\nWillisauer Bote\nClaudio Spescha\nVBZ Züri-Linie\nFußballstadion JA\nOja Schwamendingen",
-          "Like-VorschlägeGefälltMir_": "13.287 \n4.679 \n4.066 \n193 \n15.838 \n4.921 \n990 ",
-          "Like-VerzeichnisNamen_": "NZZ\nLuzerner Zeitung\nTagesspiegel\nDie Presse",
-          "Like-VerzeichnisGefälltMir_": "213.291\n27.367\n149.884\n189.282"
+          "VorschlageNamen_": "MySports – Home of Sports\nAdieu Heimat\nWillisauer Bote\nClaudio Spescha\nVBZ Züri-Linie\nFußballstadion JA\nOja Schwamendingen",
+          "VorschlageGefalltMir_": "13.287 \n4.679 \n4.066 \n193 \n15.838 \n4.921 \n990 ",
+          "VerzeichnisNamen_": "NZZ\nLuzerner Zeitung\nTagesspiegel\nDie Presse",
+          "VerzeichnisGefalltMir_": "213.291\n27.367\n149.884\n189.282"
         },
         {
           "Profil_": "P2",
@@ -6946,10 +6946,10 @@ var data =
           "LinkBild_": "RH_B_26-03-19",
           "Bildname": "ABB-P2-002",
           "Bildunterschriften_": "Der neue Zürcher Regierungsrat mit (v.l.n.r.) Jacqueline Fehr (sp.), Martin Neukom (gp.), Natalie Rickli (svp.), Mario Fehr (sp.), Silvia Steiner (cvp.), Ernst Stocker (svp.) und Carmen Walker Späh (fdp.). (Bild: Christoph Ruckstuhl / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -6969,10 +6969,10 @@ var data =
           "LinkBild_": "RH_C_26-03-19",
           "Bildname": "ABB-P2-003",
           "Bildunterschriften_": "Axel Voss, CDU-Europapolitiker, der das Vorhaben federführend mit den EU-Staaten verhandelt hat, appellierte an die Abgeordneten,...FOTO: JEAN-FRANCOIS BADIAS/AP/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -6992,10 +6992,10 @@ var data =
           "LinkBild_": "RH_D_26-03-19",
           "Bildname": "ABB-P2-004",
           "Bildunterschriften_": "Der Identitären-Anführer Martin Sellner.FOTO: IMAGO/IPON",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7015,10 +7015,10 @@ var data =
           "LinkBild_": "RH_E_26-03-19",
           "Bildname": "ABB-P2-005",
           "Bildunterschriften_": "Bahnhofsuhren als Teil einer Kunst-Installation.FOTO: DPA/FEDERICO GAMBARINI",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7038,10 +7038,10 @@ var data =
           "LinkBild_": "RH_F_26-03-19",
           "Bildname": "ABB-P2-006",
           "Bildunterschriften_": "Bisher sind Impfungen nicht verpflichtend, Behörden und Ärzte raten aber dringend dazu.FOTO: KAY NIETFELD/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7061,10 +7061,10 @@ var data =
           "LinkBild_": "RH_G_26-03-19",
           "Bildname": "ABB-P2-007",
           "Bildunterschriften_": "Am kommenden Wochenende wird übrigens wieder die Sommerzeit eingestellt. Die Uhren werden um 2 Uhr auf 3 Uhr gestellt. – APA/HELMUT FOHRINGER",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7084,10 +7084,10 @@ var data =
           "LinkBild_": "RH_H_26-03-19",
           "Bildname": "ABB-P2-008",
           "Bildunterschriften_": "Versicherungskarten verschiedener Krankenkassen. (Symbolbild: Gaetan Bally / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7107,10 +7107,10 @@ var data =
           "LinkBild_": "RH_I_26-03-19",
           "Bildname": "ABB-P2-009",
           "Bildunterschriften_": "Die Entscheide des Luzerner Kantonsrats vom 25. März in Kürze",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7130,10 +7130,10 @@ var data =
           "LinkBild_": "RH_J_26-03-19",
           "Bildname": "ABB-P2-010",
           "Bildunterschriften_": "Das britische Parlament hat Premierministerin Theresa May weitgehend das Heft aus der Hand genommen und will über Alternativen beim Brexit abstimmen. (Bild: Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7153,10 +7153,10 @@ var data =
           "LinkBild_": "RH_A_27-03-19",
           "Bildname": "ABB-P2-011",
           "Bildunterschriften_": "Prozess gegen die angeblichen Reichstagsbrandstifter, Berlin 1933",
-          "Like-VorschlägeNamen_": "VBZ Züri-Linie\nNein zum Entwaffnungsdiktat\nFussballstadion JA\nAllianz gegen Sozis und Grüne\nLukas Reimann\nAUNS – Aktion für eine unabhängige Schweiz\nBDP Kanton Luzern\nSchweizer Schiesssportverband\nPC-7 Team\nTschapatalpas\nEishockey News Schweiz\nOpenQuer Zell\nKritisch gedacht 2.0\nDimitri Rouge\nHerzlich Willkommen in der Schweiz\nFreestyleshow Sörenberg\nChristian Imark \nStar TV Switzerland\nDer beste Club der Schweiz\nSVP Kanton St.Gallen\nJSVP Thurgau \nWillisauer Bote\nClaudio Spescha\nshakashop.ch\nLeuppi Samir\nSVP Kanton Bern\nJunge Grüne Aargau\nJungallianz für das Klima",
-          "Like-VorschlägeGefälltMir_": "15.839 \n2.200 \n9.917 \n1.888 \n13.979 \n7.715 \n380 \n4.379 \n18.933\n1.244 \n1.389 \n1.266 \n11.255 \n2.168 \n99 \n1.034 \n999 \n2.659 \n2.914 \n907 \n667 \n4.068 \n194 \n1.532 \n1.536 \n2.953 \n497 \n873",
-          "Like-VerzeichnisNamen_": "Die Welt\nFocus Online\nFAZ-Frankfurter Allgemeine Zeitung\nBild",
-          "Like-VerzeichnisGefälltMir_": "997.358\n812.951\n534.952\n781.157"
+          "VorschlageNamen_": "VBZ Züri-Linie\nNein zum Entwaffnungsdiktat\nFussballstadion JA\nAllianz gegen Sozis und Grüne\nLukas Reimann\nAUNS – Aktion für eine unabhängige Schweiz\nBDP Kanton Luzern\nSchweizer Schiesssportverband\nPC-7 Team\nTschapatalpas\nEishockey News Schweiz\nOpenQuer Zell\nKritisch gedacht 2.0\nDimitri Rouge\nHerzlich Willkommen in der Schweiz\nFreestyleshow Sörenberg\nChristian Imark \nStar TV Switzerland\nDer beste Club der Schweiz\nSVP Kanton St.Gallen\nJSVP Thurgau \nWillisauer Bote\nClaudio Spescha\nshakashop.ch\nLeuppi Samir\nSVP Kanton Bern\nJunge Grüne Aargau\nJungallianz für das Klima",
+          "VorschlageGefalltMir_": "15.839 \n2.200 \n9.917 \n1.888 \n13.979 \n7.715 \n380 \n4.379 \n18.933\n1.244 \n1.389 \n1.266 \n11.255 \n2.168 \n99 \n1.034 \n999 \n2.659 \n2.914 \n907 \n667 \n4.068 \n194 \n1.532 \n1.536 \n2.953 \n497 \n873",
+          "VerzeichnisNamen_": "Die Welt\nFocus Online\nFAZ-Frankfurter Allgemeine Zeitung\nBild",
+          "VerzeichnisGefalltMir_": "997.358\n812.951\n534.952\n781.157"
         },
         {
           "Profil_": "P2",
@@ -7176,10 +7176,10 @@ var data =
           "LinkBild_": "RH_B_27-03-19",
           "Bildname": "ABB-P2-012",
           "Bildunterschriften_": "Ein Kindergeburtstag funktioniert auch ohne Plastikhalme! Und die Mitgebsel aus Plastik bitte reduzieren! Und die Tüte bitte aus Papier! © PICTURE-ALLIANCE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7199,10 +7199,10 @@ var data =
           "LinkBild_": "RH_C_27-03-19",
           "Bildname": "ABB-P2-013",
           "Bildunterschriften_": "Arzt und Wissenschaftsjournalist Eckart von Hirschhausen: Die Auswirkungen der zögerlichen Reaktion auf Impfprogramme sind für uns alle ein wachsendes Problem\nQuelle: picture alliance / Geisler-Fotop",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7222,10 +7222,10 @@ var data =
           "LinkBild_": "RH_D_27-03-19",
           "Bildname": "ABB-P2-014",
           "Bildunterschriften_": "Eine Frau demonstriert gegen die Schließung von Kitas. (Dpa) Susann Prautsch",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7245,10 +7245,10 @@ var data =
           "LinkBild_": "RH_E_27-03-19",
           "Bildname": "ABB-P2-015",
           "Bildunterschriften_": "Asylsuchende gehen über das Gelände der Erstaufnahmeeinrichtung in Neumünster.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7268,10 +7268,10 @@ var data =
           "LinkBild_": "RH_F_27-03-19",
           "Bildname": "ABB-P2-016",
           "Bildunterschriften_": "Kein Ende in Sicht: Bei einem «harten» Brexit dürften solche Lastwagen-Schlangen zum Alltag am Fährhafen von Dover werden. (Bild: Gareth Fuller / AP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7291,10 +7291,10 @@ var data =
           "LinkBild_": "RH_G_27-03-19",
           "Bildname": "ABB-P2-017",
           "Bildunterschriften_": "Stehen stellvertretend für die Siegerparteien vom Zürcher Wahlsonntag: Corina Gredig, Co-Präsidentin der Zürcher Grünliberalen (links), und Marionna Schlatter-Schmid, Präsidentin der Grünen im Kanton Zürich (rechts) am Sonntag im Medienzentrum Walche. (Bild: Walter Bieri / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7314,10 +7314,10 @@ var data =
           "LinkBild_": "RH_H_27-03-19",
           "Bildname": "ABB-P2-018",
           "Bildunterschriften_": "Nicht jeder Progressive ist auch liberal. (Bild: Christoph Ruckstuhl / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7337,10 +7337,10 @@ var data =
           "LinkBild_": "RH_I_27-03-19",
           "Bildname": "ABB-P2-019",
           "Bildunterschriften_": "Eines der zerstörten Wahlplakate in Grosswangen. (Bild: Angela Pfäffli)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7360,10 +7360,10 @@ var data =
           "LinkBild_": "RH_J_27-03-19",
           "Bildname": "ABB-P2-020",
           "Bildunterschriften_": "Theresa May blieb am Montag bei ihrem Kurs, das Parlament will am Mittwoch selbst die Richtung vorgeben. ",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7383,10 +7383,10 @@ var data =
           "LinkBild_": "RH_A_28-03-19",
           "Bildname": "ABB-P2-021",
           "Bildunterschriften_": "Millionen Autofahrer profitieren in diesem Jahr vom heftigen Preiskampf in der Versicherungsbranche. dpa/Marcel Kusch",
-          "Like-VorschlägeNamen_": "BDP Kanton Luzern\nSchweizer Schiesssportverband\nPC-7 Team\nTschapatalpas\nEishockey News Schweiz\nOpenQuer Zell\nVBZ Züri-Linie\nNein zum Entwaffnungsdiktat\nFussballstadion JA\nAllianz gegen Sozis und Grüne\nLukas Reimann\nAUNS – Aktion für eine unabhängige Schweiz\nKritisch gedacht 2.0\nDimitri Rouge\nHerzlich Willkommen in der Schweiz\nFreestyleshow Sörenberg\nChristian Imark\nStar TV Switzerland\nDer beste Club der Schweiz\nSVP Kanton St.Gallen\nJSVP Thurgau\nWillisauer Bote\nClaudio Spescha\nshakashop.ch\nLeuppi Samir\nSVP Kanton Bern\nJunge Grüne Aargau\nJungallianz für das Klima",
-          "Like-VorschlägeGefälltMir_": "380\n4.379\n18.933\n1.244\n1.389\n1.266\n15.839\n2.200\n9.917\n1.888\n13.979\n7.715\n11.255\n2.168\n99\n1.034\n999\n2.659\n2.914\n907\n667\n4.068\n194\n1.532\n1.536\n2.953\n497\n873",
-          "Like-VerzeichnisNamen_": "Basler Zeitung\nDie Weltwoche\nCicero\nHeute\nBDP Schweiz",
-          "Like-VerzeichnisGefälltMir_": "32.663\n18.215\n74.979\n218.017\n1.530"
+          "VorschlageNamen_": "BDP Kanton Luzern\nSchweizer Schiesssportverband\nPC-7 Team\nTschapatalpas\nEishockey News Schweiz\nOpenQuer Zell\nVBZ Züri-Linie\nNein zum Entwaffnungsdiktat\nFussballstadion JA\nAllianz gegen Sozis und Grüne\nLukas Reimann\nAUNS – Aktion für eine unabhängige Schweiz\nKritisch gedacht 2.0\nDimitri Rouge\nHerzlich Willkommen in der Schweiz\nFreestyleshow Sörenberg\nChristian Imark\nStar TV Switzerland\nDer beste Club der Schweiz\nSVP Kanton St.Gallen\nJSVP Thurgau\nWillisauer Bote\nClaudio Spescha\nshakashop.ch\nLeuppi Samir\nSVP Kanton Bern\nJunge Grüne Aargau\nJungallianz für das Klima",
+          "VorschlageGefalltMir_": "380\n4.379\n18.933\n1.244\n1.389\n1.266\n15.839\n2.200\n9.917\n1.888\n13.979\n7.715\n11.255\n2.168\n99\n1.034\n999\n2.659\n2.914\n907\n667\n4.068\n194\n1.532\n1.536\n2.953\n497\n873",
+          "VerzeichnisNamen_": "Basler Zeitung\nDie Weltwoche\nCicero\nHeute\nBDP Schweiz",
+          "VerzeichnisGefalltMir_": "32.663\n18.215\n74.979\n218.017\n1.530"
         },
         {
           "Profil_": "P2",
@@ -7406,10 +7406,10 @@ var data =
           "LinkBild_": "RH_B_28-03-19",
           "Bildname": "ABB-P2-022",
           "Bildunterschriften_": "Militärischer Beobachtungspunkt auf den von Israel annektierten Golanhöhen an der syrischen Grenze",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7429,10 +7429,10 @@ var data =
           "LinkBild_": "RH_C_28-03-19",
           "Bildname": "ABB-P2-023",
           "Bildunterschriften_": "Sozial eckig, menschenscheu, starrköpfig: Hat sich Theresa May selbst ins Aus manövriert? / picture alliance",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7452,10 +7452,10 @@ var data =
           "LinkBild_": "RH_D_28-03-19",
           "Bildname": "ABB-P2-024",
           "Bildunterschriften_": "Die Wähler verweigern ihren Regierungen zunehmend die Gefolgschaft. Ist die EU am Ende? picture alliance",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7475,10 +7475,10 @@ var data =
           "LinkBild_": "RH_E_28-03-19",
           "Bildname": "ABB-P2-025",
           "Bildunterschriften_": "Imke Wübbenhorst hört am Ende der Saison als Trainerin in der Männer-Oberliga auf. Mit ihrer Premiere hatte sie Fußball-Geschichte geschrieben. So beschrieb die Übungsleiterin vom BV Cloppenburg ihre Gefühle und Hoffnungen vor ihrem Debüt. Quelle: SID",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7498,10 +7498,10 @@ var data =
           "LinkBild_": "RH_F_28-03-19",
           "Bildname": "ABB-P2-026",
           "Bildunterschriften_": "Zusatzfinanzierung einen wichtigen Beitrag dazu. Das Problem muss angegangen und nicht mehr weiter vor uns hergeschoben werden. Deshalb Ja zur mehrheitsfähigen STAF.“ Nationalrätin Rosmarie Quadranti",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7521,10 +7521,10 @@ var data =
           "LinkBild_": "RH_G_28-03-19",
           "Bildname": "ABB-P2-027",
           "Bildunterschriften_": "Bundeshaus in Bern Foto: Bern Welcome",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7544,10 +7544,10 @@ var data =
           "LinkBild_": "RH_H_28-03-19",
           "Bildname": "ABB-P2-028",
           "Bildunterschriften_": "Innenminister Herbert Kickl (FPÖ) im Rahmen einer Sitzung des Nationalrates im Parlamentsausweichquartier in der Hofburg in Wien am Donnerstag, 28. März 2019. (Bild: picturedesk.com)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7567,10 +7567,10 @@ var data =
           "LinkBild_": "RH_I_28-03-19",
           "Bildname": "ABB-P2-029",
           "Bildunterschriften_": "Noch immer ist nicht klar, was die Klimaaktivisten konkret fordern. Bild: Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7590,10 +7590,10 @@ var data =
           "LinkBild_": "RH_J_28-03-19",
           "Bildname": "ABB-P2-030",
           "Bildunterschriften_": "Unpolitische Jugend: Die Schüler demonstrieren für ein Thema, das seit Jahren die politische Agenda füllt. Bild: Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7613,10 +7613,10 @@ var data =
           "LinkBild_": "RH_A_29-03-19",
           "Bildname": "ABB-P2-031",
           "Bildunterschriften_": "Neuseelands Premierministerin Jacinda Ardern begrüßt während der nationalen Gedenkveranstaltung mit einer Geste die Hinterbliebenen der Opfer des Anschlags auf zwei Moscheen in Christchurch.",
-          "Like-VorschlägeNamen_": "VBZ Züri-Linie\nFussballstadion JA\nNein zum Entwaffnungsdiktat\nAllianz gegen Sozis und Grüne\nSchweizer Schiesssportverband\nLukas Reimann\nBDP Kanton Luzern\nAUNS – Aktion für eine unabhängige Schweiz\nTschapatalpas\nFreestyleshow Sörenberg\nEishockey News Schweiz\nOpenQuer Zell\nPC-7 Team\nVogt Waffen AG\nChristian Imark\nDer beste Club der Schweiz\nBaumeisterverband\nKdo Kata Hi Ber Bat\nHerzlich Willkommen in der Schweiz\nLeuppi Samir\nshakashop.ch\nClaudio Spescha\nSörenberg\nDimitri Rougy\nSVP Kanton Bern\nWillisauer Bote\nStar TV Switzerland\nSkiregion Adelboden-Lenk\nCredit Suisse Sports Awards\nJungallianz für das Klima\nrontaler.ch\nJugendparlament Aargau",
-          "Like-VorschlägeGefälltMir_": "15.839\n4.916\n2.204\n1.888\n4.379\n13.978\n380\n7.716\n1.244\n1.034\n1.390\n1.267\n18.934\n3.906\n999\n2.914\n1.949\n4.520\n99\n1.536\n1.532\n194\n2.255\n2.168\n2.955\n4.068\n2.659\n5.705\n4.241\n873\n3.832\n399",
-          "Like-VerzeichnisNamen_": "Lukas Reimann\nChristian Imark\nSVP Kanton Bern\nAllianz gegen Sozis und Grüne\nNein zum Entwaffnungsdiktat der EU",
-          "Like-VerzeichnisGefälltMir_": "13.972\n359\n2.970\n1.908\n3.008"
+          "VorschlageNamen_": "VBZ Züri-Linie\nFussballstadion JA\nNein zum Entwaffnungsdiktat\nAllianz gegen Sozis und Grüne\nSchweizer Schiesssportverband\nLukas Reimann\nBDP Kanton Luzern\nAUNS – Aktion für eine unabhängige Schweiz\nTschapatalpas\nFreestyleshow Sörenberg\nEishockey News Schweiz\nOpenQuer Zell\nPC-7 Team\nVogt Waffen AG\nChristian Imark\nDer beste Club der Schweiz\nBaumeisterverband\nKdo Kata Hi Ber Bat\nHerzlich Willkommen in der Schweiz\nLeuppi Samir\nshakashop.ch\nClaudio Spescha\nSörenberg\nDimitri Rougy\nSVP Kanton Bern\nWillisauer Bote\nStar TV Switzerland\nSkiregion Adelboden-Lenk\nCredit Suisse Sports Awards\nJungallianz für das Klima\nrontaler.ch\nJugendparlament Aargau",
+          "VorschlageGefalltMir_": "15.839\n4.916\n2.204\n1.888\n4.379\n13.978\n380\n7.716\n1.244\n1.034\n1.390\n1.267\n18.934\n3.906\n999\n2.914\n1.949\n4.520\n99\n1.536\n1.532\n194\n2.255\n2.168\n2.955\n4.068\n2.659\n5.705\n4.241\n873\n3.832\n399",
+          "VerzeichnisNamen_": "Lukas Reimann\nChristian Imark\nSVP Kanton Bern\nAllianz gegen Sozis und Grüne\nNein zum Entwaffnungsdiktat der EU",
+          "VerzeichnisGefalltMir_": "13.972\n359\n2.970\n1.908\n3.008"
         },
         {
           "Profil_": "P2",
@@ -7636,10 +7636,10 @@ var data =
           "LinkBild_": "RH_B_29-03-19",
           "Bildname": "ABB-P2-032",
           "Bildunterschriften_": "Samuel Krähenbühl, Grossrat SVP",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7659,10 +7659,10 @@ var data =
           "LinkBild_": "RH_C_29-03-19",
           "Bildname": "ABB-P2-033",
           "Bildunterschriften_": "Im besonderen Fokus der Untersuchung steht der Kiesstandort Rubigen.\n(Bild: Adrian Moser)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7682,10 +7682,10 @@ var data =
           "LinkBild_": "RH_D_29-03-19",
           "Bildname": "ABB-P2-034",
           "Bildunterschriften_": "«Jeder kann sich verbessern»: Professorin Carollo.Bild: Lukas Mäder fÜr die Weltwoche",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7705,10 +7705,10 @@ var data =
           "LinkBild_": "RH_E_29-03-19",
           "Bildname": "ABB-P2-035",
           "Bildunterschriften_": "Unverbindlichkeit und Beliebigkeit: Swiss-Re-Hauptsitz am ZÜrcher Mythenquai in Regenbogenfarben.Bild: Twitter (SwissRe)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7728,10 +7728,10 @@ var data =
           "LinkBild_": "RH_F_29-03-19",
           "Bildname": "ABB-P2-036",
           "Bildunterschriften_": "Van der Bellen verteidigt das Foto mit Identiären-Chef Martin Sellner. (Bild: ORF, picturedesk.com, Montage)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7751,10 +7751,10 @@ var data =
           "LinkBild_": "RH_G_29-03-19",
           "Bildname": "ABB-P2-037",
           "Bildunterschriften_": "Jordan Peterson, kanadischer Psychologe und Kulturkritiker, Streiter gegen die politische KorrektheitFOTO: GAGE SKIDMORE/FLICKR.COM/CC BY-SA 2.0",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7774,10 +7774,10 @@ var data =
           "LinkBild_": "RH_H_29-03-19",
           "Bildname": "ABB-P2-038",
           "Bildunterschriften_": "Klima-Demonstrationen von jungen Menschen gibt es in zahlreichen Städten auf der Welt. In Medellin in Kolumbien gehörte am 15. März 2019 auch das Thema Luftverschmutzung dazu. (Bild: Luis Eduardo Noriega A. / EPA)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7797,10 +7797,10 @@ var data =
           "LinkBild_": "RH_I_29-03-19",
           "Bildname": "ABB-P2-039",
           "Bildunterschriften_": "Chancengleichheit steht für «gleiche Lernvoraussetzungen bei der Einschulung wie bei den einzelnen Übergängen im Bildungssystem». (Bild: Gian Ehrenzeller / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7820,10 +7820,10 @@ var data =
           "LinkBild_": "RH_J_29-03-19",
           "Bildname": "ABB-P2-040",
           "Bildunterschriften_": "Archivbild: Ermittlungsarbeit nach einem der versuchten Anschläge – APA/dpa/Daniel Karmann",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7843,10 +7843,10 @@ var data =
           "LinkBild_": "RH_A_30-03-19",
           "Bildname": "ABB-P2-041",
           "Bildunterschriften_": "Rechtsextreme treffen sich im August 2017 unter dem Motto «Vereinigt die Rechte» in Charlottesville (USA). (Bild: Alejandro Alvarez / Reuters)",
-          "Like-VorschlägeNamen_": "AUNS – Aktion für eine unabhängige Schweiz\nProtell – Gesellschaft für ein freiheitliches Waffenrecht\nCamille Lotte\nSamira Marti\nFabian Molina\nMichelle Singer\nVBZ Zürich-Linie\nFDP\nSchweizer Waffensammler\nOja Schwammendingen\nKameradschaft Heimattreu\nVogt Waffen AG\nFinger weg vom Schweizer Waffenrecht\nJUSO – Die wohl unnötigste Partei der Schweiz\nJoray Marius Waffen und Feinmechanik\nSP Kanton Aargau\nVerein Militär- und Festungsmuseum Full-Reuenthal\nschussfreunde.ch\nJunge SVP Kanton Bern\nVerein Pro Flugplatz Meiningen\nFussballstation JA\nPanzerbataillon 12\nLuzia Franzini\nErich Hess\nMechanisiertes Bataillon 29\nPro Schweizer Luftwaffe\nJunge Grünliberale Zürich\nSolothurn machts vor\nWillisauer Bote\nBDP Kanton Luzern\nGSOA – Gruppe für eine Schweiz ohne Armee\nJSVP Uri\nAxel McFoley\nJunge Grünliberale beider Basel\nJunge SVP Solothurn\nPatrick Räbmatter\nAargauer Kantonaler Schwingclub\nJUSO Kanton Luzern\nJunge SVP Kanton Zürich\nBerner Bauern Verband\nFreestyleshow Sörenberg\nPC-7 Team\nTschapatalpas\nNils Fiechter\nCopwatch Bern\nOpenQuer Zell\nJunge CVP Kanton Solothurn\nDer beste Club der Schweiz\nRestaurant Frohsinn Nunningen\nGebrüder Frankhauser\nAschbecher Matthias\nEishockey News Schweiz\nKdo Kata Hi Ber Bat\nJSVP Thurgau\nSchlössli Pub – Back to the roots\nBegrenzungsinitiative\nKanton Aargau\nClaudio Spescha\nWachhund Willy\nJungfreisinnige Kanton Zürich\nKampaweb\nNein zur Zersiedelungsinitiative\nSörenberg\nJunge Grüne Aargau\nAlternative – Die Grünen Kanton Zug\nLeuppi Samir\nwe-feel-good.ch\nshakashop.ch\nJungallianz für das Klima\nBruno Gisler\nBratwürste legalisieren - Ja zum Arbeitsgesetz\nWelt Reporter\nrontaler.ch",
-          "Like-VorschlägeGefälltMir_": "7.718\n3.938\n650\n1.184\n4.731\n576\n15.839\n12.191\n711\n991\n220\n3.906\n9.798\n216\n647\n1.048\n2.305\n496\n1.887\n1.449\n4.913\n2.565\n308\n2.551\n2.410\n3.636\n503\n55\n4.069\n380\n8.353\n531\n11\n176\n1.646\n1.932\n1.547\n654\n2.307\n1.903\n1.034\n18.935\n1.244\n4.706\n1.243\n1.267\n506\n2.914\n508\n2.344\n1.911\n1.391\n4.520\n667\n963\n1.230\n10.844\n194\n1.269\n850\n671\n149\n2.255\n497\n496\n1.537\n1.312\n1.532\n873\n1.508\n1.486\n5.867\n3.831",
-          "Like-VerzeichnisNamen_": "Camille Lothe\nProtell – Gesellschaft für ein freiheitliches Waffenrecht\nMichelle Singer\nKameradschaft Heimattreu\nFinger weg vom Schweizer Waffenrecht\nJUSO – Die wohl unnötigste Partei der Schweiz\nJunge SVP Schweiz\nErich Hess\nJournal 21",
-          "Like-VerzeichnisGefälltMir_": "666\n4.124\n583\n237\n9.839\n223\n10.862\n2.546\n1.920"
+          "VorschlageNamen_": "AUNS – Aktion für eine unabhängige Schweiz\nProtell – Gesellschaft für ein freiheitliches Waffenrecht\nCamille Lotte\nSamira Marti\nFabian Molina\nMichelle Singer\nVBZ Zürich-Linie\nFDP\nSchweizer Waffensammler\nOja Schwammendingen\nKameradschaft Heimattreu\nVogt Waffen AG\nFinger weg vom Schweizer Waffenrecht\nJUSO – Die wohl unnötigste Partei der Schweiz\nJoray Marius Waffen und Feinmechanik\nSP Kanton Aargau\nVerein Militär- und Festungsmuseum Full-Reuenthal\nschussfreunde.ch\nJunge SVP Kanton Bern\nVerein Pro Flugplatz Meiningen\nFussballstation JA\nPanzerbataillon 12\nLuzia Franzini\nErich Hess\nMechanisiertes Bataillon 29\nPro Schweizer Luftwaffe\nJunge Grünliberale Zürich\nSolothurn machts vor\nWillisauer Bote\nBDP Kanton Luzern\nGSOA – Gruppe für eine Schweiz ohne Armee\nJSVP Uri\nAxel McFoley\nJunge Grünliberale beider Basel\nJunge SVP Solothurn\nPatrick Räbmatter\nAargauer Kantonaler Schwingclub\nJUSO Kanton Luzern\nJunge SVP Kanton Zürich\nBerner Bauern Verband\nFreestyleshow Sörenberg\nPC-7 Team\nTschapatalpas\nNils Fiechter\nCopwatch Bern\nOpenQuer Zell\nJunge CVP Kanton Solothurn\nDer beste Club der Schweiz\nRestaurant Frohsinn Nunningen\nGebrüder Frankhauser\nAschbecher Matthias\nEishockey News Schweiz\nKdo Kata Hi Ber Bat\nJSVP Thurgau\nSchlössli Pub – Back to the roots\nBegrenzungsinitiative\nKanton Aargau\nClaudio Spescha\nWachhund Willy\nJungfreisinnige Kanton Zürich\nKampaweb\nNein zur Zersiedelungsinitiative\nSörenberg\nJunge Grüne Aargau\nAlternative – Die Grünen Kanton Zug\nLeuppi Samir\nwe-feel-good.ch\nshakashop.ch\nJungallianz für das Klima\nBruno Gisler\nBratwürste legalisieren - Ja zum Arbeitsgesetz\nWelt Reporter\nrontaler.ch",
+          "VorschlageGefalltMir_": "7.718\n3.938\n650\n1.184\n4.731\n576\n15.839\n12.191\n711\n991\n220\n3.906\n9.798\n216\n647\n1.048\n2.305\n496\n1.887\n1.449\n4.913\n2.565\n308\n2.551\n2.410\n3.636\n503\n55\n4.069\n380\n8.353\n531\n11\n176\n1.646\n1.932\n1.547\n654\n2.307\n1.903\n1.034\n18.935\n1.244\n4.706\n1.243\n1.267\n506\n2.914\n508\n2.344\n1.911\n1.391\n4.520\n667\n963\n1.230\n10.844\n194\n1.269\n850\n671\n149\n2.255\n497\n496\n1.537\n1.312\n1.532\n873\n1.508\n1.486\n5.867\n3.831",
+          "VerzeichnisNamen_": "Camille Lothe\nProtell – Gesellschaft für ein freiheitliches Waffenrecht\nMichelle Singer\nKameradschaft Heimattreu\nFinger weg vom Schweizer Waffenrecht\nJUSO – Die wohl unnötigste Partei der Schweiz\nJunge SVP Schweiz\nErich Hess\nJournal 21",
+          "VerzeichnisGefalltMir_": "666\n4.124\n583\n237\n9.839\n223\n10.862\n2.546\n1.920"
         },
         {
           "Profil_": "P2",
@@ -7866,10 +7866,10 @@ var data =
           "LinkBild_": "RH_B_30-03-19",
           "Bildname": "ABB-P2-042",
           "Bildunterschriften_": "Mehr als 10.000 Schüler sind am Freitag in Berlin für den Klimaschutz auf die Straße gegangen. Mit dabei: Greta Thunberg, die Gründerin der „Fridays for Future“-Bewegung. Sehen Sie hier ihre Rede vor dem Brandenburger Tor. Quelle: Welt",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7889,10 +7889,10 @@ var data =
           "LinkBild_": "RH_C_30-03-19",
           "Bildname": "ABB-P2-043",
           "Bildunterschriften_": "Greta Thunberg am Freitag in Berlin. © AFP ",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7912,10 +7912,10 @@ var data =
           "LinkBild_": "RH_D_30-03-19",
           "Bildname": "ABB-P2-044",
           "Bildunterschriften_": "Einwanderer aus Tunesien, aufgenommen in Paris. © DAPD",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7935,10 +7935,10 @@ var data =
           "LinkBild_": "RH_E_30-03-19",
           "Bildname": "ABB-P2-045",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7958,10 +7958,10 @@ var data =
           "LinkBild_": "RH_F_30-03-19",
           "Bildname": "ABB-P2-046",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -7981,10 +7981,10 @@ var data =
           "LinkBild_": "RH_G_30-03-19",
           "Bildname": "ABB-P2-047",
           "Bildunterschriften_": "Hat seiner Partei mit seiner Anfrage wahrscheinlich keinen Gefallen getan: der saarländische AfD-Landtagsabgeordnete Rudolf Müller. © DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8004,10 +8004,10 @@ var data =
           "LinkBild_": "RH_H_30-03-19",
           "Bildname": "ABB-P2-048",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8027,10 +8027,10 @@ var data =
           "LinkBild_": "RH_I_30-03-19",
           "Bildname": "ABB-P2-049",
           "Bildunterschriften_": "Durch dieses Rohr nahe der Küste von Lubmin soll bereits Ende dieses Jahres russisches Gas nach Europa strömen. (Sean Gallup/Getty, 16. August 2018)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8050,10 +8050,10 @@ var data =
           "LinkBild_": "RH_J_30-03-19",
           "Bildname": "ABB-P2-050",
           "Bildunterschriften_": "George Clooney mit seiner Ehefrau. – REUTERS",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8073,10 +8073,10 @@ var data =
           "LinkBild_": "ds",
           "Bildname": "ABB-P2-051",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "Waffenrecht-Schengen JA\nMeldezentrale für Nicht-Linke\nJunge SVP Zürich\nJa zum Verhüllungsverbot\nJUSO Schweiz\nSchweizer wählen SVP – Frei bleiben\nWeissenstein-Schwinget\nEishockey News Schweiz\nSina Melissa Siegenthaler-SBX\nSchweizer Waffensammler\nschussfreude.ch\nJUSO Stadt Bern\nNein zum Asylrechtmissbrauch\nAAA Alpine Air Ambulance AG\nSifa – Sicherheit für alle\nNils Fiechter\nJunge SVP Baselland\nSpin-Cast-CH\nJoray Marius Waffen und Feinmechanik\nWeniger EU Diktatur - Mehr Schweizer Demokratie\nMotospeaker Chris Berger\nGält hä\nBEO Rail\nOja Schwammendingen\nFDP Bezirk Dielsdorf\nVogt Waffen AG\nVerein Militär- und Festungsmuseum Full-Reuenthal\nFBW Museum Wetzikon\nBenjamin Fischer\nJunge SVP Aargau\nJunge SVP Solothurn\nWaffen Schweiz\nAdrian Spahr\nJunge Grüne Kanton Bern\nMike Müllestein\nJunge SVP Basel-Stadt\nJodlerterzett Miär drei\nThomas Inniger\nKampfsportschule Aarau - Karate, Qi Gong, Tai Chi, Yoga\nJunge SVP Kanton St.Gallen\nSidecarcross Crew Luzern\nSVP Kanton Schwyz\nVerein Pro Flugplatz Meiningen\nFabian Molina\nFussballstaion JA\nÄlplergmüet\nDSJ – FSPJ – FSPG\nSchweizer Armee\nSamira Marti\nGSOG – Gruppe für eine Schweizer Armee\nSTFW – Schweizerische Technische Fachschule\nAxel McFoley\nHunterverein Obersimmenthal\nlet-it-print GmbH\nJunge SVP Oberland-See\nMichael Eisener\nBasel Nazifrei\nJungfreisinnige Thurgau\nKessler Auktionen AG\nAntifa Eidgenossenschaft\nSpitalbataillon 66\nswiss-wings.ch\nBDP Kanton Luzern\nArtikel 2\nSuper Puma Display Team\nMechanisiertes Bataillon 29\nLuftwaffen Trainingskommandant\nVerein Schweizer Armeefreunde\nE-Voting-Moratorium\nPanzerbataillon 12\nJunge SVP Luzern\nJUSO Zürich Oberland\nJungfreisinnige Stadt Zürich\nInf Bat 13\nFussverkehr Schweiz\nCopwatch Bern\nLuana Flütsch\nSVP Aargau\nHC Seetal – Offizielle Facebookgruppe\nPhilipp Alex Gehrig\nBerner Bauern Verband\nPatrick Räbmatter\nIG Flughafen Zürich\nLuzian Franzini\nAargauer Kantonaler Schwingerverband\nNico Zobrist\nJoel Stutz\nTschapatalpas\nAeschbacher Matthias\nDiebetormtöibeler Sursee\nJSVP Uri\nWillisauer Bote\nJunge BDP Kanton Bern\nGSOA – Gruppe für eine Schweiz ohne Armee\nFabian Wyssen\nGeschwister Egli\nJungfreisinnige Kanton Zürich\nOpenQuer Zell\nSchweizerischer Ziegenzuchtverband\nJa zum Grenzschutz\nEhemaliges Kata Hi Bat 34\nJunge Grünliberale Luzern\nVimentis - Für die Zukunft der Schweiz\nJunge CVP Kanton Solothurn\nMike Egger wieder in den Nationalrat\nSchweizer Schiesssportverband\nEgalco.fem.\nLüönd Baggerbetrieb\nDer beste Club der Schweiz\nLuzerner Sinfonieorchester\nGebrüder Frankhauser\nChristian Stucki\nAutoverwertung Truninger AG\nGeissenparadies Göscheneralptal\ntransfermarkt.ch\nLuka Takoa\nJUSO Uri\nBMB Lenggenhager\nEduwys Orgele\nLeicht-Blick Music\nStadler Transportunternehmen\nWaffenhaus Schneider\nIdee@gravur\nKanton Aargau\nDer Funghi\nJunge Economie Suisse\nKriegsgeschäfte-Initiative\nNein zur Zersiedelungsinitiative\nCockpit\nCraigh\nPhilippe Tschopp\nPit Stop Events\nFahrschule – freudiger fahren\nArmon Orlik\nAero-Club der Schweiz\nJunge Grüne Aargau\nPM Montage Elektrik AG\nElia Leiser\nNein zur halb Milionärssteuer\nshakashop.ch\nskynews.ch\nDiagnose: Eidgenosse\nLeuppi Samir\nBruno Gisler\nEidgenossen sind Rassisten\nKonsumentenforum kf\nSwisscoy Veterans\nPfade Steinbruch – Ostermundigen\nCuminivel\nSwissint\nBiketrails Films\nSWORD Airsoft\nUnited Unicorns – Official",
-          "Like-VorschlägeGefälltMir_": "514\n42\n2.305\n2.990\n8.398\n1.391\n1.412\n1.397\n146\n711\n496\n976\n3.780\n1.333\n1.797\n4.706\n765\n175\n647\n253\n151\n2.699\n218\n992\n543\n3.906\n2.307\n469\n1.069\n880\n1.645\n1.237\n1.635\n724\n1.271\n469\n1.250\n1.074\n3.946\n1.194\n414\n749\n1.450\n4.729\n4.913\n516\n1.232\n4.921\n1.185\n4.440\n831\n11\n2.412\n885\n290\n14.708\n433\n583\n556\n346\n481\n4.448\n379\n417\n6.940\n2.412\n1.605\n16.942\n226\n2.566\n673\n401\n876\n1.013\n1.066\n1.253\n2.710\n189\n389\n187\n1.907\n1.934\n2.292\n312\n1.555\n90\n145\n1.245\n1.911\n1.101\n531\n4.069\n273\n8.354\n269\n550\n851\n1.267\n450\n11.295\n1.322\n504\n5.081\n506\n548\n4.381\n32\n648\n2.914\n2.085\n2.344\n19.158\n2.377\n795\n7.191\n3.467\n372\n566\n719\n396\n444\n448\n432\n10.845\n173\n289\n1.657\n149\n1.000\n1.141\n268\n532\n542\n13.303\n2.759\n497\n156\n312\n50\n1.531\n1.800\n188\n1.536\n1.508\n462\n1.369\n373\n1.480\n1.881\n10.893\n1.764\n387\n214",
-          "Like-VerzeichnisNamen_": "Junge SVP Kanton Zürich\nJa zum Verhüllungsverbot\nSchweizer wählen SVP – Frei bleiben\nJunge SVP Baselland\nNils Fiechter \nSVP Schweiz\nGSOG – Gruppe für eine Schweiz ohne GSOA\nFabian Wyssen\nJunge Freiheit",
-          "Like-VerzeichnisGefälltMir_": "2.317\n2.988\n1.407\n838\n4.701\n23.395\n4.481\n276\n135.308"
+          "VorschlageNamen_": "Waffenrecht-Schengen JA\nMeldezentrale für Nicht-Linke\nJunge SVP Zürich\nJa zum Verhüllungsverbot\nJUSO Schweiz\nSchweizer wählen SVP – Frei bleiben\nWeissenstein-Schwinget\nEishockey News Schweiz\nSina Melissa Siegenthaler-SBX\nSchweizer Waffensammler\nschussfreude.ch\nJUSO Stadt Bern\nNein zum Asylrechtmissbrauch\nAAA Alpine Air Ambulance AG\nSifa – Sicherheit für alle\nNils Fiechter\nJunge SVP Baselland\nSpin-Cast-CH\nJoray Marius Waffen und Feinmechanik\nWeniger EU Diktatur - Mehr Schweizer Demokratie\nMotospeaker Chris Berger\nGält hä\nBEO Rail\nOja Schwammendingen\nFDP Bezirk Dielsdorf\nVogt Waffen AG\nVerein Militär- und Festungsmuseum Full-Reuenthal\nFBW Museum Wetzikon\nBenjamin Fischer\nJunge SVP Aargau\nJunge SVP Solothurn\nWaffen Schweiz\nAdrian Spahr\nJunge Grüne Kanton Bern\nMike Müllestein\nJunge SVP Basel-Stadt\nJodlerterzett Miär drei\nThomas Inniger\nKampfsportschule Aarau - Karate, Qi Gong, Tai Chi, Yoga\nJunge SVP Kanton St.Gallen\nSidecarcross Crew Luzern\nSVP Kanton Schwyz\nVerein Pro Flugplatz Meiningen\nFabian Molina\nFussballstaion JA\nÄlplergmüet\nDSJ – FSPJ – FSPG\nSchweizer Armee\nSamira Marti\nGSOG – Gruppe für eine Schweizer Armee\nSTFW – Schweizerische Technische Fachschule\nAxel McFoley\nHunterverein Obersimmenthal\nlet-it-print GmbH\nJunge SVP Oberland-See\nMichael Eisener\nBasel Nazifrei\nJungfreisinnige Thurgau\nKessler Auktionen AG\nAntifa Eidgenossenschaft\nSpitalbataillon 66\nswiss-wings.ch\nBDP Kanton Luzern\nArtikel 2\nSuper Puma Display Team\nMechanisiertes Bataillon 29\nLuftwaffen Trainingskommandant\nVerein Schweizer Armeefreunde\nE-Voting-Moratorium\nPanzerbataillon 12\nJunge SVP Luzern\nJUSO Zürich Oberland\nJungfreisinnige Stadt Zürich\nInf Bat 13\nFussverkehr Schweiz\nCopwatch Bern\nLuana Flütsch\nSVP Aargau\nHC Seetal – Offizielle Facebookgruppe\nPhilipp Alex Gehrig\nBerner Bauern Verband\nPatrick Räbmatter\nIG Flughafen Zürich\nLuzian Franzini\nAargauer Kantonaler Schwingerverband\nNico Zobrist\nJoel Stutz\nTschapatalpas\nAeschbacher Matthias\nDiebetormtöibeler Sursee\nJSVP Uri\nWillisauer Bote\nJunge BDP Kanton Bern\nGSOA – Gruppe für eine Schweiz ohne Armee\nFabian Wyssen\nGeschwister Egli\nJungfreisinnige Kanton Zürich\nOpenQuer Zell\nSchweizerischer Ziegenzuchtverband\nJa zum Grenzschutz\nEhemaliges Kata Hi Bat 34\nJunge Grünliberale Luzern\nVimentis - Für die Zukunft der Schweiz\nJunge CVP Kanton Solothurn\nMike Egger wieder in den Nationalrat\nSchweizer Schiesssportverband\nEgalco.fem.\nLüönd Baggerbetrieb\nDer beste Club der Schweiz\nLuzerner Sinfonieorchester\nGebrüder Frankhauser\nChristian Stucki\nAutoverwertung Truninger AG\nGeissenparadies Göscheneralptal\ntransfermarkt.ch\nLuka Takoa\nJUSO Uri\nBMB Lenggenhager\nEduwys Orgele\nLeicht-Blick Music\nStadler Transportunternehmen\nWaffenhaus Schneider\nIdee@gravur\nKanton Aargau\nDer Funghi\nJunge Economie Suisse\nKriegsgeschäfte-Initiative\nNein zur Zersiedelungsinitiative\nCockpit\nCraigh\nPhilippe Tschopp\nPit Stop Events\nFahrschule – freudiger fahren\nArmon Orlik\nAero-Club der Schweiz\nJunge Grüne Aargau\nPM Montage Elektrik AG\nElia Leiser\nNein zur halb Milionärssteuer\nshakashop.ch\nskynews.ch\nDiagnose: Eidgenosse\nLeuppi Samir\nBruno Gisler\nEidgenossen sind Rassisten\nKonsumentenforum kf\nSwisscoy Veterans\nPfade Steinbruch – Ostermundigen\nCuminivel\nSwissint\nBiketrails Films\nSWORD Airsoft\nUnited Unicorns – Official",
+          "VorschlageGefalltMir_": "514\n42\n2.305\n2.990\n8.398\n1.391\n1.412\n1.397\n146\n711\n496\n976\n3.780\n1.333\n1.797\n4.706\n765\n175\n647\n253\n151\n2.699\n218\n992\n543\n3.906\n2.307\n469\n1.069\n880\n1.645\n1.237\n1.635\n724\n1.271\n469\n1.250\n1.074\n3.946\n1.194\n414\n749\n1.450\n4.729\n4.913\n516\n1.232\n4.921\n1.185\n4.440\n831\n11\n2.412\n885\n290\n14.708\n433\n583\n556\n346\n481\n4.448\n379\n417\n6.940\n2.412\n1.605\n16.942\n226\n2.566\n673\n401\n876\n1.013\n1.066\n1.253\n2.710\n189\n389\n187\n1.907\n1.934\n2.292\n312\n1.555\n90\n145\n1.245\n1.911\n1.101\n531\n4.069\n273\n8.354\n269\n550\n851\n1.267\n450\n11.295\n1.322\n504\n5.081\n506\n548\n4.381\n32\n648\n2.914\n2.085\n2.344\n19.158\n2.377\n795\n7.191\n3.467\n372\n566\n719\n396\n444\n448\n432\n10.845\n173\n289\n1.657\n149\n1.000\n1.141\n268\n532\n542\n13.303\n2.759\n497\n156\n312\n50\n1.531\n1.800\n188\n1.536\n1.508\n462\n1.369\n373\n1.480\n1.881\n10.893\n1.764\n387\n214",
+          "VerzeichnisNamen_": "Junge SVP Kanton Zürich\nJa zum Verhüllungsverbot\nSchweizer wählen SVP – Frei bleiben\nJunge SVP Baselland\nNils Fiechter \nSVP Schweiz\nGSOG – Gruppe für eine Schweiz ohne GSOA\nFabian Wyssen\nJunge Freiheit",
+          "VerzeichnisGefalltMir_": "2.317\n2.988\n1.407\n838\n4.701\n23.395\n4.481\n276\n135.308"
         },
         {
           "Profil_": "P2",
@@ -8096,10 +8096,10 @@ var data =
           "LinkBild_": "RH_B_31-03-19",
           "Bildname": "ABB-P2-052",
           "Bildunterschriften_": "Terror von Rechts: In der Masjid Al Noor Moschee in Christchurch, Neuseeland, wurden 50 Menschen von einem Rechtsradikalen ermordet (17. März). (Bild: Vincent Yu / AP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8119,10 +8119,10 @@ var data =
           "LinkBild_": "RH_C_31-03-19",
           "Bildname": "ABB-P2-053",
           "Bildunterschriften_": "Publikumswirksamer Kampf: grüner Nationalrat Glättli, Parteipräsidentin Rytz.Bild: Alexandra Wey (Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8142,10 +8142,10 @@ var data =
           "LinkBild_": "RH_D_31-03-19",
           "Bildname": "ABB-P2-054",
           "Bildunterschriften_": "Das britische Unterhaus lehnt das ausgehandelte EU-Austrittsabkommen zum dritten Mal ab. (29. März 2019)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8165,10 +8165,10 @@ var data =
           "LinkBild_": "RH_E_31-03-19",
           "Bildname": "ABB-P2-055",
           "Bildunterschriften_": "Die komplexen Fälle nehmen zu: Jürg Wobmann, Chef der Kriminalpolizei, vor dem Gebäude der Luzerner Polizei. (Bild: Roger Grütter, Luzern, 6. März 2019)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8188,10 +8188,10 @@ var data =
           "LinkBild_": "RH_F_31-03-19",
           "Bildname": "ABB-P2-056",
           "Bildunterschriften_": "Gefährliche Behandlung: Noch immer werden Heilungsmethoden für Homosexualität empfohlen und angeboten. © DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8211,10 +8211,10 @@ var data =
           "LinkBild_": "RH_G_31-03-19",
           "Bildname": "ABB-P2-057",
           "Bildunterschriften_": "«Ich bin nicht bekannt dafür, hysterisch zu sein»: Justizministerin Karin Keller-Sutter (55). (Benjamin Manser, St. Gallen, 29. März 2019)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8234,10 +8234,10 @@ var data =
           "LinkBild_": "RH_H_31-03-19",
           "Bildname": "ABB-P2-058",
           "Bildunterschriften_": "Während die Regierungschefin unschlüssig ist, ist die Regierung gespalten. Es gebe „keine ideale Lösung“, räumte Justizminister David Gaucke gestern ein. Zugleich läuft der Countdown. – (c) APA/AFP/DANIEL LEAL-OLIVAS",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8257,10 +8257,10 @@ var data =
           "LinkBild_": "RH_I_31-03-19",
           "Bildname": "ABB-P2-059",
           "Bildunterschriften_": "Im Berner Asylwesen bleibt kein Stein auf dem anderen. KEYSTONE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8280,10 +8280,10 @@ var data =
           "LinkBild_": "RH_J_31-03-19",
           "Bildname": "ABB-P2-060",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8303,10 +8303,10 @@ var data =
           "LinkBild_": "RH_A_01-04-19",
           "Bildname": "ABB-P2-061",
           "Bildunterschriften_": "Ein Demonstrant bei der „Fridays for Future“-Kundgebung in Magdeburg. © DPA",
-          "Like-VorschlägeNamen_": "Unsere Schweine – Nos Porcs\nJSVP Uri\nCaterpillar Baumaschinen\nJodlerclub Langnau\nRodelbahn Thun\nAlain Bütler\nStefan Erb EVP\nJunge AUNS Schweiz\nHubert Thalmann Webentwicklung\nSVP Kanton St.Gallen\nWaffenrecht Schengen JA\nJunge SVP Oberland-See\nEHC Lenk-Zweisimmen\nThomas von Allmen\nPatrick Walder\nArtikel 2\nJunge SVP Kanton Schwyz\nJunge SVP Schweiz\n99% Initiative\nRestaurant Sternen Muotathal\nSVP Baselland\nSVP Kanton Schwyz\nJunge SVP Kanton St.Gallen\nAUNS – Aktion für eine unabhängige Schweiz\nBenjamin Fischer\nJunge SVP Solothurn\nJunge SVP Aargau\nWir helfen beim Grenzbau\nSchweizer Waffensammler\nEishockey News Schweiz\nWeissenstein-Schwinget\nFabian Molina\nAdrian Spahr\nschussfreude.ch\nPNOS – Die Partei der Eidgenossen\nFDP\nDie Cervelat\nHürlimann Club Schweiz\nSamira Marti\nJunge Grünliberale Bern\nAAA Alpine Air Ambulance AG\nJUSO Kanton Luzern\nJUSO Schweiz\nInfanterie Bataillon 97\nWaffen Schweiz\nOja Schwamendingen\nAxel McFoley\nJungfreisinnige Stadt Zürich\nPhotopassion\nJUSO Baselland\nBegrenzungsinitiative\nNein zum Polizeigesetz\nFussballstadion JA\nSVP Aargau\nAntraf Eidgenossenschaft\nMike Müllestein\nJunge Grünliberale beider Basel\nJodlerterzett Miär dir\nJUSO Kanton Zürich\nThomas Inniger\nWachhund Willy\nStudyweek Azerbaijan\nAdieu Heimat\nE-Voting Moratorium\nPhilipp Alex Gehrig\nJunge Grünliberale Zürich\nJoel Stutz\nHunterverein Obersimmental\nSpitalbatillon 66\nPolizei Nachrichten Schweiz\nGSOA Gruppe für eine Schweiz ohne Armee\nSchweizer Armee\nAusbildungszentrum Verpflegungsbataillon\nJunge SVP Luzern\nGebirgsinfanteriebataillon 48\nWillisauer Bote\nJa zum Grenzschutz\nBDP Kanton Luzern\nInf Bat 13\nTschapatalpas\nJunge BDP Kanton Bern\nCopwatch Bern\nSuper Puma Display Team\nHC Seetal\nDavid Umher\nFussverkehr Schweiz\nNein zu den Kampfjet-Milliarden\nAndreas Gerber\nBoxschule Gebenstorf\nSäuliamt Bier\nBerner Bauern Verband\nKompetenzzentrum Gebirgsdienst\nAeschbacher Matthias\nJunge SVP Kanton Glarus\nJungfreisinnige Kanton Zürich\nDie Gutmenschkeule – Das Original\nHESS AG\nJSVP Thurgau\nPatrick Räbmatter\nDiebetormtöibler Sursee\nGebrüder Frankhauser\nstudents.ch\nRevolutionäre Jugend Thurgau\nUnter dem Berg\t\nJunge CVP Aargau\nAargauer Kantonaler Schwingclub\nSonia Kälin\nGeschwister Egli\n1291\nSchweizerischer Ziegenzuchtverband\nInfanterie Bataillon 56\nEhemaliges Kata Hi Bat 34\nMike Egger wieder in den Nationalrat\nTerritorialdivision 4\nOpenQuer Zell\nLW AT Brigade\nGeb S Bat 6\nNationalrat Corrado Pardini\nLogistikbataillon 52\nSchwyzerörgeli-Trio Vollgas\nVerein Schweizer Armeefreunde\nJunge Alternative JA\nBlage Bung\nScheitert AG\nAllianz gegen Waffenexporte\nUster\nIdee Gravur\nJungfreisinnige\nEduwys Örgeler\nLeicht-Blick Music\nDer beste Club der Schweiz ist HC Davos\nSVP Kanton Solothurn\nEdelweisstrend GmbH\nLuka Takoa\nHelma Gruppe\nNadja Feusi Photograhics\nSVP Utzenstorf\nPM Montage Elektrik GmbH\nKriegsgeschäfte-Initiative\nUlrich Waffen AG\nKein Asylzentrum in Grünenwald\nClaudio Spescha\nshakashop.ch\nLeuppi Samir\nSuter Korner\nMarkus Horst\nBruno Gisela\nAlternative - die Grünen Kanton Zug",
-          "Like-VorschlägeGefälltMir_": "237\n531\n770\n222\n353\n297\n185\n245\n194\n908\n516\n291\n307\n136\n190\n417\n713\n10.862\n1.092\n1.247\n559\n749\n1.194\n7.719\n1.069\n1.645\n880\n768\n711\n1.398\n1.412\n4.729\n1.635\n496\n16.128\n12.201\n5\n138\n1.185\n518\n1.334\n657\n8.298\n308\n1.237\n992\n11\n876\n117\n1.323\n1.230\n685\n4.913\n189\n346\n1.271\n177\n1.250\n1.433\n1.074\n1.269\n81\n4.757\n226\n188\n502\n145\n2.412\n481\n958\n8.354\n4.921\n128\n673\n1.069\n4.069\n11.295\n379\n1.013\n1.245\n273\n1.253\n6.940\n389\n483\n1.066\n11.539\n360\n283\n693\n1.970\n3.213\n1.911\n471\n851\n6.101\n494\n670\n1.934\n1.101\n2.344\n5.532\n365\n7\n652\n1.555\n5.133\n550\n2.030\n450\n439\n1.322\n548\n528\n1.267\n1.664\n833\n1.684\n687\n1.897\n16.942\n542\n357\n616\n1.894\n2.667\n452\n2.902\n719\n396\n2.914\n3.073\n2.465\n3.466\n482\n225\n428\n156\n1.657\n367\n650\n194\n1.531\n1.536\n207\n689\n1.508\n496",
-          "Like-VerzeichnisNamen_": "Alain Bütler\nDie Gutmensch-Keule – Das Original\nPNOS – Die Partei der Eidgenossen\nLaetitia Block\nSVP Kanton St.Gallen",
-          "Like-VerzeichnisGefälltMir_": "309\n7.062\n16.125\n160\n910"
+          "VorschlageNamen_": "Unsere Schweine – Nos Porcs\nJSVP Uri\nCaterpillar Baumaschinen\nJodlerclub Langnau\nRodelbahn Thun\nAlain Bütler\nStefan Erb EVP\nJunge AUNS Schweiz\nHubert Thalmann Webentwicklung\nSVP Kanton St.Gallen\nWaffenrecht Schengen JA\nJunge SVP Oberland-See\nEHC Lenk-Zweisimmen\nThomas von Allmen\nPatrick Walder\nArtikel 2\nJunge SVP Kanton Schwyz\nJunge SVP Schweiz\n99% Initiative\nRestaurant Sternen Muotathal\nSVP Baselland\nSVP Kanton Schwyz\nJunge SVP Kanton St.Gallen\nAUNS – Aktion für eine unabhängige Schweiz\nBenjamin Fischer\nJunge SVP Solothurn\nJunge SVP Aargau\nWir helfen beim Grenzbau\nSchweizer Waffensammler\nEishockey News Schweiz\nWeissenstein-Schwinget\nFabian Molina\nAdrian Spahr\nschussfreude.ch\nPNOS – Die Partei der Eidgenossen\nFDP\nDie Cervelat\nHürlimann Club Schweiz\nSamira Marti\nJunge Grünliberale Bern\nAAA Alpine Air Ambulance AG\nJUSO Kanton Luzern\nJUSO Schweiz\nInfanterie Bataillon 97\nWaffen Schweiz\nOja Schwamendingen\nAxel McFoley\nJungfreisinnige Stadt Zürich\nPhotopassion\nJUSO Baselland\nBegrenzungsinitiative\nNein zum Polizeigesetz\nFussballstadion JA\nSVP Aargau\nAntraf Eidgenossenschaft\nMike Müllestein\nJunge Grünliberale beider Basel\nJodlerterzett Miär dir\nJUSO Kanton Zürich\nThomas Inniger\nWachhund Willy\nStudyweek Azerbaijan\nAdieu Heimat\nE-Voting Moratorium\nPhilipp Alex Gehrig\nJunge Grünliberale Zürich\nJoel Stutz\nHunterverein Obersimmental\nSpitalbatillon 66\nPolizei Nachrichten Schweiz\nGSOA Gruppe für eine Schweiz ohne Armee\nSchweizer Armee\nAusbildungszentrum Verpflegungsbataillon\nJunge SVP Luzern\nGebirgsinfanteriebataillon 48\nWillisauer Bote\nJa zum Grenzschutz\nBDP Kanton Luzern\nInf Bat 13\nTschapatalpas\nJunge BDP Kanton Bern\nCopwatch Bern\nSuper Puma Display Team\nHC Seetal\nDavid Umher\nFussverkehr Schweiz\nNein zu den Kampfjet-Milliarden\nAndreas Gerber\nBoxschule Gebenstorf\nSäuliamt Bier\nBerner Bauern Verband\nKompetenzzentrum Gebirgsdienst\nAeschbacher Matthias\nJunge SVP Kanton Glarus\nJungfreisinnige Kanton Zürich\nDie Gutmenschkeule – Das Original\nHESS AG\nJSVP Thurgau\nPatrick Räbmatter\nDiebetormtöibler Sursee\nGebrüder Frankhauser\nstudents.ch\nRevolutionäre Jugend Thurgau\nUnter dem Berg\t\nJunge CVP Aargau\nAargauer Kantonaler Schwingclub\nSonia Kälin\nGeschwister Egli\n1291\nSchweizerischer Ziegenzuchtverband\nInfanterie Bataillon 56\nEhemaliges Kata Hi Bat 34\nMike Egger wieder in den Nationalrat\nTerritorialdivision 4\nOpenQuer Zell\nLW AT Brigade\nGeb S Bat 6\nNationalrat Corrado Pardini\nLogistikbataillon 52\nSchwyzerörgeli-Trio Vollgas\nVerein Schweizer Armeefreunde\nJunge Alternative JA\nBlage Bung\nScheitert AG\nAllianz gegen Waffenexporte\nUster\nIdee Gravur\nJungfreisinnige\nEduwys Örgeler\nLeicht-Blick Music\nDer beste Club der Schweiz ist HC Davos\nSVP Kanton Solothurn\nEdelweisstrend GmbH\nLuka Takoa\nHelma Gruppe\nNadja Feusi Photograhics\nSVP Utzenstorf\nPM Montage Elektrik GmbH\nKriegsgeschäfte-Initiative\nUlrich Waffen AG\nKein Asylzentrum in Grünenwald\nClaudio Spescha\nshakashop.ch\nLeuppi Samir\nSuter Korner\nMarkus Horst\nBruno Gisela\nAlternative - die Grünen Kanton Zug",
+          "VorschlageGefalltMir_": "237\n531\n770\n222\n353\n297\n185\n245\n194\n908\n516\n291\n307\n136\n190\n417\n713\n10.862\n1.092\n1.247\n559\n749\n1.194\n7.719\n1.069\n1.645\n880\n768\n711\n1.398\n1.412\n4.729\n1.635\n496\n16.128\n12.201\n5\n138\n1.185\n518\n1.334\n657\n8.298\n308\n1.237\n992\n11\n876\n117\n1.323\n1.230\n685\n4.913\n189\n346\n1.271\n177\n1.250\n1.433\n1.074\n1.269\n81\n4.757\n226\n188\n502\n145\n2.412\n481\n958\n8.354\n4.921\n128\n673\n1.069\n4.069\n11.295\n379\n1.013\n1.245\n273\n1.253\n6.940\n389\n483\n1.066\n11.539\n360\n283\n693\n1.970\n3.213\n1.911\n471\n851\n6.101\n494\n670\n1.934\n1.101\n2.344\n5.532\n365\n7\n652\n1.555\n5.133\n550\n2.030\n450\n439\n1.322\n548\n528\n1.267\n1.664\n833\n1.684\n687\n1.897\n16.942\n542\n357\n616\n1.894\n2.667\n452\n2.902\n719\n396\n2.914\n3.073\n2.465\n3.466\n482\n225\n428\n156\n1.657\n367\n650\n194\n1.531\n1.536\n207\n689\n1.508\n496",
+          "VerzeichnisNamen_": "Alain Bütler\nDie Gutmensch-Keule – Das Original\nPNOS – Die Partei der Eidgenossen\nLaetitia Block\nSVP Kanton St.Gallen",
+          "VerzeichnisGefalltMir_": "309\n7.062\n16.125\n160\n910"
         },
         {
           "Profil_": "P2",
@@ -8326,10 +8326,10 @@ var data =
           "LinkBild_": "RH_B_01-04-19",
           "Bildname": "ABB-P2-062",
           "Bildunterschriften_": "Illustration: Peter Gut",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8349,10 +8349,10 @@ var data =
           "LinkBild_": "RH_C_01-04-19",
           "Bildname": "ABB-P2-063",
           "Bildunterschriften_": "APA/DPA/JULIAN STRATENSCHULTE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8372,10 +8372,10 @@ var data =
           "LinkBild_": "RH_D_01-04-19",
           "Bildname": "ABB-P2-064",
           "Bildunterschriften_": "Schule schwänzen für den Klimawandel und dann solchen Müll hinterlassen! Bravo!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8395,10 +8395,10 @@ var data =
           "LinkBild_": "RH_E_01-04-19",
           "Bildname": "ABB-P2-065",
           "Bildunterschriften_": "Ein Erdogan-Anhänger am Sonntag in Istanbul. © AP ",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8418,10 +8418,10 @@ var data =
           "LinkBild_": "RH_F_01-04-19",
           "Bildname": "ABB-P2-066",
           "Bildunterschriften_": "Zuzana Caputova vor ihrem neuen Arbeitsort, dem Grassalkovich-Palast, dem Amtssitz der slowakischen Präsidentin. (Bild: Martin Divisek / EPA)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8441,10 +8441,10 @@ var data =
           "LinkBild_": "RH_G_01-04-19",
           "Bildname": "ABB-P2-067",
           "Bildunterschriften_": "Will den Ständeratssitz für die FDP verteidigen: die St.Galler Kantonsrätin Susanne Vincenz-Stauffacher (Bild: Michel Canonica)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8464,10 +8464,10 @@ var data =
           "LinkBild_": "RH_H_01-04-19",
           "Bildname": "ABB-P2-068",
           "Bildunterschriften_": "AP",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8487,10 +8487,10 @@ var data =
           "LinkBild_": "RH_I_01-04-19",
           "Bildname": "ABB-P2-069",
           "Bildunterschriften_": "Martin Sellner, Anführer der Identitären Bewegung, bei einer Demonstration 2017 in Berlin.FOTO: IMAGO/IPON",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8510,10 +8510,10 @@ var data =
           "LinkBild_": "RH_J_01-04-19",
           "Bildname": "ABB-P2-070",
           "Bildunterschriften_": "Greta Thunberg am Abend der Preisverleihung der Goldenen Kamera Foto: picture alliance/Hannibal Hanschke/Reuters Pool/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8533,10 +8533,10 @@ var data =
           "LinkBild_": "RH_A_02-04-19",
           "Bildname": "ABB-P2-071",
           "Bildunterschriften_": "Umstritten: Thilo Sarrazin, hier im März 2019 in Wien. © DPA",
-          "Like-VorschlägeNamen_": "Philipp Eng\nJSVP Uri\nUnsere Schweine – Nos Porcs\nStefan Dahinden\nJodlerclub Langnau\nModellbahn Thun\nJunge AUNS Schweiz\nStefan Erb EVP \nHubert Thalmann Webentwicklung\nEHC Lenk-Zweisimmen\nThomas von Allmen\nPatrick Walter\nArtikel 2\nMotorfahrer\nJunge SVP Kanton Schwyz\nJunge SVP Aargau\nSVP Kanton Schwyz\nJunge SVP Basel-Stadt\nJunge SVP Kanton St.Gallen\nRestaurant Sternen Muotathal\n99% Initiative\nJUSO Schweiz\nSVP Baselland\nJunge SVP Solothurn\nEishockey News Schweiz\nWaffenrecht Schengen JA\nWir helfen beim Grenzbau\nSVP Steinen\nHürlimann Club Schweiz\nSVP Toggenburg\nWill jeder – kennt bloss keiner\nSofa – Sicherheit für alle\nPiotr Rindlisbacher Swiss Life\nTja Schwamendingen\nTSC-Nautilus\nInfanterie Bataillon 97\nAAA Alpine Air Ambulance AG\nBenjamin Fischer\nAxel McFoley\n113. Innerschweizer Schwinget\nStudyweek Azerbaijan\nJunge Grünliberale beider Basel\nAdrian Spahr\nPhotopassion\nJUSO Kanton Luzern\nJUSO Stadt Bern\nSamira Marti\nFussballstadion JA\nSwiss Fire Fighters\nWachhund Willy\nGrauzone II - Leftist Triggering Black Metal\nWeissenstein Schwinget\nJUSO Baselland\nJunge CVP Kanton Solothurn\nBegrenzungsinitiative\nMike Müllestein\nTambouren der Fasnachtszunft\nSVP Aargau\nNein zum Polizeigesetz\nJodlerterzett Miär drei\nThomas Inniger\nJPSense\nGrüne Bülach\nAntraf Eidgenossenschaft\nAnarchistische Gruppe Bern\nJoel Stutz\nVerein Campus Wattwil\nDominik Dummermuth\nHunterverein Obersimmenthal\nCaterpillar Baumaschinen\nE-Voting Moratorium\nJa zum Grenzschutz\nWillisauer Bote\nJunge SVP Luzern\nSTFW – Schweizerische Technische Fachschule\nJSVP Thurgau\nSchweizerische Studienstiftung\nJunge SVP Kanton Glarus\nVogt Waffen AG\nBrand-Open Crew\nSimon Frey EVP\nCorinne Merk\nJunge Grünliberale Bern\nTschapatalpas\nDie Cervelat\nBDP Kanton Luzern\nIG Militärpolizei Miliz\nJunge BDP Kanton Bern\nIvan Louis\nJungfreisinnige Kanton Luzern\nHCD Fanclub Rheintal\nMarc Wächter\nJunge SVP Schweiz\nLuftwaffen Trainingskommandant\nFeuerwehr Stadt Bern\nFussverkehr Schweiz\nJunge CVP Aargau\nNein zu den Kampfjet-Milliarden\nJunge Grünliberale Luzern\nAntikapitalistisches Kollektiv\nSVP Stadt St.Gallen\nJungfreisinnige Stadt Zürich\nJungfreisinnige Stadt Luzern\nSandro Wächter\nFDP\nGrünliberale Bezirk Küssnacht\nBoxschule Gebenstorf\nGSOA Gruppe für eine Schweiz ohne Armee\nPatrick Räbmatter\nAeschbacher Matthias\nMike Egger wieder in den Nationalrat\nPhilipp Alex Gehrig\nSäuliamt Bier\nJungfreisinnige Kanton Zürich\nSonia Kälin\nAusbildungszentrum Verpflegungsbataillon\nLogistik Offiziersschulen Bern\nPeter Föhn\nAnian Liebrand\nBerner Bauern Verband\nUnter dem Berg\nSchweizer Grenadiere – KSK\nGebrüder Frankhauser\nschlussgangfilmer.com\nInfanterie Bataillon 56\nbrummiplatz.ch\nEdelweisstrend GmbH\nAargauer Kantonaler Schwinget\nJugendparlament Aargau\nSchwyzerörgeli-Trio Vollgas\nGeb S Bat 6\nInfanterie Offiziersschule\nFeuerwehr Brugg\nVerein Schweizer Armeefreunde\nLW AT Brigade\nGebirgsinfantriebataillon 91\nHansjörg Brunner\nOpenQuer Zell\nLand und Forstmaschinen\nQuartett Waschächt\nFinanzielle Freiheit\nLeuppi Samir\nSVP Kanton Solothurn\nDavid Zuberbühler\nCrew Meeting\nZapfwällä-Örgeler",
-          "Like-VorschlägeGefälltMir_": "239\n2.594\n237\n156\n222\n354\n245\n185\n194\n307\n136\n198\n417\n2.250\n713\n881\n749\n469\n1.194\n1.249\n1.092\n8.297\n559\n1.646\n1.399\n527\n768\n129\n138\n541\n6\n1.797\n9\n992\n3\n309\n1.334\n1.069\n11\n744\n91\n177\n1.635\n117\n658\n976\n1.186\n4.912\n4.888\n1.269\n1.042\n1.413\n1.326\n506\n1.230\n1.271\n311\n190\n685\n1.250\n1.074\n160\n526\n346\n2.260\n158\n904\n222\n2.412\n770\n225\n11.295\n4.070\n673\n832\n672\n467\n471\n3.906\n18\n92\n522\n518\n1.245\n5\n380\n2.061\n273\n360\n508\n431\n1.245\n10.861\n1.605\n4.765\n1.065\n652\n11.537\n506\n753\n500\n876\n377\n199\n12.199\n90\n283\n8.354\n1.934\n1.911\n549\n189\n694\n851\n5.132\n128\n1.404\n582\n359\n1.970\n7\n5.272\n2.344\n1.357\n440\n1.780\n2.465\n1.554\n399\n1.897\n833\n3.300\n663\n16.942\n1.664\n1.280\n232\n1.279\n486\n3.092\n174\n1.536\n3.074\n515\n1.678\n1.126",
-          "Like-VerzeichnisNamen_": "Stefan Dahinden\nWir helfen beim Grenzbau – Schweiz\nPeter Föhn\nVerein Schweizer Armeefreunde\nCompact-Magazin\nRT Deutsch\nBenjamin Fischer",
-          "Like-VerzeichnisGefälltMir_": "157\n769\n586\n16.963\n95.587\n395.187\n1.075"
+          "VorschlageNamen_": "Philipp Eng\nJSVP Uri\nUnsere Schweine – Nos Porcs\nStefan Dahinden\nJodlerclub Langnau\nModellbahn Thun\nJunge AUNS Schweiz\nStefan Erb EVP \nHubert Thalmann Webentwicklung\nEHC Lenk-Zweisimmen\nThomas von Allmen\nPatrick Walter\nArtikel 2\nMotorfahrer\nJunge SVP Kanton Schwyz\nJunge SVP Aargau\nSVP Kanton Schwyz\nJunge SVP Basel-Stadt\nJunge SVP Kanton St.Gallen\nRestaurant Sternen Muotathal\n99% Initiative\nJUSO Schweiz\nSVP Baselland\nJunge SVP Solothurn\nEishockey News Schweiz\nWaffenrecht Schengen JA\nWir helfen beim Grenzbau\nSVP Steinen\nHürlimann Club Schweiz\nSVP Toggenburg\nWill jeder – kennt bloss keiner\nSofa – Sicherheit für alle\nPiotr Rindlisbacher Swiss Life\nTja Schwamendingen\nTSC-Nautilus\nInfanterie Bataillon 97\nAAA Alpine Air Ambulance AG\nBenjamin Fischer\nAxel McFoley\n113. Innerschweizer Schwinget\nStudyweek Azerbaijan\nJunge Grünliberale beider Basel\nAdrian Spahr\nPhotopassion\nJUSO Kanton Luzern\nJUSO Stadt Bern\nSamira Marti\nFussballstadion JA\nSwiss Fire Fighters\nWachhund Willy\nGrauzone II - Leftist Triggering Black Metal\nWeissenstein Schwinget\nJUSO Baselland\nJunge CVP Kanton Solothurn\nBegrenzungsinitiative\nMike Müllestein\nTambouren der Fasnachtszunft\nSVP Aargau\nNein zum Polizeigesetz\nJodlerterzett Miär drei\nThomas Inniger\nJPSense\nGrüne Bülach\nAntraf Eidgenossenschaft\nAnarchistische Gruppe Bern\nJoel Stutz\nVerein Campus Wattwil\nDominik Dummermuth\nHunterverein Obersimmenthal\nCaterpillar Baumaschinen\nE-Voting Moratorium\nJa zum Grenzschutz\nWillisauer Bote\nJunge SVP Luzern\nSTFW – Schweizerische Technische Fachschule\nJSVP Thurgau\nSchweizerische Studienstiftung\nJunge SVP Kanton Glarus\nVogt Waffen AG\nBrand-Open Crew\nSimon Frey EVP\nCorinne Merk\nJunge Grünliberale Bern\nTschapatalpas\nDie Cervelat\nBDP Kanton Luzern\nIG Militärpolizei Miliz\nJunge BDP Kanton Bern\nIvan Louis\nJungfreisinnige Kanton Luzern\nHCD Fanclub Rheintal\nMarc Wächter\nJunge SVP Schweiz\nLuftwaffen Trainingskommandant\nFeuerwehr Stadt Bern\nFussverkehr Schweiz\nJunge CVP Aargau\nNein zu den Kampfjet-Milliarden\nJunge Grünliberale Luzern\nAntikapitalistisches Kollektiv\nSVP Stadt St.Gallen\nJungfreisinnige Stadt Zürich\nJungfreisinnige Stadt Luzern\nSandro Wächter\nFDP\nGrünliberale Bezirk Küssnacht\nBoxschule Gebenstorf\nGSOA Gruppe für eine Schweiz ohne Armee\nPatrick Räbmatter\nAeschbacher Matthias\nMike Egger wieder in den Nationalrat\nPhilipp Alex Gehrig\nSäuliamt Bier\nJungfreisinnige Kanton Zürich\nSonia Kälin\nAusbildungszentrum Verpflegungsbataillon\nLogistik Offiziersschulen Bern\nPeter Föhn\nAnian Liebrand\nBerner Bauern Verband\nUnter dem Berg\nSchweizer Grenadiere – KSK\nGebrüder Frankhauser\nschlussgangfilmer.com\nInfanterie Bataillon 56\nbrummiplatz.ch\nEdelweisstrend GmbH\nAargauer Kantonaler Schwinget\nJugendparlament Aargau\nSchwyzerörgeli-Trio Vollgas\nGeb S Bat 6\nInfanterie Offiziersschule\nFeuerwehr Brugg\nVerein Schweizer Armeefreunde\nLW AT Brigade\nGebirgsinfantriebataillon 91\nHansjörg Brunner\nOpenQuer Zell\nLand und Forstmaschinen\nQuartett Waschächt\nFinanzielle Freiheit\nLeuppi Samir\nSVP Kanton Solothurn\nDavid Zuberbühler\nCrew Meeting\nZapfwällä-Örgeler",
+          "VorschlageGefalltMir_": "239\n2.594\n237\n156\n222\n354\n245\n185\n194\n307\n136\n198\n417\n2.250\n713\n881\n749\n469\n1.194\n1.249\n1.092\n8.297\n559\n1.646\n1.399\n527\n768\n129\n138\n541\n6\n1.797\n9\n992\n3\n309\n1.334\n1.069\n11\n744\n91\n177\n1.635\n117\n658\n976\n1.186\n4.912\n4.888\n1.269\n1.042\n1.413\n1.326\n506\n1.230\n1.271\n311\n190\n685\n1.250\n1.074\n160\n526\n346\n2.260\n158\n904\n222\n2.412\n770\n225\n11.295\n4.070\n673\n832\n672\n467\n471\n3.906\n18\n92\n522\n518\n1.245\n5\n380\n2.061\n273\n360\n508\n431\n1.245\n10.861\n1.605\n4.765\n1.065\n652\n11.537\n506\n753\n500\n876\n377\n199\n12.199\n90\n283\n8.354\n1.934\n1.911\n549\n189\n694\n851\n5.132\n128\n1.404\n582\n359\n1.970\n7\n5.272\n2.344\n1.357\n440\n1.780\n2.465\n1.554\n399\n1.897\n833\n3.300\n663\n16.942\n1.664\n1.280\n232\n1.279\n486\n3.092\n174\n1.536\n3.074\n515\n1.678\n1.126",
+          "VerzeichnisNamen_": "Stefan Dahinden\nWir helfen beim Grenzbau – Schweiz\nPeter Föhn\nVerein Schweizer Armeefreunde\nCompact-Magazin\nRT Deutsch\nBenjamin Fischer",
+          "VerzeichnisGefalltMir_": "157\n769\n586\n16.963\n95.587\n395.187\n1.075"
         },
         {
           "Profil_": "P2",
@@ -8556,10 +8556,10 @@ var data =
           "LinkBild_": "RH_B_02-04-19",
           "Bildname": "ABB-P2-072",
           "Bildunterschriften_": "Die Scheidung des Ehepaars Bezos ging durch die Medien. (Bild: Danny Moloshok / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8579,10 +8579,10 @@ var data =
           "LinkBild_": "RH_C_02-04-19",
           "Bildname": "ABB-P2-073",
           "Bildunterschriften_": "Verein Schweizer Armeefreunde ist mit Däni Hildi unterwegs.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8602,10 +8602,10 @@ var data =
           "LinkBild_": "RH_D_02-04-19",
           "Bildname": "ABB-P2-074",
           "Bildunterschriften_": "Jens Spahn und Annalena Baerbock bei Frank Plasberg: Die Politiker nutzen die Debatte über Organspende geschickt, um ihr Profil zu schärfen. © WDR/OLIVER ZIEBE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8625,10 +8625,10 @@ var data =
           "LinkBild_": "RH_E_02-04-19",
           "Bildname": "ABB-P2-075",
           "Bildunterschriften_": "Maryanne Wolf ist Neurowissenschafterin und Direktorin des Zentrums für Dyslexie, Diverse Learners und Social Justice an der University of California in Los Angeles. © Rod W. Searcey",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8648,10 +8648,10 @@ var data =
           "LinkBild_": "RH_F_02-04-19",
           "Bildname": "ABB-P2-076",
           "Bildunterschriften_": "Großer Moment bei der Goldenen Kamera: Die schwedische Umweltaktivistin Greta Thunberg hat bei der Gala in Berlin einen Sonderpreis bekommen und den Promis im Publikum den Kopf gewaschen. Quelle: Reuters",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8671,10 +8671,10 @@ var data =
           "LinkBild_": "RH_G_02-04-19",
           "Bildname": "ABB-P2-077",
           "Bildunterschriften_": "\nVorsicht: Greta ist das Cover-Girl von Soros",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8694,10 +8694,10 @@ var data =
           "LinkBild_": "RH_H_02-04-19",
           "Bildname": "ABB-P2-078",
           "Bildunterschriften_": "Die Berliner SPD hat beschlossen, dass sogenannte Jugend-Offiziere künftig nicht mehr in Schulen über die Arbeit bei der Bundeswehr informieren sollen. Für Töten und Sterben dürfe keine Werbung gemacht werden, doch dagegen regt sich Widerstand. Quelle: WELT/Sebastian Plantholt",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8717,10 +8717,10 @@ var data =
           "LinkBild_": "RH_I_02-04-19",
           "Bildname": "ABB-P2-079",
           "Bildunterschriften_": "Nackte Umwelt-Aktivisten stürmen Brexit-Debatte.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8740,10 +8740,10 @@ var data =
           "LinkBild_": "RH_J_02-04-19",
           "Bildname": "ABB-P2-080",
           "Bildunterschriften_": "SVP-Präsident Albert Rösti: «Wenn es um die konkrete Umsetzung idealistischer grüner Politik geht und es die Leute im Portemonnaie spüren, stimmen sie dagegen.» (Bild: Dominic Steinmann / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8763,10 +8763,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-081",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8786,10 +8786,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-082",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8809,10 +8809,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-083",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8832,10 +8832,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-084",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8855,10 +8855,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-085",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8878,10 +8878,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-086",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8901,10 +8901,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-087",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8924,10 +8924,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-088",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8947,10 +8947,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-089",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8970,10 +8970,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-090",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -8993,10 +8993,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-091",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9016,10 +9016,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-092",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9039,10 +9039,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-093",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9062,10 +9062,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-094",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9085,10 +9085,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-095",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9108,10 +9108,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-096",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9131,10 +9131,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-097",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9154,10 +9154,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-098",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9177,10 +9177,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-099",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9200,10 +9200,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-100",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9223,10 +9223,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-101",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9246,10 +9246,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-102",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9269,10 +9269,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-103",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9292,10 +9292,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-104",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9315,10 +9315,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-105",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9338,10 +9338,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-106",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9361,10 +9361,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-107",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9384,10 +9384,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-108",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9407,10 +9407,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-109",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9430,10 +9430,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-110",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9453,10 +9453,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-111",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9476,10 +9476,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-112",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9499,10 +9499,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-113",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9522,10 +9522,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-114",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9545,10 +9545,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-115",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9568,10 +9568,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-116",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9591,10 +9591,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-117",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9614,10 +9614,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-118",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9637,10 +9637,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-119",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9660,10 +9660,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-120",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9683,10 +9683,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-121",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9706,10 +9706,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-122",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9729,10 +9729,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-123",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9752,10 +9752,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-124",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9775,10 +9775,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-125",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9798,10 +9798,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-126",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9821,10 +9821,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-127",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9844,10 +9844,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-128",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9867,10 +9867,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-129",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9890,10 +9890,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-130",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9913,10 +9913,10 @@ var data =
           "LinkBild_": "RH_A_08-04-19",
           "Bildname": "ABB-P2-131",
           "Bildunterschriften_": "Die bitterbösen Kommentare zum unglaublich erfolgreichen Klimastreik zeigen: Auch den Menschen mit dem grössten ideologischen Brett vor dem Kopf wird es langsam unwohl. Wir holen sie aus Ihrer imaginären heilen Welt. Bleiben wir dran, damit sie nicht weiter den Kopf in den Sand stecken können! Klimastreik am 24. Mai und am 5. Oktober 2019.",
-          "Like-VorschlägeNamen_": "Polit-Stammtisch\nStefanie Heimgartner\nBDP Kanton Bern\nWilhelm Tell\nMichael Fitzi\nNetzCourage\nSamira Marti\nFair ist anders\nPascal Stüssi\nSVP Aarburg\nJean-Pierre Gallati Newspage\nE-Voting Moratorium\nAUNS Aktion für eine unabhängige Schweiz\nForum der Schweizerischen Volkspartei\nBartsch Classics\nWerner Salzmann\nWaffenrecht Schengen JA\nSchweizer National- und Ständeräte\nGässli-Bräu\nAndrea Gmür\nRoland Fischer\nJasmin Ursprung\nJoel Stutz\nBroncos MC – Bordercrew\nBigna Silberschmied\nGrünliberale Partei Kanton Luzern\nRestaurant Kleefeld\nHC Seetal\nPolizeigesetz JA\nKonrad Langhart\nSVP Liestal und Umgebung\nHürlimann Club Schweiz\nFDP Die liberalen Frauen\nThomas Aeschi\nAllianz gegen Sozis und Grüne\nMichael Götte\nKapelle Oberalp\nSusanne Leutenegger\nSP Töss\nSchweizerischer Ziegenzuchtverband\nInfanterie Bataillon 97\nSwiss Liberation Army SLA\nWeissenstein Schwinget\nJunge SVP Aargau\nAhornalp\nMaja Ringer\nRolf Jäggi\nICF Startup Oberwallis\nKeine Heimat\nKodex-Former\nZimmermann Waffen\nTambouren der Fasnachtszunft\nSchloss Wildegg\nUnabhängige direkte Demokratie\nSwitzerland – Free Palästina\nMike Egger wieder in den Nationalrat\nPhotopassion\nSwiss Fire Fighters\nGeschwister Egli\nSVP Biel\nDannys Bistro\nPrisca Koller\nEduwys Orgele\nMartina Bircher\nMaria Rita Marty\nMatthias Teh\nJUSO Stadt Bern\nJunge SVP Kanton St.Gallen\nArtilleriefort Spiez-Krattigen\nAppezölle Biker\nLöwen Kernenried\nSamuel Krähenbühl\nBrennpunkt Schweiz\nSchengen/Dublin – Nein danke\nUnsere Helden - Luzerner Topathleten\nNadja Pieren\nJunge SVP Kanton Schwyz\nArtikel 2\nSeerugge Feger \nSVP Kanton Zug\nTeleblocher\nThomas Burgherr\n2019 nicht mehr gewählt werden\nSVP Rheintal\nFabian Molina\nSVP Frauen Basel-Stadt\nAdrian Spahr\nHeligrill\n99% Initiative\nSchutz des Wertkonservativen\nSVP Utzentorf\nDie Cervelat\nSVP Baar\nSVP des Kantons Luzern\nSVP Bezirk Meilen\nSVP Emmen\nschussfreude.ch\nJunge SVP Solothurn\nSchweizer Politik\nRestaurant Sternen Muotathal\nLeckerbissen aus Blocherstan\nCheyenne Motorcycleclub Suisse\nGemeinsam vorwärts\nRené Truninger\nSVP der Fels\t\nSVP Stadt Winterthur\nDead Riders Sumiswald\nJungfreisinnige Stadt Bern\nChristoph Einer\nJunge BDP Kanton Bern\nWachhund Willy\nSVP Dietikon\nSVP Emmental\nHans-Ueli Vogt\nSVP Hägendorf\nSVP Stadt Luzern\nSandro Wächter\nZuger Zeitung\nSVP Wohnen-Anglikon\nAn unsere Regierung: Der Souverän sind wir\nForum Demokratie und Menschenrechte\nSVP Kreis 3\nBeatrice Simon\nLuzi Stamm\nSVP Nidau\nSifa – Sicherheit für alle\nSVP Bezirk Muri AG\nForum für direkte Demokratie\nPhilip Kopp\nJunge SVP Kreisverband Freudigen\nDie Geschichte der Schweiz\nSVP Kanton Schwyz\nPublic Eye\nBegrenzungsinitiative\nUnser neue Bundesrat für die Schweiz\nSVP Reinach\nClaudio Schmid\nGregor Rutz\nSVP Bezirk Bremgarten AG\nMarianna Schlatter-Schmid\nGesellschaft offene und moderne Schweiz\nSVP Stadt Olten\nWaffen Schweiz\nAnhänger von Christoph Blocher\nUmoll\nWir bestimmen",
-          "Like-VorschlägeGefälltMir_": "512\n1.307\n439\n766\n441\n2.956\n1.189\n606\n641\n137\n231\n224\n7.747\n604\n355\n1.269\n611\n632\n456\n1.268\n176\n178\n182\n284\n920\n225\n295\n389\n150\n887\n69\n138\n1.141\n3.652\n1.896\n538\n478\n5.191\n295\n451\n309\n523\n1.417\n880\n741\n375\n182\n212\n236\n161\n291\n312\n2.358\n1.135\n3.547\n548\n118\n4.888\n552\n294\n281\n884\n724\n421\n328\n1.336\n976\n1.196\n503\n1.346\n1.253\n1.488\n1.024\n1.264\n2.084\n1.915\n714\n418\n561\n585\n1.306\n1.026\n171\n246\n2.594\n408\n1.637\n463\n1.104\n190\n428\n5\n234\n1.691\n245\n713\n515\n1.649\n307\n1.250\n1.248\n1.804\n395\n1.924\n1.677\n741\n927\n642\n447\n275\n1.271\n574\n351\n4.651\n208\n821\n198\n1.564\n220\n1.346\n3.153\n120\n126\n3.627\n306\n1.796\n340\n52\n59\n338\n1.838\n751\n136\n1.232\n150\n374\n336\n4.655\n194\n466\n5.790\n221\n1.254\n812\n10\n559",
-          "Like-VerzeichnisNamen_": "Michael Fitzi\nForum der Schweizerischen Volkspartei\nAUNS Aktion für eine unabhängige und neutrale Schweiz\nAllianz gegen Sozis und Grüne\nUnabhängige direkte demokratische Schweiz\nSchutz des Wertkonservativen\nSchweizer Politik",
-          "Like-VerzeichnisGefälltMir_": "442\n623\n7.791\n1.908\n1.176\n224\n308"
+          "VorschlageNamen_": "Polit-Stammtisch\nStefanie Heimgartner\nBDP Kanton Bern\nWilhelm Tell\nMichael Fitzi\nNetzCourage\nSamira Marti\nFair ist anders\nPascal Stüssi\nSVP Aarburg\nJean-Pierre Gallati Newspage\nE-Voting Moratorium\nAUNS Aktion für eine unabhängige Schweiz\nForum der Schweizerischen Volkspartei\nBartsch Classics\nWerner Salzmann\nWaffenrecht Schengen JA\nSchweizer National- und Ständeräte\nGässli-Bräu\nAndrea Gmür\nRoland Fischer\nJasmin Ursprung\nJoel Stutz\nBroncos MC – Bordercrew\nBigna Silberschmied\nGrünliberale Partei Kanton Luzern\nRestaurant Kleefeld\nHC Seetal\nPolizeigesetz JA\nKonrad Langhart\nSVP Liestal und Umgebung\nHürlimann Club Schweiz\nFDP Die liberalen Frauen\nThomas Aeschi\nAllianz gegen Sozis und Grüne\nMichael Götte\nKapelle Oberalp\nSusanne Leutenegger\nSP Töss\nSchweizerischer Ziegenzuchtverband\nInfanterie Bataillon 97\nSwiss Liberation Army SLA\nWeissenstein Schwinget\nJunge SVP Aargau\nAhornalp\nMaja Ringer\nRolf Jäggi\nICF Startup Oberwallis\nKeine Heimat\nKodex-Former\nZimmermann Waffen\nTambouren der Fasnachtszunft\nSchloss Wildegg\nUnabhängige direkte Demokratie\nSwitzerland – Free Palästina\nMike Egger wieder in den Nationalrat\nPhotopassion\nSwiss Fire Fighters\nGeschwister Egli\nSVP Biel\nDannys Bistro\nPrisca Koller\nEduwys Orgele\nMartina Bircher\nMaria Rita Marty\nMatthias Teh\nJUSO Stadt Bern\nJunge SVP Kanton St.Gallen\nArtilleriefort Spiez-Krattigen\nAppezölle Biker\nLöwen Kernenried\nSamuel Krähenbühl\nBrennpunkt Schweiz\nSchengen/Dublin – Nein danke\nUnsere Helden - Luzerner Topathleten\nNadja Pieren\nJunge SVP Kanton Schwyz\nArtikel 2\nSeerugge Feger \nSVP Kanton Zug\nTeleblocher\nThomas Burgherr\n2019 nicht mehr gewählt werden\nSVP Rheintal\nFabian Molina\nSVP Frauen Basel-Stadt\nAdrian Spahr\nHeligrill\n99% Initiative\nSchutz des Wertkonservativen\nSVP Utzentorf\nDie Cervelat\nSVP Baar\nSVP des Kantons Luzern\nSVP Bezirk Meilen\nSVP Emmen\nschussfreude.ch\nJunge SVP Solothurn\nSchweizer Politik\nRestaurant Sternen Muotathal\nLeckerbissen aus Blocherstan\nCheyenne Motorcycleclub Suisse\nGemeinsam vorwärts\nRené Truninger\nSVP der Fels\t\nSVP Stadt Winterthur\nDead Riders Sumiswald\nJungfreisinnige Stadt Bern\nChristoph Einer\nJunge BDP Kanton Bern\nWachhund Willy\nSVP Dietikon\nSVP Emmental\nHans-Ueli Vogt\nSVP Hägendorf\nSVP Stadt Luzern\nSandro Wächter\nZuger Zeitung\nSVP Wohnen-Anglikon\nAn unsere Regierung: Der Souverän sind wir\nForum Demokratie und Menschenrechte\nSVP Kreis 3\nBeatrice Simon\nLuzi Stamm\nSVP Nidau\nSifa – Sicherheit für alle\nSVP Bezirk Muri AG\nForum für direkte Demokratie\nPhilip Kopp\nJunge SVP Kreisverband Freudigen\nDie Geschichte der Schweiz\nSVP Kanton Schwyz\nPublic Eye\nBegrenzungsinitiative\nUnser neue Bundesrat für die Schweiz\nSVP Reinach\nClaudio Schmid\nGregor Rutz\nSVP Bezirk Bremgarten AG\nMarianna Schlatter-Schmid\nGesellschaft offene und moderne Schweiz\nSVP Stadt Olten\nWaffen Schweiz\nAnhänger von Christoph Blocher\nUmoll\nWir bestimmen",
+          "VorschlageGefalltMir_": "512\n1.307\n439\n766\n441\n2.956\n1.189\n606\n641\n137\n231\n224\n7.747\n604\n355\n1.269\n611\n632\n456\n1.268\n176\n178\n182\n284\n920\n225\n295\n389\n150\n887\n69\n138\n1.141\n3.652\n1.896\n538\n478\n5.191\n295\n451\n309\n523\n1.417\n880\n741\n375\n182\n212\n236\n161\n291\n312\n2.358\n1.135\n3.547\n548\n118\n4.888\n552\n294\n281\n884\n724\n421\n328\n1.336\n976\n1.196\n503\n1.346\n1.253\n1.488\n1.024\n1.264\n2.084\n1.915\n714\n418\n561\n585\n1.306\n1.026\n171\n246\n2.594\n408\n1.637\n463\n1.104\n190\n428\n5\n234\n1.691\n245\n713\n515\n1.649\n307\n1.250\n1.248\n1.804\n395\n1.924\n1.677\n741\n927\n642\n447\n275\n1.271\n574\n351\n4.651\n208\n821\n198\n1.564\n220\n1.346\n3.153\n120\n126\n3.627\n306\n1.796\n340\n52\n59\n338\n1.838\n751\n136\n1.232\n150\n374\n336\n4.655\n194\n466\n5.790\n221\n1.254\n812\n10\n559",
+          "VerzeichnisNamen_": "Michael Fitzi\nForum der Schweizerischen Volkspartei\nAUNS Aktion für eine unabhängige und neutrale Schweiz\nAllianz gegen Sozis und Grüne\nUnabhängige direkte demokratische Schweiz\nSchutz des Wertkonservativen\nSchweizer Politik",
+          "VerzeichnisGefalltMir_": "442\n623\n7.791\n1.908\n1.176\n224\n308"
         },
         {
           "Profil_": "P2",
@@ -9936,10 +9936,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-132",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9959,10 +9959,10 @@ var data =
           "LinkBild_": "RH_C_08-04-19",
           "Bildname": "ABB-P2-133",
           "Bildunterschriften_": "Der Streit über mögliche Enteignungen von Wohnungskonzernen sorgt weiter für heftige Debatten. Union, FDP und AfD sind dagegen. Zustimmung kommt von Teilen der SPD, von Linken und Grünen. Quelle: WELT/ Achim Unser",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -9982,10 +9982,10 @@ var data =
           "LinkBild_": "RH_D_08-04-19",
           "Bildname": "ABB-P2-134",
           "Bildunterschriften_": "Der Schütze konnte von der Kapo Solothurn angehalten werden. Die Waffe wurde sichergestellt.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10005,10 +10005,10 @@ var data =
           "LinkBild_": "RH_E_08-04-19",
           "Bildname": "ABB-P2-135",
           "Bildunterschriften_": "Greta auf dem Weg nach New York. Und der Strom kommt aus der Steckdose!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10028,10 +10028,10 @@ var data =
           "LinkBild_": "RH_F_08-04-19",
           "Bildname": "ABB-P2-136",
           "Bildunterschriften_": "Die militärische Zusammenarbeit zwischen Venezuela und Russland ist alles andere als neu. Bild: Ein venezolanischer Soldat empfängt im Rahmen gemeinsamer Manöver den russischen Anti-U-Boot-Vernichter ''Admiral Tschabanenko'' im Hafen La Guaira, Venezuela, 25. November 2008. Quelle: www.globallookpress.com",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10051,10 +10051,10 @@ var data =
           "LinkBild_": "RH_G_08-04-19",
           "Bildname": "ABB-P2-137",
           "Bildunterschriften_": "Feuerwerk am Brandenburger Tor: Nach dem Willen der Berliner Grünen soll es künftig keine privaten Feuerwerke mehr geben Foto: picture alliance / blickwinkel",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10074,10 +10074,10 @@ var data =
           "LinkBild_": "RH_H_08-04-19",
           "Bildname": "ABB-P2-138",
           "Bildunterschriften_": "Vilimsky vs Karas auf Puls 4 – (c) Screenshot",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10097,10 +10097,10 @@ var data =
           "LinkBild_": "RH_I_08-04-19",
           "Bildname": "ABB-P2-139",
           "Bildunterschriften_": "Viel tragischer als die Protagonisten sind die tausenden von verirrten Wählern, welche solchen Leuten auf den Leim gehen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10120,10 +10120,10 @@ var data =
           "LinkBild_": "RH_J_08-04-19",
           "Bildname": "ABB-P2-140",
           "Bildunterschriften_": "Foto: Screenshot Youtube",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10143,10 +10143,10 @@ var data =
           "LinkBild_": "RH_A_09-04-19",
           "Bildname": "ABB-P2-141",
           "Bildunterschriften_": "Luca Filippini ist Generalsekretär des Innen- und Justizdepartements des Kantons Tessin. Er studierte Ingenieurwissenschaften an der Eidgenössischen Technischen Hochschule Zürich (ETH). Dort absolvierte er auch einen Nachdiplom-Studiengang in Wirtschaftswissenschaften. Im Militär war er Stabschef der Gebirgsinfanteriebrigade 9. Der 51-jährige Tessiner ist Präsident des Schweizer Schiesssportverband (SSV) und der Interessengemeinschaft Schiessen Schweiz (ISS), welche die Übernahme der EU-Waffenrichtlinie und somit die Revision des Schweizerischen Waffenrechts bekämpft. Über die Vorlage wird am 19. Mai 2019 in einer Referendumsabstimmung abgestimmt.\n(© Keystone / Peter Schneider)",
-          "Like-VorschlägeNamen_": "Wilhelm Tell\nMartina Bircher\nChristoph Einer\nLeckerbissen aus Blocherstan\nThomas Aeschi\nPerlen aus Blocherstan\nSchweizer National- und Ständeräte\nRené Truninger\nWir bestimmen\nBrennpunkt Schweiz\nZMB Zürcher Museums-Bahn\nBegrenzungsinitiative\nJunge SVP Kanton St.Gallen\nSVP des Kantons Luzern\nSamuel Krähenbühl\nHans-Ueli Vogt\nSVP Stadt Winterthur\nTeleblocher\nJunge SVP Solothurn\nSVP der Fels\nSofortiger Rücktritt von Kurt Fluri\nSofa – Sicherheit für alle\nSVP Rheintal\nNetzCourage\nDie Cervelat\nGhelma Gruppe\nSamira Marti\nCédric Wermuth\nFreiheitlicher Kanal Schweiz\nzimgroup.ch\nJuristenkomitee\nSVP Bülach\nMeldezentrale für Eidgenossen\nForum Demokratie und Menschenrechte\nFahrzeugtreffen DVZO\nWaffenrecht Schengen JA\n2019 nicht mehr gewählt werden\nRevolutionäre Jugend Zürich\nDieter Haller\nLuzi Stamm\nAntifa Eidgenossenschaft\nMarc Bochsler in den Nationalrat\nTschopp die Pomade\nSVP Nidwalden\nSVP Kanton Solothurn\nSVP Dietikon\nBerner Zeitung\nSelbstständiger Umway Unternehmer\nPolit-Stammtisch\nGr DCA m 32-M Flab Abt 32\nGregor Rutz\nNein zum kantonalen Energiegesetz\nSVP Nidau\nAnhänger von Christoph Blocher\nKampfsportschule Aarau\nJunge SVP Aargau\nSVP Reinach\nVerein gegen Tierfabriken\nSchweizer Kälbermästerverband\nStoppt den Asylwahnsinn in der Schweiz\nUnser neuer Bundesrat für die Schweiz\nJunge SVP Kreisverband Frutigen\nSVP Wohnen-Anglikon\nSVP Zürich Kreis 7 und 8\nJunge SVP Oberland-See\nPrisca Koller\nSVP Hägendorf\nSelbstbestimmungsinitiative\nAdrian Spahr\nSVP Bezirk Bremgarten AG\nSusanne Leutenegger\nUmoll\nPetra Gössi\nThomas Obermayer\nJa zum Grenzschutz\nDie schönsten Ausflugsziele der Schweiz\nKeine Einbürgerung von Kriminellen\nOld year rock bash\nSwiss Dinner\nStiftung PWG\nYannic Nuoffer\nSchweizer Armee\nSVP Stadt Olten\nRoadside Pictures\nGrand Café Lochergut\nJunge AUNS Schweiz\nSonntags Zeitung\nStadtsiedlung Reitmen\nDaniel Jositsch\nAtheismus Konfessionslos Frei bleiben\nJa zur direkten Demokratie in der Schweiz\nDoris Iten\nDer Bund\nSchweizer Waffensammler\nHearthstone Deutschland\nJUSO Stadt Bern\ntöffrestauration.ch\nRoliblue\nSeerestaurant Tellsplatte\nSVP Bezirk Muri AG\nAFD Schweiz\nBritish Classic Car Spares\nPriskas Kosmetik Studio\nSVP Wädenswil\nRons Wohnungen in Zürich\nJUSO Winterthur\nUnd wer machte den Menschen\nBeatrice Simon\nOskar Wälti Kunstmaler\nZüri isst\nFussballstadion JA\nPascal Stüssi\nPz Sap Bat 11\nVisionis\nWidder Garage\nDJ Nyle\nSender\nSommerkonzerte Bäckeranlage\nJolis Retro Store\nAm Damm für Dich\nKosmos\nKannada Shop und Print\nHarrys Ding\nDaniel H. Bar\nAmacher meets Gerber\nBDP Kanton Bern\nAlpaka Appenzell – Alparama\nRöntgenplatzfest\nAmanz Gressly\nStolze Openair\nZigermeet\nKampagne 19\nPainless Academy\nFrank Design\nStadtsommer\nSVP Stadt Zug\nRevolutionärer Aufbau Winterthur\nHoudini Kino Bar\nSVP Stadt Bern\nPlan B – Neuorientierung\nVerena Herzog\nBDP Kanton Luzern\nrundfunk.fm\nJunge SVP Luzern\nBlack Card Power\nHolzbau Kistler\nLW AT Brigade\nGrünliberale Thurgau\ngrillcenter.ch",
-          "Like-VorschlägeGefälltMir_": "767\n421\n449\n1.247\n3.654\n871\n633\n1.923\n560\n1.024\n507\n1.232\n1.196\n1.691\n1.488\n4.651\n740\n1.309\n1.649\n1.678\n398\n1.797\n246\n2.959\n5\n486\n1.192\n13.371\n341\n1.010\n774\n883\n476\n3.153\n1.037\n628\n172\n6.958\n350\n3.629\n347\n151\n187\n2.594\n3.083\n575\n13.910\n310\n513\n573\n4.654\n848\n307\n814\n3.956\n881\n376\n9.118\n394\n14.062\n150\n339\n2.594\n369\n294\n883\n208\n4.992\n1.637\n194\n5.190\n10\n3.971\n625\n11.291\n10.422\n1.752\n436\n4.208\n2.204\n413\n5.373\n221\n3\n2.836\n246\n10.737\n632\n6.787\n823\n165\n171\n6.199\n722\n2\n976\n12\n2\n450\n342\n73\n52\n35\n14\n4.674\n638\n1\n829\n10\n15.572\n4.907\n640\n681\n20\n6.460\n493\n2.711\n1.891\n528\n4.732\n9.333\n45\n14.229\n3.723\n292\n439\n392\n1.625\n134\n6.427\n2.541\n133\n257\n289\n4.337\n421\n777\n5.168\n196\n271\n548\n379\n14.325\n674\n243\n262\n1.669\n328\n496",
-          "Like-VerzeichnisNamen_": "Martina Bircher\nChristoph Riner\nThomas Aeschi\nRené Truninger\nBrennpunkt Schweiz\nSVP – Der Fels\nSofortiger Rücktritt von Kurt Fluri",
-          "Like-VerzeichnisGefälltMir_": "451\n486\n3.655\n1.929\n1.026\n1.844\n400"
+          "VorschlageNamen_": "Wilhelm Tell\nMartina Bircher\nChristoph Einer\nLeckerbissen aus Blocherstan\nThomas Aeschi\nPerlen aus Blocherstan\nSchweizer National- und Ständeräte\nRené Truninger\nWir bestimmen\nBrennpunkt Schweiz\nZMB Zürcher Museums-Bahn\nBegrenzungsinitiative\nJunge SVP Kanton St.Gallen\nSVP des Kantons Luzern\nSamuel Krähenbühl\nHans-Ueli Vogt\nSVP Stadt Winterthur\nTeleblocher\nJunge SVP Solothurn\nSVP der Fels\nSofortiger Rücktritt von Kurt Fluri\nSofa – Sicherheit für alle\nSVP Rheintal\nNetzCourage\nDie Cervelat\nGhelma Gruppe\nSamira Marti\nCédric Wermuth\nFreiheitlicher Kanal Schweiz\nzimgroup.ch\nJuristenkomitee\nSVP Bülach\nMeldezentrale für Eidgenossen\nForum Demokratie und Menschenrechte\nFahrzeugtreffen DVZO\nWaffenrecht Schengen JA\n2019 nicht mehr gewählt werden\nRevolutionäre Jugend Zürich\nDieter Haller\nLuzi Stamm\nAntifa Eidgenossenschaft\nMarc Bochsler in den Nationalrat\nTschopp die Pomade\nSVP Nidwalden\nSVP Kanton Solothurn\nSVP Dietikon\nBerner Zeitung\nSelbstständiger Umway Unternehmer\nPolit-Stammtisch\nGr DCA m 32-M Flab Abt 32\nGregor Rutz\nNein zum kantonalen Energiegesetz\nSVP Nidau\nAnhänger von Christoph Blocher\nKampfsportschule Aarau\nJunge SVP Aargau\nSVP Reinach\nVerein gegen Tierfabriken\nSchweizer Kälbermästerverband\nStoppt den Asylwahnsinn in der Schweiz\nUnser neuer Bundesrat für die Schweiz\nJunge SVP Kreisverband Frutigen\nSVP Wohnen-Anglikon\nSVP Zürich Kreis 7 und 8\nJunge SVP Oberland-See\nPrisca Koller\nSVP Hägendorf\nSelbstbestimmungsinitiative\nAdrian Spahr\nSVP Bezirk Bremgarten AG\nSusanne Leutenegger\nUmoll\nPetra Gössi\nThomas Obermayer\nJa zum Grenzschutz\nDie schönsten Ausflugsziele der Schweiz\nKeine Einbürgerung von Kriminellen\nOld year rock bash\nSwiss Dinner\nStiftung PWG\nYannic Nuoffer\nSchweizer Armee\nSVP Stadt Olten\nRoadside Pictures\nGrand Café Lochergut\nJunge AUNS Schweiz\nSonntags Zeitung\nStadtsiedlung Reitmen\nDaniel Jositsch\nAtheismus Konfessionslos Frei bleiben\nJa zur direkten Demokratie in der Schweiz\nDoris Iten\nDer Bund\nSchweizer Waffensammler\nHearthstone Deutschland\nJUSO Stadt Bern\ntöffrestauration.ch\nRoliblue\nSeerestaurant Tellsplatte\nSVP Bezirk Muri AG\nAFD Schweiz\nBritish Classic Car Spares\nPriskas Kosmetik Studio\nSVP Wädenswil\nRons Wohnungen in Zürich\nJUSO Winterthur\nUnd wer machte den Menschen\nBeatrice Simon\nOskar Wälti Kunstmaler\nZüri isst\nFussballstadion JA\nPascal Stüssi\nPz Sap Bat 11\nVisionis\nWidder Garage\nDJ Nyle\nSender\nSommerkonzerte Bäckeranlage\nJolis Retro Store\nAm Damm für Dich\nKosmos\nKannada Shop und Print\nHarrys Ding\nDaniel H. Bar\nAmacher meets Gerber\nBDP Kanton Bern\nAlpaka Appenzell – Alparama\nRöntgenplatzfest\nAmanz Gressly\nStolze Openair\nZigermeet\nKampagne 19\nPainless Academy\nFrank Design\nStadtsommer\nSVP Stadt Zug\nRevolutionärer Aufbau Winterthur\nHoudini Kino Bar\nSVP Stadt Bern\nPlan B – Neuorientierung\nVerena Herzog\nBDP Kanton Luzern\nrundfunk.fm\nJunge SVP Luzern\nBlack Card Power\nHolzbau Kistler\nLW AT Brigade\nGrünliberale Thurgau\ngrillcenter.ch",
+          "VorschlageGefalltMir_": "767\n421\n449\n1.247\n3.654\n871\n633\n1.923\n560\n1.024\n507\n1.232\n1.196\n1.691\n1.488\n4.651\n740\n1.309\n1.649\n1.678\n398\n1.797\n246\n2.959\n5\n486\n1.192\n13.371\n341\n1.010\n774\n883\n476\n3.153\n1.037\n628\n172\n6.958\n350\n3.629\n347\n151\n187\n2.594\n3.083\n575\n13.910\n310\n513\n573\n4.654\n848\n307\n814\n3.956\n881\n376\n9.118\n394\n14.062\n150\n339\n2.594\n369\n294\n883\n208\n4.992\n1.637\n194\n5.190\n10\n3.971\n625\n11.291\n10.422\n1.752\n436\n4.208\n2.204\n413\n5.373\n221\n3\n2.836\n246\n10.737\n632\n6.787\n823\n165\n171\n6.199\n722\n2\n976\n12\n2\n450\n342\n73\n52\n35\n14\n4.674\n638\n1\n829\n10\n15.572\n4.907\n640\n681\n20\n6.460\n493\n2.711\n1.891\n528\n4.732\n9.333\n45\n14.229\n3.723\n292\n439\n392\n1.625\n134\n6.427\n2.541\n133\n257\n289\n4.337\n421\n777\n5.168\n196\n271\n548\n379\n14.325\n674\n243\n262\n1.669\n328\n496",
+          "VerzeichnisNamen_": "Martina Bircher\nChristoph Riner\nThomas Aeschi\nRené Truninger\nBrennpunkt Schweiz\nSVP – Der Fels\nSofortiger Rücktritt von Kurt Fluri",
+          "VerzeichnisGefalltMir_": "451\n486\n3.655\n1.929\n1.026\n1.844\n400"
         },
         {
           "Profil_": "P2",
@@ -10166,10 +10166,10 @@ var data =
           "LinkBild_": "RH_B_09-04-19",
           "Bildname": "ABB-P2-142",
           "Bildunterschriften_": "Waffenrecht Entwicklung Venezuela",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10189,10 +10189,10 @@ var data =
           "LinkBild_": "RH_C_09-04-19",
           "Bildname": "ABB-P2-143",
           "Bildunterschriften_": "Nein zum Freihandelsabkommen",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10212,10 +10212,10 @@ var data =
           "LinkBild_": "RH_D_09-04-19",
           "Bildname": "ABB-P2-144",
           "Bildunterschriften_": "War zu Gast beim slowakischen Sender Fun Rádio: Josette Baer Hill, Professorin an der Universität Zürich. Foto: PD",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10235,10 +10235,10 @@ var data =
           "LinkBild_": "RH_E_09-04-19",
           "Bildname": "ABB-P2-145",
           "Bildunterschriften_": "Laut Mario Gattiker hätte ein Nein zum Waffenrecht weitreichende Folgen für die Schweiz. (Archiv)\n© KEYSTONE/THOMAS HODEL",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10258,10 +10258,10 @@ var data =
           "LinkBild_": "RH_F_09-04-19",
           "Bildname": "ABB-P2-146",
           "Bildunterschriften_": "Bei einem Nein zum verschärften Waffenrecht dürfte die Schweiz wieder verstärkt in den Fokus von Asylsuchenden geraten. © KEYSTONE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10281,10 +10281,10 @@ var data =
           "LinkBild_": "RH_G_09-04-19",
           "Bildname": "ABB-P2-147",
           "Bildunterschriften_": "Immer für ein Spässchen zu haben. Toni Brunner im Haus der Freiheit, die ihm gehört. Walter Gartmann, Präsident der SVP St. Gallen, ist gegen eine Amtsdauerbeschränkung.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10304,10 +10304,10 @@ var data =
           "LinkBild_": "RH_H_09-04-19",
           "Bildname": "ABB-P2-148",
           "Bildunterschriften_": "Der Europäische Gerichtshof für Menschenrechte kippte das Urteil des Bundesverwaltungsgerichts am Dienstag, den 9. April 2019.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10327,10 +10327,10 @@ var data =
           "LinkBild_": "RH_I_09-04-19",
           "Bildname": "ABB-P2-149",
           "Bildunterschriften_": "Screenshot: Migranten schicken Rekordsumme in ihre Heimatländer",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10350,10 +10350,10 @@ var data =
           "LinkBild_": "RH_J_09-04-19",
           "Bildname": "ABB-P2-150",
           "Bildunterschriften_": "9. Juni: Freispruch für Deutschland! – „Nicht über und nicht unter andern Völkern woll’n wir sein!“ (Brecht)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10373,10 +10373,10 @@ var data =
           "LinkBild_": "RH_A_10-04-19",
           "Bildname": "ABB-P2-151",
           "Bildunterschriften_": "Der Anteil von Straftaten durch Zugewanderte ist überproportional hoch / picture alliance",
-          "Like-VorschlägeNamen_": "Wilhelm Tell\nLeckerbissen aus Blocherstan\nSVP Bülach\nKurt Fluri\nSchweizer National- und Ständeräte\nArbeitslosigkeit 50+\nPerlen aus Blocherstan\nWir bestimmen\nSVP-Aarburg\nZMB Zürcher Museums-Bahn\nSVP Ortspartei Brugg\nSVP Stadt St.Gallen\nSVP Stadt Winterthur\nSozialhilfegesetz JA\nJunge SVP Kanton St.Gallen\nBegrenzungsinitiative\nSVP Frauen Kanton Solothurn\nTeleblocher\nMein Weg ohne den Verein Schweiz\nSandro Brotz\nSamuel Krähenbühl\nCabarets\nHans-Ueli Vogt\nClaudio Schmid\nJunge SVP Aargau\nThierry Burkart\nFreie Landschaft Schweiz\nJunge SVP Solothurn\nSVP Udligenswil\nSVP Burgdorf\nSVP Bezirk Muri AG\nSolothurner Bündnis gegen Depression\nLuzi Stamm\nFreiheitlicher Kanal Schweiz\n2019 nicht mehr gewählt\nJean-Pierre Gallati Newspage\nJunge SVP Luzern\nSVP des Kantons Luzern\nLisa Zanolla\nSVP Wohlen-Anglikon\nzimgroup.ch\nStefanie Heimgartner\nThomas Hürlimann in den Kantonsrat\nWir sind die 49.92%\nNetzCourage\nGhelma Gruppe\nFahrzeugtreffen DVZO\nRevolutionäre Jugend Zürich\nSVP Aargau\nNadine Masshardt\nUrsula Wyss\nSamira Marti\nSVP Emmental\nSP Kanton Luzern\nDieter Haller\nValentin Landmann\nDie Cervelat\nSVP Nidwalden\nSelbstständiger Umway Unternehmer\nPascal Stüssi\nGr DCA m 32-M Flab Abt 32\nCédric Wermuth\nJa zur direkten Demokratie in der Schweiz\nVerein gegen Tierfabriken\nElia Leiser\nSVP Rheintal\nWerner Salzmann\nSchweizer Kälbermästerverband\nRolf Jäggi\nBerner Zeitung\nJolis Retro Store\nWaffenrecht Schengen JA\nNein zum kantonalen Energiegesetz\nSVP Kanton Solothurn\nPolit-Stammtisch\nForum Demokratie und Menschenrechte\nBuddy Dee und Ghostriders\nGregor Rutz\nBroncos MC Bern – Switzerland\nDaniel Jositsch\nSVP Dietikon\nJa zum Grenzschutz\nSVP Stadt Zug\nThomas Obermayer\nAmacher meets Gerber\nSchweizer Landwirtschaft\nSusanne Leutenegger\nSVP Reinach\nSVP Nidau\nStoppt den Asylwahnsinn in der Schweiz\nJunge SVP Kreisverband Frutigen\nAnna Wartmann\nTschopp die Pomade\nBenjamin Giezendanner\nYannic Nuoffer\nSVP Zürich Kreis 7 und 8\nDie Grüne\nSVP Stadt Bern\nJunge SVP Oberland-See\nSVP Hägendorf\nUnser neuer Bundesrat für die Schweiz\nSeerestaurant Tellsplatte\nAnhänger von Christoph Blocher\nAndreas Gerber\nSchweizer Armee\nGina Kern\nAdrian Spahr\nSVP Bezirk Bremgarten AG\nDaniel Peter\nUmoll\nSofa – Sicherheit für alle\nDavid Sassen Müller\nPatrick Walder\nMeldezentrale für Eidgenossen\nDoris Iten\nBergisch kantonaler Schwingverband\nSchweizer Medienkritik - unzensiert\nSorglos Design AG\nSelbstbestimmungsinitiative\nKeine Einbürgerung von Kriminellen\nMichaela Huser\nDie schönsten Ausflugsziele der Schweiz\nThomas Burgherr\nSP Kanton Aargau\nEnergy Park AG\nSwiss Dinner\nKampfsportschule Aarau\nSVP Stadt Olten\nStiftung PWG\nStadtsiedlung Reitmen\nAlpaka Appenzell\nOwlNews\nRoadside Pictures\nSVP Bezirk Zopfigen\nGrand Café Lochergut\nAtheismus Konfessionslos – Frei bleiben\nOld year rock bash\nPrime News\nSVP Bezirk Dietikon\nHearthstone Deutschland\nJunge AUNS Schweiz\nRoliblue\nKampagne 19\nRevolutionärer Aufbau Winterthur\ntöffrestauration.ch\nPlan B – Neuorientierung\nJoel Stutz",
-          "Like-VorschlägeGefälltMir_": "767\n1.247\n883\n97\n633\n612\n871\n560\n137\n507\n291\n500\n740\n224\n1.196\n1.232\n637\n1.307\n515\n2.496\n1.488\n299\n4.652\n336\n881\n5.749\n4.200\n1.649\n210\n201\n342\n372\n3.629\n341\n172\n231\n674\n1.691\n430\n220\n1.010\n1.307\n453\n668\n2.959\n486\n1.037\n6.959\n194\n2.138\n2.114\n1.192\n353\n2.317\n350\n1.879\n5\n499\n310\n640\n573\n13.371\n165\n9.121\n313\n246\n1.269\n394\n183\n13.911\n528\n628\n848\n3.083\n513\n3.152\n806\n4.655\n2.624\n6.788\n575\n11.291\n421\n625\n292\n937\n5.190\n376\n307\n14.062\n329\n738\n187\n2.962\n413\n369\n1.977\n196\n294\n208\n150\n450\n814\n359\n5.403\n246\n1.637\n194\n214\n10\n1.767\n369\n208\n446\n171\n3.304\n446\n887\n4.992\n1.753\n1.082\n10.423\n1.028\n1.049\n773\n4.208\n3.957\n221\n2.204\n632\n392\n3\n3\n445\n2.837\n832\n436\n1.747\n75\n2\n246\n2\n133\n777\n12\n271\n182",
-          "Like-VerzeichnisNamen_": "Schweizer National und Ständeratswahlen 2019 Bürgerlich Wählen\nSamuel Krähenbühl\nLisa Zanolla\nJean-Pierre Gallati\nStoppt den Asylwahnsinn in der Schweiz\nYannic Nuoffer\nSVP Zürich Kreis 7 und 8\nAnhänger von Christoph Blocher\nAlbert Rösti",
-          "Like-VerzeichnisGefälltMir_": "645\n1.487\n433\n234\n14.062\n414\n369\n825\n7.504"
+          "VorschlageNamen_": "Wilhelm Tell\nLeckerbissen aus Blocherstan\nSVP Bülach\nKurt Fluri\nSchweizer National- und Ständeräte\nArbeitslosigkeit 50+\nPerlen aus Blocherstan\nWir bestimmen\nSVP-Aarburg\nZMB Zürcher Museums-Bahn\nSVP Ortspartei Brugg\nSVP Stadt St.Gallen\nSVP Stadt Winterthur\nSozialhilfegesetz JA\nJunge SVP Kanton St.Gallen\nBegrenzungsinitiative\nSVP Frauen Kanton Solothurn\nTeleblocher\nMein Weg ohne den Verein Schweiz\nSandro Brotz\nSamuel Krähenbühl\nCabarets\nHans-Ueli Vogt\nClaudio Schmid\nJunge SVP Aargau\nThierry Burkart\nFreie Landschaft Schweiz\nJunge SVP Solothurn\nSVP Udligenswil\nSVP Burgdorf\nSVP Bezirk Muri AG\nSolothurner Bündnis gegen Depression\nLuzi Stamm\nFreiheitlicher Kanal Schweiz\n2019 nicht mehr gewählt\nJean-Pierre Gallati Newspage\nJunge SVP Luzern\nSVP des Kantons Luzern\nLisa Zanolla\nSVP Wohlen-Anglikon\nzimgroup.ch\nStefanie Heimgartner\nThomas Hürlimann in den Kantonsrat\nWir sind die 49.92%\nNetzCourage\nGhelma Gruppe\nFahrzeugtreffen DVZO\nRevolutionäre Jugend Zürich\nSVP Aargau\nNadine Masshardt\nUrsula Wyss\nSamira Marti\nSVP Emmental\nSP Kanton Luzern\nDieter Haller\nValentin Landmann\nDie Cervelat\nSVP Nidwalden\nSelbstständiger Umway Unternehmer\nPascal Stüssi\nGr DCA m 32-M Flab Abt 32\nCédric Wermuth\nJa zur direkten Demokratie in der Schweiz\nVerein gegen Tierfabriken\nElia Leiser\nSVP Rheintal\nWerner Salzmann\nSchweizer Kälbermästerverband\nRolf Jäggi\nBerner Zeitung\nJolis Retro Store\nWaffenrecht Schengen JA\nNein zum kantonalen Energiegesetz\nSVP Kanton Solothurn\nPolit-Stammtisch\nForum Demokratie und Menschenrechte\nBuddy Dee und Ghostriders\nGregor Rutz\nBroncos MC Bern – Switzerland\nDaniel Jositsch\nSVP Dietikon\nJa zum Grenzschutz\nSVP Stadt Zug\nThomas Obermayer\nAmacher meets Gerber\nSchweizer Landwirtschaft\nSusanne Leutenegger\nSVP Reinach\nSVP Nidau\nStoppt den Asylwahnsinn in der Schweiz\nJunge SVP Kreisverband Frutigen\nAnna Wartmann\nTschopp die Pomade\nBenjamin Giezendanner\nYannic Nuoffer\nSVP Zürich Kreis 7 und 8\nDie Grüne\nSVP Stadt Bern\nJunge SVP Oberland-See\nSVP Hägendorf\nUnser neuer Bundesrat für die Schweiz\nSeerestaurant Tellsplatte\nAnhänger von Christoph Blocher\nAndreas Gerber\nSchweizer Armee\nGina Kern\nAdrian Spahr\nSVP Bezirk Bremgarten AG\nDaniel Peter\nUmoll\nSofa – Sicherheit für alle\nDavid Sassen Müller\nPatrick Walder\nMeldezentrale für Eidgenossen\nDoris Iten\nBergisch kantonaler Schwingverband\nSchweizer Medienkritik - unzensiert\nSorglos Design AG\nSelbstbestimmungsinitiative\nKeine Einbürgerung von Kriminellen\nMichaela Huser\nDie schönsten Ausflugsziele der Schweiz\nThomas Burgherr\nSP Kanton Aargau\nEnergy Park AG\nSwiss Dinner\nKampfsportschule Aarau\nSVP Stadt Olten\nStiftung PWG\nStadtsiedlung Reitmen\nAlpaka Appenzell\nOwlNews\nRoadside Pictures\nSVP Bezirk Zopfigen\nGrand Café Lochergut\nAtheismus Konfessionslos – Frei bleiben\nOld year rock bash\nPrime News\nSVP Bezirk Dietikon\nHearthstone Deutschland\nJunge AUNS Schweiz\nRoliblue\nKampagne 19\nRevolutionärer Aufbau Winterthur\ntöffrestauration.ch\nPlan B – Neuorientierung\nJoel Stutz",
+          "VorschlageGefalltMir_": "767\n1.247\n883\n97\n633\n612\n871\n560\n137\n507\n291\n500\n740\n224\n1.196\n1.232\n637\n1.307\n515\n2.496\n1.488\n299\n4.652\n336\n881\n5.749\n4.200\n1.649\n210\n201\n342\n372\n3.629\n341\n172\n231\n674\n1.691\n430\n220\n1.010\n1.307\n453\n668\n2.959\n486\n1.037\n6.959\n194\n2.138\n2.114\n1.192\n353\n2.317\n350\n1.879\n5\n499\n310\n640\n573\n13.371\n165\n9.121\n313\n246\n1.269\n394\n183\n13.911\n528\n628\n848\n3.083\n513\n3.152\n806\n4.655\n2.624\n6.788\n575\n11.291\n421\n625\n292\n937\n5.190\n376\n307\n14.062\n329\n738\n187\n2.962\n413\n369\n1.977\n196\n294\n208\n150\n450\n814\n359\n5.403\n246\n1.637\n194\n214\n10\n1.767\n369\n208\n446\n171\n3.304\n446\n887\n4.992\n1.753\n1.082\n10.423\n1.028\n1.049\n773\n4.208\n3.957\n221\n2.204\n632\n392\n3\n3\n445\n2.837\n832\n436\n1.747\n75\n2\n246\n2\n133\n777\n12\n271\n182",
+          "VerzeichnisNamen_": "Schweizer National und Ständeratswahlen 2019 Bürgerlich Wählen\nSamuel Krähenbühl\nLisa Zanolla\nJean-Pierre Gallati\nStoppt den Asylwahnsinn in der Schweiz\nYannic Nuoffer\nSVP Zürich Kreis 7 und 8\nAnhänger von Christoph Blocher\nAlbert Rösti",
+          "VerzeichnisGefalltMir_": "645\n1.487\n433\n234\n14.062\n414\n369\n825\n7.504"
         },
         {
           "Profil_": "P2",
@@ -10396,10 +10396,10 @@ var data =
           "LinkBild_": "RH_B_10-04-19",
           "Bildname": "ABB-P2-152",
           "Bildunterschriften_": "Junge Männer verzichten immer öfter auf eine Offiziersausbildung und kehren der Armee den Rücken. (Bild: Peter Klaunzer / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10419,10 +10419,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-153",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10442,10 +10442,10 @@ var data =
           "LinkBild_": "RH_D_10-04-19",
           "Bildname": "ABB-P2-154",
           "Bildunterschriften_": "Einsatzkräfte in Wien (Archivbild): „Gerechtfertigte Notwehr zugebilligt“ Foto: picture alliance/APA/picturedesk.com",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10465,10 +10465,10 @@ var data =
           "LinkBild_": "RH_E_10-04-19",
           "Bildname": "ABB-P2-155",
           "Bildunterschriften_": "Angela Merkel und John Micklethwait im März bei der Konferenz \"Global Solutions Summit\" in Berlin. Quelle: AFP/Getty Images",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10488,10 +10488,10 @@ var data =
           "LinkBild_": "RH_F_10-04-19",
           "Bildname": "ABB-P2-156",
           "Bildunterschriften_": "Pigeons fly in front of Ein Plakat Erdoğans in Bursa. Die Stadt konnte seine Partei bei der Wahl knapp halten, Ankara und Istanbul hat sie verloren. – REUTERS",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10511,10 +10511,10 @@ var data =
           "LinkBild_": "RH_G_10-04-19",
           "Bildname": "ABB-P2-157",
           "Bildunterschriften_": "Der Berner SVP-Regierungsrat Pierre Alain Schnegg eckt mit seinen Plänen für die Sozialhilfe bei seinen Kollegen in den anderen Kantonen an. (Bild: Annick Ramp)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10534,10 +10534,10 @@ var data =
           "LinkBild_": "RH_H_10-04-19",
           "Bildname": "ABB-P2-158",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10557,10 +10557,10 @@ var data =
           "LinkBild_": "RH_I_10-04-19",
           "Bildname": "ABB-P2-159",
           "Bildunterschriften_": "Thomas Aeschi (links) und Parteipräsident Albert Rösti stehen unter Druck. © Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10580,10 +10580,10 @@ var data =
           "LinkBild_": "RH_J_10-04-19",
           "Bildname": "ABB-P2-160",
           "Bildunterschriften_": "Jochen Flasbarth: Die erste Forderung als UAB-Chef: Die erste Forderung: ein Tempolimit auf Autobahnen Foto: picture alliance",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10603,10 +10603,10 @@ var data =
           "LinkBild_": "RH_A_11-04-19",
           "Bildname": "ABB-P2-161",
           "Bildunterschriften_": "Ab sofort ist die Freisinnigen Partei, nicht mehr freisinnig.",
-          "Like-VorschlägeNamen_": "SVP Bezirk Muri AG\nSVP Ortspartei Brugg\nKurt Fluri\nFreiheitlicher Kanal Schweiz\nSVP Aargau\nWilhelm Tell\nSVP Udligensdorf\nArbeitslosigkeit 50+\nLeckerbissen aus Blocherstan\nSVP Baar\nSVP Emmental\nSVP Mutend\nSVP Gossau-Arnegg\nSVP Nottwil\nSVP Stadt Winterthur\n2019 nicht mehr gewählt\nSVP Zürich Kreis 11\nSVP Morschach SZ\nDavid Umher\nBegrenzungsinitiative\nDiagnose: Eidgenose\nClaudio Schmid\nJungfreisinnige Fricktal\nMichaela Huser\nTeleblocher\nNextsky\nHans-Ueli Vogt\nJunge SVP Solothurn\nJunge SVP Aargau\nMartin Götzl\nSeilbahnen Schweiz\nFDP Stadt Zürich Kreis 4 und 5\nSVP Bülach\nJunge SVP Kanton St.Gallen\nStänderat Beat Rieder\nY.Wey Te\nRolf Jäggi\nAMP Bubikon\nThierry Burkart\ntrial-watch.com\nBeta-Show Deluxe\nLuzi Stamm\nSVP Reinach\nUrsula Wyss\nSVP Bezirk Bremgarten AG\nFreie Landschaft Schweiz\nGina Kern\nMaja Riniker\nMarionna Schlatter-Schmid\nRoland Fischer\nSVP Wohnen-Anglikon\nStefanie Heimgartener\nWerner Salzmann\nSascha Schmid\nBerner Zeitung\nSVP des Kantons Luzern\nAntifa Eidgenossenschaft\nPolit-Stammtisch\nLars Guggisberg\nYvonne Bürgin\nWir bestimmen\nNetzCourage\nSamira Marti\nSandro Brotz\nPatrick Walder\nSVP Kanton Solothurn\nSVP Rheintal\nSVP Stadt Zug\nNadine Masshardt\nMartin Ferner\nSVP Nidau\nValentin Landmann\nHans-Jakob Boesch\nDie Cervelat\nSP Kanton Luzern\nJunge SVP Luzern\nBuddy Dee und die Ghostriders\nJa zum Grenzschutz\nNein zum kantonalen Energiegesetz\nSandra Sollberger\nSchweizer Landwirtschaft\nJackie-Jill\nUnser neuer Bundesrat für die Schweiz\nFahrschule Cyrill Degonda\nElia Leiser\nBenjamin Giezendanner\nDie Mittelländische\nJunge SVP Kreisverband Frutigen\nMatthias C. Betsche\nDaniel Jositsch\nAndreas Lustenberger in den Nationalrat\nGregor Rutz\nAdrian Spahr\nJunge AUNS Schweiz\nJunge SVP Oberland-See\nTschopp die Pomade\nSVP Hägendorf\nRoman Rauper\nSorglos Design AG\nForum Demokratie und Menschenrecht\nAmacher meets Gerber\nGrünliberale Bezirk Uster\nPerlen aus Blocherstan\nGrünliberale Bezirk Horgen\nJoel Stutz\nAdrian Schopp\nPhilipp Nussbaumer\nUmoll\nschnuri.ch\nCook’n Flirt\nFDP Die Liberalen Aarau\nThomas Burgherr\nJungwacht Blauring Schaffhausen\nDaniel Peter\nSelbstbestimmungsinitiative\nSVP Pfäffikon ZH\nKeine Einbürgerung von Kriminellen\nSVP Wädenswil\nSVP Schlieren\nDavid Sassen Müller\nThomas Schärli\nSifa – Sicherheit für alle\nDie schönsten Ausflugsziele der Schweiz\nKomitee Weltoffenes Zürich\nSchützenhaus\nAngst- und Panikhilfe Schweiz\nJunge Grünliberale Zürich\nSVP Stadt Olten\nWaffenrecht Schengen JA\nGregor R. Bruhin\nBergeisterung\nStiftung PWG\nStadtsiedlung Reitmen\nSwiss Dinner\nSVP Bezirk Zofingen\nFDP Die Liberalen Aargau\nJUSO Baselland\nJaszztomate\nPrime News\nRoadside Pictures\nChésco Polo\nArnel Informatik AG\nOwlNews\nSRG Aargau Solothurn\nPeter Pfister AG\nAnna Wartmann\nDo it like LenArt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "342\n291\n97\n342\n194\n767\n210\n612\n1.246\n234\n353\n247\n202\n77\n740\n172\n154\n185\n483\n1.233\n190\n336\n77\n1.082\n1.307\n202\n4.655\n1.649\n883\n412\n376\n2.594\n883\n1.196\n777\n124\n184\n485\n5.749\n159\n707\n3.628\n376\n2.113\n194\n4.262\n246\n375\n492\n176\n221\n1.307\n1.269\n471\n13.911\n1.691\n348\n513\n2.088\n603\n560\n2.958\n1.192\n2.496\n208\n3.083\n246\n421\n2.138\n1.003\n307\n1.88\n359\n5\n2.324\n674\n809\n11.291\n848\n1.025\n937\n672\n150\n183\n313\n2.96\n799\n339\n779\n6.788\n353\n4.656\n1.638\n247\n295\n187\n208\n167\n888\n3.152\n293\n150\n870\n133\n182\n1.637\n152\n10\n472\n195\n278\n1.029\n424\n214\n4.992\n177\n1.753\n14\n140\n369\n461\n1.769\n10.425\n704\n315\n370\n503\n221\n633\n248\n135\n2.207\n631\n4.208\n445\n696\n1.328\n267\n1.758\n3\n439\n7\n3\n313\n280\n738\n408",
-          "Like-VerzeichnisNamen_": "SVP Bezirk Muri AG\nFreiheitlicher Kanal Schweiz\nDavid Umher\nClaudio Schmid\nMichaela Huser\nWerner Salzmann",
-          "Like-VerzeichnisGefälltMir_": "346\n342\n482\n335\n1.085\n1.270"
+          "VorschlageNamen_": "SVP Bezirk Muri AG\nSVP Ortspartei Brugg\nKurt Fluri\nFreiheitlicher Kanal Schweiz\nSVP Aargau\nWilhelm Tell\nSVP Udligensdorf\nArbeitslosigkeit 50+\nLeckerbissen aus Blocherstan\nSVP Baar\nSVP Emmental\nSVP Mutend\nSVP Gossau-Arnegg\nSVP Nottwil\nSVP Stadt Winterthur\n2019 nicht mehr gewählt\nSVP Zürich Kreis 11\nSVP Morschach SZ\nDavid Umher\nBegrenzungsinitiative\nDiagnose: Eidgenose\nClaudio Schmid\nJungfreisinnige Fricktal\nMichaela Huser\nTeleblocher\nNextsky\nHans-Ueli Vogt\nJunge SVP Solothurn\nJunge SVP Aargau\nMartin Götzl\nSeilbahnen Schweiz\nFDP Stadt Zürich Kreis 4 und 5\nSVP Bülach\nJunge SVP Kanton St.Gallen\nStänderat Beat Rieder\nY.Wey Te\nRolf Jäggi\nAMP Bubikon\nThierry Burkart\ntrial-watch.com\nBeta-Show Deluxe\nLuzi Stamm\nSVP Reinach\nUrsula Wyss\nSVP Bezirk Bremgarten AG\nFreie Landschaft Schweiz\nGina Kern\nMaja Riniker\nMarionna Schlatter-Schmid\nRoland Fischer\nSVP Wohnen-Anglikon\nStefanie Heimgartener\nWerner Salzmann\nSascha Schmid\nBerner Zeitung\nSVP des Kantons Luzern\nAntifa Eidgenossenschaft\nPolit-Stammtisch\nLars Guggisberg\nYvonne Bürgin\nWir bestimmen\nNetzCourage\nSamira Marti\nSandro Brotz\nPatrick Walder\nSVP Kanton Solothurn\nSVP Rheintal\nSVP Stadt Zug\nNadine Masshardt\nMartin Ferner\nSVP Nidau\nValentin Landmann\nHans-Jakob Boesch\nDie Cervelat\nSP Kanton Luzern\nJunge SVP Luzern\nBuddy Dee und die Ghostriders\nJa zum Grenzschutz\nNein zum kantonalen Energiegesetz\nSandra Sollberger\nSchweizer Landwirtschaft\nJackie-Jill\nUnser neuer Bundesrat für die Schweiz\nFahrschule Cyrill Degonda\nElia Leiser\nBenjamin Giezendanner\nDie Mittelländische\nJunge SVP Kreisverband Frutigen\nMatthias C. Betsche\nDaniel Jositsch\nAndreas Lustenberger in den Nationalrat\nGregor Rutz\nAdrian Spahr\nJunge AUNS Schweiz\nJunge SVP Oberland-See\nTschopp die Pomade\nSVP Hägendorf\nRoman Rauper\nSorglos Design AG\nForum Demokratie und Menschenrecht\nAmacher meets Gerber\nGrünliberale Bezirk Uster\nPerlen aus Blocherstan\nGrünliberale Bezirk Horgen\nJoel Stutz\nAdrian Schopp\nPhilipp Nussbaumer\nUmoll\nschnuri.ch\nCook’n Flirt\nFDP Die Liberalen Aarau\nThomas Burgherr\nJungwacht Blauring Schaffhausen\nDaniel Peter\nSelbstbestimmungsinitiative\nSVP Pfäffikon ZH\nKeine Einbürgerung von Kriminellen\nSVP Wädenswil\nSVP Schlieren\nDavid Sassen Müller\nThomas Schärli\nSifa – Sicherheit für alle\nDie schönsten Ausflugsziele der Schweiz\nKomitee Weltoffenes Zürich\nSchützenhaus\nAngst- und Panikhilfe Schweiz\nJunge Grünliberale Zürich\nSVP Stadt Olten\nWaffenrecht Schengen JA\nGregor R. Bruhin\nBergeisterung\nStiftung PWG\nStadtsiedlung Reitmen\nSwiss Dinner\nSVP Bezirk Zofingen\nFDP Die Liberalen Aargau\nJUSO Baselland\nJaszztomate\nPrime News\nRoadside Pictures\nChésco Polo\nArnel Informatik AG\nOwlNews\nSRG Aargau Solothurn\nPeter Pfister AG\nAnna Wartmann\nDo it like LenArt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "342\n291\n97\n342\n194\n767\n210\n612\n1.246\n234\n353\n247\n202\n77\n740\n172\n154\n185\n483\n1.233\n190\n336\n77\n1.082\n1.307\n202\n4.655\n1.649\n883\n412\n376\n2.594\n883\n1.196\n777\n124\n184\n485\n5.749\n159\n707\n3.628\n376\n2.113\n194\n4.262\n246\n375\n492\n176\n221\n1.307\n1.269\n471\n13.911\n1.691\n348\n513\n2.088\n603\n560\n2.958\n1.192\n2.496\n208\n3.083\n246\n421\n2.138\n1.003\n307\n1.88\n359\n5\n2.324\n674\n809\n11.291\n848\n1.025\n937\n672\n150\n183\n313\n2.96\n799\n339\n779\n6.788\n353\n4.656\n1.638\n247\n295\n187\n208\n167\n888\n3.152\n293\n150\n870\n133\n182\n1.637\n152\n10\n472\n195\n278\n1.029\n424\n214\n4.992\n177\n1.753\n14\n140\n369\n461\n1.769\n10.425\n704\n315\n370\n503\n221\n633\n248\n135\n2.207\n631\n4.208\n445\n696\n1.328\n267\n1.758\n3\n439\n7\n3\n313\n280\n738\n408",
+          "VerzeichnisNamen_": "SVP Bezirk Muri AG\nFreiheitlicher Kanal Schweiz\nDavid Umher\nClaudio Schmid\nMichaela Huser\nWerner Salzmann",
+          "VerzeichnisGefalltMir_": "346\n342\n482\n335\n1.085\n1.270"
         },
         {
           "Profil_": "P2",
@@ -10626,10 +10626,10 @@ var data =
           "LinkBild_": "RH_B_11-04-19",
           "Bildname": "ABB-P2-162",
           "Bildunterschriften_": "Das Bundesverwaltungsgericht entschied, dass ein kosovarischer Straftäter und IV-Rentner die Schweiz nach 20 Jahren verlassen soll. (Symbolbild)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10649,10 +10649,10 @@ var data =
           "LinkBild_": "RH_C_11-04-19",
           "Bildname": "ABB-P2-163",
           "Bildunterschriften_": "Symbolbild: Person in Handschellen",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10672,10 +10672,10 @@ var data =
           "LinkBild_": "RH_D_11-04-19",
           "Bildname": "ABB-P2-164",
           "Bildunterschriften_": "Dominique Rinderknecht listet auf, wie sie sich zusammen mit Freundin Tamy Glauser (34) fürs Klima einsetzt. (Video: Instagram/Wibbitz/20 Minuten)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10695,10 +10695,10 @@ var data =
           "LinkBild_": "RH_E_11-04-19",
           "Bildname": "ABB-P2-165",
           "Bildunterschriften_": "Änis Ben-Hatira, damaliger Spieler von Darmstadt, im Jonathan-Heimes-Stadion am Böllenfalltor in Darmstadt.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10718,10 +10718,10 @@ var data =
           "LinkBild_": "RH_F_11-04-19",
           "Bildname": "ABB-P2-166",
           "Bildunterschriften_": "Sichtlich gezeichnet: Julian Assange.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10741,10 +10741,10 @@ var data =
           "LinkBild_": "RH_G_11-04-19",
           "Bildname": "ABB-P2-167",
           "Bildunterschriften_": "Darf das Vok über das Ende der Zeitumstellung abstimmen? Foto: Keystone/Christian Beutler",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10764,10 +10764,10 @@ var data =
           "LinkBild_": "DS_A_11-04-19",
           "Bildname": "ABB-P2-168",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10787,10 +10787,10 @@ var data =
           "LinkBild_": "RH_I_11-04-19",
           "Bildname": "ABB-P2-169",
           "Bildunterschriften_": "Jennifer W. neben ihrem Anwalt im Gericht",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10810,10 +10810,10 @@ var data =
           "LinkBild_": "RH_J_11-04-19",
           "Bildname": "ABB-P2-170",
           "Bildunterschriften_": "Die zum Rücktritt gezwungene Ministerin Kirstjen Nielsen im vergangenen Monat bei einer Anhörung im Kongress. (Bild: Joshua Roberts / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10833,10 +10833,10 @@ var data =
           "LinkBild_": "RH_A_12-04-19",
           "Bildname": "ABB-P2-171",
           "Bildunterschriften_": "Sozialhilfe ist für immer mehr Menschen bequemer als der harte Bürostuhl. (Bild: Keystone)",
-          "Like-VorschlägeNamen_": "Leckerbissen aus Blocherstan\nFabian Molina\nSVP Kreis 3\nSVP Muotathal\nAntifa Eidgenossenschaft\nSVP Bülach\nGrüne Zürichsee\nMarianne Binder-Keller\nArbeitslosigkeit 50+\nPatrick Walder\nKurt Fluri\nSVP Muttenz\nJUSO Kanton Zürich\nGregor Rutz\nSVP Udligenswil\nSusanne Leutenegger\nFadegrad\nSelbstbestimmungsinitiative\nPriska Seiler Graf\nSVP Ortspartei Brugg\nSVP Frauen Basel-Stadt\nJCVP Kanton Schwyz\nJUSO Zug\nJunge SVP Aargau\nSVP Baar\nSVP Bezirk Zofingen\nRebeca Apolo\nSP Bezirk Bülach\nBegrenzungsinitiative\nAnita Borer\nSVP Gossau-Arnegg\nSVP des Kantons Luzern\nLea Schmid\nSP Kloten\nJunge SVP Kanton St.Gallen\nMitbestimmungsinitiative ZH\nPhillipe Tschopp\nMartin Götzl\nSandro Wächter\nSVP Stadt Zug\nNextsky\nBerner Energiegesetz JA\nPolit-Stammtisch\nSVP Reinach\nSVP Rheintal\nSolothurner Bündnis gegen Depression\nChristian Riesen\nAdrian Spahr\nSamira Marti\nJunge SVP Kanton Glarus\nJeffrey Ferpozzi\nUrsula Wyss\nBerner Zeitung\nSVP Bezirk Meilen\nForum Demokratie und Menschenrechte\nPro Kultur Kanton Zürich\nJuristenkomitee\nSVP Frauen Aargau\nNetzCourage\nSVP Stadt Thun\nSVP Toggenburg\nSVP Kriens\nSVP Burgdorf\nBeobachter Stadt Bülach BSB\nDoris Iten\nJSVP Uri\nSVP Stadt Bern\nDie Cervelat\nDoris Schaffner-Beer\nLars Guggisberg\nDiagnose: Eidgenose\nSVP Region Imboden\nJunge SVP Oberland-See\nNein zum kantonalen Energiegesetz\nDaniel Jositsch\nJunge AUNS Schweiz\nSVP Wohnen-Anglikon\nSVP Kanton Solothurn\n2019 nicht mehr gewählt werden\nSVP Neuheim ZG\nJunge Grüne Schaffhausen\nJa zum Grenzschutz\n1291\nNoBillag – Mittelland\nTschopp die Pomade\nSVP Emmental\nJunge SVP Solothurn\nSVP Morschach SZ\nBodystation Muri\nStubete\nJUSO Stadt Bern\nSVP Nidau\nJunge SVP Kreisverband Frutigen\nSVP Stadt Winterthur\nUnser neuer Bundesrat für die Schweiz\nSVP Dietikon\nSVP Hägendorf\nKonrad Langhart\nSofa – Sicherheit für alle\nKeine Einbürgerungen von Kriminellen\nSVP Wädenswil\nGarage F. Heggli AG\nSVP Biel\nAlain Schwald\nUmoll\nDaniel Peter\nDie schönsten Ausflugsziele der Schweiz\nHermann Lei\nAdrian Schopp\nPetra Gössi\nSVP Utzenstorf\nStiftung PWG\nRoadside Pictures\nGrand Café Lochergut\nVorsprung Schweiz\nCédric Wermuth\nStadtsiedlung Reitmen\nSwiss Dinner\nArnel Informatik AG\nFeuerwehr der Stadt Olten\nGölä\nDaniel H. Bar\nOwlNews\nAtheismus Konfessionslos Frei bleiben\nRons Wohnungen in Zürich\nWillisauer Bote\nOld year rock bash\nChallerer Dorfjugend\nStopp der KESB Willkür\nZüri isst\ntöffrestauration.ch\nWaffenrecht Schengen JA\nRoliblue\nJunge Grünliberale Aargau\nHarrys Ding\nKosmos\nFussballstaion JA\nSVP Bezirk Bremgarten AG\nOskar Wälti Kunstmaler\nmaenuvital.ch\nChallerer Chilbi\nUnd wer machte den Menschen\nAm Damm für Dich\nBritish Classic Spares\nSommerkonzerte Bäckeranlage\nAFD Schweiz\nPriskas Kosmetik Studio",
-          "Like-VorschlägeGefälltMir_": "1.246\n4.741\n120\n181\n348\n883\n317\n267\n612\n208\n97\n247\n1.439\n4.655\n210\n5.189\n1.843\n4.991\n379\n291\n410\n228\n469\n891\n234\n445\n410\n430\n1.233\n526\n202\n1.691\n180\n273\n1.196\n388\n268\n412\n198\n421\n202\n566\n513\n377\n246\n372\n250\n1.638\n1.192\n473\n206\n2.113\n13.909\n247\n3.151\n241\n773\n122\n2.952\n1.009\n541\n322\n201\n155\n171\n533\n196\n5\n13\n2.088\n190\n206\n295\n848\n6.784\n247\n222\n3.083\n172\n222\n94\n11.291\n2.027\n428\n187\n353\n1.648\n185\n673\n214\n976\n307\n339\n740\n152\n575\n208\n886\n1.796\n1.753\n14\n353\n294\n225\n10\n214\n10.425\n296\n1.637\n3.974\n428\n2.594\n3\n2.838\n1.026\n13.373\n631\n4.208\n7\n616\n19.979\n3.724\n3\n823\n4.677\n4.078\n436\n85\n12.439\n15.575\n12\n643\n2\n226\n14.232\n9.348\n4.904\n194\n10\n24\n157\n1\n4.73\n52\n1.891\n73\n35",
-          "Like-VerzeichnisNamen_": "SVP Kreis 3\nSVP Bülach\nPatrick Walder\nGregor Rutz\nSVP Frauen Basel-Stadt\nJunge AUNS Schweiz",
-          "Like-VerzeichnisGefälltMir_": "123\n891\n212\n4.647\n409\n247"
+          "VorschlageNamen_": "Leckerbissen aus Blocherstan\nFabian Molina\nSVP Kreis 3\nSVP Muotathal\nAntifa Eidgenossenschaft\nSVP Bülach\nGrüne Zürichsee\nMarianne Binder-Keller\nArbeitslosigkeit 50+\nPatrick Walder\nKurt Fluri\nSVP Muttenz\nJUSO Kanton Zürich\nGregor Rutz\nSVP Udligenswil\nSusanne Leutenegger\nFadegrad\nSelbstbestimmungsinitiative\nPriska Seiler Graf\nSVP Ortspartei Brugg\nSVP Frauen Basel-Stadt\nJCVP Kanton Schwyz\nJUSO Zug\nJunge SVP Aargau\nSVP Baar\nSVP Bezirk Zofingen\nRebeca Apolo\nSP Bezirk Bülach\nBegrenzungsinitiative\nAnita Borer\nSVP Gossau-Arnegg\nSVP des Kantons Luzern\nLea Schmid\nSP Kloten\nJunge SVP Kanton St.Gallen\nMitbestimmungsinitiative ZH\nPhillipe Tschopp\nMartin Götzl\nSandro Wächter\nSVP Stadt Zug\nNextsky\nBerner Energiegesetz JA\nPolit-Stammtisch\nSVP Reinach\nSVP Rheintal\nSolothurner Bündnis gegen Depression\nChristian Riesen\nAdrian Spahr\nSamira Marti\nJunge SVP Kanton Glarus\nJeffrey Ferpozzi\nUrsula Wyss\nBerner Zeitung\nSVP Bezirk Meilen\nForum Demokratie und Menschenrechte\nPro Kultur Kanton Zürich\nJuristenkomitee\nSVP Frauen Aargau\nNetzCourage\nSVP Stadt Thun\nSVP Toggenburg\nSVP Kriens\nSVP Burgdorf\nBeobachter Stadt Bülach BSB\nDoris Iten\nJSVP Uri\nSVP Stadt Bern\nDie Cervelat\nDoris Schaffner-Beer\nLars Guggisberg\nDiagnose: Eidgenose\nSVP Region Imboden\nJunge SVP Oberland-See\nNein zum kantonalen Energiegesetz\nDaniel Jositsch\nJunge AUNS Schweiz\nSVP Wohnen-Anglikon\nSVP Kanton Solothurn\n2019 nicht mehr gewählt werden\nSVP Neuheim ZG\nJunge Grüne Schaffhausen\nJa zum Grenzschutz\n1291\nNoBillag – Mittelland\nTschopp die Pomade\nSVP Emmental\nJunge SVP Solothurn\nSVP Morschach SZ\nBodystation Muri\nStubete\nJUSO Stadt Bern\nSVP Nidau\nJunge SVP Kreisverband Frutigen\nSVP Stadt Winterthur\nUnser neuer Bundesrat für die Schweiz\nSVP Dietikon\nSVP Hägendorf\nKonrad Langhart\nSofa – Sicherheit für alle\nKeine Einbürgerungen von Kriminellen\nSVP Wädenswil\nGarage F. Heggli AG\nSVP Biel\nAlain Schwald\nUmoll\nDaniel Peter\nDie schönsten Ausflugsziele der Schweiz\nHermann Lei\nAdrian Schopp\nPetra Gössi\nSVP Utzenstorf\nStiftung PWG\nRoadside Pictures\nGrand Café Lochergut\nVorsprung Schweiz\nCédric Wermuth\nStadtsiedlung Reitmen\nSwiss Dinner\nArnel Informatik AG\nFeuerwehr der Stadt Olten\nGölä\nDaniel H. Bar\nOwlNews\nAtheismus Konfessionslos Frei bleiben\nRons Wohnungen in Zürich\nWillisauer Bote\nOld year rock bash\nChallerer Dorfjugend\nStopp der KESB Willkür\nZüri isst\ntöffrestauration.ch\nWaffenrecht Schengen JA\nRoliblue\nJunge Grünliberale Aargau\nHarrys Ding\nKosmos\nFussballstaion JA\nSVP Bezirk Bremgarten AG\nOskar Wälti Kunstmaler\nmaenuvital.ch\nChallerer Chilbi\nUnd wer machte den Menschen\nAm Damm für Dich\nBritish Classic Spares\nSommerkonzerte Bäckeranlage\nAFD Schweiz\nPriskas Kosmetik Studio",
+          "VorschlageGefalltMir_": "1.246\n4.741\n120\n181\n348\n883\n317\n267\n612\n208\n97\n247\n1.439\n4.655\n210\n5.189\n1.843\n4.991\n379\n291\n410\n228\n469\n891\n234\n445\n410\n430\n1.233\n526\n202\n1.691\n180\n273\n1.196\n388\n268\n412\n198\n421\n202\n566\n513\n377\n246\n372\n250\n1.638\n1.192\n473\n206\n2.113\n13.909\n247\n3.151\n241\n773\n122\n2.952\n1.009\n541\n322\n201\n155\n171\n533\n196\n5\n13\n2.088\n190\n206\n295\n848\n6.784\n247\n222\n3.083\n172\n222\n94\n11.291\n2.027\n428\n187\n353\n1.648\n185\n673\n214\n976\n307\n339\n740\n152\n575\n208\n886\n1.796\n1.753\n14\n353\n294\n225\n10\n214\n10.425\n296\n1.637\n3.974\n428\n2.594\n3\n2.838\n1.026\n13.373\n631\n4.208\n7\n616\n19.979\n3.724\n3\n823\n4.677\n4.078\n436\n85\n12.439\n15.575\n12\n643\n2\n226\n14.232\n9.348\n4.904\n194\n10\n24\n157\n1\n4.73\n52\n1.891\n73\n35",
+          "VerzeichnisNamen_": "SVP Kreis 3\nSVP Bülach\nPatrick Walder\nGregor Rutz\nSVP Frauen Basel-Stadt\nJunge AUNS Schweiz",
+          "VerzeichnisGefalltMir_": "123\n891\n212\n4.647\n409\n247"
         },
         {
           "Profil_": "P2",
@@ -10856,10 +10856,10 @@ var data =
           "LinkBild_": "RH_B_12-04-19",
           "Bildname": "ABB-P2-172",
           "Bildunterschriften_": "Verteidigt Martin Sellner und die IB gegen Verhaftung und Verbot! 13.4. Kundgebung in Wien!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10879,10 +10879,10 @@ var data =
           "LinkBild_": "RH_C_12-04-19",
           "Bildname": "ABB-P2-173",
           "Bildunterschriften_": "Symbolbild: Migranten in der Schweiz",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10902,10 +10902,10 @@ var data =
           "LinkBild_": "RH_D_12-04-19",
           "Bildname": "ABB-P2-174",
           "Bildunterschriften_": "Der ehemalige Verfassungsschutzpräsident Hans-Georg Maaßen: Foto: picture alliance/Bernd von Jutrczenka/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10925,10 +10925,10 @@ var data =
           "LinkBild_": "RH_E_12-04-19",
           "Bildname": "ABB-P2-175",
           "Bildunterschriften_": "Micheline Calmy-Rey und Christoph Blocher an der Albisgütli-Tagung 2011. (Bild: Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10948,10 +10948,10 @@ var data =
           "LinkBild_": "RH_F_12-04-19",
           "Bildname": "ABB-P2-176",
           "Bildunterschriften_": "Quelle: Reuters",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10971,10 +10971,10 @@ var data =
           "LinkBild_": "RH_G_12-04-19",
           "Bildname": "ABB-P2-177",
           "Bildunterschriften_": "Identitären-Chef Martin Sellner: Die Kanaille erträgt nicht, daß jemand höher steht Foto: picture alliance/APA/picturedesk.com",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -10994,10 +10994,10 @@ var data =
           "LinkBild_": "RH_H_12-04-19",
           "Bildname": "ABB-P2-178",
           "Bildunterschriften_": "Klimaschutz ist ein ideales Protestthema. (Bild: Urs Flüeler / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11017,10 +11017,10 @@ var data =
           "LinkBild_": "RH_I_12-04-19",
           "Bildname": "ABB-P2-179",
           "Bildunterschriften_": "Anfang Februar hat die Jury des \"World Press Photo\"-Wettbewerbs ihre Nominierungen für das beste Pressefoto des Jahres verkündet. Insgesamt werden 43 Fotografen aus 25 Ländern ausgezeichnet, aber nur sechs hatten Chancen auf den Gesamtsieg. Nun ist es fix: Der World Press Photo des Jahres ist dieses Bild des US-Fotografen John Moore. Es zeigt die kleine Yana aus Honduras, die weint, während ihre Mutter Sandra Sanchez von Grenzwächtern an der US-Grenze durchsucht wird. (c) REUTERS (HANDOUT)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11040,10 +11040,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-180",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11063,10 +11063,10 @@ var data =
           "LinkBild_": "RH_A_13-04-19",
           "Bildname": "ABB-P2-181",
           "Bildunterschriften_": "Varga: Handlungen von EVP-Spitzenkandidat Manfred Weber schaden Europa",
-          "Like-VorschlägeNamen_": "Leckerbissen aus Blocherstan\nDie Super-Schweizer\nBegrenzungsinitiative\nSelbstbestimmungsinitiative\nDaniel Peter\nJunge SVP Aargau\nWilhelm Tell\nFabian Molina\nMartin Hartmann\nSchweiz Come Back\nJunge SVP Solothurn\nSVP Stadt Zug\nSVP Stadt Luzern\nSVP Stadt Winterthur\nMeldezentrale für Eidgenossen\nPolit-Stammtisch\nSVP Bezirk Zofingen\nSP Bezirk Bülach\nSVP Reinach\nGrüne Zürichsee\nAdrian Spahr\nSVP Baar\nThomas Burgherr\nPrisca Koller\nFadegrad\nJUSO Zug\nSVP Kriens\nMoritz Falck\nSVP Bezirk Bremgarten AG\nJUSO Stadt Zürich\nSamira Marti\nJunge SVP Kreisverband Frutigen\nKonrad Langhart\nSVP Wohnen-Anglikon\nSVP Emmental\nJunge SVP Luzern\nJCVP Kanton Schwyz\nSVP Rheintal\nSVP Kanton Solothurn\nThomas Obermayer\nForum Demokratie und Menschenrechte\nBerner Zeitung\nLars Guggisberg\nSVP des Kantons Luzern\nSVP Muotatal\nSVP Dietikon\nJunge SVP Kanton St.Gallen\nSifa – Sicherheit für alle\nSVP Gossau-Arnegg\nSVP Nidau\nUnser neuer Bundesrat für die Schweiz\nGrüne Partei Frauenfeld\nSVP Kanton Zug\nJSVP Uri\nNextsky\nDoris Iten\nSVP Stadt Bern\nJunge SVP Oberland-See\nNein zum kantonalen Energiegesetz\nRoadside Pictures\nSVP Hägendorf\nSVP Bezirk Meilen\nOstschweizer Komitee\nArtikel 2\nDie Cervelat\nKeine Einbürgerung von Kriminellen\nSP Töss\nSVP Niderhasli ZH\nDie schönsten Ausflugsziele der Schweiz\nSVP Kanton Schwyz\nRons Wohnungen in Zürich\nSandro Wächter\nSVP Region Imboden\nNetzCourage\nSVP Wädenswil\nSVP Aargau\nStiftung PWG\nDaniel H. Bar\nHarrys Ding\nLuzi Stamm\nGrand Café Lochergut\nAtheismus Konfessionslos Frei bleiben\nJa zum Grenzschutz\nSVP Nottwil\ntöffrestauration.ch\nJeffrey Ferpozzi\nStadtsiedlung Reitmen\nBDP Stadt Luzern\nSVP Frauen Aargau\nGBC Treuhand GmbH\nGrünliberale Unternehmer Bern\nKosmos\nSVP Stadt Thun\nPRO Schweizer Traditionen und Brauchtum\nPriskas Kosmetik Studio\nSwiss Dinner\nChristian Riesen\nSommerkonzerte Bäckeranlage\nZüri isst\nOpen Kitchen by Ikea\nBritish Classic Car Spares\nEyelaser Augenlaser Zürich\nStopp der KESB Willkür\nStolze Openair\nAVES Schweiz\nJunge SVP Graubünden\nVisionis\nDie Eidgenossen\nSchubag AG\nSVP Morschach SZ\nAus der Region, für die Region\nNoBillag Mittelland\nWidder Garage\nVenorion\nRöntgenplatzfest\nFussballstadion JA\nVitasanum\nSchweizer Demokraten Stadt\nATAZ\nPz Sap Bat 11\nSVP Burgdorf\nAFD Schweiz\nSender\npuzzle-paradies.ch\nOld year rock bash\nSVP Stadt Olten\nAm Damm für Dich\nPotterheads Schweiz\nCédric Wermuth\nSVP Baselland\nBildungsforum Aargau\nWir fordern Gerechtigkeit für Ernst Suter\nKTW Montagen und Technik GmbH\nRouge Zürich\nStadtsommer\n113. Innerschweizer Schwinget\nChristoph Mörgeli\nHoudini Kino Bar\nICF Startup Oberwallis\nConrad Wagner\nJUSO Uri\nCafé Bar Nordbrücke\nrundfunk.fm\nCVP Olten-Gösgen\nOpenair Wirkungen\nWerdinsel Openair\nSchweizer Medienkritik\nSwiss Fire Fighters\nLandgasthaus Sonne\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "1.247\n2.567\n1.233\n4.988\n220\n921\n766\n4.768\n254\n2.891\n1.65\n422\n820\n740\n476\n512\n445\n430\n377\n317\n1.639\n234\n1.029\n884\n1.845\n469\n323\n308\n195\n926\n1.236\n339\n887\n227\n353\n675\n228\n247\n3.083\n626\n3.15\n13.913\n2.089\n1.693\n182\n575\n1.197\n1.799\n201\n307\n152\n157\n584\n534\n202\n171\n196\n295\n846\n3\n208\n247\n116\n418\n5\n1.755\n306\n255\n10.432\n753\n4.675\n198\n206\n2.958\n14\n195\n2.209\n3.724\n14.232\n3.629\n2.839\n823\n11.291\n78\n12\n206\n633\n141\n122\n35\n188\n9.368\n1.009\n448\n35\n4.208\n250\n1.892\n15.59\n6\n52\n35\n12.438\n6.427\n277\n594\n22\n34\n7\n185\n31\n427\n6.464\n15\n1.625\n4.901\n11\n68\n491\n684\n201\n73\n2.718\n25\n436\n220\n4.733\n396\n13.37\n559\n191\n119\n2.594\n472\n4.34\n755\n1.203\n5.166\n213\n205\n373\n4.019\n14.322\n69\n3.959\n5.627\n446\n4.889\n1.001\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "Junge SVP Aargau\nMartin Hartmann\nSchweiz Come Back\nSVP Dietikon\nKeine Einbürgerung von Kriminellen und Sozialhilfeempfänger\nPro Schweizer Traditionen und Brauchtum",
-          "Like-VerzeichnisGefälltMir_": "926\n257\n2.932\n580\n1.757\n448"
+          "VorschlageNamen_": "Leckerbissen aus Blocherstan\nDie Super-Schweizer\nBegrenzungsinitiative\nSelbstbestimmungsinitiative\nDaniel Peter\nJunge SVP Aargau\nWilhelm Tell\nFabian Molina\nMartin Hartmann\nSchweiz Come Back\nJunge SVP Solothurn\nSVP Stadt Zug\nSVP Stadt Luzern\nSVP Stadt Winterthur\nMeldezentrale für Eidgenossen\nPolit-Stammtisch\nSVP Bezirk Zofingen\nSP Bezirk Bülach\nSVP Reinach\nGrüne Zürichsee\nAdrian Spahr\nSVP Baar\nThomas Burgherr\nPrisca Koller\nFadegrad\nJUSO Zug\nSVP Kriens\nMoritz Falck\nSVP Bezirk Bremgarten AG\nJUSO Stadt Zürich\nSamira Marti\nJunge SVP Kreisverband Frutigen\nKonrad Langhart\nSVP Wohnen-Anglikon\nSVP Emmental\nJunge SVP Luzern\nJCVP Kanton Schwyz\nSVP Rheintal\nSVP Kanton Solothurn\nThomas Obermayer\nForum Demokratie und Menschenrechte\nBerner Zeitung\nLars Guggisberg\nSVP des Kantons Luzern\nSVP Muotatal\nSVP Dietikon\nJunge SVP Kanton St.Gallen\nSifa – Sicherheit für alle\nSVP Gossau-Arnegg\nSVP Nidau\nUnser neuer Bundesrat für die Schweiz\nGrüne Partei Frauenfeld\nSVP Kanton Zug\nJSVP Uri\nNextsky\nDoris Iten\nSVP Stadt Bern\nJunge SVP Oberland-See\nNein zum kantonalen Energiegesetz\nRoadside Pictures\nSVP Hägendorf\nSVP Bezirk Meilen\nOstschweizer Komitee\nArtikel 2\nDie Cervelat\nKeine Einbürgerung von Kriminellen\nSP Töss\nSVP Niderhasli ZH\nDie schönsten Ausflugsziele der Schweiz\nSVP Kanton Schwyz\nRons Wohnungen in Zürich\nSandro Wächter\nSVP Region Imboden\nNetzCourage\nSVP Wädenswil\nSVP Aargau\nStiftung PWG\nDaniel H. Bar\nHarrys Ding\nLuzi Stamm\nGrand Café Lochergut\nAtheismus Konfessionslos Frei bleiben\nJa zum Grenzschutz\nSVP Nottwil\ntöffrestauration.ch\nJeffrey Ferpozzi\nStadtsiedlung Reitmen\nBDP Stadt Luzern\nSVP Frauen Aargau\nGBC Treuhand GmbH\nGrünliberale Unternehmer Bern\nKosmos\nSVP Stadt Thun\nPRO Schweizer Traditionen und Brauchtum\nPriskas Kosmetik Studio\nSwiss Dinner\nChristian Riesen\nSommerkonzerte Bäckeranlage\nZüri isst\nOpen Kitchen by Ikea\nBritish Classic Car Spares\nEyelaser Augenlaser Zürich\nStopp der KESB Willkür\nStolze Openair\nAVES Schweiz\nJunge SVP Graubünden\nVisionis\nDie Eidgenossen\nSchubag AG\nSVP Morschach SZ\nAus der Region, für die Region\nNoBillag Mittelland\nWidder Garage\nVenorion\nRöntgenplatzfest\nFussballstadion JA\nVitasanum\nSchweizer Demokraten Stadt\nATAZ\nPz Sap Bat 11\nSVP Burgdorf\nAFD Schweiz\nSender\npuzzle-paradies.ch\nOld year rock bash\nSVP Stadt Olten\nAm Damm für Dich\nPotterheads Schweiz\nCédric Wermuth\nSVP Baselland\nBildungsforum Aargau\nWir fordern Gerechtigkeit für Ernst Suter\nKTW Montagen und Technik GmbH\nRouge Zürich\nStadtsommer\n113. Innerschweizer Schwinget\nChristoph Mörgeli\nHoudini Kino Bar\nICF Startup Oberwallis\nConrad Wagner\nJUSO Uri\nCafé Bar Nordbrücke\nrundfunk.fm\nCVP Olten-Gösgen\nOpenair Wirkungen\nWerdinsel Openair\nSchweizer Medienkritik\nSwiss Fire Fighters\nLandgasthaus Sonne\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "1.247\n2.567\n1.233\n4.988\n220\n921\n766\n4.768\n254\n2.891\n1.65\n422\n820\n740\n476\n512\n445\n430\n377\n317\n1.639\n234\n1.029\n884\n1.845\n469\n323\n308\n195\n926\n1.236\n339\n887\n227\n353\n675\n228\n247\n3.083\n626\n3.15\n13.913\n2.089\n1.693\n182\n575\n1.197\n1.799\n201\n307\n152\n157\n584\n534\n202\n171\n196\n295\n846\n3\n208\n247\n116\n418\n5\n1.755\n306\n255\n10.432\n753\n4.675\n198\n206\n2.958\n14\n195\n2.209\n3.724\n14.232\n3.629\n2.839\n823\n11.291\n78\n12\n206\n633\n141\n122\n35\n188\n9.368\n1.009\n448\n35\n4.208\n250\n1.892\n15.59\n6\n52\n35\n12.438\n6.427\n277\n594\n22\n34\n7\n185\n31\n427\n6.464\n15\n1.625\n4.901\n11\n68\n491\n684\n201\n73\n2.718\n25\n436\n220\n4.733\n396\n13.37\n559\n191\n119\n2.594\n472\n4.34\n755\n1.203\n5.166\n213\n205\n373\n4.019\n14.322\n69\n3.959\n5.627\n446\n4.889\n1.001\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "Junge SVP Aargau\nMartin Hartmann\nSchweiz Come Back\nSVP Dietikon\nKeine Einbürgerung von Kriminellen und Sozialhilfeempfänger\nPro Schweizer Traditionen und Brauchtum",
+          "VerzeichnisGefalltMir_": "926\n257\n2.932\n580\n1.757\n448"
         },
         {
           "Profil_": "P2",
@@ -11086,10 +11086,10 @@ var data =
           "LinkBild_": "RH_B_13-04-19",
           "Bildname": "ABB-P2-182",
           "Bildunterschriften_": "Der Chef der IBÖ, Martin Sellner, bei der Kundgebung in Wien Foto: JF",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11109,10 +11109,10 @@ var data =
           "LinkBild_": "RH_C_13-04-19",
           "Bildname": "ABB-P2-183",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11132,10 +11132,10 @@ var data =
           "LinkBild_": "RH_D_13-04-19",
           "Bildname": "ABB-P2-184",
           "Bildunterschriften_": "Pilgerreisen als Initiationserlebnis: Der IS-Terrorist Denis Cuspert kehrte als anderer Mensch aus Mekka zurück / privat",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11155,10 +11155,10 @@ var data =
           "LinkBild_": "RH_E_13-04-19",
           "Bildname": "ABB-P2-185",
           "Bildunterschriften_": "Screenshot: Youtube",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11178,10 +11178,10 @@ var data =
           "LinkBild_": "RH_F_13-04-19",
           "Bildname": "ABB-P2-186",
           "Bildunterschriften_": "Ein Spezialist vom Bundesamt für Polizei zeigt verschiedene Waffen an einem technischen Seminar.\nBild: Keystone/Adrien Perritaz",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11201,10 +11201,10 @@ var data =
           "LinkBild_": "RH_G_13-04-19",
           "Bildname": "ABB-P2-187",
           "Bildunterschriften_": "Screenshot:Youtube",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11224,10 +11224,10 @@ var data =
           "LinkBild_": "RH_H_13-04-19",
           "Bildname": "ABB-P2-188",
           "Bildunterschriften_": "Nein am 19. Mai",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11247,10 +11247,10 @@ var data =
           "LinkBild_": "RH_I_13-04-19",
           "Bildname": "ABB-P2-189",
           "Bildunterschriften_": "Screenshot:Youtube. Air2030: Flug- und Bodenerprobung neues Kampfflugzeug (April bis Juni 2019). Eurofighter",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11270,10 +11270,10 @@ var data =
           "LinkBild_": "RH_J_13-04-19",
           "Bildname": "ABB-P2-190",
           "Bildunterschriften_": "Reuters",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11293,10 +11293,10 @@ var data =
           "LinkBild_": "RH_A_14-04-19",
           "Bildname": "ABB-P2-191",
           "Bildunterschriften_": "Kurzer Rückblick zur heutigen Demo in #Schwyz",
-          "Like-VorschlägeNamen_": "Leckerbissen aus Blocherstan\nDie Super-Schweizer\nPascal Stüssi\nAlpenland Sepp und Co.\nSVP Aargau\nBegrenzungsinitiative\nSelbstbestimmungsinitiative\n1291\nDaniel Peter\nJunge SVP Solothurn\nJunge SVP Kanton St.Gallen\nKampagne 19\nFabian Molina\nJunge SVP Basel-Stadt\nPaul Accola Nachwuchs Stiftung\nWilhelm Tell\nDiagnose: Eidgenose\nAWOB - Adrian Wegmann Oberrieden\nJoel Stutz\nPrisca Koller\nTerraluk\nRebecca Jenny\nEidgenössischer Jodlerverband\nGrüne Zürichsee\nJUSo Kanton Zürich\nDeutscher Club Zürich\nSVP Stadt Zug\nSVP Stadt Winterthur\nSVP Stadt Luzern\nSVP des Kantons Luzern\nLara Stadler\nMeldezentrale für Eidgenossen\nSVP Reinach\nSVP Bezirk Dietikon\nNein zur Volksinitiative Landes- vor Völkerrecht\nAdrian Spahr\nSVP Emmental\nSVP Bezirk Zofingen\nPatrik Kneubühl\nSchwing- und Älplerfest Engstlenalp\nPolit-Stammtisch\nThomas Burgherr\nJunge SVP Luzern\nHans Egli\nJUSO Zug\nJunge SVP Oberland-See\nJSVP Thurgau\nJunge SVP Graubünden\nFadegrad\nSVP Stadt Zürich\nJunge SVP Kreisverband Frutigen\nSVP Rheintal\nSamira Marti\nMitbestimmungsinitiative ZH\nGugge-Häxe Dietikon\nSVP Nidau\nRattlinbones\nKonrad Langhart\nAntifa Eidgenossenschaft\nCVP Wahlkreis Entlebuch\nSVP Kriens\nThomas Obermayer\nSVP Bezirk Bremgarten AG\nSVP Kanton Solothurn\nSVP Ortspartei 5070 Frick\nLars Guggisberg\nJungfreisinnige Aargau\nMike Egger wieder in den Nationalrat\nJCVP Kanton Schwyz\nSP Schlieren\nLändlertrio Holdrio\nAnigna Buschta\nGärtner Pflugshaupt Floristik\nFussball-Club Dietikon\nSVP Bezirk Meilen\nBerner Zeitung\nSwiss Radio\nBetriebsgruppe 13302\nSVP Pfäffikon SZ\nModellbahn – Meiringen\nMaurus Zeier\nUnser neuer Bundesrat für die Schweiz\nForum Demokratie und Menschenrechte\nSP Kanton Aargau\nLandgasthaus Sonne\nSVP Stadt Bern\nJSVP Uri\nSofa – Sicherheit für alle\nSusanne Brunner\nZMB Zürcher Museums-Bahn\nCVP Bern\nSVP Kanton Zug\nJunge CVP Aargau\nAutoverwertung Truninger AG\nFreie Landschaft Schweiz\nSVP Biel\nJUSO Winterthur\nSVP Hägendorf\nArtikel 2\nRoadside Pictures\nJunge SVP Kanton Glarus\nEnergiewende Schweiz\nJUSO Stadt Bern\nOstschweizer Komitee\nSVP Wohnen-Anglikon\nFeuerwehr Urdorf\nGr DCA m 32-M Flab Abt 32\nTschopp die Pomade\n3855schwanden\nJuristenkomitee\nMartin Götzl\nLandhaus Steirereck\nSVP Kanton Schwyz\nDie Cervelat\nDie schönsten Ausflugsziele der Schweiz\nDaniel Engler EDU SG\nNein zum kantonalen Energiegesetz\nStiftung PWG\nRons Wohnungen in Zürich\nHarrys Ding\nHandel Schweiz\nDaniel H. Bar\nFeuerwehr Aare\nAquarena Sport und Wellness AG\nJa zum Grenzschutz\nSVP Wädenswil\nStadtsiedlung Reitmen\nGrand Café Lochergut\nAtheismus Konfessionslos Frei bleiben\nKosmos\nNetzCourage\nPhilipp Gut\nStefanie Heimgartner\nSVP Nottwil\nHaus- und Tierbetreuung Zollinger\nLuzi Stamm\nBerner Energiegesetz JA\ntöffrestauration.ch\nOwlNews\nSwiss Dinner\nCédric Wermuth\nZüri isst\nSusanne Leutenegger\nGBC Treuhand GmbH\nAlain Schwald\nSVP Stadt Thun\nStolze Openair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "1.247\n2.597\n640\n3.14\n195\n1.233\n4.988\n2.077\n220\n1.651\n1.197\n133\n4.769\n469\n1.084\n766\n190\n121\n181\n884\n1.053\n317\n2.559\n317\n1.441\n292\n422\n740\n820\n1.693\n1.017\n476\n377\n75\n878\n1.639\n353\n445\n1.027\n683\n512\n1.029\n675\n295\n469\n295\n671\n594\n1.845\n96\n339\n247\n1.236\n388\n505\n307\n659\n887\n347\n180\n323\n626\n195\n3.083\n104\n2.089\n641\n548\n228\n523\n1.475\n80\n462\n754\n247\n13.913\n841\n447\n178\n507\n3.369\n152\n3.15\n1.048\n1.001\n196\n534\n1.799\n663\n506\n616\n584\n653\n2.422\n4.269\n295\n640\n208\n418\n3\n473\n409\n978\n116\n227\n323\n574\n187\n233\n774\n412\n941\n753\n5\n10.432\n475\n846\n2.209\n4.675\n14.233\n1.067\n3.724\n564\n447\n11.291\n14\n633\n2.839\n823\n9.368\n2.958\n590\n1.308\n78\n337\n3.629\n566\n12\n3\n4.208\n13.37\n15.591\n5.187\n35\n225\n1.009\n6.428\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "Pascal Stüssi\nBegrenzungsinitiative\n1291\nJunge SVP Solothurn\nKampagne 19 – Refcrime\nJoel Stutz\nAdrian Wegmann",
-          "Like-VerzeichnisGefälltMir_": "641\n1.237\n2.028\n1.652\n6.157\n186\n122"
+          "VorschlageNamen_": "Leckerbissen aus Blocherstan\nDie Super-Schweizer\nPascal Stüssi\nAlpenland Sepp und Co.\nSVP Aargau\nBegrenzungsinitiative\nSelbstbestimmungsinitiative\n1291\nDaniel Peter\nJunge SVP Solothurn\nJunge SVP Kanton St.Gallen\nKampagne 19\nFabian Molina\nJunge SVP Basel-Stadt\nPaul Accola Nachwuchs Stiftung\nWilhelm Tell\nDiagnose: Eidgenose\nAWOB - Adrian Wegmann Oberrieden\nJoel Stutz\nPrisca Koller\nTerraluk\nRebecca Jenny\nEidgenössischer Jodlerverband\nGrüne Zürichsee\nJUSo Kanton Zürich\nDeutscher Club Zürich\nSVP Stadt Zug\nSVP Stadt Winterthur\nSVP Stadt Luzern\nSVP des Kantons Luzern\nLara Stadler\nMeldezentrale für Eidgenossen\nSVP Reinach\nSVP Bezirk Dietikon\nNein zur Volksinitiative Landes- vor Völkerrecht\nAdrian Spahr\nSVP Emmental\nSVP Bezirk Zofingen\nPatrik Kneubühl\nSchwing- und Älplerfest Engstlenalp\nPolit-Stammtisch\nThomas Burgherr\nJunge SVP Luzern\nHans Egli\nJUSO Zug\nJunge SVP Oberland-See\nJSVP Thurgau\nJunge SVP Graubünden\nFadegrad\nSVP Stadt Zürich\nJunge SVP Kreisverband Frutigen\nSVP Rheintal\nSamira Marti\nMitbestimmungsinitiative ZH\nGugge-Häxe Dietikon\nSVP Nidau\nRattlinbones\nKonrad Langhart\nAntifa Eidgenossenschaft\nCVP Wahlkreis Entlebuch\nSVP Kriens\nThomas Obermayer\nSVP Bezirk Bremgarten AG\nSVP Kanton Solothurn\nSVP Ortspartei 5070 Frick\nLars Guggisberg\nJungfreisinnige Aargau\nMike Egger wieder in den Nationalrat\nJCVP Kanton Schwyz\nSP Schlieren\nLändlertrio Holdrio\nAnigna Buschta\nGärtner Pflugshaupt Floristik\nFussball-Club Dietikon\nSVP Bezirk Meilen\nBerner Zeitung\nSwiss Radio\nBetriebsgruppe 13302\nSVP Pfäffikon SZ\nModellbahn – Meiringen\nMaurus Zeier\nUnser neuer Bundesrat für die Schweiz\nForum Demokratie und Menschenrechte\nSP Kanton Aargau\nLandgasthaus Sonne\nSVP Stadt Bern\nJSVP Uri\nSofa – Sicherheit für alle\nSusanne Brunner\nZMB Zürcher Museums-Bahn\nCVP Bern\nSVP Kanton Zug\nJunge CVP Aargau\nAutoverwertung Truninger AG\nFreie Landschaft Schweiz\nSVP Biel\nJUSO Winterthur\nSVP Hägendorf\nArtikel 2\nRoadside Pictures\nJunge SVP Kanton Glarus\nEnergiewende Schweiz\nJUSO Stadt Bern\nOstschweizer Komitee\nSVP Wohnen-Anglikon\nFeuerwehr Urdorf\nGr DCA m 32-M Flab Abt 32\nTschopp die Pomade\n3855schwanden\nJuristenkomitee\nMartin Götzl\nLandhaus Steirereck\nSVP Kanton Schwyz\nDie Cervelat\nDie schönsten Ausflugsziele der Schweiz\nDaniel Engler EDU SG\nNein zum kantonalen Energiegesetz\nStiftung PWG\nRons Wohnungen in Zürich\nHarrys Ding\nHandel Schweiz\nDaniel H. Bar\nFeuerwehr Aare\nAquarena Sport und Wellness AG\nJa zum Grenzschutz\nSVP Wädenswil\nStadtsiedlung Reitmen\nGrand Café Lochergut\nAtheismus Konfessionslos Frei bleiben\nKosmos\nNetzCourage\nPhilipp Gut\nStefanie Heimgartner\nSVP Nottwil\nHaus- und Tierbetreuung Zollinger\nLuzi Stamm\nBerner Energiegesetz JA\ntöffrestauration.ch\nOwlNews\nSwiss Dinner\nCédric Wermuth\nZüri isst\nSusanne Leutenegger\nGBC Treuhand GmbH\nAlain Schwald\nSVP Stadt Thun\nStolze Openair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "1.247\n2.597\n640\n3.14\n195\n1.233\n4.988\n2.077\n220\n1.651\n1.197\n133\n4.769\n469\n1.084\n766\n190\n121\n181\n884\n1.053\n317\n2.559\n317\n1.441\n292\n422\n740\n820\n1.693\n1.017\n476\n377\n75\n878\n1.639\n353\n445\n1.027\n683\n512\n1.029\n675\n295\n469\n295\n671\n594\n1.845\n96\n339\n247\n1.236\n388\n505\n307\n659\n887\n347\n180\n323\n626\n195\n3.083\n104\n2.089\n641\n548\n228\n523\n1.475\n80\n462\n754\n247\n13.913\n841\n447\n178\n507\n3.369\n152\n3.15\n1.048\n1.001\n196\n534\n1.799\n663\n506\n616\n584\n653\n2.422\n4.269\n295\n640\n208\n418\n3\n473\n409\n978\n116\n227\n323\n574\n187\n233\n774\n412\n941\n753\n5\n10.432\n475\n846\n2.209\n4.675\n14.233\n1.067\n3.724\n564\n447\n11.291\n14\n633\n2.839\n823\n9.368\n2.958\n590\n1.308\n78\n337\n3.629\n566\n12\n3\n4.208\n13.37\n15.591\n5.187\n35\n225\n1.009\n6.428\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "Pascal Stüssi\nBegrenzungsinitiative\n1291\nJunge SVP Solothurn\nKampagne 19 – Refcrime\nJoel Stutz\nAdrian Wegmann",
+          "VerzeichnisGefalltMir_": "641\n1.237\n2.028\n1.652\n6.157\n186\n122"
         },
         {
           "Profil_": "P2",
@@ -11316,10 +11316,10 @@ var data =
           "LinkBild_": "RH_B_14-04-19",
           "Bildname": "ABB-P2-192",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11339,10 +11339,10 @@ var data =
           "LinkBild_": "RH_C_14-04-19",
           "Bildname": "ABB-P2-193",
           "Bildunterschriften_": "Die Polizei Graubünden konnte den Täter einer Einbruchsserie fassen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11362,10 +11362,10 @@ var data =
           "LinkBild_": "RH_D_14-04-19",
           "Bildname": "ABB-P2-194",
           "Bildunterschriften_": "EX Juso Linksextreme für den Kt, Bern!!!!Tamara Funiciello darf nicht gewählt werden, in den Nationalrat",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11385,10 +11385,10 @@ var data =
           "LinkBild_": "RH_E_14-04-19",
           "Bildname": "ABB-P2-195",
           "Bildunterschriften_": "Erdogans Partei für Gerechtigkeit und Entwicklung (AKP) leidet besonders unter den Ergebnissen der Wahlen in Istanbul. (Bild: Presidential Press Service / AP)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11408,10 +11408,10 @@ var data =
           "LinkBild_": "RH_F_14-04-19",
           "Bildname": "ABB-P2-196",
           "Bildunterschriften_": "Noch bis Heute Abend 20.00! GEWINNSPIEL! Nur für die WhatsApp Elite. Waffenrecht Aufkleber und Tshirt zu gewinnen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11431,10 +11431,10 @@ var data =
           "LinkBild_": "RH_G_14-04-19",
           "Bildname": "ABB-P2-197",
           "Bildunterschriften_": "SVP-Nationalrat Ulrich Giezendanner. © KEYSTONE/ANTHONY ANEX",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11454,10 +11454,10 @@ var data =
           "LinkBild_": "RH_H_14-04-19",
           "Bildname": "ABB-P2-198",
           "Bildunterschriften_": "Heute hätte der Herr wohl ein Smartphone in der Hand – und die Zeitung damit Konkurrenz. (Bild: Yannis Behrakis / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11477,10 +11477,10 @@ var data =
           "LinkBild_": "RH_I_14-04-19",
           "Bildname": "ABB-P2-199",
           "Bildunterschriften_": "AfD-Fraktionschefs Alice Weidel und Alexander Gauland: Vehementeste Widersacher ärgert man am meisten mit Freundlichkeit Foto: picture alliance/Ralf Hirschberger/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11500,10 +11500,10 @@ var data =
           "LinkBild_": "RH_J_14-04-19",
           "Bildname": "ABB-P2-200",
           "Bildunterschriften_": "93 % der Bio-Felder verseucht mit Pestiziden",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11523,10 +11523,10 @@ var data =
           "LinkBild_": "RH_A_15-04-19",
           "Bildname": "ABB-P2-201",
           "Bildunterschriften_": "Fokussierter, effizienter und mit mehr Nutzen für die Schweiz: So will Ignazio Cassis in Zukunft die Entwicklungshilfe einsetzen. Foto: Keystone",
-          "Like-VorschlägeNamen_": "Leckerbissen aus Blocherstan\nAdrian Spahr\nSVP Aargau\nSelbstbestimmungsinitiative\nAn unsere Regierung: Der Souverän sind wir\nJunge SVP Kanton St.Gallen\nDiagnose: Eidgenose\nDie Super-Schweizer\nWilhelm Tell\nDeutscher Club Zürich\nPro-Swissness\nSVP des Kantons Luzern\nKonrad Langhart\nSVP Reinach\nPolit-Stammtisch\nThomas Burgherr\nRattlinbones\nJunge SVP Luzern\nSVP Emmental\nJa zum Grenzschutz\nJunge Grünliberale\nJunge SVP Kreisverband Frutigen\nSamira Marti\nEidgenössischer Jodlerverband\nMatthias C. Betsche\nSVP Nidau\nStefanie Heimgartner\nWädilauf 2019\nBetriebsgruppe 13302\nSVP Ortspartei 5070 Frick\nLittle Fellow Trageberatung\nJunge Grüne Aargau\nOlivier Barthe\nSeilbahnen Schweiz\nReppischfäger Dietikon\nJungfreisinnige Aargau\nSVP Kanton Solothurn\nForum Demokratie und Menschenrechte\nBerner Zeitung\nJunge Grüne St.Gallen\nSVP Biel\nSVP Stadt Bern\nOstschweizer Komitee\nMike Egger wieder in den Nationalrat\nUnser neuer Bundesrat für die Schweiz\nSofa – Sicherheit für alle\nJunge SVP Graubünden\nModellbahn – Meiringen\nSVP Kanton Zug\nJUSO Stadt Bern\nJSVP Thurgau\nJunge SVP Kanton Glarus\nSVP Kanton Schwyz\nArtikel 2\nSVP Stadt Winterthur\nRoadside Pictures\nFeuerwehr Urdorf\nZMB Zürcher Museum-Bahn\nLandhaus Steirereck\nSVP Hägendorf\nWochenbettbetreuung & Stillberatung Tanja Studer\nLars Guggisberg\nNetzCourage\nBeta-Show Deluxe\nDie Cervelat\nDie schönsten Ausflugsziele der Schweiz\nAquarena Sport und Wellness AG\nPascal Scattolin wählen\nSVP Bezirk Bremgarten AG\nGr DCA m 32-M Flab Abt 32\nHarrys Ding\nStiftung PWG\nRons Wohnungen in Zürich\nSamuel Hasler\nDaneil H. Bar\nLandgasthaus Sonne\nMartin Götzl\nSVP Wädenswil\nAtheismus Konfessionslos Frei bleiben\nSVP Stadt Luzern\nSVP Wohnen-Anglikon\nWachhund Willy\nLuzi Stamm\nSVP Bezirk Dietikon\nSVP Nottwil\nStadtsiedlung Reitmen\nGrand Café Lochergut\nKosmos\nSVP Stadt Olten\nGBC Treuhand GmbH\ntöffrestauration.ch\nOwlNews\nSVP Stadt Thun\nStolze Openair\nSwiss Dinner\nEyeLaser Augenlaser Zürich\nZüri isst\nPriskas Kosmetik Studio\nStopp der KESB Willkür\nNein zum kantonalen Energiegesetz\nOpen Kitchen by Ikea\nBritish Classic Car Spares\nVisionis\nSchubag AG\nRöntgenplatzfest\nDie Eidgenossen\nRouge Zürich\nAus der Region, für die Region\nSchweizer Demokraten Stadt\nDaniel Peter\nJunge Grüne Solothurn\nFussballstadion JA\nVenorion\nSommerkonzerte Bäckeranlage\nWidder Garage\nAm Damm für Dich\nVitasanum\nSender\nBildungsforum Aargau\npuzzle-paradies.ch\nPhilippe Kühne GLP\nAFD Schweiz\nSVP Baselland\nChristoph Mörgeli\nWir fordern Gerechtigkeit für Ernst Suter\nHoudini Kino Bar\nGebirgsinfanteriebataillon 48\nStadtsommer\nKTW Montagen und Technik GmbH\nMichaela Tschuor CVP\nMichael Frauchinger\nCafé Bar Nordbrücke\nSusanne Leutenegger\nThomas Kessler\nSchnupf\nWerdinsel Openair\nOpenair Wipkingen\nrundfunk.fm\nBio Hof Netzelen\nHeini Kommunal Landtechnik\nCédric Wermuth\nB in der Bäckeranlage\nJuristenkomitee\nZimmermann Waffen\nInf Bat 13\nSorglos Design AG\nHans-Jakob Boesch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "1.245\n1.639\n195\n4.988\n1.343\n1.198\n190\n2.597\n766\n292\n971\n1.693\n887\n378\n512\n1.028\n659\n676\n353\n11.289\n1.873\n339\n1.237\n2.563\n797\n307\n1.308\n784\n447\n104\n113\n497\n88\n376\n1.077\n641\n3.084\n3.155\n13.911\n416\n295\n196\n119\n548\n153\n1.799\n594\n507\n584\n978\n671\n473\n753\n418\n740\n3\n325\n506\n942\n208\n179\n2.089\n2.959\n707\n5\n10.433\n447\n40\n195\n575\n14.235\n2.209\n4.678\n47\n3.724\n1.001\n412\n14\n823\n820\n228\n1.27\n3.629\n75\n78\n634\n2.839\n9.375\n220\n35\n12\n3\n1.009\n6.427\n4.208\n35\n15.595\n35\n12.438\n846\n6\n52\n22\n7\n1.624\n34\n473\n31\n68\n220\n651\n4.901\n15\n1.893\n6.468\n4.733\n11\n2.72\n191\n25\n110\n73\n559\n1.203\n119\n5.166\n1.085\n4.341\n25\n217\n144\n4.018\n5.187\n849\n1.183\n5.628\n3.96\n14.322\n204\n187\n13.372\n751\n774\n293\n1.019\n889\n358\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "Pro-Swissness\nAdrian Spahr\nKonrad Langhart\nThomas Burgherr\nSVP Stadt Zürich",
-          "Like-VerzeichnisGefälltMir_": "973\n1.637\n888\n1.028\n100"
+          "VorschlageNamen_": "Leckerbissen aus Blocherstan\nAdrian Spahr\nSVP Aargau\nSelbstbestimmungsinitiative\nAn unsere Regierung: Der Souverän sind wir\nJunge SVP Kanton St.Gallen\nDiagnose: Eidgenose\nDie Super-Schweizer\nWilhelm Tell\nDeutscher Club Zürich\nPro-Swissness\nSVP des Kantons Luzern\nKonrad Langhart\nSVP Reinach\nPolit-Stammtisch\nThomas Burgherr\nRattlinbones\nJunge SVP Luzern\nSVP Emmental\nJa zum Grenzschutz\nJunge Grünliberale\nJunge SVP Kreisverband Frutigen\nSamira Marti\nEidgenössischer Jodlerverband\nMatthias C. Betsche\nSVP Nidau\nStefanie Heimgartner\nWädilauf 2019\nBetriebsgruppe 13302\nSVP Ortspartei 5070 Frick\nLittle Fellow Trageberatung\nJunge Grüne Aargau\nOlivier Barthe\nSeilbahnen Schweiz\nReppischfäger Dietikon\nJungfreisinnige Aargau\nSVP Kanton Solothurn\nForum Demokratie und Menschenrechte\nBerner Zeitung\nJunge Grüne St.Gallen\nSVP Biel\nSVP Stadt Bern\nOstschweizer Komitee\nMike Egger wieder in den Nationalrat\nUnser neuer Bundesrat für die Schweiz\nSofa – Sicherheit für alle\nJunge SVP Graubünden\nModellbahn – Meiringen\nSVP Kanton Zug\nJUSO Stadt Bern\nJSVP Thurgau\nJunge SVP Kanton Glarus\nSVP Kanton Schwyz\nArtikel 2\nSVP Stadt Winterthur\nRoadside Pictures\nFeuerwehr Urdorf\nZMB Zürcher Museum-Bahn\nLandhaus Steirereck\nSVP Hägendorf\nWochenbettbetreuung & Stillberatung Tanja Studer\nLars Guggisberg\nNetzCourage\nBeta-Show Deluxe\nDie Cervelat\nDie schönsten Ausflugsziele der Schweiz\nAquarena Sport und Wellness AG\nPascal Scattolin wählen\nSVP Bezirk Bremgarten AG\nGr DCA m 32-M Flab Abt 32\nHarrys Ding\nStiftung PWG\nRons Wohnungen in Zürich\nSamuel Hasler\nDaneil H. Bar\nLandgasthaus Sonne\nMartin Götzl\nSVP Wädenswil\nAtheismus Konfessionslos Frei bleiben\nSVP Stadt Luzern\nSVP Wohnen-Anglikon\nWachhund Willy\nLuzi Stamm\nSVP Bezirk Dietikon\nSVP Nottwil\nStadtsiedlung Reitmen\nGrand Café Lochergut\nKosmos\nSVP Stadt Olten\nGBC Treuhand GmbH\ntöffrestauration.ch\nOwlNews\nSVP Stadt Thun\nStolze Openair\nSwiss Dinner\nEyeLaser Augenlaser Zürich\nZüri isst\nPriskas Kosmetik Studio\nStopp der KESB Willkür\nNein zum kantonalen Energiegesetz\nOpen Kitchen by Ikea\nBritish Classic Car Spares\nVisionis\nSchubag AG\nRöntgenplatzfest\nDie Eidgenossen\nRouge Zürich\nAus der Region, für die Region\nSchweizer Demokraten Stadt\nDaniel Peter\nJunge Grüne Solothurn\nFussballstadion JA\nVenorion\nSommerkonzerte Bäckeranlage\nWidder Garage\nAm Damm für Dich\nVitasanum\nSender\nBildungsforum Aargau\npuzzle-paradies.ch\nPhilippe Kühne GLP\nAFD Schweiz\nSVP Baselland\nChristoph Mörgeli\nWir fordern Gerechtigkeit für Ernst Suter\nHoudini Kino Bar\nGebirgsinfanteriebataillon 48\nStadtsommer\nKTW Montagen und Technik GmbH\nMichaela Tschuor CVP\nMichael Frauchinger\nCafé Bar Nordbrücke\nSusanne Leutenegger\nThomas Kessler\nSchnupf\nWerdinsel Openair\nOpenair Wipkingen\nrundfunk.fm\nBio Hof Netzelen\nHeini Kommunal Landtechnik\nCédric Wermuth\nB in der Bäckeranlage\nJuristenkomitee\nZimmermann Waffen\nInf Bat 13\nSorglos Design AG\nHans-Jakob Boesch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "1.245\n1.639\n195\n4.988\n1.343\n1.198\n190\n2.597\n766\n292\n971\n1.693\n887\n378\n512\n1.028\n659\n676\n353\n11.289\n1.873\n339\n1.237\n2.563\n797\n307\n1.308\n784\n447\n104\n113\n497\n88\n376\n1.077\n641\n3.084\n3.155\n13.911\n416\n295\n196\n119\n548\n153\n1.799\n594\n507\n584\n978\n671\n473\n753\n418\n740\n3\n325\n506\n942\n208\n179\n2.089\n2.959\n707\n5\n10.433\n447\n40\n195\n575\n14.235\n2.209\n4.678\n47\n3.724\n1.001\n412\n14\n823\n820\n228\n1.27\n3.629\n75\n78\n634\n2.839\n9.375\n220\n35\n12\n3\n1.009\n6.427\n4.208\n35\n15.595\n35\n12.438\n846\n6\n52\n22\n7\n1.624\n34\n473\n31\n68\n220\n651\n4.901\n15\n1.893\n6.468\n4.733\n11\n2.72\n191\n25\n110\n73\n559\n1.203\n119\n5.166\n1.085\n4.341\n25\n217\n144\n4.018\n5.187\n849\n1.183\n5.628\n3.96\n14.322\n204\n187\n13.372\n751\n774\n293\n1.019\n889\n358\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "Pro-Swissness\nAdrian Spahr\nKonrad Langhart\nThomas Burgherr\nSVP Stadt Zürich",
+          "VerzeichnisGefalltMir_": "973\n1.637\n888\n1.028\n100"
         },
         {
           "Profil_": "P2",
@@ -11546,10 +11546,10 @@ var data =
           "LinkBild_": "RH_B_15-04-19",
           "Bildname": "ABB-P2-202",
           "Bildunterschriften_": "Symbolbild: Maler bei der Arbeit.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11569,10 +11569,10 @@ var data =
           "LinkBild_": "RH_C_15-04-19",
           "Bildname": "ABB-P2-203",
           "Bildunterschriften_": "Soldaten der libyschen Nationalarmee machen sich in Benghasi bereit, um die Truppen in Tripolis zu unterstützen. (13. April 2019) (Bild: Esam Omran Al-Fetori / Reuters)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11592,10 +11592,10 @@ var data =
           "LinkBild_": "RH_D_15-04-19",
           "Bildname": "ABB-P2-204",
           "Bildunterschriften_": "Kontrollen am Grenzübergang Grenzübergang Krusau bei Flensburg Foto: picture alliance/ dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11615,10 +11615,10 @@ var data =
           "LinkBild_": "RH_E_15-04-19",
           "Bildname": "ABB-P2-205",
           "Bildunterschriften_": "Afrikanische Armutseinwanderer in Rom Foto: picture alliance/Pacific Press",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11638,10 +11638,10 @@ var data =
           "LinkBild_": "RH_F_15-04-19",
           "Bildname": "ABB-P2-206",
           "Bildunterschriften_": "Demonstrantin in Jena, Thüringen. (23. März 2019)\n(Bild: Keystone Sebastian Willnow)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11661,10 +11661,10 @@ var data =
           "LinkBild_": "RH_G_15-04-19",
           "Bildname": "ABB-P2-207",
           "Bildunterschriften_": "Die St. Gallerin und der Türke lernten sich als Nachbarn kennen. Für sie war es rein freundschaftlich, aber er wollte mehr. Als er merkte, dass sie nicht so fühlte wie er, begann er ihr nachzustellen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11684,10 +11684,10 @@ var data =
           "LinkBild_": "RH_H_15-04-19",
           "Bildname": "ABB-P2-208",
           "Bildunterschriften_": "Dr. Katherine Horton in einem in Oxford ausgebildeten Teilchenphysiker und Systemanalytiker mit einem Master of Physics (1. Klasse) und einem Doktortitel in Teilchenphysik an der University of Oxford.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11707,10 +11707,10 @@ var data =
           "LinkBild_": "RH_I_15-04-19",
           "Bildname": "ABB-P2-209",
           "Bildunterschriften_": "Der Erpresser Hauptkommissar der EU Jean Claude Juncker (L) müsste in einer unabhängigen direkten Demokratie sofort verhaftet werden!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11730,10 +11730,10 @@ var data =
           "LinkBild_": "RH_J_15-04-19",
           "Bildname": "ABB-P2-210",
           "Bildunterschriften_": "Bei der Beerdigung von Evaldo dos Santos Rosa zeigen Demonstranten eine brasilianische Flagge mit künstlichen Blutflecken....FOTO: MAURO PIMENTEL/AFP",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11753,10 +11753,10 @@ var data =
           "LinkBild_": "RH_A_16-04-19",
           "Bildname": "ABB-P2-211",
           "Bildunterschriften_": "Symbolbild: Brief Graubünden.",
-          "Like-VorschlägeNamen_": "Schengen/Dublin – Nein danke\nHans-Ueli Vogt\nWir bestimmen\nPrime News\nAlpenland Sepp und Co.\nSofa – Sicherheit für alle\nSVP Aargau\nAline Trede\nJunge SVP Kanton St.Gallen\nRIP Christoph Blocher\nAn unsere Regierung: Der Souverän sind wir\nBewahrt unseren Schweizerbsalm\nDidi/No Basic\nSchibae\nMarc Bourgeois wieder in den Zürcher Kantonsrat\nGegen den Schweizer Asylwahnsinn\nSelbstbestimmungsinitiative\nWaffenrecht Schengen JA\nGrossrat des Kantons Bern: So nicht\nSVP Bezirk Dietikon\nSVP Stadt Winterthur\nPro Schweiz\nSVP des Kantons Luzern\nSVP Stadt Luzern\nDaniel Peter\nStaatspolitik\nAbschaffung der WAB Kurse\nFreie Landschaft Schweiz\nChristoph Henz\nPolit-Stammtisch\nLeckerbissen aus Blocherstan\nJunge SVP Luzern\nSVP Reinach\nDeutscher Club Zürich\nSVP Stadt Bern\nArtikel 2\nRebecca Jenny\nSamira Marti\nSVP Emmental\nSVP Kanton Solothurn\nJa zum Grenzschutz\nStefanie Heimgartner\nLuzi Stamm\nEnergiewende Schweiz\nVanessa Hofstetter\nSVP Rheintal\nSchwing- und Älplerfest Entstein\nBrockito\nSesselbahn Kiental-Ramslauenen\nRoland Staub SVP Luzern\nUnser neuer Bundesrat für die Schweiz\nPatrik Kneubühl\nMartin Farner\nSVP Stadt Thun\nSVP Frauen\nSVP Kanton Zug\nForum Demokratie und Menschenrechte\nSchweizer Medienkritik\nOlivier Barthe\nKampfsportschule Aarau\nStopp der KESB Willkür\nDie Super-Schweizer\nJunge Grünliberale\nJSVP Thurgau\nSVP Nidau\nCarina’s Butcher Shop\nGMMZ - Gesellschaft der Militär-Motorfahrer des Kantons Zürich\nSusanne Leutenegger\nEcho vom Durusch\nCédric Wermuth\nEidgenössischer Jodlerverband\nJunge SVP Oberland-See\nAnita Steiner Kommunikation\nNetzCourage\nSVP Hägendorf\nChristoph Mörgeli\nWM-Holz AG Möriken\nSP Schlieren\nSVP Stadt Olten\nDer Kontraphet\nSVP Bezirk Bremgarten AG\nVimentis - Für die Zukunft der Schweiz\nChronisch kranke wehrt euch\nSwiss Radio\nRons Wohnungen in Zürich\nHandel Schweiz\nFAKO Rorbis Freiestei Tüüfe\nAndreas Gerber\nLandgasthaus Sonne\nBody Effizienz Training\nDaniel Jositsch\nMartin Götzl\nHarrys Ding\nStiftung PWG\nGrand Café Lochergut\nSP Bezirk Horgen\nSVP Wohnen-Anglikon\nfirst-responder.ch\nFabian Molina\nFeuerwehr Bödeli\nSchweizer Landwirtschaft\nStadtsiedlung Reitmen\nMännerbüro Mittelland\nBauernverband Aargau\nPiratenpartei Aargau\nMittlere Fliegerabwehr Abteilung\nSwiss Jackson\nVZ Gebäudeversicherung Kanton Zürich, Feuerwehr\nRattlinbones\nJunge Grüne Aargau\nKosmos\nSamuel Hasler\nJuristenkomitee\nAxel McFoley\nZüri isst\nWillisauer Bote\nStolze Openair\nUres AG\nEyeLaser Augenlaser Zürich\nManser Handwerkercenter AG\nJunge Grünliberale Graubünden\nSVP Kanton Schwyz\nPatricia Seidl\nZiischtigsklub\nSVP Ortspartei 5070 Frick\nDie Eidgenossen\nAus der Region, für die Region\nJungfreisinnige Aargau\nWebseiten Webshop\nSVP Baselland\nFischer Bettwaren AG\nFeuerwehr Urdorf\nVenorion\nAdrian Schoop\nMechanisierte Brigade 11\n3855schwanden\nRöntgenplatzfest\nDavid Sassen Müller\nSommerkonzerte Bäckeranlage\nFussballstadion JA\nAquarena Sport und Wellness AG\nSVP Baden\nWidder Garage\nLandhaus Steirereck\nValentin Landmann\nSender\npuzzle-paradies.ch\nAm Damm für Dich\nSP Kanton Aargau\nRolf Jäggi\n18. Mai 2014 Ja zum Gripen Kampfjet\nKTW Montagen und Technik GmbH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "1.265\n4.659\n562\n1.801\n3.139\n1.799\n195\n2.063\n1.195\n141\n1.343\n3.783\n2.294\n3.79\n158\n11.96\n4.985\n710\n1.269\n75\n740\n410\n1.693\n820\n222\n1.053\n2.182\n4.267\n141\n512\n1.247\n676\n380\n292\n196\n418\n317\n1.238\n353\n3.084\n11.289\n1.309\n3.629\n410\n601\n247\n683\n510\n333\n188\n154\n1.026\n1.007\n1.008\n95\n584\n3.157\n446\n88\n3.955\n12.438\n2.597\n1.873\n670\n307\n273\n510\n5.187\n475\n13.375\n2.565\n295\n818\n2.96\n209\n1.203\n223\n523\n220\n821\n195\n5.088\n432\n842\n4.677\n1.067\n215\n359\n1.002\n737\n6.785\n412\n14.235\n2.215\n2.842\n298\n231\n435\n4.771\n1.079\n937\n633\n465\n538\n468\n449\n460\n3.589\n659\n497\n9.384\n48\n774\n11\n15.598\n4.077\n6.429\n48\n35\n371\n96\n753\n1.245\n660\n105\n34\n31\n645\n349\n559\n438\n326\n15\n1.638\n2.172\n233\n1.623\n369\n1.824\n4.899\n448\n271\n6.47\n942\n1.884\n2.725\n25\n4.734\n1.048\n186\n571\n25 Personen gefällt das.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "Schengen/Dublin – Nein danke\nHans-Ueli Vogt\nWir bestimmen\nGegen den Schweizer Asylwahnsinn\nPro Schweiz\nDie Eidgenossen",
-          "Like-VerzeichnisGefälltMir_": "1.266\n4.667\n563\n11.954\n192\n397"
+          "VorschlageNamen_": "Schengen/Dublin – Nein danke\nHans-Ueli Vogt\nWir bestimmen\nPrime News\nAlpenland Sepp und Co.\nSofa – Sicherheit für alle\nSVP Aargau\nAline Trede\nJunge SVP Kanton St.Gallen\nRIP Christoph Blocher\nAn unsere Regierung: Der Souverän sind wir\nBewahrt unseren Schweizerbsalm\nDidi/No Basic\nSchibae\nMarc Bourgeois wieder in den Zürcher Kantonsrat\nGegen den Schweizer Asylwahnsinn\nSelbstbestimmungsinitiative\nWaffenrecht Schengen JA\nGrossrat des Kantons Bern: So nicht\nSVP Bezirk Dietikon\nSVP Stadt Winterthur\nPro Schweiz\nSVP des Kantons Luzern\nSVP Stadt Luzern\nDaniel Peter\nStaatspolitik\nAbschaffung der WAB Kurse\nFreie Landschaft Schweiz\nChristoph Henz\nPolit-Stammtisch\nLeckerbissen aus Blocherstan\nJunge SVP Luzern\nSVP Reinach\nDeutscher Club Zürich\nSVP Stadt Bern\nArtikel 2\nRebecca Jenny\nSamira Marti\nSVP Emmental\nSVP Kanton Solothurn\nJa zum Grenzschutz\nStefanie Heimgartner\nLuzi Stamm\nEnergiewende Schweiz\nVanessa Hofstetter\nSVP Rheintal\nSchwing- und Älplerfest Entstein\nBrockito\nSesselbahn Kiental-Ramslauenen\nRoland Staub SVP Luzern\nUnser neuer Bundesrat für die Schweiz\nPatrik Kneubühl\nMartin Farner\nSVP Stadt Thun\nSVP Frauen\nSVP Kanton Zug\nForum Demokratie und Menschenrechte\nSchweizer Medienkritik\nOlivier Barthe\nKampfsportschule Aarau\nStopp der KESB Willkür\nDie Super-Schweizer\nJunge Grünliberale\nJSVP Thurgau\nSVP Nidau\nCarina’s Butcher Shop\nGMMZ - Gesellschaft der Militär-Motorfahrer des Kantons Zürich\nSusanne Leutenegger\nEcho vom Durusch\nCédric Wermuth\nEidgenössischer Jodlerverband\nJunge SVP Oberland-See\nAnita Steiner Kommunikation\nNetzCourage\nSVP Hägendorf\nChristoph Mörgeli\nWM-Holz AG Möriken\nSP Schlieren\nSVP Stadt Olten\nDer Kontraphet\nSVP Bezirk Bremgarten AG\nVimentis - Für die Zukunft der Schweiz\nChronisch kranke wehrt euch\nSwiss Radio\nRons Wohnungen in Zürich\nHandel Schweiz\nFAKO Rorbis Freiestei Tüüfe\nAndreas Gerber\nLandgasthaus Sonne\nBody Effizienz Training\nDaniel Jositsch\nMartin Götzl\nHarrys Ding\nStiftung PWG\nGrand Café Lochergut\nSP Bezirk Horgen\nSVP Wohnen-Anglikon\nfirst-responder.ch\nFabian Molina\nFeuerwehr Bödeli\nSchweizer Landwirtschaft\nStadtsiedlung Reitmen\nMännerbüro Mittelland\nBauernverband Aargau\nPiratenpartei Aargau\nMittlere Fliegerabwehr Abteilung\nSwiss Jackson\nVZ Gebäudeversicherung Kanton Zürich, Feuerwehr\nRattlinbones\nJunge Grüne Aargau\nKosmos\nSamuel Hasler\nJuristenkomitee\nAxel McFoley\nZüri isst\nWillisauer Bote\nStolze Openair\nUres AG\nEyeLaser Augenlaser Zürich\nManser Handwerkercenter AG\nJunge Grünliberale Graubünden\nSVP Kanton Schwyz\nPatricia Seidl\nZiischtigsklub\nSVP Ortspartei 5070 Frick\nDie Eidgenossen\nAus der Region, für die Region\nJungfreisinnige Aargau\nWebseiten Webshop\nSVP Baselland\nFischer Bettwaren AG\nFeuerwehr Urdorf\nVenorion\nAdrian Schoop\nMechanisierte Brigade 11\n3855schwanden\nRöntgenplatzfest\nDavid Sassen Müller\nSommerkonzerte Bäckeranlage\nFussballstadion JA\nAquarena Sport und Wellness AG\nSVP Baden\nWidder Garage\nLandhaus Steirereck\nValentin Landmann\nSender\npuzzle-paradies.ch\nAm Damm für Dich\nSP Kanton Aargau\nRolf Jäggi\n18. Mai 2014 Ja zum Gripen Kampfjet\nKTW Montagen und Technik GmbH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "1.265\n4.659\n562\n1.801\n3.139\n1.799\n195\n2.063\n1.195\n141\n1.343\n3.783\n2.294\n3.79\n158\n11.96\n4.985\n710\n1.269\n75\n740\n410\n1.693\n820\n222\n1.053\n2.182\n4.267\n141\n512\n1.247\n676\n380\n292\n196\n418\n317\n1.238\n353\n3.084\n11.289\n1.309\n3.629\n410\n601\n247\n683\n510\n333\n188\n154\n1.026\n1.007\n1.008\n95\n584\n3.157\n446\n88\n3.955\n12.438\n2.597\n1.873\n670\n307\n273\n510\n5.187\n475\n13.375\n2.565\n295\n818\n2.96\n209\n1.203\n223\n523\n220\n821\n195\n5.088\n432\n842\n4.677\n1.067\n215\n359\n1.002\n737\n6.785\n412\n14.235\n2.215\n2.842\n298\n231\n435\n4.771\n1.079\n937\n633\n465\n538\n468\n449\n460\n3.589\n659\n497\n9.384\n48\n774\n11\n15.598\n4.077\n6.429\n48\n35\n371\n96\n753\n1.245\n660\n105\n34\n31\n645\n349\n559\n438\n326\n15\n1.638\n2.172\n233\n1.623\n369\n1.824\n4.899\n448\n271\n6.47\n942\n1.884\n2.725\n25\n4.734\n1.048\n186\n571\n25 Personen gefällt das.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "Schengen/Dublin – Nein danke\nHans-Ueli Vogt\nWir bestimmen\nGegen den Schweizer Asylwahnsinn\nPro Schweiz\nDie Eidgenossen",
+          "VerzeichnisGefalltMir_": "1.266\n4.667\n563\n11.954\n192\n397"
         },
         {
           "Profil_": "P2",
@@ -11776,10 +11776,10 @@ var data =
           "LinkBild_": "RH_B_16-04-19",
           "Bildname": "ABB-P2-212",
           "Bildunterschriften_": "Der Vorsitzende der Partei Die Finnen, Jussi Halla-aho neben Generalsekretärin Riikka Slunga-Poutsalo Foto: picture alliance/Lehtikuva",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11799,10 +11799,10 @@ var data =
           "LinkBild_": "RH_C_16-04-19",
           "Bildname": "ABB-P2-213",
           "Bildunterschriften_": "Portrait Roger Köppel",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11822,10 +11822,10 @@ var data =
           "LinkBild_": "RH_D_16-04-19",
           "Bildname": "ABB-P2-214",
           "Bildunterschriften_": "Helsinki: Finnenpartei sorgt für weiteres patriotisches Polit-Erdbeben",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11845,10 +11845,10 @@ var data =
           "LinkBild_": "RH_E_16-04-19",
           "Bildname": "ABB-P2-215",
           "Bildunterschriften_": "Christoph Blocher sieht die SVP im Hinblick auf die nationalen Wahlen in guter Verfassung.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11868,10 +11868,10 @@ var data =
           "LinkBild_": "RH_F_16-04-19",
           "Bildname": "ABB-P2-216",
           "Bildunterschriften_": "Roger Köppel kritisiert die Medien scharf: Er spricht von Fakenews. © CH Media",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11891,10 +11891,10 @@ var data =
           "LinkBild_": "RH_G_16-04-19",
           "Bildname": "ABB-P2-217",
           "Bildunterschriften_": "Die Bewohner der Asyl-unterkunft hatten Glück. Sie konnten sich aus dem brennenden Gebäude retten. © Kapo AG",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11914,10 +11914,10 @@ var data =
           "LinkBild_": "RH_H_16-04-19",
           "Bildname": "ABB-P2-218",
           "Bildunterschriften_": "Bocholt: Beamte sprachen von einem „wütenden und tobendem Mob“ Foto: Pixabay",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11937,10 +11937,10 @@ var data =
           "LinkBild_": "RH_I_16-04-19",
           "Bildname": "ABB-P2-219",
           "Bildunterschriften_": "ICE-Anschläge: Polizei durchsucht 2018 Bahnschienen in Bayern Foto: picture alliance/Daniel Karmann/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11960,10 +11960,10 @@ var data =
           "LinkBild_": "RH_J_16-04-19",
           "Bildname": "ABB-P2-220",
           "Bildunterschriften_": "Das Paar reiste viel in der Welt herum. Der Trip ins Tessin sollte für Anna R. der letzte sein.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -11983,10 +11983,10 @@ var data =
           "LinkBild_": "RH_A_17-04-19",
           "Bildname": "ABB-P2-221",
           "Bildunterschriften_": "Was die EU mit dem Schweizer Waffengesetz zu tun hat, erklärt Inlandredaktor Philipp Loser. Video: Lea Koch, Nicolas Fäs",
-          "Like-VorschlägeNamen_": "Juristenkomitee\nSofa – Sicherheit für alle\nWaffenrecht Schengen JA\nLeckerbissen aus Blocherstan\nDie Super-Schweizer\nJunge SVP Kanton St.Gallen\nSVP Aargau\nAline Trede\nFairmed\nSelbstbestimmungsinitiative\nSVP des Kantons Luzern\nPrime News\nCharles Nguela\nLuzian Franzini\nRIP Christoph Blocher\nJa zur Zersiedlungsinitiative\nChristoph Mörgeli\nTele Z\nMythen-Musikshop\nVelafrica\nCarmen Walker Späh\nPolit-Stammtisch\nLukas Studer\nMeldezentrale für Eidgenossen\nSVP Stadt Winterthur\nJunge SVP Luzern\nUnser neuer Bundesrat für die Schweiz\nLewin Lempert\nJa zum Grenzschutz\nRestaurant zum Forst\nFreie Landschaft Schweiz\nArtikel 2\nLuzi Stamm\nMarc Bourgeois wieder in den Zürcher Kantonsrat\nSVP Rheintal\nPhilippe O-Bachmann\nIrina Studhalter\nAbschaffung der WAB Kurse\nEtrit Hasler\nChristoph Henz\nFakten statt Meinungen – SBI\nSwiss Liberation Army SLA\nChristmas Sessions\nSamira Marti\nSchweizer Medienkritik\nForum Demokratie und Menschenrechte\nSVP Frauen\nRoland Staub SVP Luzern\nSVP Stadt Thun\nDiagnose: Eidgenose\nSVP Wohlen-Anglikon\nStefan Erb EVP\nChristoph Scholl\nSVP Horgen\nOstschweizer Komitee\nSVP Stadt Luzern\nSVP Bezirk Bremgarten AG\nNetzCourage\nStopp der KESB Willkür\nAlpenland Sepp und Co.\nSVP Kanton Solothurn\nJunge SVP Oberland-See\nVanessa Hofstetter\nEnergiewende Schweiz\nSVP Reinach\nSVP Kanton Zug\nSVP Nidau\nSVP Emmental\nJUSO Stadt Bern\nGMMZ - Gesellschaft der Militär-Motorfahrer des Kantons Zürich\nSVP Stadt Bern\nSVP Kanton Schwyz\nBewahrt unseren Schweizerpsalm\nAndreas Gerber\nViementis – Für die Zukunft der Schweiz\nWM-Holz AG Möriken\nCarina‘s Butcher Shop\nZiischtigsklub\nStiftung PWG\nZüri isst\nStolze Openair\nSVP Hägendorf\nLandgasthaus Sonne\nGrand Café Lochergut\nStaatspolitik\nFischer Bettwaren AG\nKosmos\nRons Wohnungen in Zürich\nSVP Stadt Olten\nSchibae\nStadtsiedlung Reitmen\nHarrys Ding\nJunge SVP Kanton Glarus\nfirst-responder.ch\nSusanne Leutenegger\nFussballstadion JA\nUrex AG\nSommerkonzerte Bäckeranlage\nSP Bezirk Horgen\nWidder Garage\nRöntgenplatzfest\nMartin Götzl\nSender\nOpenair Wipkingen\nAus der Region, für die Region\nSchweizer Schiesssportverband\nSVP Stadt Zug\nStadtsommer\nOja Schwamendingen\nHoudini Kino Bar\nVenorion\nFAKO Rorbis Freiestei Tüüfe\nKTW Montagen und Technik GmbH\nZigermeet\nGun Factory Handels AG\nSVP Baselland\npuzzle-paradies.ch\n18. Mai 2014 Ja zum Gripen Kampfjet\nManser Handwerkercenter AG\nEcho vom Durusch\nCafé Bar Nordbrücke\nAm Damm für Dich\nBeta-Show Deluxe\nRafael Wohlgemuth\nHandel Schweiz\nValentin Landmann\nWerdinsel Openair\nEyeLaser Augenlaser Zürich\nStarkes Trio in den Kantonsrat\nElisaburg\nNOS 2019 Hallau\nrundfunk.fm\nSchnupf\nDaniel Jositsch\nDer Bund\nWillisauer Bote\nB in der Bäckeranlage\nDaniel Peter\nNZZ am Sonntag\nShooting-Inn AG\nFestung Vitznau\nThierry Burkart\nAA Tactical Shooting AATS Shop\nBeromüügger Möischter\nFabian Molina\nStefanie Heimgartner\nLars Guggisberg\nVogt Waffen AG\nskynews.ch\nJungfreisinnige Stadt Zürich\nMario Senn\nSVP Baden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "774\n1.799\n735\n1.247\n2.595\n1.195\n200\n2.062\n10.656\n4.985\n1.693\n1.804\n8.441\n352\n141\n2.327\n1.203\n952\n1.073\n2.684\n3.268\n512\n2.794\n476\n740\n675\n154\n379\n11.29\n1.501\n4.266\n2.594\n3.629\n158\n250\n79\n477\n2.181\n845\n141\n78\n523\n1.271\n1.239\n447\n3.159\n96\n190\n1.009\n190\n233\n184\n215\n78\n129\n820\n195\n2.96\n12.438\n3.14\n3.086\n295\n601\n410\n380\n584\n307\n353\n979\n510\n196\n754\n3.783\n359\n5.088\n223\n271\n661\n2.216\n15.599\n6.428\n209\n1.002\n2.845\n1.053\n437\n9.386\n4.676\n220\n3.788\n633\n14.238\n473\n435\n5.187\n4.899\n48\n1.894\n298\n6.477\n1.622\n412\n2.727\n3.962\n31\n4.396\n422\n4.342\n989\n5.171\n15\n215\n25\n2.556\n3.724\n558\n25\n571\n371\n476\n4.019\n4.734\n707\n134\n1.067\n1.883\n5.629\n35\n74\n871\n170\n14.327\n1.183\n2.594\n6.2\n4.08\n752\n223\n7.119\n1.741\n268\n5.752\n1.918\n351\n4.783\n1.31\n2.089\n3.909\n1.838\n877\n115\n271\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "SVP Aargau\nChristoph Mörgeli\nWachhund Willy\nArtikel 2\nDaniela Rinderknecht",
-          "Like-VerzeichnisGefälltMir_": "323\n1.201\n1.271\n417\n138"
+          "VorschlageNamen_": "Juristenkomitee\nSofa – Sicherheit für alle\nWaffenrecht Schengen JA\nLeckerbissen aus Blocherstan\nDie Super-Schweizer\nJunge SVP Kanton St.Gallen\nSVP Aargau\nAline Trede\nFairmed\nSelbstbestimmungsinitiative\nSVP des Kantons Luzern\nPrime News\nCharles Nguela\nLuzian Franzini\nRIP Christoph Blocher\nJa zur Zersiedlungsinitiative\nChristoph Mörgeli\nTele Z\nMythen-Musikshop\nVelafrica\nCarmen Walker Späh\nPolit-Stammtisch\nLukas Studer\nMeldezentrale für Eidgenossen\nSVP Stadt Winterthur\nJunge SVP Luzern\nUnser neuer Bundesrat für die Schweiz\nLewin Lempert\nJa zum Grenzschutz\nRestaurant zum Forst\nFreie Landschaft Schweiz\nArtikel 2\nLuzi Stamm\nMarc Bourgeois wieder in den Zürcher Kantonsrat\nSVP Rheintal\nPhilippe O-Bachmann\nIrina Studhalter\nAbschaffung der WAB Kurse\nEtrit Hasler\nChristoph Henz\nFakten statt Meinungen – SBI\nSwiss Liberation Army SLA\nChristmas Sessions\nSamira Marti\nSchweizer Medienkritik\nForum Demokratie und Menschenrechte\nSVP Frauen\nRoland Staub SVP Luzern\nSVP Stadt Thun\nDiagnose: Eidgenose\nSVP Wohlen-Anglikon\nStefan Erb EVP\nChristoph Scholl\nSVP Horgen\nOstschweizer Komitee\nSVP Stadt Luzern\nSVP Bezirk Bremgarten AG\nNetzCourage\nStopp der KESB Willkür\nAlpenland Sepp und Co.\nSVP Kanton Solothurn\nJunge SVP Oberland-See\nVanessa Hofstetter\nEnergiewende Schweiz\nSVP Reinach\nSVP Kanton Zug\nSVP Nidau\nSVP Emmental\nJUSO Stadt Bern\nGMMZ - Gesellschaft der Militär-Motorfahrer des Kantons Zürich\nSVP Stadt Bern\nSVP Kanton Schwyz\nBewahrt unseren Schweizerpsalm\nAndreas Gerber\nViementis – Für die Zukunft der Schweiz\nWM-Holz AG Möriken\nCarina‘s Butcher Shop\nZiischtigsklub\nStiftung PWG\nZüri isst\nStolze Openair\nSVP Hägendorf\nLandgasthaus Sonne\nGrand Café Lochergut\nStaatspolitik\nFischer Bettwaren AG\nKosmos\nRons Wohnungen in Zürich\nSVP Stadt Olten\nSchibae\nStadtsiedlung Reitmen\nHarrys Ding\nJunge SVP Kanton Glarus\nfirst-responder.ch\nSusanne Leutenegger\nFussballstadion JA\nUrex AG\nSommerkonzerte Bäckeranlage\nSP Bezirk Horgen\nWidder Garage\nRöntgenplatzfest\nMartin Götzl\nSender\nOpenair Wipkingen\nAus der Region, für die Region\nSchweizer Schiesssportverband\nSVP Stadt Zug\nStadtsommer\nOja Schwamendingen\nHoudini Kino Bar\nVenorion\nFAKO Rorbis Freiestei Tüüfe\nKTW Montagen und Technik GmbH\nZigermeet\nGun Factory Handels AG\nSVP Baselland\npuzzle-paradies.ch\n18. Mai 2014 Ja zum Gripen Kampfjet\nManser Handwerkercenter AG\nEcho vom Durusch\nCafé Bar Nordbrücke\nAm Damm für Dich\nBeta-Show Deluxe\nRafael Wohlgemuth\nHandel Schweiz\nValentin Landmann\nWerdinsel Openair\nEyeLaser Augenlaser Zürich\nStarkes Trio in den Kantonsrat\nElisaburg\nNOS 2019 Hallau\nrundfunk.fm\nSchnupf\nDaniel Jositsch\nDer Bund\nWillisauer Bote\nB in der Bäckeranlage\nDaniel Peter\nNZZ am Sonntag\nShooting-Inn AG\nFestung Vitznau\nThierry Burkart\nAA Tactical Shooting AATS Shop\nBeromüügger Möischter\nFabian Molina\nStefanie Heimgartner\nLars Guggisberg\nVogt Waffen AG\nskynews.ch\nJungfreisinnige Stadt Zürich\nMario Senn\nSVP Baden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "774\n1.799\n735\n1.247\n2.595\n1.195\n200\n2.062\n10.656\n4.985\n1.693\n1.804\n8.441\n352\n141\n2.327\n1.203\n952\n1.073\n2.684\n3.268\n512\n2.794\n476\n740\n675\n154\n379\n11.29\n1.501\n4.266\n2.594\n3.629\n158\n250\n79\n477\n2.181\n845\n141\n78\n523\n1.271\n1.239\n447\n3.159\n96\n190\n1.009\n190\n233\n184\n215\n78\n129\n820\n195\n2.96\n12.438\n3.14\n3.086\n295\n601\n410\n380\n584\n307\n353\n979\n510\n196\n754\n3.783\n359\n5.088\n223\n271\n661\n2.216\n15.599\n6.428\n209\n1.002\n2.845\n1.053\n437\n9.386\n4.676\n220\n3.788\n633\n14.238\n473\n435\n5.187\n4.899\n48\n1.894\n298\n6.477\n1.622\n412\n2.727\n3.962\n31\n4.396\n422\n4.342\n989\n5.171\n15\n215\n25\n2.556\n3.724\n558\n25\n571\n371\n476\n4.019\n4.734\n707\n134\n1.067\n1.883\n5.629\n35\n74\n871\n170\n14.327\n1.183\n2.594\n6.2\n4.08\n752\n223\n7.119\n1.741\n268\n5.752\n1.918\n351\n4.783\n1.31\n2.089\n3.909\n1.838\n877\n115\n271\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "SVP Aargau\nChristoph Mörgeli\nWachhund Willy\nArtikel 2\nDaniela Rinderknecht",
+          "VerzeichnisGefalltMir_": "323\n1.201\n1.271\n417\n138"
         },
         {
           "Profil_": "P2",
@@ -12006,10 +12006,10 @@ var data =
           "LinkBild_": "RH_B_17-04-19",
           "Bildname": "ABB-P2-222",
           "Bildunterschriften_": "Junge Ostschweizer wehren sich gegen das Waffenrecht",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12029,10 +12029,10 @@ var data =
           "LinkBild_": "RH_C_17-04-19",
           "Bildname": "ABB-P2-223",
           "Bildunterschriften_": "Das medizinische Personal in den Notfallstationen soll sich um die wirklich gravierenden Erkrankungen und Verletzungen kümmern können. (Bild: Annick Ramp / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12052,10 +12052,10 @@ var data =
           "LinkBild_": "RH_D_17-04-19",
           "Bildname": "ABB-P2-224",
           "Bildunterschriften_": "Polizei und Staatsanwaltschaft ermittelten einen im Kanton Schwyz wohnhaften Schweizer als Urheber von Islam-Flyern: Nun wurde er mit einer bedingten Geldstrafe und einer Busse bestraft. (Symbolbild). © KEYSTONE/URS FLUEELER",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12075,10 +12075,10 @@ var data =
           "LinkBild_": "RH_E_17-04-19",
           "Bildname": "ABB-P2-225",
           "Bildunterschriften_": "AfD-Chef Jörg Meuthen auf dem baden-württembergischen Landesparteitag in Heidenheim Foto: picture alliance/Stefan Puchner/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12098,10 +12098,10 @@ var data =
           "LinkBild_": "RH_F_17-04-19",
           "Bildname": "ABB-P2-226",
           "Bildunterschriften_": "EU-Waffenrichtlinie: Kein Gesetz gegen Terroristen aber gegen Schützen",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12121,10 +12121,10 @@ var data =
           "LinkBild_": "RH_G_17-04-19",
           "Bildname": "ABB-P2-227",
           "Bildunterschriften_": "«Richtiger und historischer Entscheid»: Gerhard Pfister über den Heiratsstrafe-Entscheid des Bundesgerichts. (Bild: Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12144,10 +12144,10 @@ var data =
           "LinkBild_": "RH_H_17-04-19",
           "Bildname": "ABB-P2-228",
           "Bildunterschriften_": "Schild des LKA Berlin. (Symbolfoto)FOTO: OLE SPATA DPA/LBN",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12167,10 +12167,10 @@ var data =
           "LinkBild_": "RH_I_17-04-19",
           "Bildname": "ABB-P2-229",
           "Bildunterschriften_": "Als Nachfolgerin auserkoren: Annegret Kramp-Karrenbauer mit Angela Merkel, hier im Februar 2018 beim CDU-Parteitag.FOTO: RALF HIRSCHBERGER/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12190,10 +12190,10 @@ var data =
           "LinkBild_": "RH_J_17-04-19",
           "Bildname": "ABB-P2-230",
           "Bildunterschriften_": "Die Integrationsagenda des Bundesrates ist reine Symptombekämpfung",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12213,10 +12213,10 @@ var data =
           "LinkBild_": "RH_A_18-04-19",
           "Bildname": "ABB-P2-231",
           "Bildunterschriften_": "Sylvia Flückiger am Eidgenössischen Schützenfest 2010 in Rupperswil. © KEYSTONE",
-          "Like-VorschlägeNamen_": "Juristenkomitee\nSelbstbestimmungsinitiative\nSifa - Sicherheit für alle\nWaffenrecht-Schengen JA\nJunge SVP Kanton St. Gallen\nLuzi Stamm\nSVP des Kantons Luzern\nSandro Brotz\nSVP Stadt Winterthur\nSchweizer Medienkritik - unzensiert\nPatrik Kneubühl - öffentliches Profil\nJunge SVP Luzern\nForum Demokratie und Menschenrechte\nAline Trede\nSVP Stadt Luzern\nFreie Landschaft Schweiz\nUnser neuer Bundesrat für die ganze Schweiz\nPrime News\nPolit-Stammtisch\nJa zum Grenzschutz\nLeckerbissen aus Blocheristan\nSamira Marti\nSwiss Liberation Army SLA\nCVP Kanton Aargau\nSVP Rheintal\nDiagnose: Eidgenose\nSVP Frauen\nDie Super-Schweizer\nDidi / No Basic\nSVP Baselland\nSVP Wohlen-Anglikon\nEDU - UDF (Eidgenössisch-Demokratische Union)\nRoland Staub SVP Luzern\nSVP Kanton Zug\nNetzCourage\nSVP Horgen\nSVP Biel / UDC Bienne (official)\nAndreas Gerber\nVanessa Hofstetter\nFranz Grüter\nSVP Kanton Schwyz\nEnergiewende Schweiz\nMarc Bourgeois wieder in den Zürcher Kantonsrat - 2x auf jede Liste\nSVP Bezirk Bremgarten AG\nKampfsportschule Aarau - Karate, Qi Gong, Tai Chi, Yoga\nJa zur Zersiedelungsinitiative\nLandgasthaus Sonne, Haus der Freiheit\nSVP Nidau\nStefanie Heimgartner (offiziell)\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nSVP Stadt Thun\nSVP Emmental\nRespektvoll.ch - Susanna Vogel-Engeli\nVier für‘s Underland\nStopp der KESB Willkür\nSVP Kanton Solothurn\nSVP Stadt Olten\nSVP Reinach\nGMMZ - Gesellschaft der Militär-Motorfahrer des Kantons Zürich\nSVP Stadt Bern\nWärme Initiative Schweiz\nVimentis - Für die Zukunft der Schweiz\nBOYS ON PILLS\nFakten statt Meinungen - SBI\nJSVP Uri\nWM-Holz AG Möriken\nRons Wohnungen in Zürich\nStiftung PWG\nGBC Treuhand GmbH Oberwil BL\nGrossrat des Kantons Bern: SO NICHT\nCédric Wermuth\nJunge SVP Oberland-See\nZiischtigsklub\nCarina‘s Butcher Shop\nJUSO Stadt Bern\nStefan Erb EVP\nHarrys Ding\nZüri isst\nStolze Openair\nSchweizer Demokraten Stadt Bern\nStadtsiedlung Reitmen, Schlieren\nJunge SVP Graubünden\nDer Bund\nWir fordern Gerechtigkeit für Ernst Suter\nHausundtierbetreuungzollinger\nKOSMOS\npuzzle-paradies.ch Günther\nSVP Stadt Zug\nUrex AG\nLinth GegenWind\nAnita Borer\nFDP Zürich Wiedikon - Kreis 3\nFussballstadion JA\nFirst-Responder.ch GmbH\nGrand Café Lochergut\nSender\nSommerkonzerte Bäckeranlage\nSesselbahn Kiental-Ramslauenen\nOpenair Wipkingen\nWidder Garage\n18. Mai 2014 Ja zum Gripen Kampfjet\nRöntgenplatzfest\nSVP Hägendorf\nFAKO Rorbis Freiestei Tüüfe\nStadtsommer\nHoudini Kino/Bar\nOja Schwamendingen\nPiratenpartei Aargau\nBildungsforum Aargau\nCafé Bar Nordbrücke\nSusanne Leutenegger Oberholzer\nEcho vom Durusch\nHandel Schweiz\nGun Factory Handels AG\nStarkes Trio in den Kantonsrat\nPIERROCK\nRafael Wohlgemuth\nSascha Schmid\nDomenik Ledergerber Kantonsrat\nMartin Götzl\nWerdinsel Openair\nNOS 2019 Hallau\nAm Damm für Dich\nrundfunk.fm\nELISABURG\nJoray Marius Waffen & Feinmechanik AG\nSchnupf\nSputnik - Kulturbuvette Wallisellen\nDaniel Jositsch\nWillisauer Bote\nBeromüügger Möischter\nBräzel-Sunntig\nFestung Vitznau\nB in der Bäckeranlage\nWir sind die 49,92%\nSP Bezirk Horgen\nDaniel Peter\nFabian Molina\nHanspeter Bucheli\nTherese Schläpfer\nPfaller & Söhne AG\ndeinfutter.ch\nPaul Etterlin\nJUSO Winterthur\nJacqueline Fehr\nMartin Farner\nValentin Landmann\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "773\n4.984\n1.798\n753\n1.194\n3.629\n1.693\n2.512\n739\n446\n1.027\n674\n3.159\n2.061\n818\n4.265\n153\n1.811\n511\n11.29\n1.247\n1.24\n522\n537\n250\n190\n96\n2.595\n2.295\n558\n232\n2.543\n189\n583\n2.961\n78\n295\n358\n603\n1.48\n753\n410\n158\n195\n3.955\n2.327\n1.002\n307\n1.309\n172\n1.008\n352\n83\n100\n12.44\n3.085\n220\n379\n510\n195\n1.113\n5.089\n2.629\n78\n533\n223\n4.676\n2.219\n36\n1.269\n13.378\n294\n661\n271\n978\n184\n14.237\n15.594\n6.428\n68\n633\n593\n6.2\n119\n348\n9.388\n25\n421\n48\n315\n527\n108\n4.899\n435\n2.847\n2.73\n1.894\n333\n3.964\n6.48\n571\n1.622\n208\n215\n4.342\n5.172\n989\n468\n191\n4.018\n5.187\n476\n1.067\n3.724\n74\n1.598\n134\n472\n150\n412\n5.63\n171\n4.735\n14.327\n871\n668\n1.184\n94\n6.789\n4.079\n351\n234\n268\n752\n671\n298\n223\n4.785\n30\n62\n356\n118\n1.421\n643\n7.164\n1.006\n1.884\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "Luzi Stamm\nSVP des Kanton Luzerns\nJunge SVP Luzern\nUnser neuer Bundesrat für die Schweiz\nJa zum Grenzschutz\nEDU – UDF – Eidgenössisch Demokratische Union\nRoland Staub",
-          "Like-VerzeichnisGefälltMir_": "3.626\n1.696\n676\n159\n11.295\n2.545\n190"
+          "VorschlageNamen_": "Juristenkomitee\nSelbstbestimmungsinitiative\nSifa - Sicherheit für alle\nWaffenrecht-Schengen JA\nJunge SVP Kanton St. Gallen\nLuzi Stamm\nSVP des Kantons Luzern\nSandro Brotz\nSVP Stadt Winterthur\nSchweizer Medienkritik - unzensiert\nPatrik Kneubühl - öffentliches Profil\nJunge SVP Luzern\nForum Demokratie und Menschenrechte\nAline Trede\nSVP Stadt Luzern\nFreie Landschaft Schweiz\nUnser neuer Bundesrat für die ganze Schweiz\nPrime News\nPolit-Stammtisch\nJa zum Grenzschutz\nLeckerbissen aus Blocheristan\nSamira Marti\nSwiss Liberation Army SLA\nCVP Kanton Aargau\nSVP Rheintal\nDiagnose: Eidgenose\nSVP Frauen\nDie Super-Schweizer\nDidi / No Basic\nSVP Baselland\nSVP Wohlen-Anglikon\nEDU - UDF (Eidgenössisch-Demokratische Union)\nRoland Staub SVP Luzern\nSVP Kanton Zug\nNetzCourage\nSVP Horgen\nSVP Biel / UDC Bienne (official)\nAndreas Gerber\nVanessa Hofstetter\nFranz Grüter\nSVP Kanton Schwyz\nEnergiewende Schweiz\nMarc Bourgeois wieder in den Zürcher Kantonsrat - 2x auf jede Liste\nSVP Bezirk Bremgarten AG\nKampfsportschule Aarau - Karate, Qi Gong, Tai Chi, Yoga\nJa zur Zersiedelungsinitiative\nLandgasthaus Sonne, Haus der Freiheit\nSVP Nidau\nStefanie Heimgartner (offiziell)\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nSVP Stadt Thun\nSVP Emmental\nRespektvoll.ch - Susanna Vogel-Engeli\nVier für‘s Underland\nStopp der KESB Willkür\nSVP Kanton Solothurn\nSVP Stadt Olten\nSVP Reinach\nGMMZ - Gesellschaft der Militär-Motorfahrer des Kantons Zürich\nSVP Stadt Bern\nWärme Initiative Schweiz\nVimentis - Für die Zukunft der Schweiz\nBOYS ON PILLS\nFakten statt Meinungen - SBI\nJSVP Uri\nWM-Holz AG Möriken\nRons Wohnungen in Zürich\nStiftung PWG\nGBC Treuhand GmbH Oberwil BL\nGrossrat des Kantons Bern: SO NICHT\nCédric Wermuth\nJunge SVP Oberland-See\nZiischtigsklub\nCarina‘s Butcher Shop\nJUSO Stadt Bern\nStefan Erb EVP\nHarrys Ding\nZüri isst\nStolze Openair\nSchweizer Demokraten Stadt Bern\nStadtsiedlung Reitmen, Schlieren\nJunge SVP Graubünden\nDer Bund\nWir fordern Gerechtigkeit für Ernst Suter\nHausundtierbetreuungzollinger\nKOSMOS\npuzzle-paradies.ch Günther\nSVP Stadt Zug\nUrex AG\nLinth GegenWind\nAnita Borer\nFDP Zürich Wiedikon - Kreis 3\nFussballstadion JA\nFirst-Responder.ch GmbH\nGrand Café Lochergut\nSender\nSommerkonzerte Bäckeranlage\nSesselbahn Kiental-Ramslauenen\nOpenair Wipkingen\nWidder Garage\n18. Mai 2014 Ja zum Gripen Kampfjet\nRöntgenplatzfest\nSVP Hägendorf\nFAKO Rorbis Freiestei Tüüfe\nStadtsommer\nHoudini Kino/Bar\nOja Schwamendingen\nPiratenpartei Aargau\nBildungsforum Aargau\nCafé Bar Nordbrücke\nSusanne Leutenegger Oberholzer\nEcho vom Durusch\nHandel Schweiz\nGun Factory Handels AG\nStarkes Trio in den Kantonsrat\nPIERROCK\nRafael Wohlgemuth\nSascha Schmid\nDomenik Ledergerber Kantonsrat\nMartin Götzl\nWerdinsel Openair\nNOS 2019 Hallau\nAm Damm für Dich\nrundfunk.fm\nELISABURG\nJoray Marius Waffen & Feinmechanik AG\nSchnupf\nSputnik - Kulturbuvette Wallisellen\nDaniel Jositsch\nWillisauer Bote\nBeromüügger Möischter\nBräzel-Sunntig\nFestung Vitznau\nB in der Bäckeranlage\nWir sind die 49,92%\nSP Bezirk Horgen\nDaniel Peter\nFabian Molina\nHanspeter Bucheli\nTherese Schläpfer\nPfaller & Söhne AG\ndeinfutter.ch\nPaul Etterlin\nJUSO Winterthur\nJacqueline Fehr\nMartin Farner\nValentin Landmann\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "773\n4.984\n1.798\n753\n1.194\n3.629\n1.693\n2.512\n739\n446\n1.027\n674\n3.159\n2.061\n818\n4.265\n153\n1.811\n511\n11.29\n1.247\n1.24\n522\n537\n250\n190\n96\n2.595\n2.295\n558\n232\n2.543\n189\n583\n2.961\n78\n295\n358\n603\n1.48\n753\n410\n158\n195\n3.955\n2.327\n1.002\n307\n1.309\n172\n1.008\n352\n83\n100\n12.44\n3.085\n220\n379\n510\n195\n1.113\n5.089\n2.629\n78\n533\n223\n4.676\n2.219\n36\n1.269\n13.378\n294\n661\n271\n978\n184\n14.237\n15.594\n6.428\n68\n633\n593\n6.2\n119\n348\n9.388\n25\n421\n48\n315\n527\n108\n4.899\n435\n2.847\n2.73\n1.894\n333\n3.964\n6.48\n571\n1.622\n208\n215\n4.342\n5.172\n989\n468\n191\n4.018\n5.187\n476\n1.067\n3.724\n74\n1.598\n134\n472\n150\n412\n5.63\n171\n4.735\n14.327\n871\n668\n1.184\n94\n6.789\n4.079\n351\n234\n268\n752\n671\n298\n223\n4.785\n30\n62\n356\n118\n1.421\n643\n7.164\n1.006\n1.884\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "Luzi Stamm\nSVP des Kanton Luzerns\nJunge SVP Luzern\nUnser neuer Bundesrat für die Schweiz\nJa zum Grenzschutz\nEDU – UDF – Eidgenössisch Demokratische Union\nRoland Staub",
+          "VerzeichnisGefalltMir_": "3.626\n1.696\n676\n159\n11.295\n2.545\n190"
         },
         {
           "Profil_": "P2",
@@ -12236,10 +12236,10 @@ var data =
           "LinkBild_": "RH_B_18-04-19",
           "Bildname": "ABB-P2-232",
           "Bildunterschriften_": "Die Schweiz stimmt im Mai über ein neues Waffenrecht ab. (Bild: Adrien Perritaz / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12259,10 +12259,10 @@ var data =
           "LinkBild_": "RH_C_18-04-19",
           "Bildname": "ABB-P2-233",
           "Bildunterschriften_": "Lorenz Hess, Bern, Nationalrat, BDP",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12282,10 +12282,10 @@ var data =
           "LinkBild_": "RH_D_18-04-19",
           "Bildname": "ABB-P2-234",
           "Bildunterschriften_": "Afrikaner in Libyen nach ihrer Rettung aus Seenot Foto: picture alliance / AP Photo",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12305,10 +12305,10 @@ var data =
           "LinkBild_": "RH_E_18-04-19",
           "Bildname": "ABB-P2-235",
           "Bildunterschriften_": "150 Millionen Indonesierinnen und Indonesier gingen am Mittwoch an die Urnen und zeigten, dass sie verantwortungsvoll mit ihrer jungen Demokratie umgehen. (Bild: Ulet Ifansasti / Getty Images)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12328,10 +12328,10 @@ var data =
           "LinkBild_": "RH_F_18-04-19",
           "Bildname": "ABB-P2-236",
           "Bildunterschriften_": "Christoph Blocher: «Albert Rösti ist ein guter Parteipräsident»",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12351,10 +12351,10 @@ var data =
           "LinkBild_": "RH_G_18-04-19",
           "Bildname": "ABB-P2-237",
           "Bildunterschriften_": "Der Regierungsrat hat beschlossen, den Entscheid des Bundesverwaltungsgerichts nicht zu beachten. (Bild: Urs Jaudas)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12374,10 +12374,10 @@ var data =
           "LinkBild_": "RH_H_18-04-19",
           "Bildname": "ABB-P2-238",
           "Bildunterschriften_": "Ausgebrannte AfD-Autos in Essen Foto: picture alliance/Roland Weihrauch/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12397,10 +12397,10 @@ var data =
           "LinkBild_": "RH_I_18-04-19",
           "Bildname": "ABB-P2-239",
           "Bildunterschriften_": "Christoph Blocher lamentiert über die SVP und den Klimawandel.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12420,10 +12420,10 @@ var data =
           "LinkBild_": "RH_J_18-04-19",
           "Bildname": "ABB-P2-240",
           "Bildunterschriften_": "Ein Elektroauto des Typs Tesla S. Foto: dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12443,10 +12443,10 @@ var data =
           "LinkBild_": "RH_A_19-04-19",
           "Bildname": "ABB-P2-241",
           "Bildunterschriften_": "Die links-grüne Basler Regierung foutiert sich um den Rechtsstaat.",
-          "Like-VorschlägeNamen_": "Die Super-Schweizer\nFranz Grüter\nJunge SVP Kanton St. Gallen\nJuristenkomitee\nForum Demokratie und Menschenrechte\nStefanie Heimgartner (offiziell)\nSVP Stadt Winterthur\nSVP Stadt Luzern\nSVP Emmental\nFreie Landschaft Schweiz\nLeckerbissen aus Blocheristan\nDiagnose: Eidgenose\nSelbstbestimmungsinitiative\nJA zur AHV-Steuervorlage\nSandro Brotz\nSwiss Liberation Army SLA\nSVP Frauen\nalliance F\nSchweizer Medienkritik - unzensiert\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nSVP Rheintal\nSamuel Hasler\nPolizei Nachrichten - Schweiz\nSVP Wohlen-Anglikon\nSVP Biel / UDC Bienne (official)\nRolf Jäggi\nSVP Baselland\nSVP Kanton Schwyz\nEnergiewende Schweiz\nLars Guggisberg\nFestungsmuseum Magletsch\nKonzern-Initiative\nBolla‘ s Zweiradwerkstatt\nWaffenrecht-Schengen JA\nFDP Zürich Wiedikon - Kreis 3\nLandgasthaus Sonne, Haus der Freiheit\nSVP Kanton Zug\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Nidau\nPolit-Stammtisch\nSVP Stadt Thun\nSVP Herisau\nMartin Götzl\nVier für‘s Underland\nAndreas Gerber\nSVP Kanton Solothurn\nLinth GegenWind\nWir sind die 49,92%\nStopp der KESB Willkür\nJunge SVP Graubünden\nZMB Zürcher Museums-Bahn\nSVP Bezirk Bremgarten AG\nSVP Stadt Olten\nSVP Reinach\nJungfreisinnige Stadt Zürich (JFZ)\nJa zur Direkten Demokratie in der Schweiz am 25 November 2018\nHausundtierbetreuungzollinger\nCountry-Night Jenaz\nRons Wohnungen in Zürich\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nLeuppi Samir\nHandel Schweiz\nVimentis - Für die Zukunft der Schweiz\nCédric Wermuth\nKeine Heimat\nStiftung PWG\nSommerkonzerte Bäckeranlage\nZiischtigsklub\nJunge SVP Oberland-See\nDR Einzig\nZüri isst\nStadtsiedlung Reitmen, Schlieren\nHarrys Ding\nJeffrey Ferpozzi\nAfD Schweiz\nStolze Openair\nJa zur ausserordentlichen Gemeindeordnung in der Stadt Solothurn\nSVP Horgen\nExotis\nJSVP Uri\nMischabelhütte\nKOSMOS\nSVP Langnau\nDieter Haller Politiker\nUrex AG\nSender\nSVP Stadt Bern\nStopp-Tierleid\nPipos Imbiss\nFussballstadion JA\nOpenair Wipkingen\nSandro Wächter - SVP\nIslandpferdehof Nussbaum\nGrand Café Lochergut\nValentin Landmann\nWerdinsel Openair\nGr DCA m 32 - M Flab Abt 32\nBülacher Jazztage\nStadtsommer\nCafé Bar Nordbrücke\nSozialhilfegesetz JA\nRöntgenplatzfest\nSteuerverschwendung Reitschule Stadt Bern\nSamuel Amsler AG\nWidder Garage\nSchweizer Kälbermästerverband\nJa zur Zersiedelungsinitiative\nSVP Hägendorf\nB in der Bäckeranlage\nCHSavannahs\nHoudini Kino/Bar\nVerena Herzog\nDana Shanti van Liath\nGhelma Gruppe\nRafael Wohlgemuth\nWillisauer Bote\nPIERROCK\nZimgroup.ch - Zimmermann Umweltlogistik AG\nCorinne Merk\nSVP Baden\nPetra Gössi\nAndri Silberschmidt\nJacqueline Fehr\nSVP Nidwalden\nCVP Kanton Luzern\nrundfunk.fm\nAm Damm für Dich\nFeuerwehr Grüningen\nDomenik Ledergerber Kantonsrat\nOliver Imfeld\nFakten statt Meinungen - SBI\nFahrzeugtreffen DVZO\nSputnik - Kulturbuvette Wallisellen\nELISABURG\nAna Hennessey Homes\nBräzel-Sunntig\nSchnupf\nDaniel Jositsch\nSchwingklub Zürich\nSP Bezirk Horgen\nDany‘s Personal Therapy & Personal Training\nGrümpi Meilen\nPiratenpartei Aargau\nWorld Nature Forum - Visitor Center Swiss Alps Jungfrau-Aletsch\nDer Bund\nGarage Steffen\nSVP Stadt Zug\nPfaller & Söhne AG\nLifeStyle Fotografie von James Graf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "2.594\n1.48\n1.194\n773\n3.159\n1.309\n739\n818\n352\n4.265\n1.246\n190\n4.983\n170\n2.514\n524\n96\n1.966\n447\n2.422\n250\n48\n991\n234\n295\n185\n557\n754\n410\n2.089\n955\n16.398\n302\n763\n108\n1.002\n583\n339\n307\n511\n1.008\n271\n412\n100\n358\n3.085\n315\n671\n12.44\n593\n507\n196\n220\n380\n878\n166\n348\n264\n4.678\n172\n1.539\n1.067\n5.089\n13.38\n238\n2.221\n1.894\n661\n294\n1.265\n15.593\n633\n14.238\n207\n74\n6.429\n40\n78\n175\n531\n2.203\n9.394\n169\n349\n48\n2.729\n195\n226\n102\n4.899\n3.966\n197\n229\n2.849\n1.884\n5.631\n575\n339\n4.342\n4.018\n224\n1.621\n106\n366\n6.491\n400\n2.327\n208\n753\n232\n5.172\n552\n190\n488\n134\n4.081\n1.597\n1.011\n523\n271\n3.983\n4.64\n7.163\n499\n1.089\n14.327\n4.736\n222\n150\n1.173\n78\n1.038\n94\n871\n119\n234\n1.184\n6.789\n246\n298\n103\n120\n469\n791\n6.201\n167\n422\n356\n221\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "Franz Grüter\nJunge SVP Kanton St.Gallen\nStefanie Heimgartner\nSVP Stadt Winterthur\nSamuel Hasler\nRolf Jäggi",
-          "Like-VerzeichnisGefälltMir_": "1.481\n1.195\n1.311\n739\n54\n191"
+          "VorschlageNamen_": "Die Super-Schweizer\nFranz Grüter\nJunge SVP Kanton St. Gallen\nJuristenkomitee\nForum Demokratie und Menschenrechte\nStefanie Heimgartner (offiziell)\nSVP Stadt Winterthur\nSVP Stadt Luzern\nSVP Emmental\nFreie Landschaft Schweiz\nLeckerbissen aus Blocheristan\nDiagnose: Eidgenose\nSelbstbestimmungsinitiative\nJA zur AHV-Steuervorlage\nSandro Brotz\nSwiss Liberation Army SLA\nSVP Frauen\nalliance F\nSchweizer Medienkritik - unzensiert\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nSVP Rheintal\nSamuel Hasler\nPolizei Nachrichten - Schweiz\nSVP Wohlen-Anglikon\nSVP Biel / UDC Bienne (official)\nRolf Jäggi\nSVP Baselland\nSVP Kanton Schwyz\nEnergiewende Schweiz\nLars Guggisberg\nFestungsmuseum Magletsch\nKonzern-Initiative\nBolla‘ s Zweiradwerkstatt\nWaffenrecht-Schengen JA\nFDP Zürich Wiedikon - Kreis 3\nLandgasthaus Sonne, Haus der Freiheit\nSVP Kanton Zug\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Nidau\nPolit-Stammtisch\nSVP Stadt Thun\nSVP Herisau\nMartin Götzl\nVier für‘s Underland\nAndreas Gerber\nSVP Kanton Solothurn\nLinth GegenWind\nWir sind die 49,92%\nStopp der KESB Willkür\nJunge SVP Graubünden\nZMB Zürcher Museums-Bahn\nSVP Bezirk Bremgarten AG\nSVP Stadt Olten\nSVP Reinach\nJungfreisinnige Stadt Zürich (JFZ)\nJa zur Direkten Demokratie in der Schweiz am 25 November 2018\nHausundtierbetreuungzollinger\nCountry-Night Jenaz\nRons Wohnungen in Zürich\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nLeuppi Samir\nHandel Schweiz\nVimentis - Für die Zukunft der Schweiz\nCédric Wermuth\nKeine Heimat\nStiftung PWG\nSommerkonzerte Bäckeranlage\nZiischtigsklub\nJunge SVP Oberland-See\nDR Einzig\nZüri isst\nStadtsiedlung Reitmen, Schlieren\nHarrys Ding\nJeffrey Ferpozzi\nAfD Schweiz\nStolze Openair\nJa zur ausserordentlichen Gemeindeordnung in der Stadt Solothurn\nSVP Horgen\nExotis\nJSVP Uri\nMischabelhütte\nKOSMOS\nSVP Langnau\nDieter Haller Politiker\nUrex AG\nSender\nSVP Stadt Bern\nStopp-Tierleid\nPipos Imbiss\nFussballstadion JA\nOpenair Wipkingen\nSandro Wächter - SVP\nIslandpferdehof Nussbaum\nGrand Café Lochergut\nValentin Landmann\nWerdinsel Openair\nGr DCA m 32 - M Flab Abt 32\nBülacher Jazztage\nStadtsommer\nCafé Bar Nordbrücke\nSozialhilfegesetz JA\nRöntgenplatzfest\nSteuerverschwendung Reitschule Stadt Bern\nSamuel Amsler AG\nWidder Garage\nSchweizer Kälbermästerverband\nJa zur Zersiedelungsinitiative\nSVP Hägendorf\nB in der Bäckeranlage\nCHSavannahs\nHoudini Kino/Bar\nVerena Herzog\nDana Shanti van Liath\nGhelma Gruppe\nRafael Wohlgemuth\nWillisauer Bote\nPIERROCK\nZimgroup.ch - Zimmermann Umweltlogistik AG\nCorinne Merk\nSVP Baden\nPetra Gössi\nAndri Silberschmidt\nJacqueline Fehr\nSVP Nidwalden\nCVP Kanton Luzern\nrundfunk.fm\nAm Damm für Dich\nFeuerwehr Grüningen\nDomenik Ledergerber Kantonsrat\nOliver Imfeld\nFakten statt Meinungen - SBI\nFahrzeugtreffen DVZO\nSputnik - Kulturbuvette Wallisellen\nELISABURG\nAna Hennessey Homes\nBräzel-Sunntig\nSchnupf\nDaniel Jositsch\nSchwingklub Zürich\nSP Bezirk Horgen\nDany‘s Personal Therapy & Personal Training\nGrümpi Meilen\nPiratenpartei Aargau\nWorld Nature Forum - Visitor Center Swiss Alps Jungfrau-Aletsch\nDer Bund\nGarage Steffen\nSVP Stadt Zug\nPfaller & Söhne AG\nLifeStyle Fotografie von James Graf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "2.594\n1.48\n1.194\n773\n3.159\n1.309\n739\n818\n352\n4.265\n1.246\n190\n4.983\n170\n2.514\n524\n96\n1.966\n447\n2.422\n250\n48\n991\n234\n295\n185\n557\n754\n410\n2.089\n955\n16.398\n302\n763\n108\n1.002\n583\n339\n307\n511\n1.008\n271\n412\n100\n358\n3.085\n315\n671\n12.44\n593\n507\n196\n220\n380\n878\n166\n348\n264\n4.678\n172\n1.539\n1.067\n5.089\n13.38\n238\n2.221\n1.894\n661\n294\n1.265\n15.593\n633\n14.238\n207\n74\n6.429\n40\n78\n175\n531\n2.203\n9.394\n169\n349\n48\n2.729\n195\n226\n102\n4.899\n3.966\n197\n229\n2.849\n1.884\n5.631\n575\n339\n4.342\n4.018\n224\n1.621\n106\n366\n6.491\n400\n2.327\n208\n753\n232\n5.172\n552\n190\n488\n134\n4.081\n1.597\n1.011\n523\n271\n3.983\n4.64\n7.163\n499\n1.089\n14.327\n4.736\n222\n150\n1.173\n78\n1.038\n94\n871\n119\n234\n1.184\n6.789\n246\n298\n103\n120\n469\n791\n6.201\n167\n422\n356\n221\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "Franz Grüter\nJunge SVP Kanton St.Gallen\nStefanie Heimgartner\nSVP Stadt Winterthur\nSamuel Hasler\nRolf Jäggi",
+          "VerzeichnisGefalltMir_": "1.481\n1.195\n1.311\n739\n54\n191"
         },
         {
           "Profil_": "P2",
@@ -12466,10 +12466,10 @@ var data =
           "LinkBild_": "RH_B_19-04-19",
           "Bildname": "ABB-P2-242",
           "Bildunterschriften_": "Sawsan Chebli: Tweet sorgt für empörte Reaktionen Foto: picture alliance/Gregor Fischer/dpa / Twitter / JF-Montage",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12489,10 +12489,10 @@ var data =
           "LinkBild_": "RH_C_19-04-19",
           "Bildname": "ABB-P2-243",
           "Bildunterschriften_": "EU-Skeptiker legen zu.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12512,10 +12512,10 @@ var data =
           "LinkBild_": "RH_D_19-04-19",
           "Bildname": "ABB-P2-244",
           "Bildunterschriften_": "Ueli Maurer zu Besuch in China 2013: Nächste Woche wird der Bundespräsident erneut Richtung Osten aufbrechen. Quelle: Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12535,10 +12535,10 @@ var data =
           "LinkBild_": "RH_E_19-04-19",
           "Bildname": "ABB-P2-245",
           "Bildunterschriften_": "Der Abgeordnete mit der Mundharmonika: Alojz PeterleFOTO: SCREENSHOT VON HTTPS://WWW.YOUTUBE.COM/WATCH?V=F1HZR7HQLTS",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12558,10 +12558,10 @@ var data =
           "LinkBild_": "RH_F_19-04-19",
           "Bildname": "ABB-P2-246",
           "Bildunterschriften_": "Um diese Waffen geht es: Halbautomaten sollen gemäss der neuen Waffenrichtlinie nur noch mit einer Ausnahmebewilligung erhältlich sein. © KEYSTONE/ADRIEN PERRITAZ",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12581,10 +12581,10 @@ var data =
           "LinkBild_": "RH_G_19-04-19",
           "Bildname": "ABB-P2-247",
           "Bildunterschriften_": "Mein Kampf gegen Windmühlen!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12604,10 +12604,10 @@ var data =
           "LinkBild_": "RH_H_19-04-19",
           "Bildname": "ABB-P2-248",
           "Bildunterschriften_": "Heute zahlen wir pro Jahr 140 Millionen Franken, und der ­gleiche Bundesrat will das EU-­Waffen-Diktat sang- und klanglos über­nehmen. (Bild: Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12627,10 +12627,10 @@ var data =
           "LinkBild_": "RH_I_19-04-19",
           "Bildname": "ABB-P2-249",
           "Bildunterschriften_": "Christoph Blocher prangerte an einer Pressekonferenz die Kommunikation seiner Partei an: «Heute wird immer mehr Polit-Deutsch gesprochen. Die Leute verstehen nicht mehr, was die Politiker in Bern sagen wollen. Auch die SVP muss hier aufpassen.» Es gelte, sich vermehrt anzustrengen, für alle verständlich zu sprechen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12650,10 +12650,10 @@ var data =
           "LinkBild_": "RH_J_19-04-19",
           "Bildname": "ABB-P2-250",
           "Bildunterschriften_": "Am Samstag wird sie jedoch ausgewiesen und soll während drei Jahren nicht mehr in den Schengenraum einreisen dürfen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12673,10 +12673,10 @@ var data =
           "LinkBild_": "RH_A_20-04-19",
           "Bildname": "ABB-P2-251",
           "Bildunterschriften_": "Stiftungs-Chefin Anetta Kahane. © Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)",
-          "Like-VorschlägeNamen_": "Die Super-Schweizer\nJuristenkomitee\nSVP Stadt Luzern\nSVP Kanton Schwyz\nFestungsmuseum Magletsch\nLandgasthaus Sonne, Haus der Freiheit\nMatthias C. Betsche\nLars Guggisberg\nalliance F\nFreie Landschaft Schweiz\nForum Demokratie und Menschenrechte\nPisten-Team Lenk Bergbahnen\nCVP Kanton Aargau\nSelbstbestimmungsinitiative\nJasmin Ursprung\nGina Kern, Nationalratskandidatin FDP\nSVP Wohlen-Anglikon\nSVP Rheintal\nSVP Pfäffikon ZH\nLeckerbissen aus Blocheristan\nDiagnose: Eidgenose\nAdrian Schoop\nNico Zobrist\nSVP Baselland\nHans-Ulrich Bigler\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nPatrick Räbmatter\nSVP Frauen\nSVP-Aarburg\nMartin Götzl\nOliver Imfeld\nSVP Bezirk Bremgarten AG\nSVP Emmental\nSchweizer Medienkritik - unzensiert\nBeat Risi AG\nSVP Stadt Thun\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Nidau\nSwiss Shooting Range\nLinth GegenWind\nJSVP Uri\nSVP Kanton Solothurn\nVerena Herzog\nThurgauer Zeitung\nSVP Kanton Zug\nJacqueline Fehr\nEnergiewende Schweiz\nWaffenrecht-Schengen JA\nLeuppi Samir\nBarbara Gysi, Nationalrätin SP\nExotis\nSwiss Liberation Army SLA\nStopp der KESB Willkür\nJunge SVP Graubünden\nShooter Style Lüscher Martin\nVimentis - Für die Zukunft der Schweiz\nSVP Gossau ZH\nSVP Ortspartei 5070 Frick\nSVP Stadt Olten\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nStopp-Tierleid\nTim Voser\nSVP Reinach\nSchwyzer Jungzüchter\nJunge Grünliberale Luzern\nJa zur Direkten Demokratie in der Schweiz am 25 November 2018\nMischabelhütte\nRons Wohnungen in Zürich\nCVP Kanton Luzern\nIrma Schwartz Immobilienmaklerin - Juristin\nJunge SVP Oberland-See\nLifeStyle Fotografie von James Graf\nHeimgartner AG\nKeine Heimat\nStiftung PWG\nAndreas Gerber\nDario Tobler\nCHSavannahs\nSchweizer Demokraten Stadt Bern\nHarrys Ding\nZiischtigsklub\nZüri isst\nDyhrberg AG\nSommerkonzerte Bäckeranlage\nSVP Hägendorf\nSVP Dübendorf\nSandro Wächter - SVP\nStadtsiedlung Reitmen, Schlieren\nSwiss Blues Brothers\nAGSV - Aargauer Schiesssportverband\nShopping-Raststätte Würenlos\nStolze Openair\nDana Shanti van Liath\nErstbezug.ch - das Onlineverzeichnis für Neubauprojekte in der Schweiz.\nReto Fischer, Einwohnerrat Buchs AG\nSVP Stadt Zug\nSVP Langnau\nJeffrey Ferpozzi\nKOSMOS\nSVP Buchs AG\nBody Effizienz Training, Aesthetik & Gesundheit\nUrex AG\nSVP Stadt Bern\nPetra Gössi\nSteuerverschwendung Reitschule Stadt Bern\nVier für‘s Underland\nJugendparlament Aargau\nSender\nFussballstadion JA\nDamian Müller\nFDP Zürich Wiedikon - Kreis 3\nAbschaffung der WAB Kurse\nGrand Café Lochergut\nOpenair Wipkingen\nKomitee „Weltoffenes Zürich“\nAna Hennessey Homes\nWerdinsel Openair\n18. Mai 2014 Ja zum Gripen Kampfjet\nPIERROCK\nWidder Garage\nJSVP Thurgau\nRöntgenplatzfest\nStadtsommer\nCafé Bar Nordbrücke\nMaja Riniker, Grossrätin\nHoudini Kino/Bar\nHaslital Bier\nCorinne Merk\nB in der Bäckeranlage\nRafael Wohlgemuth\nPiratenpartei Aargau\nSVP Baden\nSputnik - Kulturbuvette Wallisellen\nSCHUBI Weine\nSamuel Amsler AG\nIPA Region Ostschweiz und Fürstentum Liechtenstein\nZMB Zürcher Museums-Bahn\nSchweizer Kälbermästerverband\nLogistikbataillon 52\nFabian Molina\nDiana Stärkle\nGr DCA m 32 - M Flab Abt 32\nAm Damm für Dich\nrundfunk.fm\nWorld Nature Forum - Visitor Center Swiss Alps Jungfrau-Aletsch\nE-Voting-Moratorium\nELISABURG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "2.594\n773\n818\n754\n955\n1.002\n798\n2.089\n1.966\n4.265\n3.159\n1.546\n538\n4.982\n182\n254\n234\n250\n179\n1.246\n190\n1.639\n97\n557\n452\n172\n1.946\n96\n137\n412\n1.173\n197\n352\n447\n855\n1.008\n339\n307\n1.867\n315\n531\n3.085\n552\n2.504\n583\n7.162\n410\n767\n1.539\n536\n175\n524\n12.441\n593\n920\n5.088\n135\n105\n220\n2.422\n226\n64\n380\n1.617\n510\n166\n2.203\n4.678\n1.089\n801\n294\n221\n884\n238\n2.221\n358\n96\n232\n69\n14.237\n661\n15.592\n1.139\n1.894\n208\n53\n197\n633\n871\n380\n1.265\n6.429\n190\n2.449\n1.594\n422\n169\n207\n9.395\n144\n737\n48\n195\n3.983\n106\n100\n397\n2.729\n4.899\n2.44\n108\n2.181\n2.849\n3.966\n705\n119\n5.632\n571\n1.597\n6.492\n670\n1.621\n4.343\n4.018\n379\n5.172\n1.678\n523\n753\n134\n470\n271\n94\n671\n366\n557\n507\n400\n691\n4.785\n39\n575\n4.738\n14.328\n791\n230\n871\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "SVP Kanton Schwyz\nJasmin Ursprung\nNico Zobrist\nSVP Frauen\nMartin Götzl\nVerena Herzog",
-          "Like-VerzeichnisGefälltMir_": "755\n188\n100\n99\n413\n553"
+          "VorschlageNamen_": "Die Super-Schweizer\nJuristenkomitee\nSVP Stadt Luzern\nSVP Kanton Schwyz\nFestungsmuseum Magletsch\nLandgasthaus Sonne, Haus der Freiheit\nMatthias C. Betsche\nLars Guggisberg\nalliance F\nFreie Landschaft Schweiz\nForum Demokratie und Menschenrechte\nPisten-Team Lenk Bergbahnen\nCVP Kanton Aargau\nSelbstbestimmungsinitiative\nJasmin Ursprung\nGina Kern, Nationalratskandidatin FDP\nSVP Wohlen-Anglikon\nSVP Rheintal\nSVP Pfäffikon ZH\nLeckerbissen aus Blocheristan\nDiagnose: Eidgenose\nAdrian Schoop\nNico Zobrist\nSVP Baselland\nHans-Ulrich Bigler\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nPatrick Räbmatter\nSVP Frauen\nSVP-Aarburg\nMartin Götzl\nOliver Imfeld\nSVP Bezirk Bremgarten AG\nSVP Emmental\nSchweizer Medienkritik - unzensiert\nBeat Risi AG\nSVP Stadt Thun\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Nidau\nSwiss Shooting Range\nLinth GegenWind\nJSVP Uri\nSVP Kanton Solothurn\nVerena Herzog\nThurgauer Zeitung\nSVP Kanton Zug\nJacqueline Fehr\nEnergiewende Schweiz\nWaffenrecht-Schengen JA\nLeuppi Samir\nBarbara Gysi, Nationalrätin SP\nExotis\nSwiss Liberation Army SLA\nStopp der KESB Willkür\nJunge SVP Graubünden\nShooter Style Lüscher Martin\nVimentis - Für die Zukunft der Schweiz\nSVP Gossau ZH\nSVP Ortspartei 5070 Frick\nSVP Stadt Olten\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nStopp-Tierleid\nTim Voser\nSVP Reinach\nSchwyzer Jungzüchter\nJunge Grünliberale Luzern\nJa zur Direkten Demokratie in der Schweiz am 25 November 2018\nMischabelhütte\nRons Wohnungen in Zürich\nCVP Kanton Luzern\nIrma Schwartz Immobilienmaklerin - Juristin\nJunge SVP Oberland-See\nLifeStyle Fotografie von James Graf\nHeimgartner AG\nKeine Heimat\nStiftung PWG\nAndreas Gerber\nDario Tobler\nCHSavannahs\nSchweizer Demokraten Stadt Bern\nHarrys Ding\nZiischtigsklub\nZüri isst\nDyhrberg AG\nSommerkonzerte Bäckeranlage\nSVP Hägendorf\nSVP Dübendorf\nSandro Wächter - SVP\nStadtsiedlung Reitmen, Schlieren\nSwiss Blues Brothers\nAGSV - Aargauer Schiesssportverband\nShopping-Raststätte Würenlos\nStolze Openair\nDana Shanti van Liath\nErstbezug.ch - das Onlineverzeichnis für Neubauprojekte in der Schweiz.\nReto Fischer, Einwohnerrat Buchs AG\nSVP Stadt Zug\nSVP Langnau\nJeffrey Ferpozzi\nKOSMOS\nSVP Buchs AG\nBody Effizienz Training, Aesthetik & Gesundheit\nUrex AG\nSVP Stadt Bern\nPetra Gössi\nSteuerverschwendung Reitschule Stadt Bern\nVier für‘s Underland\nJugendparlament Aargau\nSender\nFussballstadion JA\nDamian Müller\nFDP Zürich Wiedikon - Kreis 3\nAbschaffung der WAB Kurse\nGrand Café Lochergut\nOpenair Wipkingen\nKomitee „Weltoffenes Zürich“\nAna Hennessey Homes\nWerdinsel Openair\n18. Mai 2014 Ja zum Gripen Kampfjet\nPIERROCK\nWidder Garage\nJSVP Thurgau\nRöntgenplatzfest\nStadtsommer\nCafé Bar Nordbrücke\nMaja Riniker, Grossrätin\nHoudini Kino/Bar\nHaslital Bier\nCorinne Merk\nB in der Bäckeranlage\nRafael Wohlgemuth\nPiratenpartei Aargau\nSVP Baden\nSputnik - Kulturbuvette Wallisellen\nSCHUBI Weine\nSamuel Amsler AG\nIPA Region Ostschweiz und Fürstentum Liechtenstein\nZMB Zürcher Museums-Bahn\nSchweizer Kälbermästerverband\nLogistikbataillon 52\nFabian Molina\nDiana Stärkle\nGr DCA m 32 - M Flab Abt 32\nAm Damm für Dich\nrundfunk.fm\nWorld Nature Forum - Visitor Center Swiss Alps Jungfrau-Aletsch\nE-Voting-Moratorium\nELISABURG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "2.594\n773\n818\n754\n955\n1.002\n798\n2.089\n1.966\n4.265\n3.159\n1.546\n538\n4.982\n182\n254\n234\n250\n179\n1.246\n190\n1.639\n97\n557\n452\n172\n1.946\n96\n137\n412\n1.173\n197\n352\n447\n855\n1.008\n339\n307\n1.867\n315\n531\n3.085\n552\n2.504\n583\n7.162\n410\n767\n1.539\n536\n175\n524\n12.441\n593\n920\n5.088\n135\n105\n220\n2.422\n226\n64\n380\n1.617\n510\n166\n2.203\n4.678\n1.089\n801\n294\n221\n884\n238\n2.221\n358\n96\n232\n69\n14.237\n661\n15.592\n1.139\n1.894\n208\n53\n197\n633\n871\n380\n1.265\n6.429\n190\n2.449\n1.594\n422\n169\n207\n9.395\n144\n737\n48\n195\n3.983\n106\n100\n397\n2.729\n4.899\n2.44\n108\n2.181\n2.849\n3.966\n705\n119\n5.632\n571\n1.597\n6.492\n670\n1.621\n4.343\n4.018\n379\n5.172\n1.678\n523\n753\n134\n470\n271\n94\n671\n366\n557\n507\n400\n691\n4.785\n39\n575\n4.738\n14.328\n791\n230\n871\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "SVP Kanton Schwyz\nJasmin Ursprung\nNico Zobrist\nSVP Frauen\nMartin Götzl\nVerena Herzog",
+          "VerzeichnisGefalltMir_": "755\n188\n100\n99\n413\n553"
         },
         {
           "Profil_": "P2",
@@ -12696,10 +12696,10 @@ var data =
           "LinkBild_": "RH_B_20-04-19",
           "Bildname": "ABB-P2-252",
           "Bildunterschriften_": "Brennendes Auto in Londonderry.FOTO: NIALL CARSON/PA WIRE/DPA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12719,10 +12719,10 @@ var data =
           "LinkBild_": "RH_C_20-04-19",
           "Bildname": "ABB-P2-253",
           "Bildunterschriften_": "Mit dem Bild des Messias am Kreuz wird zuweilen beinahe leichtfertig hantiert. Umso tiefer ist die Botschaft, die darin zu entdecken ist. (Bild: Elias / Morenatti / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12742,10 +12742,10 @@ var data =
           "LinkBild_": "RH_D_20-04-19",
           "Bildname": "ABB-P2-254",
           "Bildunterschriften_": "Das Bundesstrafgericht hat die Verlängerung der Untersuchungshaft für einen Terrorverdächtigen bestätigt. (Archivfoto) © KEYSTONE/TI-PRESS/ALESSANDRO CRINARI",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12765,10 +12765,10 @@ var data =
           "LinkBild_": "RH_E_20-04-19",
           "Bildname": "ABB-P2-255",
           "Bildunterschriften_": "Die Regierungsräte Marcel Schwerzmann (links) und Paul Winiker. (Bild: Jakob Ineichen, Luzern, 31. Mai 2016)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12788,10 +12788,10 @@ var data =
           "LinkBild_": "RH_F_20-04-19",
           "Bildname": "ABB-P2-256",
           "Bildunterschriften_": "Pirmasens: 1.400 Asylbewerber leben in der 40.000 Einwohner großen Stadt Foto: wikimedia.org/Dguendel/cc",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12811,10 +12811,10 @@ var data =
           "LinkBild_": "RH_G_20-04-19",
           "Bildname": "ABB-P2-257",
           "Bildunterschriften_": "Das Erstaufnahmezentrum Casa Torfeld in Buchs. (Archivbild) © Chris Iseli",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12834,10 +12834,10 @@ var data =
           "LinkBild_": "RH_H_20-04-19",
           "Bildname": "ABB-P2-258",
           "Bildunterschriften_": "Werner Salzmann ärgert sich über Mario Gattiker und spricht von Desinformation. © ky",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12857,10 +12857,10 @@ var data =
           "LinkBild_": "RH_I_20-04-19",
           "Bildname": "ABB-P2-259",
           "Bildunterschriften_": "Reto Nause (rechts), Berns Sicherheitsdirektor, im Gespräch mit Bundespräsident Ueli Maurer. © Keystone",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12880,10 +12880,10 @@ var data =
           "LinkBild_": "RH_J_20-04-19",
           "Bildname": "ABB-P2-260",
           "Bildunterschriften_": "Ein Hauch von Wall Street in Vaduz. (Bild: Annick Ramp / NZZ)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12903,10 +12903,10 @@ var data =
           "LinkBild_": "RH_A_21-04-19",
           "Bildname": "ABB-P2-261",
           "Bildunterschriften_": "Aktuellen Umfragen zufolge hat die Alternative für Deutschland in der Wählergunst zugelegt.Bild: Daniel Karmann / picture alliance / dpa",
-          "Like-VorschlägeNamen_": "Wilhelm Tell\nJSVP Entlebuch\nDie Super-Schweizer\nLeckerbissen aus Blocheristan\nForum Demokratie und Menschenrechte\nJunge SVP Basel-Stadt\nWaffenrecht-Schengen JA\nLandgasthaus Sonne, Haus der Freiheit\nSVP Stadt Luzern\nPolit-Stammtisch\nSVP Rheintal\nJunge SVP Kanton Schwyz\nSVP Stadt Zug\nJunge SVP Graubünden\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nOstschweizer Komitee\nSVP Pfäffikon ZH\nFreie Landschaft Schweiz\nSVP Wohlen-Anglikon\nSelbstbestimmungsinitiative\nMichael Frauchiger\nSVP Bezirk Bremgarten AG\nGina Kern, Nationalratskandidatin FDP\nSVP Nidau\nStopp der KESB Willkür\nSVP Stadt Thun\nSVP Baden\nJa zur Direkten Demokratie in der Schweiz am 25 November 2018\nalliance F\nSVP Kanton Solothurn\nVerena Herzog\nSchweizer Medienkritik - unzensiert\nJSVP Uri\nAndreas Gerber\nSwiss Liberation Army SLA\nAnja Keller-Fischer\nVimentis - Für die Zukunft der Schweiz\nJunge SVP Kreisverband Frutigen - Niedersimmental\nJeffrey Ferpozzi\nSVP Emmental\nSVP Kanton Zug\nSVP Reinach\nKeine Heimat\nSVP Baselland\nSVP Horgen\nSVP Langnau\nStiftung PWG\nZiischtigsklub\nRons Wohnungen in Zürich\nSVP Stadt Bern\nSVP Hägendorf\nStadtsiedlung Reitmen, Schlieren\nDiana Gutjahr\nCorinne Merk\nHarrys Ding\nPierre Alain Schnegg\nJunge SVP Oberland-See\nAGSV - Aargauer Schiesssportverband\nKOSMOS\nZüri isst\nSteuerverschwendung Reitschule Stadt Bern\nKampfsportschule Aarau - Karate, Qi Gong, Tai Chi, Yoga\nSender\nSchweizerischer Gewerbeverband sgv\nGrand Café Lochergut\nSommerkonzerte Bäckeranlage\nStolze Openair\nHoudini Kino/Bar\nSandro Wächter - SVP\nWidder Garage\nBenjamin Giezendanner\nFussballstadion JA\nOpenair Wipkingen\nAn unsere Regierung: Der Souverän sind wir\nCafé Bar Nordbrücke\nFDP Zürich Wiedikon - Kreis 3\nStadtsommer\nWerdinsel Openair\nrundfunk.fm\nHarry Kühn\nSVP Stadt Olten\npatriot.shop\nFilippo Leutenegger\nSozialhilfegesetz JA\nAm Damm für Dich\nJunge SVP Kanton Glarus\nEnergiewende Schweiz\nMeldezentrale für Eidgenossen\nAusstiegsinitiative NEIN\nSVP Nidwalden\nB in der Bäckeranlage\nOliver Imfeld\nSchnupf\nLars Guggisberg\nPatrick Räbmatter\nRafael Wohlgemuth\nJSVP Thurgau\nDaniel Jositsch\nDamian Müller\nELISABURG\nRöntgenplatzfest\nPisten-Team Lenk Bergbahnen\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nChallerer Dorfjugend\nJeanine Glarner, Grossrätin / Gemeinderätin\nHeimgartner AG\nCVP Kanton Luzern\nSVP-Aarburg\nSchwyzer Jungzüchter\nShooter Style Lüscher Martin\nIrma Schwartz Immobilienmaklerin - Juristin\nNZZ am Sonntag\nSP MigrantInnen St. Gallen\nZMB Zürcher Museums-Bahn\nAdrian Schoop\nBeat Risi AG\nBDP Kanton Luzern\nFreimaurer Museum Schweiz\nShopping-Raststätte Würenlos\nDer Bund\nDyhrberg AG\nSwiss Blues Brothers\nFDP Urban\nBody Effizienz Training, Aesthetik & Gesundheit\nSVP Toggenburg\nThierry Burkart, Nationalrat\nOorwurm Basel\nPetra Gössi\nStopp-Tierleid\nFabian Molina\nSP Töss\nErstbezug.ch - das Onlineverzeichnis für Neubauprojekte in der Schweiz.\nHaslital Bier\nAdrian Moser\nMaja Riniker, Grossrätin\nBossart Rolf\nLuana Flütsch\nKonzern-Initiative\nJa zum Rahmenabkommen mit der EU. Gegen Abschottung von rechts und links.\nSP Kanton Schwyz\nSCHUBI Weine\nSP Kanton Luzern\nJunge Grüne St.Gallen\nBerner Zeitung\nMechanisierte Brigade 11\nSVP Wahlkreis Entlebuch\nFahrzeugtreffen DVZO\nFDP.Die Liberalen Luzern\nGebirgsinfanteriebataillon 48\nDonat Kuratli St.Gallen Nationalratskandidat\nPrisca Koller Kantonsrätin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "797\n217\n2.594\n1.246\n3.159\n470\n818\n1.003\n819\n511\n252\n716\n422\n593\n172\n139\n179\n4.267\n235\n4.984\n146\n197\n256\n307\n12.436\n1.008\n270\n166\n1.967\n3.083\n552\n446\n531\n358\n524\n9\n5.089\n340\n207\n352\n583\n380\n238\n557\n78\n169\n2.229\n663\n4.678\n196\n208\n632\n1.054\n524\n14.234\n2.25\n294\n380\n9.399\n15.595\n106\n3.961\n2.733\n9.441\n2.848\n1.895\n6.427\n5.174\n197\n6.496\n2.958\n4.898\n3.969\n1.342\n4.019\n107\n4.344\n5.632\n14.332\n73\n220\n6.109\n7.958\n224\n4.742\n473\n410\n478\n4.189\n499\n752\n1.173\n1.184\n2.089\n1.946\n134\n670\n6.787\n2.44\n872\n1.62\n1.548\n2.42\n118\n432\n884\n1.089\n137\n1.617\n920\n801\n7.121\n519\n508\n1.639\n855\n381\n154\n1.265\n6.207\n1.14\n871\n255\n737\n548\n5.753\n1.319\n3.98\n226\n4.787\n307\n2.449\n1.688\n119\n379\n156\n2.719\n16.5\n226\n403\n671\n2.371\n417\n13.931\n2.173\n117\n1.037\n604\n1.089\n678\n884\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "JSVP Entlebuch\nJunge SVP Basel-Stadt\nJunge SVP Kanton Schwyz\nMichael Frauchiger\nJa zur direkten Demokratie in der Schweiz\nKeine Heimat",
-          "Like-VerzeichnisGefälltMir_": "218\n471\n717\n147\n165\n238"
+          "VorschlageNamen_": "Wilhelm Tell\nJSVP Entlebuch\nDie Super-Schweizer\nLeckerbissen aus Blocheristan\nForum Demokratie und Menschenrechte\nJunge SVP Basel-Stadt\nWaffenrecht-Schengen JA\nLandgasthaus Sonne, Haus der Freiheit\nSVP Stadt Luzern\nPolit-Stammtisch\nSVP Rheintal\nJunge SVP Kanton Schwyz\nSVP Stadt Zug\nJunge SVP Graubünden\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nOstschweizer Komitee\nSVP Pfäffikon ZH\nFreie Landschaft Schweiz\nSVP Wohlen-Anglikon\nSelbstbestimmungsinitiative\nMichael Frauchiger\nSVP Bezirk Bremgarten AG\nGina Kern, Nationalratskandidatin FDP\nSVP Nidau\nStopp der KESB Willkür\nSVP Stadt Thun\nSVP Baden\nJa zur Direkten Demokratie in der Schweiz am 25 November 2018\nalliance F\nSVP Kanton Solothurn\nVerena Herzog\nSchweizer Medienkritik - unzensiert\nJSVP Uri\nAndreas Gerber\nSwiss Liberation Army SLA\nAnja Keller-Fischer\nVimentis - Für die Zukunft der Schweiz\nJunge SVP Kreisverband Frutigen - Niedersimmental\nJeffrey Ferpozzi\nSVP Emmental\nSVP Kanton Zug\nSVP Reinach\nKeine Heimat\nSVP Baselland\nSVP Horgen\nSVP Langnau\nStiftung PWG\nZiischtigsklub\nRons Wohnungen in Zürich\nSVP Stadt Bern\nSVP Hägendorf\nStadtsiedlung Reitmen, Schlieren\nDiana Gutjahr\nCorinne Merk\nHarrys Ding\nPierre Alain Schnegg\nJunge SVP Oberland-See\nAGSV - Aargauer Schiesssportverband\nKOSMOS\nZüri isst\nSteuerverschwendung Reitschule Stadt Bern\nKampfsportschule Aarau - Karate, Qi Gong, Tai Chi, Yoga\nSender\nSchweizerischer Gewerbeverband sgv\nGrand Café Lochergut\nSommerkonzerte Bäckeranlage\nStolze Openair\nHoudini Kino/Bar\nSandro Wächter - SVP\nWidder Garage\nBenjamin Giezendanner\nFussballstadion JA\nOpenair Wipkingen\nAn unsere Regierung: Der Souverän sind wir\nCafé Bar Nordbrücke\nFDP Zürich Wiedikon - Kreis 3\nStadtsommer\nWerdinsel Openair\nrundfunk.fm\nHarry Kühn\nSVP Stadt Olten\npatriot.shop\nFilippo Leutenegger\nSozialhilfegesetz JA\nAm Damm für Dich\nJunge SVP Kanton Glarus\nEnergiewende Schweiz\nMeldezentrale für Eidgenossen\nAusstiegsinitiative NEIN\nSVP Nidwalden\nB in der Bäckeranlage\nOliver Imfeld\nSchnupf\nLars Guggisberg\nPatrick Räbmatter\nRafael Wohlgemuth\nJSVP Thurgau\nDaniel Jositsch\nDamian Müller\nELISABURG\nRöntgenplatzfest\nPisten-Team Lenk Bergbahnen\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nChallerer Dorfjugend\nJeanine Glarner, Grossrätin / Gemeinderätin\nHeimgartner AG\nCVP Kanton Luzern\nSVP-Aarburg\nSchwyzer Jungzüchter\nShooter Style Lüscher Martin\nIrma Schwartz Immobilienmaklerin - Juristin\nNZZ am Sonntag\nSP MigrantInnen St. Gallen\nZMB Zürcher Museums-Bahn\nAdrian Schoop\nBeat Risi AG\nBDP Kanton Luzern\nFreimaurer Museum Schweiz\nShopping-Raststätte Würenlos\nDer Bund\nDyhrberg AG\nSwiss Blues Brothers\nFDP Urban\nBody Effizienz Training, Aesthetik & Gesundheit\nSVP Toggenburg\nThierry Burkart, Nationalrat\nOorwurm Basel\nPetra Gössi\nStopp-Tierleid\nFabian Molina\nSP Töss\nErstbezug.ch - das Onlineverzeichnis für Neubauprojekte in der Schweiz.\nHaslital Bier\nAdrian Moser\nMaja Riniker, Grossrätin\nBossart Rolf\nLuana Flütsch\nKonzern-Initiative\nJa zum Rahmenabkommen mit der EU. Gegen Abschottung von rechts und links.\nSP Kanton Schwyz\nSCHUBI Weine\nSP Kanton Luzern\nJunge Grüne St.Gallen\nBerner Zeitung\nMechanisierte Brigade 11\nSVP Wahlkreis Entlebuch\nFahrzeugtreffen DVZO\nFDP.Die Liberalen Luzern\nGebirgsinfanteriebataillon 48\nDonat Kuratli St.Gallen Nationalratskandidat\nPrisca Koller Kantonsrätin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "797\n217\n2.594\n1.246\n3.159\n470\n818\n1.003\n819\n511\n252\n716\n422\n593\n172\n139\n179\n4.267\n235\n4.984\n146\n197\n256\n307\n12.436\n1.008\n270\n166\n1.967\n3.083\n552\n446\n531\n358\n524\n9\n5.089\n340\n207\n352\n583\n380\n238\n557\n78\n169\n2.229\n663\n4.678\n196\n208\n632\n1.054\n524\n14.234\n2.25\n294\n380\n9.399\n15.595\n106\n3.961\n2.733\n9.441\n2.848\n1.895\n6.427\n5.174\n197\n6.496\n2.958\n4.898\n3.969\n1.342\n4.019\n107\n4.344\n5.632\n14.332\n73\n220\n6.109\n7.958\n224\n4.742\n473\n410\n478\n4.189\n499\n752\n1.173\n1.184\n2.089\n1.946\n134\n670\n6.787\n2.44\n872\n1.62\n1.548\n2.42\n118\n432\n884\n1.089\n137\n1.617\n920\n801\n7.121\n519\n508\n1.639\n855\n381\n154\n1.265\n6.207\n1.14\n871\n255\n737\n548\n5.753\n1.319\n3.98\n226\n4.787\n307\n2.449\n1.688\n119\n379\n156\n2.719\n16.5\n226\n403\n671\n2.371\n417\n13.931\n2.173\n117\n1.037\n604\n1.089\n678\n884\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "JSVP Entlebuch\nJunge SVP Basel-Stadt\nJunge SVP Kanton Schwyz\nMichael Frauchiger\nJa zur direkten Demokratie in der Schweiz\nKeine Heimat",
+          "VerzeichnisGefalltMir_": "218\n471\n717\n147\n165\n238"
         },
         {
           "Profil_": "P2",
@@ -12926,10 +12926,10 @@ var data =
           "LinkBild_": "RH_B_21-04-19",
           "Bildname": "ABB-P2-262",
           "Bildunterschriften_": "Linksgerichtete Studenten: Mit Klatsch- und Sprechchören unliebsame Thesen niederbrüllen Foto: dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12949,10 +12949,10 @@ var data =
           "LinkBild_": "RH_C_21-04-19",
           "Bildname": "ABB-P2-263",
           "Bildunterschriften_": "Widerstand gegen Klima-Greta, AfD und Säuberungen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12972,10 +12972,10 @@ var data =
           "LinkBild_": "RH_D_21-04-19",
           "Bildname": "ABB-P2-264",
           "Bildunterschriften_": "EU-Kommissionspräsident Jean-Claude Juncker will gegen Falschnachrichten während der Europawahl vorgehen. (Archivbild)\nBild: KEYSTONE/EPA/PATRICK SEEGER",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -12995,10 +12995,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-265",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13018,10 +13018,10 @@ var data =
           "LinkBild_": "RH_F_21-04-19",
           "Bildname": "ABB-P2-266",
           "Bildunterschriften_": "Schengen ist nicht in Gefahr.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13041,10 +13041,10 @@ var data =
           "LinkBild_": "RH_G_21-04-19",
           "Bildname": "ABB-P2-267",
           "Bildunterschriften_": "Unter Angela Merkel geht von dieser Regierung kaum noch Bewegung aus / picture alliance",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13064,10 +13064,10 @@ var data =
           "LinkBild_": "RH_H_21-04-19",
           "Bildname": "ABB-P2-268",
           "Bildunterschriften_": "Toni Brunner zu seiner Funktion als Wahlkampfleiter der SVP für die nationalen Wahlen.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13087,10 +13087,10 @@ var data =
           "LinkBild_": "RH_I_21-04-19",
           "Bildname": "ABB-P2-269",
           "Bildunterschriften_": "Keine höheren Arbeitslosengelder für EU-Grenzgänger!",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13110,10 +13110,10 @@ var data =
           "LinkBild_": "RH_J_21-04-19",
           "Bildname": "ABB-P2-270",
           "Bildunterschriften_": "Die Schweiz stimmt im Mai über ein neues Waffenrecht ab. (Bild: Adrien Perritaz / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13133,10 +13133,10 @@ var data =
           "LinkBild_": "RH_A_22-04-19",
           "Bildname": "ABB-P2-271",
           "Bildunterschriften_": "Asylsuchende auf dem Weg zum Asylzentrum in Schafhausen im Emmental. Foto: Peter Schneider (Keystone)",
-          "Like-VorschlägeNamen_": "Wilhelm Tell\nSVP Reinach\nSVP Stadt Luzern\nLandgasthaus Sonne, Haus der Freiheit\nSVP Gossau ZH\nSVP Stadt Zug\nSchweizer Medienkritik - unzensiert\nPolit-Stammtisch\nJunge SVP Graubünden\nForum Demokratie und Menschenrechte\nJunge SVP Oberland-See\nFreie Landschaft Schweiz\nSVP der Stadt Solothurn\nJSVP Uri\nSVP Rheintal\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nWaffenrecht-Schengen JA\nSVP Stadt Thun\nFDP.Die Liberalen Winterthur\nSVP Wohlen-Anglikon\nLeckerbissen aus Blocheristan\nSelbstbestimmungsinitiative\nSP Kanton Schwyz\nSVP Bezirk Bremgarten AG\nSVP Nidau\nSVP Baden\nSVP Kanton Solothurn\nStopp der KESB Willkür\nSVP Pfäffikon ZH\nDiana Gutjahr\nGina Kern, Nationalratskandidatin FDP\nSVP Kanton Zug\nSVP Hägendorf\nVimentis - Für die Zukunft der Schweiz\nSwiss Liberation Army SLA\nAnja Keller-Fischer\nAdrian Schoop\nCorinne Merk\nSVP Wahlkreis Entlebuch\nJSVP Thurgau\nDiagnose: Eidgenose\nJeffrey Ferpozzi\nSVP Stadt Bern\nSVP Langnau\nStiftung PWG\nEnergiewende Schweiz\nZiischtigsklub\nRons Wohnungen in Zürich\nStadtsiedlung Reitmen, Schlieren\nSVP Baselland\nSteuerverschwendung Reitschule Stadt Bern\nSVP Nidwalden\nHarrys Ding\nSandro Wächter - SVP\nAusstiegsinitiative NEIN\nKOSMOS\nSVP Stadt Olten\nZüri isst\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Emmental\nGrand Café Lochergut\nSender\nSchweizerischer Gewerbeverband sgv\nStolze Openair\nUrex AG\nHoudini Kino/Bar\nSommerkonzerte Bäckeranlage\nWidder Garage\nJunge SVP Kanton Glarus\nDie Super-Schweizer\nAndreas Gerber\nOstschweizer Komitee\nCafé Bar Nordbrücke\nFussballstadion JA\nAn unsere Regierung: Der Souverän sind wir\nOpenair Wipkingen\nFDP Kanton Zürich\nFDP Bezirk Affoltern\nForum Flugplatz Dübendorf\nStadtsommer\nrundfunk.fm\nHarry Kühn\nWerdinsel Openair\nBenjamin Giezendanner\npatriot.shop\nAm Damm für Dich\nPierre Alain Schnegg\nFDP Zürich Wiedikon - Kreis 3\nFilippo Leutenegger\nThomas Obermayer\nSchnupf\nMeldezentrale für Eidgenossen\nB in der Bäckeranlage\nRafael Wohlgemuth\nPatrick Räbmatter\nELISABURG\nRöntgenplatzfest\nSVP Bauma\nThierry Burkart, Nationalrat\nChallerer Dorfjugend\nPisten-Team Lenk Bergbahnen\nJUSO Aargau\nGrünliberale Zürich\nThomas Schärli\nHeimgartner AG\nCédric Wermuth\nSwiss Jackson\nNapfruugger Romoos\nPriska Seiler Graf - Nationalrätin\nWillisauer Bote\nAnita Steiner Kommunikation\nMarcel Dettling\nPeter Barmettler Fahrzeuge & Service\npowerplanes.ch\nSchwyzer Jungzüchter\nRüdigchönner Flühli\nAGSV - Aargauer Schiesssportverband\nJungfreisinnige Graubünden\nIrma Schwartz Immobilienmaklerin - Juristin\nSVP Toggenburg\nBeat Risi AG\nRed Lions Reinach\nJungfreisinnige Stadt Zürich (JFZ)\nCVP Kanton Schwyz\nShopping-Raststätte Würenlos\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nZigermeet\nCVP Kanton Luzern\nPetra Gössi\nDyhrberg AG\nFilmzimmer.ch\nNadine Masshardt\neishockeyticker.ch\nGelmerhütte SAC\nGrüne Kanton Bern - Verts canton de Berne\nPz Sap Bat 11\nMaja Riniker, Grossrätin\nSwiss Blues Brothers\nDieter Haller Politiker\nWebseiten Webshops\nBody Effizienz Training, Aesthetik & Gesundheit\nPatricia Seidl\nMidland V8 Driver\nJungliberale Basel\nKomitee „Weltoffenes Zürich“\nHaslital Bier\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "797\n380\n819\n1.003\n135\n422\n446\n511\n593\n3.159\n294\n4.267\n148\n531\n252\n172\n820\n1.008\n488\n235\n1.246\n4.984\n403\n197\n307\n270\n3.083\n12.436\n179\n1.053\n256\n583\n208\n5.089\n524\n9\n1.639\n524\n117\n670\n190\n207\n196\n169\n2.229\n410\n663\n4.678\n632\n557\n106\n499\n14.234\n197\n4.189\n9.4\n220\n15.596\n340\n352\n2.848\n2.733\n9.441\n6.427\n49\n5.174\n1.895\n6.496\n473\n2.594\n358\n139\n4.019\n4.898\n1.342\n3.97\n1.655\n495\n618\n4.344\n14.332\n73\n5.632\n2.958\n6.109\n4.742\n2.25\n107\n7.958\n625\n1.184\n478\n752\n134\n1.946\n872\n1.62\n434\n5.753\n118\n1.548\n648\n678\n461\n884\n13.383\n479\n501\n381\n4.085\n821\n609\n685\n2.288\n1.617\n274\n380\n581\n801\n548\n855\n405\n879\n236\n1.265\n2.42\n2.563\n1.089\n3.98\n1.14\n425\n2.139\n4.889\n1.02\n1.044\n686\n379\n871\n349\n349\n737\n1.245\n1.777\n508\n706\n1.688\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "SVP Reinach\nSVP Stadt Luzern\nDiana Gutjahr\nCorinne Merk\nJeffrey Ferpozzi\nSteuerverschwendung Reitschule Stadt Bern",
-          "Like-VerzeichnisGefälltMir_": "382\n820\n1.056\n526\n208\n107"
+          "VorschlageNamen_": "Wilhelm Tell\nSVP Reinach\nSVP Stadt Luzern\nLandgasthaus Sonne, Haus der Freiheit\nSVP Gossau ZH\nSVP Stadt Zug\nSchweizer Medienkritik - unzensiert\nPolit-Stammtisch\nJunge SVP Graubünden\nForum Demokratie und Menschenrechte\nJunge SVP Oberland-See\nFreie Landschaft Schweiz\nSVP der Stadt Solothurn\nJSVP Uri\nSVP Rheintal\n2019 nicht mehr gewählt werden Kurt Fluri FDP SO\nWaffenrecht-Schengen JA\nSVP Stadt Thun\nFDP.Die Liberalen Winterthur\nSVP Wohlen-Anglikon\nLeckerbissen aus Blocheristan\nSelbstbestimmungsinitiative\nSP Kanton Schwyz\nSVP Bezirk Bremgarten AG\nSVP Nidau\nSVP Baden\nSVP Kanton Solothurn\nStopp der KESB Willkür\nSVP Pfäffikon ZH\nDiana Gutjahr\nGina Kern, Nationalratskandidatin FDP\nSVP Kanton Zug\nSVP Hägendorf\nVimentis - Für die Zukunft der Schweiz\nSwiss Liberation Army SLA\nAnja Keller-Fischer\nAdrian Schoop\nCorinne Merk\nSVP Wahlkreis Entlebuch\nJSVP Thurgau\nDiagnose: Eidgenose\nJeffrey Ferpozzi\nSVP Stadt Bern\nSVP Langnau\nStiftung PWG\nEnergiewende Schweiz\nZiischtigsklub\nRons Wohnungen in Zürich\nStadtsiedlung Reitmen, Schlieren\nSVP Baselland\nSteuerverschwendung Reitschule Stadt Bern\nSVP Nidwalden\nHarrys Ding\nSandro Wächter - SVP\nAusstiegsinitiative NEIN\nKOSMOS\nSVP Stadt Olten\nZüri isst\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Emmental\nGrand Café Lochergut\nSender\nSchweizerischer Gewerbeverband sgv\nStolze Openair\nUrex AG\nHoudini Kino/Bar\nSommerkonzerte Bäckeranlage\nWidder Garage\nJunge SVP Kanton Glarus\nDie Super-Schweizer\nAndreas Gerber\nOstschweizer Komitee\nCafé Bar Nordbrücke\nFussballstadion JA\nAn unsere Regierung: Der Souverän sind wir\nOpenair Wipkingen\nFDP Kanton Zürich\nFDP Bezirk Affoltern\nForum Flugplatz Dübendorf\nStadtsommer\nrundfunk.fm\nHarry Kühn\nWerdinsel Openair\nBenjamin Giezendanner\npatriot.shop\nAm Damm für Dich\nPierre Alain Schnegg\nFDP Zürich Wiedikon - Kreis 3\nFilippo Leutenegger\nThomas Obermayer\nSchnupf\nMeldezentrale für Eidgenossen\nB in der Bäckeranlage\nRafael Wohlgemuth\nPatrick Räbmatter\nELISABURG\nRöntgenplatzfest\nSVP Bauma\nThierry Burkart, Nationalrat\nChallerer Dorfjugend\nPisten-Team Lenk Bergbahnen\nJUSO Aargau\nGrünliberale Zürich\nThomas Schärli\nHeimgartner AG\nCédric Wermuth\nSwiss Jackson\nNapfruugger Romoos\nPriska Seiler Graf - Nationalrätin\nWillisauer Bote\nAnita Steiner Kommunikation\nMarcel Dettling\nPeter Barmettler Fahrzeuge & Service\npowerplanes.ch\nSchwyzer Jungzüchter\nRüdigchönner Flühli\nAGSV - Aargauer Schiesssportverband\nJungfreisinnige Graubünden\nIrma Schwartz Immobilienmaklerin - Juristin\nSVP Toggenburg\nBeat Risi AG\nRed Lions Reinach\nJungfreisinnige Stadt Zürich (JFZ)\nCVP Kanton Schwyz\nShopping-Raststätte Würenlos\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nZigermeet\nCVP Kanton Luzern\nPetra Gössi\nDyhrberg AG\nFilmzimmer.ch\nNadine Masshardt\neishockeyticker.ch\nGelmerhütte SAC\nGrüne Kanton Bern - Verts canton de Berne\nPz Sap Bat 11\nMaja Riniker, Grossrätin\nSwiss Blues Brothers\nDieter Haller Politiker\nWebseiten Webshops\nBody Effizienz Training, Aesthetik & Gesundheit\nPatricia Seidl\nMidland V8 Driver\nJungliberale Basel\nKomitee „Weltoffenes Zürich“\nHaslital Bier\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "797\n380\n819\n1.003\n135\n422\n446\n511\n593\n3.159\n294\n4.267\n148\n531\n252\n172\n820\n1.008\n488\n235\n1.246\n4.984\n403\n197\n307\n270\n3.083\n12.436\n179\n1.053\n256\n583\n208\n5.089\n524\n9\n1.639\n524\n117\n670\n190\n207\n196\n169\n2.229\n410\n663\n4.678\n632\n557\n106\n499\n14.234\n197\n4.189\n9.4\n220\n15.596\n340\n352\n2.848\n2.733\n9.441\n6.427\n49\n5.174\n1.895\n6.496\n473\n2.594\n358\n139\n4.019\n4.898\n1.342\n3.97\n1.655\n495\n618\n4.344\n14.332\n73\n5.632\n2.958\n6.109\n4.742\n2.25\n107\n7.958\n625\n1.184\n478\n752\n134\n1.946\n872\n1.62\n434\n5.753\n118\n1.548\n648\n678\n461\n884\n13.383\n479\n501\n381\n4.085\n821\n609\n685\n2.288\n1.617\n274\n380\n581\n801\n548\n855\n405\n879\n236\n1.265\n2.42\n2.563\n1.089\n3.98\n1.14\n425\n2.139\n4.889\n1.02\n1.044\n686\n379\n871\n349\n349\n737\n1.245\n1.777\n508\n706\n1.688\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "SVP Reinach\nSVP Stadt Luzern\nDiana Gutjahr\nCorinne Merk\nJeffrey Ferpozzi\nSteuerverschwendung Reitschule Stadt Bern",
+          "VerzeichnisGefalltMir_": "382\n820\n1.056\n526\n208\n107"
         },
         {
           "Profil_": "P2",
@@ -13156,10 +13156,10 @@ var data =
           "LinkBild_": "RH_B_22-04-19",
           "Bildname": "ABB-P2-272",
           "Bildunterschriften_": "Colombo: Nach der Identifizierung eines Verwandten, der Opfer der Anschlagsserie am Ostersonntag wurde, verlässt ein sri-lankisches Paar trauernd eine Leichenhalle. Eranga Jayawardena/AP/dpa",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13179,10 +13179,10 @@ var data =
           "LinkBild_": "RH_C_22-04-19",
           "Bildname": "ABB-P2-273",
           "Bildunterschriften_": "Auch mehrere Luxus-Hotels wurden von Explosionen erschüttert. Im Bild das Shangri-La in Colombo. Bild: AP",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13202,10 +13202,10 @@ var data =
           "LinkBild_": "RH_D_22-04-19",
           "Bildname": "ABB-P2-274",
           "Bildunterschriften_": "Schafft Christoph Mörgeli das Comeback?\n©KEYSTONE/ALESSANDRO DELLA VALLE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13225,10 +13225,10 @@ var data =
           "LinkBild_": "RH_E_22-04-19",
           "Bildname": "ABB-P2-275",
           "Bildunterschriften_": "Quelle: RT",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13248,10 +13248,10 @@ var data =
           "LinkBild_": "RH_F_22-04-19",
           "Bildname": "ABB-P2-276",
           "Bildunterschriften_": "SIcherheitskräfte durchsuchen eine Kirche in Colombo: Dutzenden Menschen sterben bei Anschlagsserie Foto: picture alliance / AA",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13271,10 +13271,10 @@ var data =
           "LinkBild_": "RH_G_22-04-19",
           "Bildname": "ABB-P2-277",
           "Bildunterschriften_": "Schengen und das Schweizer Waffenrecht.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13294,10 +13294,10 @@ var data =
           "LinkBild_": "RH_H_22-04-19",
           "Bildname": "ABB-P2-278",
           "Bildunterschriften_": "Aus der Wandelhalle des Bundeshauses ist Toni Brunner abgereist, ein bisschen Politik macht er nur noch in St. Gallen. (Bild: Peter Klaunzer / Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13317,10 +13317,10 @@ var data =
           "LinkBild_": "RH_I_22-04-19",
           "Bildname": "ABB-P2-279",
           "Bildunterschriften_": "Undated file photo of Libyan Army Chief General Khalifa Haftar in Tripoli, Libya. Photo by Balkis Press/ABACAPRESS.COM",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13340,10 +13340,10 @@ var data =
           "LinkBild_": "RH_J_22-04-19",
           "Bildname": "ABB-P2-280",
           "Bildunterschriften_": "© Landmark Media/ImageCollect",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13363,10 +13363,10 @@ var data =
           "LinkBild_": "RH_A_23-04-19",
           "Bildname": "ABB-P2-281",
           "Bildunterschriften_": "Symbolbild: Kapo TG)",
-          "Like-VorschlägeNamen_": "Peter Barmettler Fahrzeuge & Service\nWilhelm Tell\nVerein Pendelzug Mirage - VPM\nSVP Region Imboden\nSVP Muttenz\nSVP Kriens\nDominik Dummermuth\nDie Super-Schweizer\nSVP Udligenswil\nSVP Stadt Zug\nSVP Breitenbach\nFDP Schaffhausen\nAxel McFoley\nBauteam 05 GmbH\nSLRG Sektion Basel\nFliegendruck\nSVP Schwarzbubenland\nFDP Reinach BL\nChristian Kast - öffentliches Profil\nSchweizer Medienkritik - unzensiert\nJunge SVP Graubünden\n2022 Wählen wir Bürgerlich SVP UDC Bern\nJunge SVP Kanton Glarus\nSVP Bezirk Meilen\nLeckerbissen aus Blocheristan\nSVP Emmental\nSVP Rheintal\nTeleblocher\nSVP Pfäffikon ZH\nOliver Imfeld\nSVP Nidau\nJSVP Uri\nSVP Bezirk Bremgarten AG\nSVP Kanton Zug\nCVP Kanton Luzern\nDaniel Jositsch\nForum Demokratie und Menschenrechte\nPolit-Stammtisch\nSVP Stadt Thun\nGrüne Kanton Bern - Verts canton de Berne\nFaire Sozialhilfe\nSVP Hägendorf\nSVP Wohlen-Anglikon\nLandgasthaus Sonne, Haus der Freiheit\nSelbstbestimmungsinitiative\nSVP Stadt Bern\nAndreas Gerber\nFDP Zürich Wiedikon - Kreis 3\nWaffenrecht-Schengen JA\nCVP Kanton Zürich\nVollgeldinitiative NEIN\nPetra Gössi\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nJustiz-Initiative\nOstschweizer Komitee\nSVP Baselland\nThomas Schärli\nAfricancouncil Switzerland\nJunge SVP Kreisverband Frutigen - Niedersimmental\nEnergiewende Schweiz\npatriot.v2\nDiagnose: Eidgenose\nFabian Molina\nMichael Töngi\nChallerer Dorfjugend\nFreie Landschaft Schweiz\nAnonymous )CH(\nStopp der KESB Willkür\nSVP Kanton Solothurn\nIG Stiller\nSVP Bezirk Zofingen\nBürgervereinigung Maulburg\nJuso Oberaargau\nSVP Nidwalden\nFDP.Die Liberalen Kanton Thurgau\nJSVP Thurgau\nSVP Eschenbach SG\nSVP Langnau\nOja Schwamendingen\nBDP Kanton Bern\nFürstenland Forum\nRons Wohnungen in Zürich\nJunge SVP Oberland-See\nBürgerlicher Zusammenschluss Gelterkinden BZG\nStadtsiedlung Reitmen, Schlieren\nZiischtigsklub\nFDP.Die Liberalen St.Gallen\nAfdS - Alternative für die Schweiz\nStiftung PWG\nRüdigchönner Flühli\nWidder Garage\nJUSO Köniz\nGrünliberale Partei Kanton Luzern\nHarrys Ding\nSusanne Brunner\nAn unsere Regierung: Der Souverän sind wir\nThun für alle\nAfD Schweiz\nDaniel H. Bar\nE-Voting-Moratorium\nSVP Biel / UDC Bienne (official)\nKOSMOS\nGegen Tempo 30 kmh Hohlestrasse 3123 Belp\nKulturkeller Gerbestock\nSP Thurgau\nSVP Morschach SZ\nSandro Wächter - SVP\nSommerkonzerte Bäckeranlage\nZüri isst\nElektrowicklerei Zaugg Theodor\nSVP Ortspartei Brugg\nStolze Openair\nSVP Baden\nStadtteilsekretariat Basel-West\nSender\nrundfunk.fm\nHoudini Kino/Bar\nOpenair Wipkingen\nFussballstadion JA\nCafé Bar Nordbrücke\nPiratenpartei Aargau\nSVP Utzenstorf\n21 Clan Zürich\nLungenliga\nStadtsommer\nWerdinsel Openair\nSchweizer Armee\nKaufmännischer Verband (Bern)\nSchweizerischer Gewerbeverband sgv\nFilippo Leutenegger\nAm Damm für Dich\npatriot.shop\nB in der Bäckeranlage\nSVP Bassersdorf\nSVP Stadt Olten\nBööggenzunft Bözingen\nSchnupf\nPro Infirmis\nSVP Frauen Kanton Solothurn\nHirslanden Salem-Spital\nFDP Bezirk Affoltern\nSVP Emmen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "685\n798\n850\n208\n245\n323\n229\n2.593\n211\n422\n169\n288\n10\n67\n277\n267\n117\n98\n124\n446\n593\n152\n473\n248\n1.249\n352\n253\n1.316\n179\n1.173\n307\n531\n199\n583\n1.089\n6.787\n3.158\n511\n1.008\n1.045\n220\n208\n235\n1.004\n4.984\n196\n358\n107\n828\n382\n391\n3.986\n2.419\n121\n141\n557\n461\n1.467\n340\n410\n651\n190\n4.787\n444\n120\n4.268\n25\n12.436\n3.081\n281\n444\n3\n317\n499\n762\n670\n42\n169\n988\n438\n114\n4.682\n294\n144\n632\n665\n822\n33\n2.231\n274\n6.495\n126\n226\n14.235\n662\n1.341\n921\n74\n3.721\n8\n295\n9.402\n233\n197\n508\n184\n197\n1.896\n15.6\n69\n291\n6.428\n270\n184\n2.733\n14.332\n5.174\n3.971\n4.9\n4.019\n471\n427\n966\n2.382\n4.346\n5.633\n5.709\n734\n9.439\n7.956\n4.745\n6.109\n752\n141\n220\n146\n1.184\n17.057\n637\n584\n495\n711\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "SVP Region Imboden\nDominik Dummermuth\nSVP Stadt Zug\n2022 Wählen wir bürgerlich SVP UDC Bern\nSVP Bezirk Bremgarten AG\nOliver Imfeld\npatriot.v2",
-          "Like-VerzeichnisGefälltMir_": "209\n231\n422\n153\n200\n1.174\n651"
+          "VorschlageNamen_": "Peter Barmettler Fahrzeuge & Service\nWilhelm Tell\nVerein Pendelzug Mirage - VPM\nSVP Region Imboden\nSVP Muttenz\nSVP Kriens\nDominik Dummermuth\nDie Super-Schweizer\nSVP Udligenswil\nSVP Stadt Zug\nSVP Breitenbach\nFDP Schaffhausen\nAxel McFoley\nBauteam 05 GmbH\nSLRG Sektion Basel\nFliegendruck\nSVP Schwarzbubenland\nFDP Reinach BL\nChristian Kast - öffentliches Profil\nSchweizer Medienkritik - unzensiert\nJunge SVP Graubünden\n2022 Wählen wir Bürgerlich SVP UDC Bern\nJunge SVP Kanton Glarus\nSVP Bezirk Meilen\nLeckerbissen aus Blocheristan\nSVP Emmental\nSVP Rheintal\nTeleblocher\nSVP Pfäffikon ZH\nOliver Imfeld\nSVP Nidau\nJSVP Uri\nSVP Bezirk Bremgarten AG\nSVP Kanton Zug\nCVP Kanton Luzern\nDaniel Jositsch\nForum Demokratie und Menschenrechte\nPolit-Stammtisch\nSVP Stadt Thun\nGrüne Kanton Bern - Verts canton de Berne\nFaire Sozialhilfe\nSVP Hägendorf\nSVP Wohlen-Anglikon\nLandgasthaus Sonne, Haus der Freiheit\nSelbstbestimmungsinitiative\nSVP Stadt Bern\nAndreas Gerber\nFDP Zürich Wiedikon - Kreis 3\nWaffenrecht-Schengen JA\nCVP Kanton Zürich\nVollgeldinitiative NEIN\nPetra Gössi\nAutoverwertung Truninger AG - Autorecycling & Ersatzteile\nJustiz-Initiative\nOstschweizer Komitee\nSVP Baselland\nThomas Schärli\nAfricancouncil Switzerland\nJunge SVP Kreisverband Frutigen - Niedersimmental\nEnergiewende Schweiz\npatriot.v2\nDiagnose: Eidgenose\nFabian Molina\nMichael Töngi\nChallerer Dorfjugend\nFreie Landschaft Schweiz\nAnonymous )CH(\nStopp der KESB Willkür\nSVP Kanton Solothurn\nIG Stiller\nSVP Bezirk Zofingen\nBürgervereinigung Maulburg\nJuso Oberaargau\nSVP Nidwalden\nFDP.Die Liberalen Kanton Thurgau\nJSVP Thurgau\nSVP Eschenbach SG\nSVP Langnau\nOja Schwamendingen\nBDP Kanton Bern\nFürstenland Forum\nRons Wohnungen in Zürich\nJunge SVP Oberland-See\nBürgerlicher Zusammenschluss Gelterkinden BZG\nStadtsiedlung Reitmen, Schlieren\nZiischtigsklub\nFDP.Die Liberalen St.Gallen\nAfdS - Alternative für die Schweiz\nStiftung PWG\nRüdigchönner Flühli\nWidder Garage\nJUSO Köniz\nGrünliberale Partei Kanton Luzern\nHarrys Ding\nSusanne Brunner\nAn unsere Regierung: Der Souverän sind wir\nThun für alle\nAfD Schweiz\nDaniel H. Bar\nE-Voting-Moratorium\nSVP Biel / UDC Bienne (official)\nKOSMOS\nGegen Tempo 30 kmh Hohlestrasse 3123 Belp\nKulturkeller Gerbestock\nSP Thurgau\nSVP Morschach SZ\nSandro Wächter - SVP\nSommerkonzerte Bäckeranlage\nZüri isst\nElektrowicklerei Zaugg Theodor\nSVP Ortspartei Brugg\nStolze Openair\nSVP Baden\nStadtteilsekretariat Basel-West\nSender\nrundfunk.fm\nHoudini Kino/Bar\nOpenair Wipkingen\nFussballstadion JA\nCafé Bar Nordbrücke\nPiratenpartei Aargau\nSVP Utzenstorf\n21 Clan Zürich\nLungenliga\nStadtsommer\nWerdinsel Openair\nSchweizer Armee\nKaufmännischer Verband (Bern)\nSchweizerischer Gewerbeverband sgv\nFilippo Leutenegger\nAm Damm für Dich\npatriot.shop\nB in der Bäckeranlage\nSVP Bassersdorf\nSVP Stadt Olten\nBööggenzunft Bözingen\nSchnupf\nPro Infirmis\nSVP Frauen Kanton Solothurn\nHirslanden Salem-Spital\nFDP Bezirk Affoltern\nSVP Emmen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "685\n798\n850\n208\n245\n323\n229\n2.593\n211\n422\n169\n288\n10\n67\n277\n267\n117\n98\n124\n446\n593\n152\n473\n248\n1.249\n352\n253\n1.316\n179\n1.173\n307\n531\n199\n583\n1.089\n6.787\n3.158\n511\n1.008\n1.045\n220\n208\n235\n1.004\n4.984\n196\n358\n107\n828\n382\n391\n3.986\n2.419\n121\n141\n557\n461\n1.467\n340\n410\n651\n190\n4.787\n444\n120\n4.268\n25\n12.436\n3.081\n281\n444\n3\n317\n499\n762\n670\n42\n169\n988\n438\n114\n4.682\n294\n144\n632\n665\n822\n33\n2.231\n274\n6.495\n126\n226\n14.235\n662\n1.341\n921\n74\n3.721\n8\n295\n9.402\n233\n197\n508\n184\n197\n1.896\n15.6\n69\n291\n6.428\n270\n184\n2.733\n14.332\n5.174\n3.971\n4.9\n4.019\n471\n427\n966\n2.382\n4.346\n5.633\n5.709\n734\n9.439\n7.956\n4.745\n6.109\n752\n141\n220\n146\n1.184\n17.057\n637\n584\n495\n711\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "SVP Region Imboden\nDominik Dummermuth\nSVP Stadt Zug\n2022 Wählen wir bürgerlich SVP UDC Bern\nSVP Bezirk Bremgarten AG\nOliver Imfeld\npatriot.v2",
+          "VerzeichnisGefalltMir_": "209\n231\n422\n153\n200\n1.174\n651"
         },
         {
           "Profil_": "P2",
@@ -13386,10 +13386,10 @@ var data =
           "LinkBild_": "RH_B_23-04-19",
           "Bildname": "ABB-P2-282",
           "Bildunterschriften_": "Änderung des Bundesgesetzes über die politischen Rechte (Überführung der elektronischen Stimmabgabe in den ordentlichen Betrieb).",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13409,10 +13409,10 @@ var data =
           "LinkBild_": "RH_C_23-04-19",
           "Bildname": "ABB-P2-283",
           "Bildunterschriften_": "«Vieles ist Mainstream»: der Schweizer Bundespräsident Ueli Maurer (SVP). (Archivbild)\nBild: KEYSTONE/ALESSANDRO DELLA VALLE",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13432,10 +13432,10 @@ var data =
           "LinkBild_": "RH_D_23-04-19",
           "Bildname": "ABB-P2-284",
           "Bildunterschriften_": "Waffengesetz: Auf dem Spiel steht das Fundament unserer freien Gesellschaft.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13455,10 +13455,10 @@ var data =
           "LinkBild_": "RH_E_23-04-19",
           "Bildname": "ABB-P2-285",
           "Bildunterschriften_": "Die links-grüne Basler Regierung foutiert sich um den Rechtsstaat.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13478,10 +13478,10 @@ var data =
           "LinkBild_": "RH_F_23-04-19",
           "Bildname": "ABB-P2-286",
           "Bildunterschriften_": "Die Bereitschaft zu einer Umverteilung schwindet, wenn der Anteil Einwanderer in einer Region wächst: 19 eritreische Flüchtlinge landen im Oktober 2015 in Nordschweden.\n(Bild: Reuters Robert Nyholm)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13501,10 +13501,10 @@ var data =
           "LinkBild_": "RH_G_23-04-19",
           "Bildname": "ABB-P2-287",
           "Bildunterschriften_": "Geistliche tragen Opfer der Bombenanschläge vom Ostersonntag in Sri Lankas Hauptstadt Colombo zu Grabe: Christen werden zu Märtyrern Foto: picture alliance / AP Photo",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13524,10 +13524,10 @@ var data =
           "LinkBild_": "RH_H_23-04-19",
           "Bildname": "ABB-P2-288",
           "Bildunterschriften_": "Gemäss einem Bericht der Petitionskommission ist der Afghane nämlich erst 17 Jahre alt. Das Staatssekretariat für Migration widerspricht jedoch.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13547,10 +13547,10 @@ var data =
           "LinkBild_": "RH_I_23-04-19",
           "Bildname": "ABB-P2-289",
           "Bildunterschriften_": "In Bangladesh leben rund 160 Millionen Menschen nur wenige Meter über dem Meeresspiegel. Für Bewässerung und Trinkwasser wird mehr Grundwasser gepumpt als nachfliesst.\n(Bild: Keystone)",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13570,10 +13570,10 @@ var data =
           "LinkBild_": "RH_J_23-04-19",
           "Bildname": "ABB-P2-290",
           "Bildunterschriften_": "Landwirt Toni Brunner (SVP) hat sich bereits aus dem Parlament verabschiedet. Weitere Bauernvertreter werden folgen. KEY\n© Chris Iseli",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13593,10 +13593,10 @@ var data =
           "LinkBild_": "RH_A_24-04-19",
           "Bildname": "ABB-P2-291",
           "Bildunterschriften_": "Der Mazedonier Kadir B. (54) stand am Dienstag wegen Sozialhilfebetrug in Basel vor Gericht. Innert vier Jahren bezog er fast eine Viertelmillion Franken – 159'000 Franken davon zu Unrecht.",
-          "Like-VorschlägeNamen_": "SVP Baar\nSVP Emmen\nSVP Muttenz\nWigger‘s Ziegenhof\nMuota Metzg Mettler\nMofa-Club Oberwallis\nWaM Bringt‘s GmbH\nZernez Tourismus\nSVP-Aarburg\nRoman Hürlimann Transporte\nEcho vom Durusch\nWiederkehr Pneuhaus AG\nPeter Barmettler Fahrzeuge & Service\nZimgroup.ch - Zimmermann Umweltlogistik AG\nFeuerwehr Davos\nDaniel Oswald\nSVP Steinhausen - ZG\nnational team Holzbau\nJanosch Weyermann\nHotel Kreuz Romoos\nArcher Bar\nVolksrock Schlager Seetal\nAmacher meets Gerber\nLustenberger AG Autoverwertung und Originalersatzteilverkauf\nJungfreisinnige Berner Oberland\nWilhelm Tell\nSandra Sollberger\nVerein Pendelzug Mirage - VPM\nMoBa Fanseite, der Glacier Express zwischen Chur und Brig\nArtilleriewerk Faulensee A1954\nJunge CVP Kanton Solothurn\nHeer / Forces terrestres / Forze terrestri\nSVP Unterägeri\nSVP Sense\nMob Flab Lwf Abt 4\nCVP Unterägeri\nFortezia Stalusa - Festungsmuseum\nGregor R. Bruhin - #Gregontour\nLogistikbataillon 52\nThomas Verasani\nDie Super-Schweizer\nSVP Stadt Bern\nSVP Mittelland-Süd\nFrauenstreik Aargau 14. Juni\nFDP Schaffhausen\nJUSO Kanton Luzern\nSVP Lyss-Busswil\nBDP Region Spiez\nSVP Nidau\nSVP Hägendorf\nSVP Meggen\nSVP Kriens\nUrsula Zybach\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Emmental\nSchweizer Medienkritik - unzensiert\nEvi Allemann\nCVP Kanton Luzern\nLaura Bircher\nLeckerbissen aus Blocheristan\nSVP Rheintal\nJunge SVP Graubünden\nSVP Bezirk Meilen\nJunge SVP Oberland-See\nJunge SVP Kanton Glarus\nGrünalternative GaP\nSVP Bezirk Zofingen\nAdrian Hauser\nSVP Opfikon-Glattbrugg-Glattpark\nS. Flückiger AG, Auswil + Langenthal\nJSVP Uri\nKurt Fluri\nSVP Kanton Zug\nEnea Martinelli\nBarbara Wyss Flück\nFDP.Die Liberalen Appenzell Innerrhoden\nSVP Bassersdorf\nGrüne Kanton Bern - Verts canton de Berne\nVollgeldinitiative NEIN\nJUSO Wil-Toggenburg\nFliegendruck\nAfS\nTeleblocher\nCVPO Frauen\nMichael Töngi\nSVP Pfäffikon ZH\nFDP.Die Liberalen Stadt Zug\nRoland Fischer\nSVP Stadt Thun\nSVP Langnau\nIG Stiller\nAnonymous )CH(\nSVP Wahlkreis Entlebuch\nForum Demokratie und Menschenrechte\nSVP Wohlen-Anglikon\nJUSO Emmental\nBDP Stadt Luzern\nFDP Nidau\nPetra Gössi\nSVP Eschenbach SG\nSelbstbestimmungsinitiative\nBDP Kanton St.Gallen\nThomas Schärli\nStopp der KESB Willkür\nSVP Baselland\nBürgerlich-Demokratische Partei Thurgau BDP\nDaniel Jositsch\nEnergiewende Schweiz\nThun für alle\nWaffenrecht-Schengen JA\nFreie Landschaft Schweiz\nSVP Morschach SZ\nSVP Utzenstorf\nAndreas Gerber\nSVP Nidwalden\nBDP Kanton Bern\nPolit-Stammtisch\nSVP Stadt Olten\nJSVP Thurgau\nFDP Bezirk Affoltern\nChallerer Dorfjugend\nSVP Ortspartei Brugg\nCVP Kanton Zürich\nRons Wohnungen in Zürich\nAxel McFoley\nZiischtigsklub\nHarrys Ding\nSVP Burgdorf\nDaniel H. Bar\nStiftung PWG\nSVP Kanton Solothurn\nFDP.Die Liberalen St.Gallen\nEntlastungsinitiative\nZüri isst\nLandgasthaus Sonne, Haus der Freiheit\nAfD Schweiz\nKulturkeller Gerbestock\nSP Thurgau\nStadtsiedlung Reitmen, Schlieren\nKOSMOS\nSender\nStolze Openair\nSVP Baden\nWidder Garage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VorschlägeGefälltMir_": "233\n711\n245\n267\n430\n332\n326\n545\n138\n309\n479\n267\n684\n1.012\n926\n905\n153\n606\n149\n810\n584\n230\n317\n310\n287\n799\n1.022\n850\n267\n361\n506\n119\n88\n142\n559\n11\n521\n246\n690\n826\n2.593\n196\n147\n166\n288\n660\n137\n107\n307\n208\n195\n323\n474\n340\n352\n446\n4.792\n1.089\n189\n1.249\n253\n593\n248\n294\n473\n354\n443\n214\n157\n221\n531\n98\n582\n289\n147\n98\n141\n1.046\n391\n173\n267\n33\n1.319\n172\n444\n179\n301\n176\n1.008\n169\n281\n25\n117\n3.162\n235\n65\n141\n119\n3.987\n42\n4.983\n110\n461\n12.435\n557\n206\n6.788\n410\n922\n838\n4.268\n184\n427\n358\n499\n439\n511\n220\n670\n495\n120\n291\n382\n4.684\n10\n666\n14.23\n201\n3.721\n2.233\n3.079\n822\n188\n15.606\n1.004\n74\n197\n509\n632\n9.419\n2.733\n6.43\n270\n6.497\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Like-VerzeichnisNamen_": "SVP Baar\nDaniel Oswald\nJanosch Weyermann\nSandra Sollberger\nJunge SVP Graubünden\nMob Flab Lwf Abt 4",
-          "Like-VerzeichnisGefälltMir_": "234\n906\n150\n1.022\n593\n560"
+          "VorschlageNamen_": "SVP Baar\nSVP Emmen\nSVP Muttenz\nWigger‘s Ziegenhof\nMuota Metzg Mettler\nMofa-Club Oberwallis\nWaM Bringt‘s GmbH\nZernez Tourismus\nSVP-Aarburg\nRoman Hürlimann Transporte\nEcho vom Durusch\nWiederkehr Pneuhaus AG\nPeter Barmettler Fahrzeuge & Service\nZimgroup.ch - Zimmermann Umweltlogistik AG\nFeuerwehr Davos\nDaniel Oswald\nSVP Steinhausen - ZG\nnational team Holzbau\nJanosch Weyermann\nHotel Kreuz Romoos\nArcher Bar\nVolksrock Schlager Seetal\nAmacher meets Gerber\nLustenberger AG Autoverwertung und Originalersatzteilverkauf\nJungfreisinnige Berner Oberland\nWilhelm Tell\nSandra Sollberger\nVerein Pendelzug Mirage - VPM\nMoBa Fanseite, der Glacier Express zwischen Chur und Brig\nArtilleriewerk Faulensee A1954\nJunge CVP Kanton Solothurn\nHeer / Forces terrestres / Forze terrestri\nSVP Unterägeri\nSVP Sense\nMob Flab Lwf Abt 4\nCVP Unterägeri\nFortezia Stalusa - Festungsmuseum\nGregor R. Bruhin - #Gregontour\nLogistikbataillon 52\nThomas Verasani\nDie Super-Schweizer\nSVP Stadt Bern\nSVP Mittelland-Süd\nFrauenstreik Aargau 14. Juni\nFDP Schaffhausen\nJUSO Kanton Luzern\nSVP Lyss-Busswil\nBDP Region Spiez\nSVP Nidau\nSVP Hägendorf\nSVP Meggen\nSVP Kriens\nUrsula Zybach\nJunge SVP Kreisverband Frutigen - Niedersimmental\nSVP Emmental\nSchweizer Medienkritik - unzensiert\nEvi Allemann\nCVP Kanton Luzern\nLaura Bircher\nLeckerbissen aus Blocheristan\nSVP Rheintal\nJunge SVP Graubünden\nSVP Bezirk Meilen\nJunge SVP Oberland-See\nJunge SVP Kanton Glarus\nGrünalternative GaP\nSVP Bezirk Zofingen\nAdrian Hauser\nSVP Opfikon-Glattbrugg-Glattpark\nS. Flückiger AG, Auswil + Langenthal\nJSVP Uri\nKurt Fluri\nSVP Kanton Zug\nEnea Martinelli\nBarbara Wyss Flück\nFDP.Die Liberalen Appenzell Innerrhoden\nSVP Bassersdorf\nGrüne Kanton Bern - Verts canton de Berne\nVollgeldinitiative NEIN\nJUSO Wil-Toggenburg\nFliegendruck\nAfS\nTeleblocher\nCVPO Frauen\nMichael Töngi\nSVP Pfäffikon ZH\nFDP.Die Liberalen Stadt Zug\nRoland Fischer\nSVP Stadt Thun\nSVP Langnau\nIG Stiller\nAnonymous )CH(\nSVP Wahlkreis Entlebuch\nForum Demokratie und Menschenrechte\nSVP Wohlen-Anglikon\nJUSO Emmental\nBDP Stadt Luzern\nFDP Nidau\nPetra Gössi\nSVP Eschenbach SG\nSelbstbestimmungsinitiative\nBDP Kanton St.Gallen\nThomas Schärli\nStopp der KESB Willkür\nSVP Baselland\nBürgerlich-Demokratische Partei Thurgau BDP\nDaniel Jositsch\nEnergiewende Schweiz\nThun für alle\nWaffenrecht-Schengen JA\nFreie Landschaft Schweiz\nSVP Morschach SZ\nSVP Utzenstorf\nAndreas Gerber\nSVP Nidwalden\nBDP Kanton Bern\nPolit-Stammtisch\nSVP Stadt Olten\nJSVP Thurgau\nFDP Bezirk Affoltern\nChallerer Dorfjugend\nSVP Ortspartei Brugg\nCVP Kanton Zürich\nRons Wohnungen in Zürich\nAxel McFoley\nZiischtigsklub\nHarrys Ding\nSVP Burgdorf\nDaniel H. Bar\nStiftung PWG\nSVP Kanton Solothurn\nFDP.Die Liberalen St.Gallen\nEntlastungsinitiative\nZüri isst\nLandgasthaus Sonne, Haus der Freiheit\nAfD Schweiz\nKulturkeller Gerbestock\nSP Thurgau\nStadtsiedlung Reitmen, Schlieren\nKOSMOS\nSender\nStolze Openair\nSVP Baden\nWidder Garage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VorschlageGefalltMir_": "233\n711\n245\n267\n430\n332\n326\n545\n138\n309\n479\n267\n684\n1.012\n926\n905\n153\n606\n149\n810\n584\n230\n317\n310\n287\n799\n1.022\n850\n267\n361\n506\n119\n88\n142\n559\n11\n521\n246\n690\n826\n2.593\n196\n147\n166\n288\n660\n137\n107\n307\n208\n195\n323\n474\n340\n352\n446\n4.792\n1.089\n189\n1.249\n253\n593\n248\n294\n473\n354\n443\n214\n157\n221\n531\n98\n582\n289\n147\n98\n141\n1.046\n391\n173\n267\n33\n1.319\n172\n444\n179\n301\n176\n1.008\n169\n281\n25\n117\n3.162\n235\n65\n141\n119\n3.987\n42\n4.983\n110\n461\n12.435\n557\n206\n6.788\n410\n922\n838\n4.268\n184\n427\n358\n499\n439\n511\n220\n670\n495\n120\n291\n382\n4.684\n10\n666\n14.23\n201\n3.721\n2.233\n3.079\n822\n188\n15.606\n1.004\n74\n197\n509\n632\n9.419\n2.733\n6.43\n270\n6.497\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "VerzeichnisNamen_": "SVP Baar\nDaniel Oswald\nJanosch Weyermann\nSandra Sollberger\nJunge SVP Graubünden\nMob Flab Lwf Abt 4",
+          "VerzeichnisGefalltMir_": "234\n906\n150\n1.022\n593\n560"
         },
         {
           "Profil_": "P2",
@@ -13616,10 +13616,10 @@ var data =
           "LinkBild_": "RH_B_24-04-19",
           "Bildname": "ABB-P2-292",
           "Bildunterschriften_": "Die von InstA-freundlichen Schweizer Professorinnen und Professoren vorgetragenen Behauptungen haben mit der Realität wenig zu tun.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13639,10 +13639,10 @@ var data =
           "LinkBild_": "RH_C_24-04-19",
           "Bildname": "ABB-P2-293",
           "Bildunterschriften_": "Bitte und Aufruf: Bleibt bei den Schweiz Treuen und kehrt den treulosen Parteien den Rücken. Keine Entwaffnung und keine Bücklinge mehr.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13662,10 +13662,10 @@ var data =
           "LinkBild_": "RH_D_24-04-19",
           "Bildname": "ABB-P2-294",
           "Bildunterschriften_": "Katholische Nonnen beten für die Opfer des Terrors – über die Religionsgrenzen hinweg/ picture alliance",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13685,10 +13685,10 @@ var data =
           "LinkBild_": "RH_E_24-04-19",
           "Bildname": "ABB-P2-295",
           "Bildunterschriften_": "Schengen ist nicht in Gefahr",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13708,10 +13708,10 @@ var data =
           "LinkBild_": "",
           "Bildname": "ABB-P2-296",
           "Bildunterschriften_": "",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13731,10 +13731,10 @@ var data =
           "LinkBild_": "RH_G_24-04-19",
           "Bildname": "ABB-P2-297",
           "Bildunterschriften_": "CC BY-SA 4.0 File:Gretathunberg",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13754,10 +13754,10 @@ var data =
           "LinkBild_": "RH_H_24-04-19",
           "Bildname": "ABB-P2-298",
           "Bildunterschriften_": "Schneider, der für den Waffenexport in Kriegsländer ist, zeigt sich mit einem Neonazi. Schneider verdient für diese Tat rund 250‘OOO.- pro Jahr. Bis er stirbt.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13777,10 +13777,10 @@ var data =
           "LinkBild_": "RH_I_24-04-19",
           "Bildname": "ABB-P2-299",
           "Bildunterschriften_": "Wann begreift man endlich, dass der Islam keine Religion ist, sondern eine menschenverachtende Ideologie.",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         },
         {
           "Profil_": "P2",
@@ -13800,17 +13800,19 @@ var data =
           "LinkBild_": "RH_J_24-04-19",
           "Bildname": "ABB-P2-300",
           "Bildunterschriften_": "Die Bereitschaft zu einer Umverteilung schwindet, wenn der Anteil Einwanderer in einer Region wächst: 19 eritreische Flüchtlinge landen im Oktober 2015 in Nordschweden. Bild: Robert Nyholm/Reuters",
-          "Like-VorschlägeNamen_": "",
-          "Like-VorschlägeGefälltMir_": "",
-          "Like-VerzeichnisNamen_": "",
-          "Like-VerzeichnisGefälltMir_": ""
+          "VorschlageNamen_": "",
+          "VorschlageGefalltMir_": "",
+          "VerzeichnisNamen_": "",
+          "VerzeichnisGefalltMir_": ""
         } 
     ] 
 ]
 
-// var numberOfIterations = data[0].length;
+// var numberOfPosts = data[0].length;
+var phasenName = "Phase 01"
 var start = 1;
-var numberOfIterations = start + 1;
+var numberOfPosts = start + 5; // will be 10
+var fullDataLength = data[0].length;
 
 
 var lastPage = 0;
@@ -13826,7 +13828,7 @@ var pageWidth = page.bounds[3] -  page.bounds[1] - borderLeft - borderRight;
 var pageHeight = page.bounds[2] -  page.bounds[0] - 2 * borderTopBottom;
 var allGroups = [];
 var wholeLength = 0;
-// var numberOfIterations = data[1].length;
+// var numberOfPosts = data[1].length;
 var imagePath = './img/'
 var gutter = 2;
 var column = (pageWidth - (17 * gutter)) / 18;
@@ -13835,7 +13837,7 @@ var headerHeight = 3;
 
 var phase = 0;
 var phaseheight = 0;
-var day = 0;
+var day = 1;
 
 
 doc.pages.add();
@@ -13847,7 +13849,13 @@ var currentLeftPage = currentPage;
 var currentRightPage = currentPage + 1;
 var lowestLeft = borderTopBottom;
 var lowestRight = borderTopBottom;
-var lowestTotal;
+var postTop = 0;
+var lowestTotal = {
+  page: currentLeftPage,
+  pageStart: currentLeftPage,
+  position: borderTopBottom,
+  top: borderTopBottom
+};
 var siteTopLeft = borderTopBottom;
 var siteTopRight = borderTopBottom;
 var newPageLeft = true;
@@ -13857,40 +13865,453 @@ var parStyle1 = doc.paragraphStyles.item ('Test 1');
 var parStyle2 = doc.paragraphStyles.item ('Test 2');
 
 var imagesRH = [
-    [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ]
+  [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ]
 ]
 
-var imagesDD = [
-    [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ], [
-        {}, {}, {}, {}, {}, {}, {}, {}, {}, {}
-    ]
+var imagesDD= [
+  [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ], [
+    {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }, {
+      name: '',
+      link: '',
+      text: '',
+    }
+  ]
 ]
+
 
 // for (var i = 0; i >= 10; i ++) {
 //     for (var j = 0; j >= 7; j ++) {
@@ -13899,52 +14320,55 @@ var imagesDD = [
 // }
 
 
-
 // ================
-// Create phases
+// Create Days
 // ================
 
-for (var i = start; i < numberOfIterations; i++) {
-    currentPage = currentLeftPage;
-    addDay(0, i, true);
+// for (var i = start; i < fullDataLength; i++) {
 
-    newPageLeft = false;
+//   // ================
+//   // Create Posts
+//   // ================
 
-    // alert(imagesRH);
-    
-    lowestTotal = currentLeftPage > currentRightPage ? lowestLeft : lowestRight;
 
+//   if (data[0][i].Phase_ == phasenName ) {
+//     for (var j = i + start; j < i + start + numberOfPosts; j++){
+
+//       currentPage = currentLeftPage;
+//       addPost(0, j, true);
+
+//       newPageLeft = false;
+
+//       currentPage = currentRightPage;
+      
+//       addPost(1,j, false);
+
+//       newPageRight = false;
+//     }
+//   }
+
+// }
+
+for (var j =  start; j < numberOfPosts; j++){
+
+  currentPage = currentLeftPage;
+  addPost(0, j, true);
+
+  newPageLeft = false;
+
+  currentPage = currentRightPage;
+  
+  addPost(1,j, false);
+
+  newPageRight = false;
 }
 
-for (var i = start; i < numberOfIterations; i++) {
-    currentPage = currentRightPage;
-    
-    addDay(1,i, false);
-
-    newPageRight = false;
-
-    // if (data[0][i].Profil_ == "RH") {
-
-    //     currentPage = currentLeftPage;
-    //     addDay(0, i, true);
-
-    //     newPageLeft = false;
-
-    // } else {
-        
-    //     currentPage = currentRightPage;
-    //     addDay(1,i, false);
-
-    //     newPageRight = false;
-    // }
-
-    lowestTotal = currentLeftPage > currentRightPage ? lowestLeft : lowestRight;
-}
+day += 1;
 
 
 
 
-function addDay(profile, index, left) {
+function addPost(profile, index, left) {
 
 
   // "Phase_": "Phase 01",
@@ -13953,6 +14377,11 @@ function addDay(profile, index, left) {
     var id = '#' + index;
     phase = data[profile][index].Phase_.replace('Phase 0','');
 
+    if (left) {
+      dayLeft += 1;
+    } else {
+      dayRight += 1;
+    }
     // if (lowestLeft > lowestRight) {
     //     lowestRight = lowestLeft;
     // } else {
@@ -13963,8 +14392,7 @@ function addDay(profile, index, left) {
     // Like Vorschläge
     // ===============
 
-    if (data[profile][index].VorschlägeNamen_ != "") {
-        day += 1;
+    if (data[profile][index].VorschlageNamen_ != "") {
 
         var tb_likeVorschlageTitel = createTextbox('tb_likeVorschlageTitel', id, '\nLike Vorschläge', itemsToGroup, 14);
         tb_likeVorschlageTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
@@ -13973,32 +14401,81 @@ function addDay(profile, index, left) {
         tb_likeVorschlageTitel.paragraphs[0].leading = headerHeight * 3;
 
         if(left) {
-            positionElement( left, tb_likeVorschlageTitel, 0, lowestLeft, 0, 0);
+          currentLeftPage = lowestTotal.page;
+          currentPage = currentLeftPage;
+          alert(lowestTotal.position);
+          positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.position, 0, 0);
+          lowestTotal.top = getElement(tb_position).y;
         } else {
-            positionElement( left, tb_likeVorschlageTitel, 0, lowestRight, 0, 0);
+          alert('ajölkdf');
+          positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.top, 0, 0);
+
         }
+        setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
+
+
+        // if(left) {
+        //   tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page]);
+        //   positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.positionLeft, 0, 0);
+        // } else {
+        //   tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page + 1]);         
+        //   positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.positionRight, 0, 0);
+        // }
         setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
 
         checkHeight(left, tb_likeVorschlageTitel);
 
-        var tb_likeVorschlage = createTextbox('tb_likeVorschlage', id, data[profile][index].VorschlägeNamen_, itemsToGroup, 6.5);
-        tb_likeVorschlage.paragraphs[0].leading = 7.5;
-        positionElement( left, tb_likeVorschlage, 0, getElement(tb_likeVorschlageTitel).y2, 0, 0);
-        setDimensions(left, tb_likeVorschlage, pageWidth/2 - 10, headerHeight, 0, 0);
-
-        var tb_likeVorschlageLikes = createTextbox('tb_likeVorschlageLikes', id, data[profile][index].VorschlägeGefälltMir_, itemsToGroup, 6.5);
-        tb_likeVorschlageLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
-        tb_likeVorschlageLikes.paragraphs[0].leading = 7.5;
-        positionElement( left, tb_likeVorschlageLikes, pageWidth/2 - 10, getElement(tb_likeVorschlageTitel).y2, 0, 0);
-        setDimensions(left, tb_likeVorschlageLikes, 10, headerHeight, 0, 0);
-
-        checkHeight(left, tb_likeVorschlageLikes);
-
-        createHeader(tb_likeVorschlageLikes, leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
 
         // ===============
         // Likes
         // ===============
+
+        var vorschlageNamen = data[profile][index].VorschlageNamen_.split('\n');
+        var vorschlageGefalltMir = data[profile][index].VorschlageGefalltMir_.split('\n');
+        var verzeichnisNamen = data[profile][index].VerzeichnisNamen_.split('\n');
+        var verzeichnisGefalltMir = data[profile][index].VerzeichnisGefalltMir_.split('\n');
+
+
+        var tb_likeVorschlage = [];
+        var tb_likeVorschlageLikes = [];
+        var tb_likeVerzeichnis = [];
+        var tb_likeVerzeichnisLikes = [];
+
+
+        for(var i = 0; i < vorschlageNamen.length; i++) {
+
+          tb_likeVorschlage[i] = createTextbox('tb_likeVorschlage', id, vorschlageNamen[i], itemsToGroup, 6.5);
+          tb_likeVorschlageLikes[i] = createTextbox('tb_likeVorschlage', id, vorschlageGefalltMir[i], itemsToGroup, 6.5);
+
+          if (i % 3 == 0) {
+            positionElement( left, tb_likeVorschlage[i], 0, getElement(tb_likeVorschlageTitel).y2 + i * 1, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], 0, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth/3 - 10, getElement(tb_likeVorschlageTitel).y2 + i * 1, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
+          } else if (i % 2 == 0) {
+            positionElement( left, tb_likeVorschlage[i], pageWidth/3, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth - 10, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
+          } else {
+            positionElement( left, tb_likeVorschlage[i], pageWidth/3, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth/3 * 2 - 10, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
+          }
+
+          if(left) {
+            lowestLeft = getElement(tb_likeVorschlage[i]).y2;
+          } else {
+            lowestRight = getElement(tb_likeVorschlage[i]).y2;
+          }
+          
+          checkHeight(left, tb_likeVorschlageLikes[i]);
+
+          // if (i == vorschlageNamen.length - 1) {
+          //   createHeader(tb_likeVorschlageLikes[i], leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
+          // }
+        }
 
 
         var tb_verzeichnisTitel = createTextbox('tb_verzeichnisTitel', id, '\nLike Verzeichnis', itemsToGroup, 14);
@@ -14006,43 +14483,84 @@ function addDay(profile, index, left) {
         tb_verzeichnisTitel.strokeColor = app.activeDocument.colors.item("Black");  
         tb_verzeichnisTitel.strokeWeight = 0.75; 
         tb_verzeichnisTitel.paragraphs[0].leading = headerHeight * 3;
-        positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes).y2 + 20, 0, 0);
+        positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes[tb_likeVorschlageLikes.length - 1]).y2 + 10, 0, 0);
         setDimensions(left, tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
 
         checkHeight(left, tb_verzeichnisTitel);
 
-        var tb_verzeichnisNamen = createTextbox('tb_verzeichnisNamen', id, data[profile][index].VorschlägeNamen_, itemsToGroup, 20);
-        tb_verzeichnisNamen.paragraphs[0].leading = 20;
-        tb_verzeichnisNamen.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
-        positionElement( left, tb_verzeichnisNamen, 0, getElement(tb_verzeichnisTitel).y2, 0, 0);
-        setDimensions(left, tb_verzeichnisNamen, pageWidth - 30, headerHeight, 0, 0);
+        for(var i = 0; i < verzeichnisNamen.length; i++) {
 
-        var tb_verzeichnisLikes = createTextbox('tb_verzeichnisLikes', id, data[profile][index].VorschlägeGefälltMir_, itemsToGroup, 20);
-        tb_verzeichnisLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
-        tb_verzeichnisLikes.paragraphs[0].leading = 20;
-        tb_verzeichnisLikes.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
-        positionElement( left, tb_verzeichnisLikes, pageWidth - 30, getElement(tb_verzeichnisTitel).y2, 0, 0);
-        setDimensions(left, tb_verzeichnisLikes, 30, headerHeight, 0, 0);
+          tb_likeVerzeichnis[i] = createTextbox('tb_likeVerzeichnis', id, verzeichnisNamen[i], itemsToGroup, 6.5);
+          tb_likeVerzeichnisLikes[i] = createTextbox('tb_likeVerzeichnis', id, verzeichnisGefalltMir[i], itemsToGroup, 6.5);
 
-        checkHeight(left, tb_verzeichnisLikes);
+          positionElement( left, tb_likeVerzeichnis[i], 0, getElement(tb_verzeichnisTitel).y2 + i * 1, 0, 0);
+          setDimensions(left, tb_likeVerzeichnis[i], pageWidth - 10, headerHeight, 0, 0);
+          positionElement( left, tb_likeVerzeichnisLikes[i], pageWidth - 10, getElement(tb_verzeichnisTitel).y2 + i * 1, 0, 0);
+          setDimensions(left, tb_likeVerzeichnisLikes[i], 10, headerHeight, 0, 0);
 
-        createHeader(tb_verzeichnisLikes, leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
+          if(left) {
+            lowestLeft = getElement(tb_likeVerzeichnis[i]).y2;
+          } else {
+            lowestRight = getElement(tb_likeVerzeichnis[i]).y2;
+          }
+          
+          checkHeight(left, tb_likeVerzeichnisLikes[i]);
 
-
-        var tb_likeVorschlageTitel = createTextbox('tb_likeVorschlageTitel', id, '\nArchivText', itemsToGroup, 14);
-        tb_likeVorschlageTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
-        tb_likeVorschlageTitel.strokeColor = app.activeDocument.colors.item("Black");  
-        tb_likeVorschlageTitel.strokeWeight = 0.75; 
-        tb_likeVorschlageTitel.paragraphs[0].leading = headerHeight * 3;
-
-        if(left) {
-            positionElement( left, tb_likeVorschlageTitel, 0, lowestLeft, 0, 0);
-        } else {
-            positionElement( left, tb_likeVorschlageTitel, 0, lowestRight, 0, 0);
+          if (i == verzeichnisNamen.length - 1) {
+            createHeader(tb_likeVerzeichnisLikes[i], leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
+          }
         }
-        setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
 
-        checkHeight(left, tb_likeVorschlageTitel);
+        // var tb_likeVorschlageLikes = createTextbox('tb_likeVorschlageLikes', id, data[profile][index].VorschlägeGefalltMir_, itemsToGroup, 6.5);
+        // tb_likeVorschlageLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
+        // tb_likeVorschlageLikes.paragraphs[0].leading = 7.5;
+        // positionElement( left, tb_likeVorschlageLikes, pageWidth/2 - 10, getElement(tb_likeVorschlageTitel).y2, 0, 0);
+        // setDimensions(left, tb_likeVorschlageLikes, 10, headerHeight, 0, 0);
+
+        // checkHeight(left, tb_likeVorschlageLikes);
+
+
+        // ===============
+        // Likes
+        // ===============
+
+        // var tb_verzeichnisTitel = createTextbox('tb_verzeichnisTitel', id, '\nLike Verzeichnis', itemsToGroup, 14);
+        // tb_verzeichnisTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
+        // tb_verzeichnisTitel.strokeColor = app.activeDocument.colors.item("Black");  
+        // tb_verzeichnisTitel.strokeWeight = 0.75; 
+        // tb_verzeichnisTitel.paragraphs[0].leading = headerHeight * 3;
+        // positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes).y2 + 20, 0, 0);
+        // setDimensions(left, tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
+
+        // checkHeight(left, tb_verzeichnisTitel);
+        
+
+        // var tb_verzeichnisLikes = createTextbox('tb_verzeichnisLikes', id, data[profile][index].VorschlägeGefalltMir_, itemsToGroup, 20);
+        // tb_verzeichnisLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
+        // tb_verzeichnisLikes.paragraphs[0].leading = 20;
+        // tb_verzeichnisLikes.paragraphs[0].appliedFont = app.fonts.item("Neue Haas Unica Pro");
+        // positionElement( left, tb_verzeichnisLikes, pageWidth - 30, getElement(tb_verzeichnisTitel).y2, 0, 0);
+        // setDimensions(left, tb_verzeichnisLikes, 30, headerHeight, 0, 0);
+
+        // checkHeight(left, tb_verzeichnisLikes);
+
+        // createHeader(tb_verzeichnisLikes, leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
+
+
+        // var tb_likeVorschlageTitel = createTextbox('tb_likeVorschlageTitel', id, '\nArchivText', itemsToGroup, 14);
+        // tb_likeVorschlageTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
+        // tb_likeVorschlageTitel.strokeColor = app.activeDocument.colors.item("Black");  
+        // tb_likeVorschlageTitel.strokeWeight = 0.75; 
+        // tb_likeVorschlageTitel.paragraphs[0].leading = headerHeight * 3;
+
+        // if(left) {
+        //     positionElement( left, tb_likeVorschlageTitel, 0, lowestLeft, 0, 0);
+        // } else {
+        //     positionElement( left, tb_likeVorschlageTitel, 0, lowestRight, 0, 0);
+        // }
+        // setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
+
+        // checkHeight(left, tb_likeVorschlageTitel);
     }
 
 
@@ -14056,16 +14574,49 @@ function addDay(profile, index, left) {
     tb_profil.strokeColor = app.activeDocument.colors.item("Black");  
     tb_profil.strokeWeight = 0.75; 
     tb_profil.paragraphs[0].leading = headerHeight * 3;
-    if (data[profile][index].VorschlägeNamen_) {
-        positionElement( left, tb_profil, 0,  getElement(tb_likeVorschlageTitel).y2, 0, 0);
 
-    } else {
-        if(left) {
-            positionElement( left, tb_profil, 0, lowestLeft, 0, 0);
-        } else {
-            positionElement( left, tb_profil, 0, lowestRight, 0, 0);
-        }
+    // var tb_profil_bg = addImage(array[x][y].link, border + pageWidth/5 * y, positionY + 30 * x, pageWidth/7, currentGridPage);
+    // if (data[profile][index].VorschlageNamen_) {
+    //     positionElement( left, tb_profil, 0,  getElement(tb_likeVorschlageTitel).y2, 0, 0);
+
+    // } else {
+        // if(left) {
+        //     positionElement( left, tb_profil, 0, lowestLeft, 0, 0);
+        // } else {
+        //     positionElement( left, tb_profil, 0, lowestRight, 0, 0);
+        // }
+    // }
+
+    if (data[profile][index].VorschlageNamen_ == "") {
+
+      if(left) {
+        // currentLeftPage = lowestTotal.page;
+        currentPage = currentLeftPage;
+        lowestTotal.pageStart = currentLeftPage;
+        // alert(lowestTotal.position);
+        tb_profil.move(doc.pages[lowestTotal.page]);
+        positionElement( left, tb_profil, 0, lowestTotal.position, 0, 0);
+        lowestTotal.top = getElement(tb_profil).y;
+      } else {
+        // alert('ajölkdf');
+        tb_profil.move(doc.pages[lowestTotal.pageStart + 1]);
+        currentRightPage = lowestTotal.pageStart + 1;
+        currentPage = currentRightPage;
+        positionElement( left, tb_profil, 0, lowestTotal.top, 0, 0);
+
+      }
+
+      // alert(currentLeftPage + ', ' + currentRightPage);
+
     }
+
+    // positionElement( left, tb_profil, 0, lowestTotal.position, 0, 0);
+
+    // if(left) {
+    //   positionElement( left, tb_profil, 0, lowestLeft, 0, 0);
+    // } else {
+    //     positionElement( left, tb_profil, 0, lowestRight, 0, 0);
+    // }
 
     // positionElement( left, tb_profil, 0,  10, 0, 0);
     setDimensions(left, tb_profil, pageWidth/3 - 3, headerHeight, 0, 0);
@@ -14090,15 +14641,15 @@ function addDay(profile, index, left) {
     tb_position.strokeColor = app.activeDocument.colors.item("Black");  
     tb_position.strokeWeight = 0.75; 
     tb_position.paragraphs[0].leading = headerHeight * 3;
-    if (data[profile][index].VorschlägeNamen_) {
-        positionElement( left, tb_position, pageWidth / 3 + 3,  getElement(tb_likeVorschlageTitel).y2 + 20, 0, 0);
-    } else {
+    // if (data[profile][index].VorschlageNamen_) {
+    //     positionElement( left, tb_position, pageWidth / 3 + 3,  getElement(tb_likeVorschlageTitel).y2 + 20, 0, 0);
+    // } else {
         if(left) {
             positionElement( left, tb_position, pageWidth / 3 + 3, lowestLeft, lowestLeft, 0, 0);
         } else {
             positionElement( left, tb_position, pageWidth / 3 + 3, lowestRight, lowestRight, 0, 0);
         }
-    }
+    // }
     setDimensions(left, tb_position, pageWidth/3 - 3, headerHeight, 0, 0);
 
     if(left) {
@@ -14118,15 +14669,15 @@ function addDay(profile, index, left) {
     tb_uhrzeit.strokeColor = app.activeDocument.colors.item("Black");  
     tb_uhrzeit.strokeWeight = 0.75; 
     tb_uhrzeit.paragraphs[0].leading = headerHeight * 3;
-    if (data[profile][index].VorschlägeNamen_) {
-        positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6,  getElement(tb_likeVorschlageTitel).y2 + 20, 0, 0);
-    } else {
+    // if (data[profile][index].VorschlageNamen_) {
+    //     positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6,  getElement(tb_likeVorschlageTitel).y2 + 20, 0, 0);
+    // } else {
         if(left) {
             positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6, lowestLeft, lowestLeft, 0, 0);
         } else {
             positionElement( left, tb_uhrzeit, pageWidth/3 * 2 + 6, lowestRight, lowestRight, 0, 0);
         }
-    }
+    // }
 
         // positionElement( left, tb_profil, 0,  10, 0, 0);
     setDimensions(left, tb_uhrzeit, pageWidth/3 - 3, headerHeight, 0, 0);
@@ -14333,15 +14884,19 @@ function addDay(profile, index, left) {
         }
 
         // alert(pageHeight - getElement(tb_text_artikelAuthor).y2 + 7);
-        setDimensions(left, tb_artikelBodyTexts[0], colGutter * 10 - gutter, null, 0, 0);       
+        setDimensions(left, tb_artikelBodyTexts[0], colGutter * 10 - gutter, null, 0, 0);  
         var abt = getElement(tb_artikelBodyTexts[0]);
-        tb_artikelBodyTexts[0].geometricBounds = [abt.y, abt.x, abt.y + pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, abt.x2]
+        if(abt.y2 >= abt.y + pageHeight - getElement(tb_text_artikelAuthor).y2 + 7) {
+          tb_artikelBodyTexts[0].geometricBounds = [abt.y, abt.x, abt.y + pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, abt.x2]  
+        }
 
         if (tb_artikelBodyTexts[0].overflows) {
+
           
-          if(currentPage <= lastPage - 1) {
+          if(currentPage >= lastPage - 1) {
             doc.pages.add();
             doc.pages.add();
+            lastPage += 2;
           }
 
           if(left) {
@@ -14351,13 +14906,28 @@ function addDay(profile, index, left) {
             currentRightPage += 2;
             currentPage = currentRightPage;
           }
-        } 
+  
+          tb_artikelBodyTexts[1] = createTextbox('tb_text_artikelBodyTextExtended', id, "", itemsToGroup, 8);
+          tb_artikelBodyTexts[1].previousTextFrame = tb_artikelBodyTexts[0];
+          positionElement( left, tb_artikelBodyTexts[1], colGutter * 4, borderTopBottom);
+          // setDimensions(left, tb_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);       
+          setDimensions(left, tb_artikelBodyTexts[1], abt.width, null, 0, 0);   
 
-        tb_artikelBodyTexts[1] = createTextbox('tb_text_artikelBodyTextExtended', id, "", itemsToGroup, 8);
-        tb_artikelBodyTexts[1].previousTextFrame = tb_artikelBodyTexts[0];
-        positionElement( left, tb_artikelBodyTexts[1], colGutter * 4, borderTopBottom);
-        // setDimensions(left, tb_artikelBodyText, colGutter * 10 - gutter, null, 0, 0);       
-        setDimensions(left, tb_artikelBodyTexts[1], abt.width, null, 0, 0);       
+        } 
+        
+        // alert('left page: ' + currentLeftPage + ', right page: ' + currentRightPage + ", lowestLeft: " + lowestLeft + ", lowestRight: " +  lowestRight);
+
+        if((currentRightPage >= currentLeftPage + 1 && lowestLeft <= lowestRight)) {
+          lowestTotal.page = currentRightPage - 1;
+          lowestTotal.position = lowestRight;
+          currentLeftPage = currentRightPage - 1;
+          // alert(lowestTotal.page + ', ' + lowestTotal.position + ', right')
+        } else {
+          lowestTotal.page = currentLeftPage;
+          lowestTotal.position = lowestLeft;
+          currentRightPage = currentLeftPage + 1;
+          // alert(lowestTotal.page + ', ' + lowestTotal.position + ', left')
+        }
 
 
         // setDimensions(left, tb_artikelBodyText, null, pageHeight - getElement(tb_text_artikelAuthor).y2 + 7, 0, 0);
@@ -14431,23 +15001,61 @@ function addDay(profile, index, left) {
       // }
     }
 
+    var postNumber = 0;
+
+    switch (data[profile][index].Position_) {
+      case 'A':
+        postNumber = 1;
+        break;
+      case 'B':
+        postNumber = 2;
+        break;
+      case 'C':
+        postNumber = 3;
+        break;
+      case 'D':
+        postNumber = 4;
+        break;
+      case 'E':
+        postNumber = 5;
+        break;
+      case 'F':
+        postNumber = 6;
+        break;
+      case 'G':
+        postNumber = 7;
+        break;
+      case 'H':
+        postNumber = 8;
+        break;
+      case 'I':
+        postNumber = 9;
+        break;
+      case 'J':
+        postNumber = 10;
+        break;
+    
+      default:
+        break;
+    }
+
     if(left) {
-        imagesRH[day-1][index].name = data[profile][index].Bildname_;
-        imagesRH[day-1][index].link = data[profile][index].LinkBild_;
-        imagesRH[day-1][index].text = data[profile][index].Bildunterschriften_;
+        imagesRH[postNumber-1][day-1].name = data[profile][index].Bildname_;
+        imagesRH[postNumber-1][day-1].link = data[profile][index].LinkBild_;
+        imagesRH[postNumber-1][day-1].text = data[profile][index].Bildunterschriften_;
 
     } else {
-        imagesDD[day-1][index].name = data[profile][index].Bildname_;
-        imagesDD[day-1][index].link = data[profile][index].LinkBild_;
-        imagesDD[day-1][index].text = data[profile][index].Bildunterschriften_;
+        imagesDD[postNumber-1][day-1].name = data[profile][index].Bildname_;
+        imagesDD[postNumber-1][day-1].link = data[profile][index].LinkBild_;
+        imagesDD[postNumber-1][day-1].text = data[profile][index].Bildunterschriften_;
     }
 
     // ===========
     // Check if phase is over 
     // ===========
-    // TODO: numberOfIterations
+    // TODO: numberOfPosts
 
-    if(index == numberOfIterations - 1) {
+    if(index == numberOfPosts - 1) {
 
         // ===========
         // Abbildungen 
@@ -14465,7 +15073,7 @@ function addDay(profile, index, left) {
         //     }
         // }        
 
-        var tb_abbildungenTitel = createTextbox('tb_abbildungenTitel', id, '\nABBILDUNG. ' + (phase - 1) * 68 + 1 + ' - ' + (phase - 1) * 68 + 68, itemsToGroup, 14);
+        var tb_abbildungenTitel = createTextbox('tb_abbildungenTitel', id, '\nABBILDUNG. ' + (phase - 1) * 50 + 1 + ' - ' + (phase - 1) * 50 + 50, itemsToGroup, 14);
         tb_abbildungenTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
         tb_abbildungenTitel.strokeColor = app.activeDocument.colors.item("Black");  
         tb_abbildungenTitel.strokeWeight = 0.75; 
@@ -14480,13 +15088,13 @@ function addDay(profile, index, left) {
 
         checkHeight(left, tb_abbildungenTitel);
 
-        // createImageGrid(left); TODO: back in
+        createImageGrid(left);
 
         // ===========
         // Bildlegenden
         // ===========
         
-        var tb_bildlegendenTitel = createTextbox('tb_bildlegendenTitel', id, '\nBILDLEGENDEN. ' + (phase - 1) * 68 + 1 + ' - ' + (phase - 1) * 68 + 68, itemsToGroup, 14);
+        var tb_bildlegendenTitel = createTextbox('tb_bildlegendenTitel', id, '\nBILDLEGENDEN. ' + (phase - 1) * 50 + 1 + ' - ' + (phase - 1) * 50 + 50, itemsToGroup, 14);
         tb_bildlegendenTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
         tb_bildlegendenTitel.strokeColor = app.activeDocument.colors.item("Black");  
         tb_bildlegendenTitel.strokeWeight = 0.75; 
@@ -14501,7 +15109,7 @@ function addDay(profile, index, left) {
 
         checkHeight(left, tb_bildlegendenTitel);
 
-        // createCaptionGrid(left); TODO: back in
+        createCaptionGrid(left);
 
         phase ++;
     }
@@ -14541,7 +15149,7 @@ function addImage(name, x, y, width, page) {
     var image = doc.pages.item(0).textFrames.add();    
     image.move(doc.pages[page])
 
-    if (image.place (File(app.activeDocument.filePath + '/img/' + name + '.jpg'), false)) {
+    if (image.place (File(app.activeDocument.filePath + '/img/' + name + '.png'), false)) {
 
         image.fit(FitOptions.frameToContent);
         var dimensions = getElement(image);
@@ -14557,6 +15165,30 @@ function addImage(name, x, y, width, page) {
     } else {
         return;
     }
+}
+
+function addBGImage(name, x, y, width, height, page) {
+        
+  // ===============
+  // BG Image
+  // ===============
+
+  var image = doc.pages.item(0).textFrames.add();    
+  image.move(doc.pages[page])
+
+  if (image.place (File(app.activeDocument.filePath + '/img/' + name + '.png'), false)) {
+
+      image.fit(FitOptions.frameToContent);
+
+      image.geometricBounds = [y + 0, x + 0, y + height , x + width];
+
+      image.fit(FitOptions.contentToFrame);
+
+      return image;
+
+  } else {
+      return;
+  }
 }
 
 // function addImage(index) {
@@ -14591,7 +15223,7 @@ function addImage(name, x, y, width, page) {
 
 function createTextbox(element, id, content, array, fontSize) {
     var item = doc.pages.item(currentPage).textFrames.add();
-    item.contents = content || 'unknown';
+    item.contents = content || ' ';
     item.recompose();
     item.fit(FitOptions.frameToContent);
     item.name = 'element_' + id + '_textbox_' * element;
@@ -14840,11 +15472,11 @@ function createImageGrid(left) {
     for (var y = 0; y < array.length; y ++) {
 
         for (var x = 0; x < array[y].length; x ++) {
-            if (array[y] && array[y][x]) {
-                if (array[y][x].link) {
-                    var image = addImage(array[y][x].link +'.jpeg', border + pageWidth/7 * y, positionY + 30 * x, pageWidth/7, currentGridPage);
+            if (array[y] && array[x][y]) {
+                if (array[x][y].link) {
+                    var image = addImage(array[x][y].link, border + pageWidth/5 * y, positionY + 30 * x, pageWidth/7, currentGridPage);
                 }
-                var name = createTextbox(name, x, array[y][x].name, emptyArray, 8 );
+                var name = createTextbox(name, x, array[x][y].name, emptyArray, 8 );
                 name.move(doc.pages[currentGridPage])
                 positionElement( left, name, pageWidth/7 * y, positionY + 30 * x + 20, 0, 0);
                 setDimensions(left, name, pageWidth/7, 0, 0, 0);
@@ -14861,33 +15493,32 @@ function createCaptionGrid(left) {
     var positionY = left ? lowestLeft : lowestRight;
     var emptyArray = [];
     var page = left ? lastPage - 1 : lastPage;
-    // var pRowY;
 
     for (var y = 0; y < array.length; y ++) {
-        var rowY = positionY;
-        for (var x = 0; x < array[y].length; x ++) {
-            if (array[y] && array[y][x]) {
-                var name = createTextbox(name, x, array[y][x].name, emptyArray, 8 );
-                name.move(doc.pages[page])
-                positionElement( left, name, pageWidth/7 * y, rowY, 0, 0);
-                setDimensions(left, name, pageWidth/7, null , 0, 0);
-                // checkHeight(left, name);
-                rowY = getElement(name).y2;
+      var rowY = positionY;
+      for (var x = 0; x < array[y].length; x ++) {
+        if (array[y] && array[x][y]) {
+          var name = createTextbox(name, x, array[x][y].name, emptyArray, 8 );
+          name.move(doc.pages[page])
+          positionElement( left, name, pageWidth/5 * y, rowY, 0, 0);
+          setDimensions(left, name, pageWidth/5, null , 0, 0);
+          // checkHeight(left, name);
+          rowY = getElement(name).y2;
 
-                var text = createTextbox(text, x, array[y][x].text, emptyArray, 8 );
-                text.move(doc.pages[page])
-                positionElement( left, text, pageWidth/7 * y, rowY + 5, 0, 0);
-                setDimensions(left, text, pageWidth/7, null , 0, 0);
-                // checkHeight(left, text);
-                rowY = getElement(text).y2;
+          var text = createTextbox(text, x, array[x][y].text, emptyArray, 8 );
+          text.move(doc.pages[page])
+          positionElement( left, text, pageWidth/5 * y, rowY + 5, 0, 0);
+          setDimensions(left, text, pageWidth/5, null , 0, 0);
+          // checkHeight(left, text);
+          rowY = getElement(text).y2;
 
-                if(left) {
-                    lowestLeft = getElement(text).y2 > lowestLeft ? getElement(text).y2 : lowestLeft
-                } else {
-                    lowestRight = getElement(text).y2 > lowestRight ? getElement(text).y2 : lowestRight
-                }
-            }
-        }   
-    }
+          if(left) {
+              lowestLeft = getElement(text).y2 > lowestLeft ? getElement(text).y2 : lowestLeft
+          } else {
+              lowestRight = getElement(text).y2 > lowestRight ? getElement(text).y2 : lowestRight
+          }
+      }
+      }
+    }    
 
 }
