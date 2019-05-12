@@ -14454,20 +14454,20 @@ function addPost(profile, index, left) {
           tb_likeVorschlage[i] = createTextbox('tb_likeVorschlage', id, vorschlageNamen[i], itemsToGroup, 6.5);
           tb_likeVorschlageLikes[i] = createTextbox('tb_likeVorschlage', id, vorschlageGefalltMir[i], itemsToGroup, 6.5);
 
-          if (i % 3 == 0) {
-            positionElement( left, tb_likeVorschlage[i], 0, getElement(tb_likeVorschlageTitel).y2 + i * 1, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], 0, headerHeight, 0, 0);
-            positionElement( left, tb_likeVorschlageLikes[i], pageWidth/3 - 10, getElement(tb_likeVorschlageTitel).y2 + i * 1, 0, 0);
+          if (i % 2 == 1 && i % 3 == 0) {
+            positionElement( left, tb_likeVorschlage[i], pageWidth/3 * 2, getElement(tb_likeVorschlageTitel).y2 + (i-2) * 2, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth - 10, getElement(tb_likeVorschlageTitel).y2 + (i-2) * 2, 0, 0);
             setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
           } else if (i % 2 == 0) {
-            positionElement( left, tb_likeVorschlage[i], pageWidth/3, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            positionElement( left, tb_likeVorschlage[i], pageWidth/3, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 2, 0, 0);
             setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
-            positionElement( left, tb_likeVorschlageLikes[i], pageWidth - 10, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth / 3 * 2 - 10, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 2, 0, 0);
             setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
           } else {
-            positionElement( left, tb_likeVorschlage[i], pageWidth/3, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            positionElement( left, tb_likeVorschlage[i], 0, getElement(tb_likeVorschlageTitel).y2 + i * 2, 0, 0);
             setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
-            positionElement( left, tb_likeVorschlageLikes[i], pageWidth/3 * 2 - 10, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 1, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth/3 - 10, getElement(tb_likeVorschlageTitel).y2 + i * 2, 0, 0);
             setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
           }
 
