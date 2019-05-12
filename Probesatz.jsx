@@ -13810,7 +13810,7 @@ var data =
 
 // var numberOfPosts = data[0].length;
 var phasenName = "Phase 01"
-var start = 1;
+var start = 0;
 var numberOfPosts = start + 1; // will be 10
 var fullDataLength = data[0].length;
 
@@ -13854,7 +13854,9 @@ var lowestTotal = {
   page: currentLeftPage,
   pageStart: currentLeftPage,
   position: borderTopBottom,
-  top: borderTopBottom
+  top: borderTopBottom,
+  topVorschläge: borderTopBottom,
+  topVerzeichnis: borderTopBottom
 };
 var siteTopLeft = borderTopBottom;
 var siteTopRight = borderTopBottom;
@@ -13871,6 +13873,8 @@ var stylePostUhrzeit = doc.paragraphStyles.item ('Post_Uhrzeit');
 var styleArtikelLead = doc.paragraphStyles.item ('Artikel Lead');
 var styleArtikelBody = doc.paragraphStyles.item ('Artikel Body');
 var styleArtikelUntertitel = doc.paragraphStyles.item ('Artikel Untertitel');
+var styleLikeVorschlage = doc.paragraphStyles.item ('Like-Vorschläge');
+var styleLikeVerzeichnis = doc.paragraphStyles.item ('Like-Verzeichnis');
 
 var parStyle1 = doc.paragraphStyles.item ('Bubbles');
 var parStyle2 = doc.paragraphStyles.item ('Bubbles');
@@ -14405,32 +14409,40 @@ function addPost(profile, index, left) {
 
     if (data[profile][index].VorschlageNamen_ != "") {
 
-        var tb_likeVorschlageTitel = createTextbox('tb_likeVorschlageTitel', id, '\nLike Vorschläge', itemsToGroup, 14);
-        tb_likeVorschlageTitel.paragraphs[0].appliedParagraphStyle = styleBubbles;
+      var tb_likeVorschlageTitel = createTextbox('tb_likeVorschlageTitel', id, '\nLike Vorschläge', itemsToGroup, 14);
+      tb_likeVorschlageTitel.paragraphs[0].appliedParagraphStyle = styleBubbles;
+      tb_likeVorschlageTitel.strokeWeight = 0.75; 
+      tb_likeVorschlageTitel.paragraphs[0].leading = headerHeight * 3;
+
+      if(left) {
+        // currentLeftPage = lowestTotal.page;
+        currentPage = currentLeftPage;
+        lowestTotal.pageStart = currentLeftPage;
+        tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page]);
+        positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.position, 0, 0);
+        lowestTotal.top = getElement(tb_likeVorschlageTitel).y;
+        lowestTotal.topVorschläge = getElement(tb_likeVorschlageTitel).y;
+      } else {
+        tb_likeVorschlageTitel.move(doc.pages[lowestTotal.pageStart + 1]);
+        currentRightPage = lowestTotal.pageStart + 1;
+        currentPage = currentRightPage;
+        positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.topVorschläge, 0, 0);
+
+      }
+
+      setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
 
 
-        if(left) {
-          currentLeftPage = lowestTotal.page;
-          currentPage = currentLeftPage;
-          positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.position, 0, 0);
-          lowestTotal.top = getElement(tb_position).y ? getElement(tb_position).y : borderTopBottom;
-        } else {
-          positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.top, 0, 0);
+      // if(left) {
+      //   tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page]);
+      //   positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.positionLeft, 0, 0);
+      // } else {
+      //   tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page + 1]);         
+      //   positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.positionRight, 0, 0);
+      // }
+      setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
 
-        }
-        setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
-
-
-        // if(left) {
-        //   tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page]);
-        //   positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.positionLeft, 0, 0);
-        // } else {
-        //   tb_likeVorschlageTitel.move(doc.pages[lowestTotal.page + 1]);         
-        //   positionElement( left, tb_likeVorschlageTitel, 0, lowestTotal.positionRight, 0, 0);
-        // }
-        setDimensions(left, tb_likeVorschlageTitel, pageWidth, headerHeight, 0, 0);
-
-        checkHeight(left, tb_likeVorschlageTitel);
+      checkHeight(left, tb_likeVorschlageTitel);
 
 
         // ===============
@@ -14448,27 +14460,39 @@ function addPost(profile, index, left) {
         var tb_likeVerzeichnis = [];
         var tb_likeVerzeichnisLikes = [];
 
+        var vorschlagePosY = getElement(tb_likeVorschlageTitel).y2;  
 
         for(var i = 0; i < vorschlageNamen.length; i++) {
 
           tb_likeVorschlage[i] = createTextbox('tb_likeVorschlage', id, vorschlageNamen[i], itemsToGroup, 6.5);
+          tb_likeVorschlage[i].paragraphs[0].appliedParagraphStyle = styleLikeVorschlage;
           tb_likeVorschlageLikes[i] = createTextbox('tb_likeVorschlage', id, vorschlageGefalltMir[i], itemsToGroup, 6.5);
+          tb_likeVorschlageLikes[i].paragraphs[0].appliedParagraphStyle = styleLikeVorschlage;
+          tb_likeVorschlageLikes[i].paragraphs[0].justification = Justification.RIGHT_ALIGN;
 
-          if (i % 2 == 1 && i % 3 == 0) {
-            positionElement( left, tb_likeVorschlage[i], pageWidth/3 * 2, getElement(tb_likeVorschlageTitel).y2 + (i-2) * 2, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
-            positionElement( left, tb_likeVorschlageLikes[i], pageWidth - 10, getElement(tb_likeVorschlageTitel).y2 + (i-2) * 2, 0, 0);
-            setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
-          } else if (i % 2 == 0) {
-            positionElement( left, tb_likeVorschlage[i], pageWidth/3, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 2, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
-            positionElement( left, tb_likeVorschlageLikes[i], pageWidth / 3 * 2 - 10, getElement(tb_likeVorschlageTitel).y2 + (i - 1) * 2, 0, 0);
-            setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
+          if (i % 3 == 2) {
+            positionElement( left, tb_likeVorschlage[i], colGutter * 10, vorschlagePosY + 2, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], pageWidth - column, vorschlagePosY + 2, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], column, headerHeight, 0, 0);
+
+            if(tb_likeVorschlage[i - 1] != null) {
+              vorschlagePosY = getElement(tb_likeVorschlage[i - 1]).y2;
+            }
+            addLine(left, colGutter * 10, getElement(tb_likeVorschlageLikes[i]).y2 + 1 , pageWidth / 3, itemsToGroup);
+
+          } else if (i % 3 == 1) {
+            positionElement( left, tb_likeVorschlage[i], colGutter * 5, vorschlagePosY + 2, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], colGutter * 9, vorschlagePosY + 2, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], column, headerHeight, 0, 0);
+            addLine(left, colGutter * 5, getElement(tb_likeVorschlageLikes[i]).y2 + 1 , pageWidth / 3, itemsToGroup);
           } else {
-            positionElement( left, tb_likeVorschlage[i], 0, getElement(tb_likeVorschlageTitel).y2 + i * 2, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], pageWidth/3 - 10, headerHeight, 0, 0);
-            positionElement( left, tb_likeVorschlageLikes[i], pageWidth/3 - 10, getElement(tb_likeVorschlageTitel).y2 + i * 2, 0, 0);
-            setDimensions(left, tb_likeVorschlageLikes[i], 10, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlage[i], 0, vorschlagePosY + 2, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, headerHeight, 0, 0);
+            positionElement( left, tb_likeVorschlageLikes[i], colGutter * 4, vorschlagePosY + 2, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], column, headerHeight, 0, 0);
+            addLine(left, 0, getElement(tb_likeVorschlageLikes[i]).y2 + 1 , pageWidth / 3, itemsToGroup);
           }
 
           if(left) {
@@ -14476,6 +14500,11 @@ function addPost(profile, index, left) {
           } else {
             lowestRight = getElement(tb_likeVorschlage[i]).y2;
           }
+
+          if (i == vorschlageNamen.length - 1) {
+            createHeader(tb_likeVorschlage[i], leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
+          }
+
           
           checkHeight(left, tb_likeVorschlageLikes[i]);
 
@@ -14485,37 +14514,78 @@ function addPost(profile, index, left) {
         }
 
 
-        var tb_verzeichnisTitel = createTextbox('tb_verzeichnisTitel', id, '\nLike Verzeichnis', itemsToGroup, 14);
-        tb_verzeichnisTitel.paragraphs[0].justification = Justification.CENTER_ALIGN;
-        tb_verzeichnisTitel.strokeColor = app.activeDocument.colors.item("Black");  
+        var tb_verzeichnisTitel = createTextbox('tb_verzeichnisTitel', id, '\nLike Verzeichnis', itemsToGroup, 14);      
+        tb_verzeichnisTitel.paragraphs[0].appliedParagraphStyle = styleBubbles;
         tb_verzeichnisTitel.strokeWeight = 0.75; 
         tb_verzeichnisTitel.paragraphs[0].leading = headerHeight * 3;
+
+
+      if(left) {
+        // currentLeftPage = lowestTotal.page;
+        currentPage = currentLeftPage;
+        lowestTotal.pageStart = currentLeftPage;
+        tb_verzeichnisTitel.move(doc.pages[lowestTotal.page]);
+        positionElement( left, tb_verzeichnisTitel, 0, lowestTotal.position + 8.5, 0, 0);
+        lowestTotal.top = getElement(tb_verzeichnisTitel).y;
+        lowestTotal.topVerzeichnis = getElement(tb_verzeichnisTitel).y;
+      } else {
+        tb_verzeichnisTitel.move(doc.pages[lowestTotal.pageStart + 1]);
+        currentRightPage = lowestTotal.pageStart + 1;
+        currentPage = currentRightPage;
+        positionElement( left, tb_verzeichnisTitel, 0, lowestTotal.topVerzeichnis + 8.5, 0, 0);
+
+      }
+
         positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes[tb_likeVorschlageLikes.length - 1]).y2 + 10, 0, 0);
         setDimensions(left, tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
 
         checkHeight(left, tb_verzeichnisTitel);
 
+        var verzeichnisPosY = getElement(tb_verzeichnisTitel).y2; 
+
         for(var i = 0; i < verzeichnisNamen.length; i++) {
 
-          tb_likeVerzeichnis[i] = createTextbox('tb_likeVerzeichnis', id, verzeichnisNamen[i], itemsToGroup, 6.5);
-          tb_likeVerzeichnisLikes[i] = createTextbox('tb_likeVerzeichnis', id, verzeichnisGefalltMir[i], itemsToGroup, 6.5);
 
-          positionElement( left, tb_likeVerzeichnis[i], 0, getElement(tb_verzeichnisTitel).y2 + i * 1, 0, 0);
-          setDimensions(left, tb_likeVerzeichnis[i], pageWidth - 10, headerHeight, 0, 0);
-          positionElement( left, tb_likeVerzeichnisLikes[i], pageWidth - 10, getElement(tb_verzeichnisTitel).y2 + i * 1, 0, 0);
-          setDimensions(left, tb_likeVerzeichnisLikes[i], 10, headerHeight, 0, 0);
+
+          tb_likeVerzeichnis[i] = createTextbox('tb_likeVerzeichnis', id, verzeichnisNamen[i], itemsToGroup, 6.5);
+          tb_likeVerzeichnis[i].paragraphs[0].appliedParagraphStyle = styleLikeVerzeichnis;
+          tb_likeVerzeichnisLikes[i] = createTextbox('tb_likeVerzeichnis', id, verzeichnisGefalltMir[i], itemsToGroup, 6.5);
+          tb_likeVerzeichnisLikes[i].paragraphs[0].appliedParagraphStyle = styleLikeVerzeichnis;
+          tb_likeVerzeichnisLikes[i].paragraphs[0].justification = Justification.RIGHT_ALIGN;
+          
+          if(tb_likeVerzeichnis[i - 1] != null) {
+            verzeichnisPosY = getElement(tb_likeVerzeichnis[i - 1]).y2;
+          }
+
+          positionElement( left, tb_likeVerzeichnis[i], 0, verzeichnisPosY + 3, 0, 0);
+          setDimensions(left, tb_likeVerzeichnis[i], colGutter * 12 - gutter, null, 0, 0);
+          positionElement( left, tb_likeVerzeichnisLikes[i],  colGutter * 12, verzeichnisPosY + 3, 0, 0);
+          setDimensions(left, tb_likeVerzeichnisLikes[i],  colGutter * 3 - gutter, null, 0, 0);
+
+          addLine(left, 0, getElement(tb_likeVerzeichnisLikes[i]).y2 + 1.5 , pageWidth, itemsToGroup);
 
           if(left) {
             lowestLeft = getElement(tb_likeVerzeichnis[i]).y2;
           } else {
             lowestRight = getElement(tb_likeVerzeichnis[i]).y2;
           }
-          
-          checkHeight(left, tb_likeVerzeichnisLikes[i]);
-
           if (i == verzeichnisNamen.length - 1) {
             createHeader(tb_likeVerzeichnisLikes[i], leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
           }
+          
+          checkHeight(left, tb_likeVerzeichnisLikes[i]);
+
+        }
+
+
+        if((currentRightPage >= currentLeftPage + 1 && lowestLeft <= lowestRight)) {
+          lowestTotal.page = currentRightPage - 1;
+          lowestTotal.position = lowestRight;
+          currentLeftPage = currentRightPage - 1;
+        } else {
+          lowestTotal.page = currentLeftPage;
+          lowestTotal.position = lowestLeft;
+          currentRightPage = currentLeftPage + 1;
         }
 
         // var tb_likeVorschlageLikes = createTextbox('tb_likeVorschlageLikes', id, data[profile][index].VorschlägeGefalltMir_, itemsToGroup, 6.5);
@@ -14594,7 +14664,7 @@ function addPost(profile, index, left) {
         // }
     // }
 
-    if (data[profile][index].VorschlageNamen_ == "") {
+    // if (data[profile][index].VorschlageNamen_ == "") {
 
       if(left) {
         // currentLeftPage = lowestTotal.page;
@@ -14615,7 +14685,7 @@ function addPost(profile, index, left) {
 
       // alert(currentLeftPage + ', ' + currentRightPage);
 
-    }
+    // }
 
     // positionElement( left, tb_profil, 0, lowestTotal.position, 0, 0);
 
@@ -15467,19 +15537,19 @@ function createHeader(positioningElement, persona, date, groupArray, left) {
     var header_phase = createTextbox('header_phase', 'header', 'Phase ' + phase, groupArray, 8);
     header_phase.paragraphs[0].leading = 9;
     positionElement( left, header_phase, 0, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_phase, pageWidth/3 - 3, headerHeight, 0, 0);
+    setDimensions(left, header_phase, pageWidth/3 - 3, getElement(header_phase).height + 8.5, 0, 0);
 
     var header_persona = createTextbox('header_persona', 'header', 'PERSONA ' + persona, groupArray, 8);
     header_persona.paragraphs[0].justification = Justification.CENTER_ALIGN;
     header_persona.paragraphs[0].leading = 9;
-    positionElement( left, header_persona, pageWidth / 3 + 3, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_persona, pageWidth/3 - 3, headerHeight, 0, 0);
+    positionElement( left, header_persona, pageWidth / 3, getElement(positioningElement).y2 + 10, 0, 0);
+    setDimensions(left, header_persona, pageWidth/3 - 3, getElement(header_persona).height + 8.5, 0, 0);
 
     var header_datum = createTextbox('header_datum', 'header', date, groupArray, 8);
     header_datum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
     header_datum.paragraphs[0].leading = 9;
-    positionElement( left, header_datum, pageWidth/3 * 2 + 6, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_datum, pageWidth/3 - 3, headerHeight, 0, 0);
+    positionElement( left, header_datum, pageWidth/3 * 2, getElement(positioningElement).y2 + 10, 0, 0);
+    setDimensions(left, header_datum, pageWidth/3 - 3, getElement(header_datum).height + 8.5, 0, 0);
 
     checkHeight(left, header_phase);
 }
