@@ -13810,8 +13810,8 @@ var data =
 
 // var numberOfPosts = data[0].length;
 var phasenName = "Phase 01"
-var start = 0;
-var numberOfPosts = start + 1; // will be 10
+var start = 10;
+var numberOfPosts = start + 3; // will be 10
 var fullDataLength = data[0].length;
 
 
@@ -13875,6 +13875,9 @@ var styleArtikelBody = doc.paragraphStyles.item ('Artikel Body');
 var styleArtikelUntertitel = doc.paragraphStyles.item ('Artikel Untertitel');
 var styleLikeVorschlage = doc.paragraphStyles.item ('Like-Vorschläge');
 var styleLikeVerzeichnis = doc.paragraphStyles.item ('Like-Verzeichnis');
+var styleKopfzeileLinks = doc.paragraphStyles.item ('01_Kopf/Fuss Zeile Links');
+var styleKopfzeileZentriert = doc.paragraphStyles.item ('01_Kopf/Fuss Zeile Zentriert');
+var styleKopfzeileRechts = doc.paragraphStyles.item ('01_Kopf/Fuss Zeile Rechts');
 
 var parStyle1 = doc.paragraphStyles.item ('Bubbles');
 var parStyle2 = doc.paragraphStyles.item ('Bubbles');
@@ -14472,9 +14475,9 @@ function addPost(profile, index, left) {
 
           if (i % 3 == 2) {
             positionElement( left, tb_likeVorschlage[i], colGutter * 10, vorschlagePosY + 2, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, headerHeight, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, null, 0, 0);
             positionElement( left, tb_likeVorschlageLikes[i], pageWidth - column, vorschlagePosY + 2, 0, 0);
-            setDimensions(left, tb_likeVorschlageLikes[i], column, headerHeight, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], column, null, 0, 0);
 
             if(tb_likeVorschlage[i - 1] != null) {
               vorschlagePosY = getElement(tb_likeVorschlage[i - 1]).y2;
@@ -14483,15 +14486,15 @@ function addPost(profile, index, left) {
 
           } else if (i % 3 == 1) {
             positionElement( left, tb_likeVorschlage[i], colGutter * 5, vorschlagePosY + 2, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, headerHeight, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, null, 0, 0);
             positionElement( left, tb_likeVorschlageLikes[i], colGutter * 9, vorschlagePosY + 2, 0, 0);
-            setDimensions(left, tb_likeVorschlageLikes[i], column, headerHeight, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], column, null, 0, 0);
             addLine(left, colGutter * 5, getElement(tb_likeVorschlageLikes[i]).y2 + 1 , pageWidth / 3, itemsToGroup);
           } else {
             positionElement( left, tb_likeVorschlage[i], 0, vorschlagePosY + 2, 0, 0);
-            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, headerHeight, 0, 0);
+            setDimensions(left, tb_likeVorschlage[i], colGutter * 4 - gutter, null, 0, 0);
             positionElement( left, tb_likeVorschlageLikes[i], colGutter * 4, vorschlagePosY + 2, 0, 0);
-            setDimensions(left, tb_likeVorschlageLikes[i], column, headerHeight, 0, 0);
+            setDimensions(left, tb_likeVorschlageLikes[i], column, null, 0, 0);
             addLine(left, 0, getElement(tb_likeVorschlageLikes[i]).y2 + 1 , pageWidth / 3, itemsToGroup);
           }
 
@@ -14507,6 +14510,16 @@ function addPost(profile, index, left) {
 
           
           checkHeight(left, tb_likeVorschlageLikes[i]);
+
+          if((currentRightPage >= currentLeftPage + 1 && lowestLeft <= lowestRight)) {
+            lowestTotal.page = currentRightPage - 1;
+            lowestTotal.position = lowestRight;
+            currentLeftPage = currentRightPage - 1;
+          } else {
+            lowestTotal.page = currentLeftPage;
+            lowestTotal.position = lowestLeft;
+            currentRightPage = currentLeftPage + 1;
+          }
 
           // if (i == vorschlageNamen.length - 1) {
           //   createHeader(tb_likeVorschlageLikes[i], leftPage ? '1' : '2', data[profile][index].Datum_, itemsToGroup, left);
@@ -14532,11 +14545,11 @@ function addPost(profile, index, left) {
         tb_verzeichnisTitel.move(doc.pages[lowestTotal.pageStart + 1]);
         currentRightPage = lowestTotal.pageStart + 1;
         currentPage = currentRightPage;
-        positionElement( left, tb_verzeichnisTitel, 0, lowestTotal.topVerzeichnis + 8.5, 0, 0);
+        positionElement( left, tb_verzeichnisTitel, 0, lowestTotal.topVerzeichnis, 0, 0);
 
       }
 
-        positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes[tb_likeVorschlageLikes.length - 1]).y2 + 10, 0, 0);
+        // positionElement( left, tb_verzeichnisTitel, 0, getElement(tb_likeVorschlageLikes[tb_likeVorschlageLikes.length - 1]).y2 + 10, 0, 0);
         setDimensions(left, tb_verzeichnisTitel, pageWidth, headerHeight, 0, 0);
 
         checkHeight(left, tb_verzeichnisTitel);
@@ -14574,19 +14587,20 @@ function addPost(profile, index, left) {
           }
           
           checkHeight(left, tb_likeVerzeichnisLikes[i]);
+          if((currentRightPage >= currentLeftPage + 1 && lowestLeft <= lowestRight)) {
+            lowestTotal.page = currentRightPage - 1;
+            lowestTotal.position = lowestRight;
+            currentLeftPage = currentRightPage - 1;
+          } else {
+            lowestTotal.page = currentLeftPage;
+            lowestTotal.position = lowestLeft;
+            currentRightPage = currentLeftPage + 1;
+          }
 
         }
 
 
-        if((currentRightPage >= currentLeftPage + 1 && lowestLeft <= lowestRight)) {
-          lowestTotal.page = currentRightPage - 1;
-          lowestTotal.position = lowestRight;
-          currentLeftPage = currentRightPage - 1;
-        } else {
-          lowestTotal.page = currentLeftPage;
-          lowestTotal.position = lowestLeft;
-          currentRightPage = currentLeftPage + 1;
-        }
+        
 
         // var tb_likeVorschlageLikes = createTextbox('tb_likeVorschlageLikes', id, data[profile][index].VorschlägeGefalltMir_, itemsToGroup, 6.5);
         // tb_likeVorschlageLikes.paragraphs[0].justification = Justification.RIGHT_ALIGN;
@@ -15182,7 +15196,7 @@ function addPost(profile, index, left) {
 
         checkHeight(left, tb_abbildungenTitel);
 
-        createImageGrid(left);
+        // createImageGrid(left);
 
         // ===========
         // Bildlegenden
@@ -15203,7 +15217,7 @@ function addPost(profile, index, left) {
 
         checkHeight(left, tb_bildlegendenTitel);
 
-        createCaptionGrid(left);
+        // createCaptionGrid(left);
 
         phase ++;
     }
@@ -15535,21 +15549,19 @@ function checkHeight(left, item) {
 function createHeader(positioningElement, persona, date, groupArray, left) {
 
     var header_phase = createTextbox('header_phase', 'header', 'Phase ' + phase, groupArray, 8);
-    header_phase.paragraphs[0].leading = 9;
+    header_phase.paragraphs[0].appliedParagraphStyle = styleKopfzeileLinks;
     positionElement( left, header_phase, 0, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_phase, pageWidth/3 - 3, getElement(header_phase).height + 8.5, 0, 0);
+    setDimensions(left, header_phase, pageWidth/3, getElement(header_phase).height + 8.5, 0, 0);
 
     var header_persona = createTextbox('header_persona', 'header', 'PERSONA ' + persona, groupArray, 8);
-    header_persona.paragraphs[0].justification = Justification.CENTER_ALIGN;
-    header_persona.paragraphs[0].leading = 9;
+    header_persona.paragraphs[0].appliedParagraphStyle = styleKopfzeileZentriert;
     positionElement( left, header_persona, pageWidth / 3, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_persona, pageWidth/3 - 3, getElement(header_persona).height + 8.5, 0, 0);
+    setDimensions(left, header_persona, pageWidth/3, getElement(header_persona).height + 8.5, 0, 0);
 
     var header_datum = createTextbox('header_datum', 'header', date, groupArray, 8);
-    header_datum.paragraphs[0].justification = Justification.RIGHT_ALIGN;
-    header_datum.paragraphs[0].leading = 9;
+    header_datum.paragraphs[0].appliedParagraphStyle = styleKopfzeileLinks;
     positionElement( left, header_datum, pageWidth/3 * 2, getElement(positioningElement).y2 + 10, 0, 0);
-    setDimensions(left, header_datum, pageWidth/3 - 3, getElement(header_datum).height + 8.5, 0, 0);
+    setDimensions(left, header_datum, pageWidth/3, getElement(header_datum).height + 8.5, 0, 0);
 
     checkHeight(left, header_phase);
 }
