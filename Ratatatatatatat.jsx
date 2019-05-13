@@ -1,5 +1,4 @@
-﻿var start = 0; // Start 
-var anzahl = 1 // bis maximum 249
+﻿// var imagePath = '../../../../../../Users/gabrielbach/Desktop/Salemoche/Freelance/Possa/InDesign_Scripting/Test/Test_Daten/Probesatz/Bilder/180319/'
 
 var data = 
 [
@@ -13811,13 +13810,14 @@ var data =
 
 
 
-
+var start = 50; // Start 
+var ende = 99 // bis maximum 249
 
 
 
 // var numberOfPosts = data[0].length;
 var phasenName = "Phase 01"
-var numberOfPosts = start + anzahl; 
+var numberOfPosts = start + ende; 
 var fullDataLength = data[0].length;
 
 
